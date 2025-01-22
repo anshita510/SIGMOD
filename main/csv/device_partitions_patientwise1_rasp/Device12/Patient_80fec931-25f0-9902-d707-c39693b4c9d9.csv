@@ -1,0 +1,7 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2024-07-22,,80fec931-25f0-9902-d707-c39693b4c9d9,e540ebd1-7f7a-b15b-a2ec-e86ebd394910,http://snomed.info/sct,271737000,Anemia (disorder),,,,,
+,,80fec931-25f0-9902-d707-c39693b4c9d9,79d2287d-aad1-f117-eb5b-d47232f46903,,718-7,Hemoglobin [Mass/volume] in Blood,2019-05-13T00:46:14Z,laboratory,14.7,g/dL,numeric
+,,80fec931-25f0-9902-d707-c39693b4c9d9,82f45be3-6564-095c-bb6b-e80183e4d19e,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2024-04-08T02:00:12Z,laboratory,Urine blood test = + (finding),{nominal},text
+,,80fec931-25f0-9902-d707-c39693b4c9d9,5ac7400d-1057-6b8c-d9a0-0e4633bfc122,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2024-04-09T14:27:04Z,laboratory,Urine blood test = + (finding),{nominal},text
+,,80fec931-25f0-9902-d707-c39693b4c9d9,a7e64858-e4d3-0b07-b0d4-e06702fcb3f5,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2024-04-10T17:01:13Z,laboratory,Urine blood test = + (finding),{nominal},text
+,,80fec931-25f0-9902-d707-c39693b4c9d9,75dbe5e2-7808-e5f2-86ec-e1174564d924,,718-7,Hemoglobin [Mass/volume] in Blood,2024-07-22T00:46:14Z,laboratory,8.4,g/dL,numeric

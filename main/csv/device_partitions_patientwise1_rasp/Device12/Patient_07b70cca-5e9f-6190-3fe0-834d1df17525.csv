@@ -1,0 +1,32 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2017-08-25,,07b70cca-5e9f-6190-3fe0-834d1df17525,7d34c555-5095-fb39-d927-6a4740e2c2e0,http://snomed.info/sct,271737000,Anemia (disorder),,,,,
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,1ab5b475-1c62-eda9-22ad-afe5c3065bdc,,718-7,Hemoglobin [Mass/volume] in Blood,2011-08-05T18:28:35Z,laboratory,16.0,g/dL,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,64a376ff-a248-fdd4-96d6-a35c6ad1e6ba,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2016-09-21T19:53:06Z,laboratory,Urine blood test = + (finding),{nominal},text
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,200cffa7-2460-ef31-e3c3-99e854405073,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2016-09-22T11:20:47Z,laboratory,Urine blood test = + (finding),{nominal},text
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,7d34c555-5095-fb39-d927-6a4740e2c2e0,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2017-08-25T18:28:35Z,laboratory,6.0,%,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,7d34c555-5095-fb39-d927-6a4740e2c2e0,,718-7,Hemoglobin [Mass/volume] in Blood,2017-08-25T18:28:35Z,laboratory,17.4,g/dL,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,5862464d-9123-d796-1c6a-e6ed4e333e09,,718-7,Hemoglobin [Mass/volume] in Blood,2017-09-01T18:28:35Z,laboratory,11.2,g/dL,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,354aa0ed-a555-907e-577d-a5594e9be88d,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2018-08-31T18:28:35Z,laboratory,5.9,%,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,6661e0a6-f0e7-bf22-abb3-b2b167349707,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2019-09-06T18:28:35Z,laboratory,5.9,%,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,a3c0c057-80fd-df93-5bbf-ad92cd3f4bbf,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2020-09-11T18:28:35Z,laboratory,6.4,%,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,15d0c0fc-31c5-3563-4d84-daa97daeb809,,718-7,Hemoglobin [Mass/volume] in Blood,2021-03-18T20:20:15Z,laboratory,13.7,g/dL,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,15d0c0fc-31c5-3563-4d84-daa97daeb809,,718-7,Hemoglobin [Mass/volume] in Blood,2021-03-19T20:20:15Z,laboratory,13.7,g/dL,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,15d0c0fc-31c5-3563-4d84-daa97daeb809,,718-7,Hemoglobin [Mass/volume] in Blood,2021-03-20T20:20:15Z,laboratory,12.2,g/dL,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,15d0c0fc-31c5-3563-4d84-daa97daeb809,,718-7,Hemoglobin [Mass/volume] in Blood,2021-03-21T20:20:15Z,laboratory,13.5,g/dL,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,15d0c0fc-31c5-3563-4d84-daa97daeb809,,718-7,Hemoglobin [Mass/volume] in Blood,2021-03-22T20:20:15Z,laboratory,12.6,g/dL,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,15d0c0fc-31c5-3563-4d84-daa97daeb809,,718-7,Hemoglobin [Mass/volume] in Blood,2021-03-23T20:20:15Z,laboratory,13.5,g/dL,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,15d0c0fc-31c5-3563-4d84-daa97daeb809,,718-7,Hemoglobin [Mass/volume] in Blood,2021-03-24T20:20:15Z,laboratory,11.9,g/dL,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,15d0c0fc-31c5-3563-4d84-daa97daeb809,,718-7,Hemoglobin [Mass/volume] in Blood,2021-03-25T20:20:15Z,laboratory,11.8,g/dL,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,15d0c0fc-31c5-3563-4d84-daa97daeb809,,718-7,Hemoglobin [Mass/volume] in Blood,2021-03-26T20:20:15Z,laboratory,13.2,g/dL,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,15d0c0fc-31c5-3563-4d84-daa97daeb809,,718-7,Hemoglobin [Mass/volume] in Blood,2021-03-27T20:20:15Z,laboratory,13.6,g/dL,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,15d0c0fc-31c5-3563-4d84-daa97daeb809,,718-7,Hemoglobin [Mass/volume] in Blood,2021-03-28T20:20:15Z,laboratory,14.0,g/dL,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,2d72a5a3-c1d0-5cfa-1066-048546ded9f1,,718-7,Hemoglobin [Mass/volume] in Blood,2021-03-28T21:01:31Z,laboratory,11.2,g/dL,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,2d72a5a3-c1d0-5cfa-1066-048546ded9f1,,718-7,Hemoglobin [Mass/volume] in Blood,2021-03-29T21:01:31Z,laboratory,13.8,g/dL,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,2d72a5a3-c1d0-5cfa-1066-048546ded9f1,,718-7,Hemoglobin [Mass/volume] in Blood,2021-03-30T21:01:31Z,laboratory,13.4,g/dL,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,2d72a5a3-c1d0-5cfa-1066-048546ded9f1,,718-7,Hemoglobin [Mass/volume] in Blood,2021-03-31T21:01:31Z,laboratory,12.9,g/dL,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,2d72a5a3-c1d0-5cfa-1066-048546ded9f1,,718-7,Hemoglobin [Mass/volume] in Blood,2021-04-01T21:01:31Z,laboratory,12.1,g/dL,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,2d72a5a3-c1d0-5cfa-1066-048546ded9f1,,718-7,Hemoglobin [Mass/volume] in Blood,2021-04-02T21:01:31Z,laboratory,13.5,g/dL,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,2d72a5a3-c1d0-5cfa-1066-048546ded9f1,,718-7,Hemoglobin [Mass/volume] in Blood,2021-04-03T21:01:31Z,laboratory,13.0,g/dL,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,2d72a5a3-c1d0-5cfa-1066-048546ded9f1,,718-7,Hemoglobin [Mass/volume] in Blood,2021-04-04T21:01:31Z,laboratory,12.5,g/dL,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,2d72a5a3-c1d0-5cfa-1066-048546ded9f1,,718-7,Hemoglobin [Mass/volume] in Blood,2021-04-05T21:01:31Z,laboratory,12.1,g/dL,numeric
+,,07b70cca-5e9f-6190-3fe0-834d1df17525,2d72a5a3-c1d0-5cfa-1066-048546ded9f1,,718-7,Hemoglobin [Mass/volume] in Blood,2021-04-06T21:01:31Z,laboratory,13.3,g/dL,numeric

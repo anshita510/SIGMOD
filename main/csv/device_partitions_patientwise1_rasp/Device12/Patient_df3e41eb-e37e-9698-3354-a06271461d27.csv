@@ -1,0 +1,6 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2017-10-23,2018-06-05,df3e41eb-e37e-9698-3354-a06271461d27,be2e23cb-3b79-b274-bcd5-8f3f3b775700,http://snomed.info/sct,271737000,Anemia (disorder),,,,,
+,,df3e41eb-e37e-9698-3354-a06271461d27,433f4ecd-33ff-ef3e-9b00-255680c5aa5f,,718-7,Hemoglobin [Mass/volume] in Blood,2015-04-19T19:41:01Z,laboratory,15.9,g/dL,numeric
+,,df3e41eb-e37e-9698-3354-a06271461d27,1ba2bbce-84a5-b245-20a8-b1ae0a1f50fe,,718-7,Hemoglobin [Mass/volume] in Blood,2017-10-22T19:41:01Z,laboratory,10.9,g/dL,numeric
+,,df3e41eb-e37e-9698-3354-a06271461d27,be47abc3-431f-46a8-1545-e29f38123db5,,718-7,Hemoglobin [Mass/volume] in Blood,2017-10-23T22:50:07Z,laboratory,11.6,g/dL,numeric
+,,df3e41eb-e37e-9698-3354-a06271461d27,359fe06f-19c1-4114-701a-4e2219793e74,,718-7,Hemoglobin [Mass/volume] in Blood,2021-04-25T19:41:01Z,laboratory,12.2,g/dL,numeric

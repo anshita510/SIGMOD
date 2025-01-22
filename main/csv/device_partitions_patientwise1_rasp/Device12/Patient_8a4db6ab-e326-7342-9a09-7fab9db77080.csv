@@ -1,0 +1,6 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2022-02-10,,8a4db6ab-e326-7342-9a09-7fab9db77080,f0de40cf-d9ea-112d-a02d-db26f604ce53,http://snomed.info/sct,271737000,Anemia (disorder),,,,,
+,,8a4db6ab-e326-7342-9a09-7fab9db77080,8cb4cf85-1239-6576-c4b3-a13aceb477b2,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2015-06-12T20:10:23Z,laboratory,Urine blood test = + (finding),{nominal},text
+,,8a4db6ab-e326-7342-9a09-7fab9db77080,20bea7e4-2ed7-3a9d-da41-e4bfbf635472,,718-7,Hemoglobin [Mass/volume] in Blood,2019-02-07T18:18:23Z,laboratory,14.9,g/dL,numeric
+,,8a4db6ab-e326-7342-9a09-7fab9db77080,f0de40cf-d9ea-112d-a02d-db26f604ce53,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2022-02-10T18:18:23Z,laboratory,6.2,%,numeric
+,,8a4db6ab-e326-7342-9a09-7fab9db77080,706b37f4-5aae-632b-c628-8a77ad67a4f8,,718-7,Hemoglobin [Mass/volume] in Blood,2022-02-17T18:18:23Z,laboratory,11.4,g/dL,numeric

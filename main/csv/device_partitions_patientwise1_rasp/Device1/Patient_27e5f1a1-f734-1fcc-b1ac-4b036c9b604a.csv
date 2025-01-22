@@ -1,0 +1,6 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2023-07-04,,27e5f1a1-f734-1fcc-b1ac-4b036c9b604a,afbe33cd-39f8-f679-79fc-0afa48148692,http://snomed.info/sct,431855005,Chronic kidney disease stage 1 (disorder),,,,,
+,,27e5f1a1-f734-1fcc-b1ac-4b036c9b604a,afbe33cd-39f8-f679-79fc-0afa48148692,,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2023-07-03T19:38:27Z,laboratory,1.6,mg/dL,numeric
+,,27e5f1a1-f734-1fcc-b1ac-4b036c9b604a,afbe33cd-39f8-f679-79fc-0afa48148692,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2023-07-03T19:38:27Z,laboratory,143.7,mL/min/{1.73_m2},numeric
+,,27e5f1a1-f734-1fcc-b1ac-4b036c9b604a,ddb8951f-4242-7d07-c646-4a9de8d7d260,,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2024-07-08T19:38:27Z,laboratory,1.7,mg/dL,numeric
+,,27e5f1a1-f734-1fcc-b1ac-4b036c9b604a,ddb8951f-4242-7d07-c646-4a9de8d7d260,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2024-07-08T19:38:27Z,laboratory,132.5,mL/min/{1.73_m2},numeric

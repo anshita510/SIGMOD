@@ -1,0 +1,16 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2004-10-13,,dc20eb21-fedc-880d-ec59-4df6402e1407,f26af723-029b-0d0a-0bbe-424796cd8c24,http://snomed.info/sct,271737000,Anemia (disorder),,,,,
+,,dc20eb21-fedc-880d-ec59-4df6402e1407,3843a517-e62f-8976-a9c7-f46045825c0a,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2011-11-23T04:43:06Z,laboratory,6.1,%,numeric
+,,dc20eb21-fedc-880d-ec59-4df6402e1407,bd6cee52-edd0-1d8e-f2e8-e14030799a98,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2012-11-28T04:43:06Z,laboratory,6.4,%,numeric
+,,dc20eb21-fedc-880d-ec59-4df6402e1407,a9bcfe40-8154-35be-ba0b-b4e2668c02c2,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2013-12-04T04:43:06Z,laboratory,6.2,%,numeric
+,,dc20eb21-fedc-880d-ec59-4df6402e1407,8f08492b-1bc0-9b6c-da4f-486142968dfe,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2014-12-10T04:43:06Z,laboratory,6.4,%,numeric
+,,dc20eb21-fedc-880d-ec59-4df6402e1407,8f08492b-1bc0-9b6c-da4f-486142968dfe,,718-7,Hemoglobin [Mass/volume] in Blood,2014-12-10T04:43:06Z,laboratory,14.9,g/dL,numeric
+,,dc20eb21-fedc-880d-ec59-4df6402e1407,8cae4b1e-103d-53d1-44e3-1184ae270005,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2015-12-16T04:43:06Z,laboratory,6.0,%,numeric
+,,dc20eb21-fedc-880d-ec59-4df6402e1407,f276dfe0-a671-db17-5f06-f386c14ce566,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2016-12-21T04:43:06Z,laboratory,6.1,%,numeric
+,,dc20eb21-fedc-880d-ec59-4df6402e1407,b9f3608c-94bd-0452-824b-8093f3663bc9,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2017-12-27T04:43:06Z,laboratory,5.9,%,numeric
+,,dc20eb21-fedc-880d-ec59-4df6402e1407,790195ad-e6cd-cee7-944c-a34d4a28c346,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2019-01-02T04:43:06Z,laboratory,5.9,%,numeric
+,,dc20eb21-fedc-880d-ec59-4df6402e1407,33c8176e-9912-8161-c8f2-a70269b583dc,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2019-06-09T06:27:13Z,laboratory,Urine blood test = + (finding),{nominal},text
+,,dc20eb21-fedc-880d-ec59-4df6402e1407,04f49b60-6af6-fe41-38dd-1732abd04d4e,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2019-06-09T13:59:41Z,laboratory,Urine blood test = + (finding),{nominal},text
+,,dc20eb21-fedc-880d-ec59-4df6402e1407,107fb883-f06f-4e74-96e7-7a1de28cce54,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2020-01-08T04:43:06Z,laboratory,6.2,%,numeric
+,,dc20eb21-fedc-880d-ec59-4df6402e1407,107fb883-f06f-4e74-96e7-7a1de28cce54,,718-7,Hemoglobin [Mass/volume] in Blood,2020-01-08T04:43:06Z,laboratory,14.9,g/dL,numeric
+,,dc20eb21-fedc-880d-ec59-4df6402e1407,19f52f79-d875-8df5-504e-9709b8da2be6,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2021-01-13T04:43:06Z,laboratory,6.0,%,numeric

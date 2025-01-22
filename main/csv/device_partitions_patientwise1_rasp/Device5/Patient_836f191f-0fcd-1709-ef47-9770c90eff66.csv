@@ -1,0 +1,17 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2012-01-23,,836f191f-0fcd-1709-ef47-9770c90eff66,b745f9cb-9e09-01bc-c514-dd1412a3c5d4,http://snomed.info/sct,162864005,Body mass index 30+ - obesity (finding),,,,,
+,,836f191f-0fcd-1709-ef47-9770c90eff66,d83b0f22-a6fc-597b-8a87-c6c897e9b688,,29463-7,Body Weight,2015-01-26T06:20:37Z,vital-signs,79.2,kg,numeric
+,,836f191f-0fcd-1709-ef47-9770c90eff66,d4a7ede6-894b-9946-a21e-7378d0fc2c1c,,29463-7,Body Weight,2016-02-01T06:20:37Z,vital-signs,81.3,kg,numeric
+,,836f191f-0fcd-1709-ef47-9770c90eff66,5efcf01b-e13b-65f1-b8ea-faa516c7fc90,,29463-7,Body Weight,2017-01-09T06:20:37Z,vital-signs,82.7,kg,numeric
+,,836f191f-0fcd-1709-ef47-9770c90eff66,c5fffdcb-2886-5e6c-85dc-6eb2d4748005,,29463-7,Body Weight,2017-02-06T06:20:37Z,vital-signs,82.1,kg,numeric
+,,836f191f-0fcd-1709-ef47-9770c90eff66,1a1372af-7289-1a36-9251-5da364256811,,29463-7,Body Weight,2018-02-12T06:20:37Z,vital-signs,75.5,kg,numeric
+,,836f191f-0fcd-1709-ef47-9770c90eff66,d90e5dd8-28e4-23c7-9823-67bb79a72dff,,29463-7,Body Weight,2019-02-18T06:20:37Z,vital-signs,77.5,kg,numeric
+,,836f191f-0fcd-1709-ef47-9770c90eff66,0e73294b-e9dc-8ed1-1e9f-e02fc7839664,,29463-7,Body Weight,2020-02-24T06:20:37Z,vital-signs,79.4,kg,numeric
+,,836f191f-0fcd-1709-ef47-9770c90eff66,6bdc60ea-8d4c-16d5-47bd-1ff69daf6e81,,29463-7,Body Weight,2021-03-01T06:20:37Z,vital-signs,81.4,kg,numeric
+,,836f191f-0fcd-1709-ef47-9770c90eff66,ec9d53e3-f50d-ab81-eb2a-6acb662f716a,,29463-7,Body Weight,2022-03-07T06:20:37Z,vital-signs,81.9,kg,numeric
+,,836f191f-0fcd-1709-ef47-9770c90eff66,e725ddf4-1ebd-0ea3-06b4-b4e4795c8160,,29463-7,Body Weight,2023-03-13T06:20:37Z,vital-signs,77.2,kg,numeric
+,,836f191f-0fcd-1709-ef47-9770c90eff66,fed7d207-426e-5802-00b0-7fb2af686afb,,29463-7,Body Weight,2023-03-27T06:20:37Z,vital-signs,77.2,kg,numeric
+,,836f191f-0fcd-1709-ef47-9770c90eff66,6d347aa3-ffa7-e8c2-18fc-a6eac2cfa13f,,29463-7,Body Weight,2023-04-10T06:20:37Z,vital-signs,77.3,kg,numeric
+,,836f191f-0fcd-1709-ef47-9770c90eff66,606636bd-863e-6ded-684e-645dba476b56,,29463-7,Body Weight,2023-04-24T06:20:37Z,vital-signs,77.3,kg,numeric
+,,836f191f-0fcd-1709-ef47-9770c90eff66,3aa24c4c-7740-6863-d719-4c748f6c4efb,,29463-7,Body Weight,2023-05-29T06:20:37Z,vital-signs,77.5,kg,numeric
+,,836f191f-0fcd-1709-ef47-9770c90eff66,8518c734-bd59-34c8-7cc1-a4d197339b37,,29463-7,Body Weight,2024-03-18T06:20:37Z,vital-signs,78.7,kg,numeric

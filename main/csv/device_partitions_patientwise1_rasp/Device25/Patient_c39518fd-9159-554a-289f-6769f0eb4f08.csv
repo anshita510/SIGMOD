@@ -1,0 +1,14 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2020-12-31,2021-01-27,c39518fd-9159-554a-289f-6769f0eb4f08,bb73e943-8473-640e-e8f3-2d0481f8acca,http://snomed.info/sct,56018004,Wheezing (finding),,,,,
+,,c39518fd-9159-554a-289f-6769f0eb4f08,86c0dd4b-53a2-78df-5d89-7c870e97a1ea,,9279-1,Respiratory rate,2015-05-26T01:11:51Z,vital-signs,15.0,/min,numeric
+,,c39518fd-9159-554a-289f-6769f0eb4f08,001d2ea9-d14c-53ad-d528-0d9f7658c5d7,,9279-1,Respiratory rate,2016-05-31T01:11:51Z,vital-signs,13.0,/min,numeric
+,,c39518fd-9159-554a-289f-6769f0eb4f08,aa2f7867-8e89-6338-9b06-aaa2b7ab43a4,,9279-1,Respiratory rate,2017-06-06T01:11:51Z,vital-signs,13.0,/min,numeric
+,,c39518fd-9159-554a-289f-6769f0eb4f08,8d813213-bb16-09a9-6d35-5b03a94960cb,,9279-1,Respiratory rate,2018-06-12T01:11:51Z,vital-signs,13.0,/min,numeric
+,,c39518fd-9159-554a-289f-6769f0eb4f08,5cb204fc-390e-5a2e-d404-4a6279492129,,9279-1,Respiratory rate,2019-06-18T01:11:51Z,vital-signs,15.0,/min,numeric
+,,c39518fd-9159-554a-289f-6769f0eb4f08,2ba74344-0806-728e-5233-ab87dabaabaf,,9279-1,Respiratory rate,2020-05-19T01:11:51Z,vital-signs,13.0,/min,numeric
+,,c39518fd-9159-554a-289f-6769f0eb4f08,543ba3ad-c6c9-f43d-5932-f374ae4c12af,,9279-1,Respiratory rate,2020-06-23T01:11:51Z,vital-signs,16.0,/min,numeric
+,,c39518fd-9159-554a-289f-6769f0eb4f08,bb73e943-8473-640e-e8f3-2d0481f8acca,,9279-1,Respiratory rate,2020-12-31T01:11:51Z,vital-signs,18.5,/min,numeric
+,,c39518fd-9159-554a-289f-6769f0eb4f08,bf55009e-6b55-5ea3-b91b-3bc0f4d7c973,,9279-1,Respiratory rate,2021-06-29T01:11:51Z,vital-signs,13.0,/min,numeric
+,,c39518fd-9159-554a-289f-6769f0eb4f08,598d0b9d-eb40-962f-3e06-ecee8fa4b0de,,9279-1,Respiratory rate,2022-07-05T01:11:51Z,vital-signs,13.0,/min,numeric
+,,c39518fd-9159-554a-289f-6769f0eb4f08,4d139dba-db57-6e88-ee71-476b6fc648a1,,9279-1,Respiratory rate,2023-07-11T01:11:51Z,vital-signs,13.0,/min,numeric
+,,c39518fd-9159-554a-289f-6769f0eb4f08,235d2efb-437e-8a60-39ba-597a86f3e824,,9279-1,Respiratory rate,2024-07-16T01:11:51Z,vital-signs,13.0,/min,numeric

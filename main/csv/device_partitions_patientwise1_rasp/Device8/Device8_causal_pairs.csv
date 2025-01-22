@@ -1,0 +1,1310 @@
+cause,effect,lag_bin,cause_type,effect_type,conditional_probability
+0-8,0-1,0-7,Calcium,Creatinine,0.0076835515082527
+0-8,0-1,7-14,Calcium,Creatinine,0.0025611838360842
+0-8,0-1,14-30,Calcium,Creatinine,0.0056915196357427
+0-8,0-1,30-60,Calcium,Creatinine,0.0071143995446784
+0-8,0-1,60-90,Calcium,Creatinine,0.0005691519635742
+0-8,0-1,90-180,Calcium,Creatinine,0.0017074558907228
+0-8,0-1,730-inf,Calcium,Creatinine,0.0025611838360842
+0-8,0-150,180-365,Calcium,Body Height,0.0002845759817871
+0-8,0-35,0-7,Calcium,Carbon Dioxide,0.0102447353443369
+0-8,0-35,7-14,Calcium,Carbon Dioxide,0.0028457598178713
+0-8,0-35,14-30,Calcium,Carbon Dioxide,0.0088218554354012
+0-8,0-35,30-60,Calcium,Carbon Dioxide,0.0122367672168468
+0-8,0-35,60-90,Calcium,Carbon Dioxide,0.0036994877632327
+0-8,0-35,90-180,Calcium,Carbon Dioxide,0.0019920318725099
+0-8,0-35,730-inf,Calcium,Carbon Dioxide,0.0102447353443369
+0-8,0-50,180-365,Calcium,Body Weight,0.0002845759817871
+0-8,0-60,30-60,Calcium,Diastolic Blood Pressure,0.0002845759817871
+0-8,0-60,60-90,Calcium,Diastolic Blood Pressure,0.0002845759817871
+0-8,0-60,180-365,Calcium,Diastolic Blood Pressure,0.0002845759817871
+0-8,0-60,365-730,Calcium,Diastolic Blood Pressure,0.0014228799089356
+0-8,0-60,730-inf,Calcium,Diastolic Blood Pressure,0.0039840637450199
+0-8,0-70,0-7,Calcium,Glucose,0.0011383039271485
+0-8,0-70,7-14,Calcium,Glucose,0.0002845759817871
+0-8,0-70,14-30,Calcium,Glucose,0.0017074558907228
+0-8,0-70,30-60,Calcium,Glucose,0.002276607854297
+0-8,0-70,60-90,Calcium,Glucose,0.0002845759817871
+0-8,0-70,90-180,Calcium,Glucose,0.0002845759817871
+0-8,0-70,730-inf,Calcium,Glucose,0.0019920318725099
+0-8,0-8,0-7,Calcium,Calcium,0.0054069436539556
+0-8,0-8,7-14,Calcium,Calcium,0.0002845759817871
+0-8,0-8,14-30,Calcium,Calcium,0.0008537279453614
+0-8,0-8,730-inf,Calcium,Calcium,0.0019920318725099
+0-8,0-90,30-60,Calcium,Systolic Blood Pressure,0.0002845759817871
+0-8,0-90,60-90,Calcium,Systolic Blood Pressure,0.0002845759817871
+0-8,0-90,365-730,Calcium,Systolic Blood Pressure,0.0002845759817871
+0-8,0-90,730-inf,Calcium,Systolic Blood Pressure,0.0002845759817871
+0-8,1-1,0-7,Calcium,Creatinine,0.0025611838360842
+0-8,1-1,7-14,Calcium,Creatinine,0.0002845759817871
+0-8,1-1,14-30,Calcium,Creatinine,0.0031303357996585
+0-8,1-1,30-60,Calcium,Creatinine,0.0051223676721684
+0-8,1-1,60-90,Calcium,Creatinine,0.0031303357996585
+0-8,1-1,90-180,Calcium,Creatinine,0.0002845759817871
+0-8,1-1,730-inf,Calcium,Creatinine,0.0059760956175298
+0-8,1-inf,730-inf,Calcium,Creatinine,0.0017074558907228
+0-8,107-inf,0-7,Calcium,Chloride,0.006260671599317
+0-8,107-inf,7-14,Calcium,Chloride,0.0017074558907228
+0-8,107-inf,14-30,Calcium,Chloride,0.0031303357996585
+0-8,107-inf,30-60,Calcium,Chloride,0.006260671599317
+0-8,107-inf,60-90,Calcium,Chloride,0.0017074558907228
+0-8,107-inf,90-180,Calcium,Chloride,0.0019920318725099
+0-8,107-inf,730-inf,Calcium,Chloride,0.0045532157085941
+0-8,120-140,7-14,Calcium,Systolic Blood Pressure,0.0002845759817871
+0-8,120-140,14-30,Calcium,Systolic Blood Pressure,0.0002845759817871
+0-8,120-140,30-60,Calcium,Systolic Blood Pressure,0.0005691519635742
+0-8,120-140,60-90,Calcium,Systolic Blood Pressure,0.0002845759817871
+0-8,120-140,90-180,Calcium,Systolic Blood Pressure,0.0017074558907228
+0-8,120-140,180-365,Calcium,Systolic Blood Pressure,0.0036994877632327
+0-8,120-140,365-730,Calcium,Systolic Blood Pressure,0.0073989755264655
+0-8,120-140,730-inf,Calcium,Systolic Blood Pressure,0.0176437108708025
+0-8,135-145,0-7,Calcium,Sodium,0.0102447353443369
+0-8,135-145,7-14,Calcium,Sodium,0.0028457598178713
+0-8,135-145,14-30,Calcium,Sodium,0.0088218554354012
+0-8,135-145,30-60,Calcium,Sodium,0.0122367672168468
+0-8,135-145,60-90,Calcium,Sodium,0.0036994877632327
+0-8,135-145,90-180,Calcium,Sodium,0.0019920318725099
+0-8,135-145,730-inf,Calcium,Sodium,0.0102447353443369
+0-8,140-inf,14-30,Calcium,Systolic Blood Pressure,0.0002845759817871
+0-8,140-inf,30-60,Calcium,Systolic Blood Pressure,0.0008537279453614
+0-8,140-inf,90-180,Calcium,Systolic Blood Pressure,0.0002845759817871
+0-8,140-inf,180-365,Calcium,Systolic Blood Pressure,0.0005691519635742
+0-8,140-inf,365-730,Calcium,Systolic Blood Pressure,0.0002845759817871
+0-8,140-inf,730-inf,Calcium,Systolic Blood Pressure,0.002276607854297
+0-8,150-170,7-14,Calcium,Body Height,0.0019920318725099
+0-8,150-170,14-30,Calcium,Body Height,0.0005691519635742
+0-8,150-170,30-60,Calcium,Body Height,0.0017074558907228
+0-8,150-170,60-90,Calcium,Body Height,0.002276607854297
+0-8,150-170,90-180,Calcium,Body Height,0.0011383039271485
+0-8,150-170,180-365,Calcium,Body Height,0.006260671599317
+0-8,150-170,365-730,Calcium,Body Height,0.0102447353443369
+0-8,150-170,730-inf,Calcium,Body Height,0.0290267501422879
+0-8,170-190,7-14,Calcium,Body Height,0.0008537279453614
+0-8,170-190,14-30,Calcium,Body Height,0.0002845759817871
+0-8,170-190,30-60,Calcium,Body Height,0.0008537279453614
+0-8,170-190,60-90,Calcium,Body Height,0.0005691519635742
+0-8,170-190,90-180,Calcium,Body Height,0.0028457598178713
+0-8,170-190,180-365,Calcium,Body Height,0.0031303357996585
+0-8,170-190,365-730,Calcium,Body Height,0.0056915196357427
+0-8,170-190,730-inf,Calcium,Body Height,0.0133750711439954
+0-8,3-5,0-7,Calcium,Potassium,0.0096755833807626
+0-8,3-5,7-14,Calcium,Potassium,0.0028457598178713
+0-8,3-5,14-30,Calcium,Potassium,0.0068298235628912
+0-8,3-5,30-60,Calcium,Potassium,0.010529311326124
+0-8,3-5,60-90,Calcium,Potassium,0.0036994877632327
+0-8,3-5,90-180,Calcium,Potassium,0.0019920318725099
+0-8,3-5,730-inf,Calcium,Potassium,0.0088218554354012
+0-8,5-inf,0-7,Calcium,Potassium,0.0005691519635742
+0-8,5-inf,14-30,Calcium,Potassium,0.0019920318725099
+0-8,5-inf,30-60,Calcium,Potassium,0.0017074558907228
+0-8,5-inf,730-inf,Calcium,Potassium,0.0014228799089356
+0-8,50-70,90-180,Calcium,Body Weight,0.0002845759817871
+0-8,50-70,365-730,Calcium,Body Weight,0.0008537279453614
+0-8,50-70,730-inf,Calcium,Body Weight,0.0002845759817871
+0-8,60-80,7-14,Calcium,Diastolic Blood Pressure,0.0011383039271485
+0-8,60-80,14-30,Calcium,Diastolic Blood Pressure,0.0002845759817871
+0-8,60-80,30-60,Calcium,Diastolic Blood Pressure,0.0008537279453614
+0-8,60-80,60-90,Calcium,Diastolic Blood Pressure,0.0008537279453614
+0-8,60-80,90-180,Calcium,Diastolic Blood Pressure,0.0031303357996585
+0-8,60-80,180-365,Calcium,Diastolic Blood Pressure,0.0045532157085941
+0-8,60-80,365-730,Calcium,Diastolic Blood Pressure,0.0071143995446784
+0-8,60-80,730-inf,Calcium,Diastolic Blood Pressure,0.0224815025611838
+0-8,70-90,7-14,Calcium,Body Weight,0.0019920318725099
+0-8,70-90,14-30,Calcium,Body Weight,0.0008537279453614
+0-8,70-90,30-60,Calcium,Body Weight,0.002276607854297
+0-8,70-90,60-90,Calcium,Body Weight,0.0025611838360842
+0-8,70-90,90-180,Calcium,Body Weight,0.0017074558907228
+0-8,70-90,180-365,Calcium,Body Weight,0.0085372794536141
+0-8,70-90,365-730,Calcium,Body Weight,0.0136596471257825
+0-8,70-90,730-inf,Calcium,Body Weight,0.0424018212862834
+0-8,70-99,0-7,Calcium,Glucose,0.0076835515082527
+0-8,70-99,7-14,Calcium,Glucose,0.002276607854297
+0-8,70-99,14-30,Calcium,Glucose,0.0071143995446784
+0-8,70-99,30-60,Calcium,Glucose,0.0099601593625498
+0-8,70-99,60-90,Calcium,Glucose,0.0034149117814456
+0-8,70-99,90-180,Calcium,Glucose,0.0017074558907228
+0-8,70-99,730-inf,Calcium,Glucose,0.0082527034718269
+0-8,8-10,0-7,Calcium,Calcium,0.0048377916903813
+0-8,8-10,7-14,Calcium,Calcium,0.0025611838360842
+0-8,8-10,14-30,Calcium,Calcium,0.0079681274900398
+0-8,8-10,30-60,Calcium,Calcium,0.0122367672168468
+0-8,8-10,60-90,Calcium,Calcium,0.0036994877632327
+0-8,8-10,90-180,Calcium,Calcium,0.0019920318725099
+0-8,8-10,730-inf,Calcium,Calcium,0.0082527034718269
+0-8,80-90,7-14,Calcium,Diastolic Blood Pressure,0.0017074558907228
+0-8,80-90,30-60,Calcium,Diastolic Blood Pressure,0.0002845759817871
+0-8,80-90,60-90,Calcium,Diastolic Blood Pressure,0.0014228799089356
+0-8,80-90,90-180,Calcium,Diastolic Blood Pressure,0.0005691519635742
+0-8,80-90,180-365,Calcium,Diastolic Blood Pressure,0.0036994877632327
+0-8,80-90,365-730,Calcium,Diastolic Blood Pressure,0.0028457598178713
+0-8,80-90,730-inf,Calcium,Diastolic Blood Pressure,0.012521343198634
+0-8,90-120,7-14,Calcium,Systolic Blood Pressure,0.0025611838360842
+0-8,90-120,14-30,Calcium,Systolic Blood Pressure,0.0002845759817871
+0-8,90-120,30-60,Calcium,Systolic Blood Pressure,0.0008537279453614
+0-8,90-120,60-90,Calcium,Systolic Blood Pressure,0.002276607854297
+0-8,90-120,90-180,Calcium,Systolic Blood Pressure,0.0019920318725099
+0-8,90-120,180-365,Calcium,Systolic Blood Pressure,0.0054069436539556
+0-8,90-120,365-730,Calcium,Systolic Blood Pressure,0.0082527034718269
+0-8,90-120,730-inf,Calcium,Systolic Blood Pressure,0.0276038702333523
+0-8,90-inf,7-14,Calcium,Body Weight,0.0008537279453614
+0-8,90-inf,14-30,Calcium,Diastolic Blood Pressure,0.0005691519635742
+0-8,90-inf,30-60,Calcium,Body Weight,0.0002845759817871
+0-8,90-inf,30-60,Calcium,Diastolic Blood Pressure,0.0011383039271485
+0-8,90-inf,60-90,Calcium,Body Weight,0.0002845759817871
+0-8,90-inf,60-90,Calcium,Diastolic Blood Pressure,0.0002845759817871
+0-8,90-inf,90-180,Calcium,Body Weight,0.0019920318725099
+0-8,90-inf,90-180,Calcium,Diastolic Blood Pressure,0.0002845759817871
+0-8,90-inf,180-365,Calcium,Body Weight,0.0008537279453614
+0-8,90-inf,180-365,Calcium,Diastolic Blood Pressure,0.0011383039271485
+0-8,90-inf,365-730,Calcium,Body Weight,0.0019920318725099
+0-8,90-inf,365-730,Calcium,Diastolic Blood Pressure,0.0048377916903813
+0-8,90-inf,730-inf,Calcium,Body Weight,0.006260671599317
+0-8,90-inf,730-inf,Calcium,Diastolic Blood Pressure,0.0088218554354012
+0-8,98-107,0-7,Calcium,Chloride,0.0039840637450199
+0-8,98-107,7-14,Calcium,Chloride,0.0011383039271485
+0-8,98-107,14-30,Calcium,Chloride,0.0056915196357427
+0-8,98-107,30-60,Calcium,Chloride,0.0059760956175298
+0-8,98-107,60-90,Calcium,Chloride,0.0019920318725099
+0-8,98-107,730-inf,Calcium,Chloride,0.0056915196357427
+0-8,99-125,0-7,Calcium,Glucose,0.0014228799089356
+0-8,99-125,7-14,Calcium,Glucose,0.0002845759817871
+0-8,Abnormal findings diagnostic imaging heart+coronary circulat (finding),180-365,Calcium,condition,0.0005691519635742
+0-8,Abnormal findings diagnostic imaging heart+coronary circulat (finding),730-inf,Calcium,condition,0.0002845759817871
+0-8,Acute ST segment elevation myocardial infarction (disorder),180-365,Calcium,condition,0.0002845759817871
+0-8,Acute bronchitis (disorder),180-365,Calcium,condition,0.0005691519635742
+0-8,Acute bronchitis (disorder),365-730,Calcium,condition,0.0005691519635742
+0-8,Acute bronchitis (disorder),730-inf,Calcium,condition,0.0005691519635742
+0-8,Acute infective cystitis (disorder),730-inf,Calcium,condition,0.0002845759817871
+0-8,Acute pulmonary embolism (disorder),730-inf,Calcium,condition,0.0002845759817871
+0-8,Acute respiratory distress syndrome (disorder),730-inf,Calcium,condition,0.0002845759817871
+0-8,Acute respiratory failure (disorder),730-inf,Calcium,condition,0.0002845759817871
+0-8,Acute viral pharyngitis (disorder),0-7,Calcium,condition,0.0002845759817871
+0-8,Acute viral pharyngitis (disorder),730-inf,Calcium,condition,0.0008537279453614
+0-8,Alveolitis of jaw (disorder),30-60,Calcium,condition,0.0002845759817871
+0-8,Awaiting transplantation of kidney (situation),0-7,Calcium,condition,0.0002845759817871
+0-8,Bleeding from anus,365-730,Calcium,condition,0.0002845759817871
+0-8,Burn injury (morphologic abnormality),180-365,Calcium,condition,0.0002845759817871
+0-8,COVID-19,365-730,Calcium,condition,0.0002845759817871
+0-8,COVID-19,730-inf,Calcium,condition,0.0005691519635742
+0-8,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,365-730,Calcium,immunization,0.0005691519635742
+0-8,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,730-inf,Calcium,immunization,0.0028457598178713
+0-8,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,90-180,Calcium,immunization,0.0005691519635742
+0-8,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,365-730,Calcium,immunization,0.0005691519635742
+0-8,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,730-inf,Calcium,immunization,0.0005691519635742
+0-8,Chronic congestive heart failure (disorder),365-730,Calcium,condition,0.0002845759817871
+0-8,Chronic congestive heart failure (disorder),730-inf,Calcium,condition,0.0002845759817871
+0-8,Chronic kidney disease stage 1 (disorder),180-365,Calcium,condition,0.0011383039271485
+0-8,Chronic kidney disease stage 1 (disorder),730-inf,Calcium,condition,0.0019920318725099
+0-8,Chronic kidney disease stage 2 (disorder),730-inf,Calcium,condition,0.0002845759817871
+0-8,Chronic kidney disease stage 4 (disorder),14-30,Calcium,condition,0.0002845759817871
+0-8,Chronic kidney disease stage 4 (disorder),180-365,Calcium,condition,0.0005691519635742
+0-8,Chronic pain (finding),90-180,Calcium,condition,0.0002845759817871
+0-8,Complete miscarriage (disorder),90-180,Calcium,condition,0.0002845759817871
+0-8,Complete miscarriage (disorder),180-365,Calcium,condition,0.0002845759817871
+0-8,Concussion injury of brain (disorder),30-60,Calcium,condition,0.0002845759817871
+0-8,Concussion injury of brain (disorder),60-90,Calcium,condition,0.0008537279453614
+0-8,Concussion injury of brain (disorder),730-inf,Calcium,condition,0.0002845759817871
+0-8,Concussion with no loss of consciousness,30-60,Calcium,condition,0.0002845759817871
+0-8,Concussion with no loss of consciousness,60-90,Calcium,condition,0.0008537279453614
+0-8,Concussion with no loss of consciousness,730-inf,Calcium,condition,0.0002845759817871
+0-8,Cough (finding),730-inf,Calcium,condition,0.0005691519635742
+0-8,Dental filling lost (finding),365-730,Calcium,condition,0.0002845759817871
+0-8,Dental filling lost (finding),730-inf,Calcium,condition,0.0005691519635742
+0-8,Drug overdose,365-730,Calcium,condition,0.0002845759817871
+0-8,Drug overdose,730-inf,Calcium,condition,0.0002845759817871
+0-8,Dyspnea (finding),365-730,Calcium,condition,0.0002845759817871
+0-8,End-stage renal disease (disorder),180-365,Calcium,condition,0.0002845759817871
+0-8,End-stage renal disease (disorder),730-inf,Calcium,condition,0.0002845759817871
+0-8,Epidermal burn of skin (disorder),180-365,Calcium,condition,0.0002845759817871
+0-8,Fatigue (finding),365-730,Calcium,condition,0.0002845759817871
+0-8,Fatigue (finding),730-inf,Calcium,condition,0.0002845759817871
+0-8,Fever (finding),365-730,Calcium,condition,0.0002845759817871
+0-8,Fever (finding),730-inf,Calcium,condition,0.0005691519635742
+0-8,Fractured dental filling (finding),180-365,Calcium,condition,0.0002845759817871
+0-8,Fractured dental filling (finding),730-inf,Calcium,condition,0.0008537279453614
+0-8,Full-time employment (finding),7-14,Calcium,condition,0.0002845759817871
+0-8,Full-time employment (finding),14-30,Calcium,condition,0.0005691519635742
+0-8,Full-time employment (finding),60-90,Calcium,condition,0.0002845759817871
+0-8,Full-time employment (finding),90-180,Calcium,condition,0.0008537279453614
+0-8,Full-time employment (finding),180-365,Calcium,condition,0.0011383039271485
+0-8,Full-time employment (finding),365-730,Calcium,condition,0.0034149117814456
+0-8,Full-time employment (finding),730-inf,Calcium,condition,0.0096755833807626
+0-8,Gingival disease (disorder),14-30,Calcium,condition,0.0002845759817871
+0-8,Gingival disease (disorder),60-90,Calcium,condition,0.0002845759817871
+0-8,Gingival disease (disorder),180-365,Calcium,condition,0.0017074558907228
+0-8,Gingival disease (disorder),365-730,Calcium,condition,0.0002845759817871
+0-8,Gingival disease (disorder),730-inf,Calcium,condition,0.0028457598178713
+0-8,Gingivitis (disorder),7-14,Calcium,condition,0.0008537279453614
+0-8,Gingivitis (disorder),14-30,Calcium,condition,0.0002845759817871
+0-8,Gingivitis (disorder),30-60,Calcium,condition,0.0002845759817871
+0-8,Gingivitis (disorder),60-90,Calcium,condition,0.0017074558907228
+0-8,Gingivitis (disorder),90-180,Calcium,condition,0.0002845759817871
+0-8,Gingivitis (disorder),180-365,Calcium,condition,0.0034149117814456
+0-8,Gingivitis (disorder),365-730,Calcium,condition,0.0036994877632327
+0-8,Gingivitis (disorder),730-inf,Calcium,condition,0.010529311326124
+0-8,Has a criminal record (finding),730-inf,Calcium,condition,0.0002845759817871
+0-8,Headache (finding),365-730,Calcium,condition,0.0002845759817871
+0-8,Hib (PRP-OMP),180-365,Calcium,immunization,0.0002845759817871
+0-8,History of coronary artery bypass grafting (situation),7-14,Calcium,condition,0.0002845759817871
+0-8,History of coronary artery bypass grafting (situation),180-365,Calcium,condition,0.0005691519635742
+0-8,History of myocardial infarction (situation),180-365,Calcium,condition,0.0002845759817871
+0-8,History of renal transplant (situation),730-inf,Calcium,condition,0.0011383039271485
+0-8,Hypoxemia (disorder),730-inf,Calcium,condition,0.0002845759817871
+0-8,Infection of tooth (disorder),14-30,Calcium,condition,0.0002845759817871
+0-8,Infection of tooth (disorder),30-60,Calcium,condition,0.0002845759817871
+0-8,Infection of tooth (disorder),730-inf,Calcium,condition,0.0008537279453614
+0-8,Influenza  seasonal  injectable  preservative free,14-30,Calcium,immunization,0.0002845759817871
+0-8,Influenza  seasonal  injectable  preservative free,30-60,Calcium,immunization,0.0002845759817871
+0-8,Influenza  seasonal  injectable  preservative free,60-90,Calcium,immunization,0.0005691519635742
+0-8,Influenza  seasonal  injectable  preservative free,90-180,Calcium,immunization,0.0017074558907228
+0-8,Influenza  seasonal  injectable  preservative free,180-365,Calcium,immunization,0.0065452475811041
+0-8,Influenza  seasonal  injectable  preservative free,365-730,Calcium,immunization,0.0076835515082527
+0-8,Influenza  seasonal  injectable  preservative free,730-inf,Calcium,immunization,0.0182128628343767
+0-8,Injury of anterior cruciate ligament,365-730,Calcium,condition,0.0002845759817871
+0-8,Injury of kidney (disorder),730-inf,Calcium,condition,0.0002845759817871
+0-8,Injury of knee (disorder),365-730,Calcium,condition,0.0005691519635742
+0-8,Ischemic heart disease (disorder),180-365,Calcium,condition,0.0002845759817871
+0-8,Ischemic heart disease (disorder),365-730,Calcium,condition,0.0002845759817871
+0-8,Ischemic heart disease (disorder),730-inf,Calcium,condition,0.0002845759817871
+0-8,Kidney transplant failure and rejection (disorder),730-inf,Calcium,condition,0.0002845759817871
+0-8,Limited social contact (finding),7-14,Calcium,condition,0.0002845759817871
+0-8,Limited social contact (finding),90-180,Calcium,condition,0.0002845759817871
+0-8,Limited social contact (finding),180-365,Calcium,condition,0.0008537279453614
+0-8,Limited social contact (finding),365-730,Calcium,condition,0.0005691519635742
+0-8,Limited social contact (finding),730-inf,Calcium,condition,0.0014228799089356
+0-8,Loose dental filling (finding),730-inf,Calcium,condition,0.0002845759817871
+0-8,Loss of taste (finding),365-730,Calcium,condition,0.0002845759817871
+0-8,Loss of teeth (disorder),730-inf,Calcium,condition,0.0005691519635742
+0-8,Medication review due (situation),7-14,Calcium,condition,0.0005691519635742
+0-8,Medication review due (situation),14-30,Calcium,condition,0.0005691519635742
+0-8,Medication review due (situation),30-60,Calcium,condition,0.0005691519635742
+0-8,Medication review due (situation),60-90,Calcium,condition,0.0034149117814456
+0-8,Medication review due (situation),90-180,Calcium,condition,0.0036994877632327
+0-8,Medication review due (situation),180-365,Calcium,condition,0.0039840637450199
+0-8,Medication review due (situation),365-730,Calcium,condition,0.0085372794536141
+0-8,Medication review due (situation),730-inf,Calcium,condition,0.0199203187250996
+0-8,Metabolic syndrome X (disorder),180-365,Calcium,condition,0.0002845759817871
+0-8,Metabolic syndrome X (disorder),365-730,Calcium,condition,0.0002845759817871
+0-8,Miscarriage in first trimester,90-180,Calcium,condition,0.0002845759817871
+0-8,Miscarriage in first trimester,180-365,Calcium,condition,0.0002845759817871
+0-8,Misuses drugs (finding),730-inf,Calcium,condition,0.0002845759817871
+0-8,Myocardial infarction (disorder),180-365,Calcium,condition,0.0002845759817871
+0-8,Normal pregnancy,90-180,Calcium,condition,0.0002845759817871
+0-8,Normal pregnancy,180-365,Calcium,condition,0.0002845759817871
+0-8,Not in labor force (finding),30-60,Calcium,condition,0.0005691519635742
+0-8,Not in labor force (finding),60-90,Calcium,condition,0.0002845759817871
+0-8,Not in labor force (finding),180-365,Calcium,condition,0.0019920318725099
+0-8,Not in labor force (finding),365-730,Calcium,condition,0.002276607854297
+0-8,Not in labor force (finding),730-inf,Calcium,condition,0.0034149117814456
+0-8,Obstructive sleep apnea syndrome (disorder),730-inf,Calcium,condition,0.0002845759817871
+0-8,Osteoporosis (disorder),365-730,Calcium,condition,0.0002845759817871
+0-8,Part-time employment (finding),7-14,Calcium,condition,0.0002845759817871
+0-8,Part-time employment (finding),90-180,Calcium,condition,0.0005691519635742
+0-8,Part-time employment (finding),180-365,Calcium,condition,0.0011383039271485
+0-8,Part-time employment (finding),365-730,Calcium,condition,0.0011383039271485
+0-8,Part-time employment (finding),730-inf,Calcium,condition,0.0065452475811041
+0-8,Pneumonia (disorder),730-inf,Calcium,condition,0.0002845759817871
+0-8,Polyp of colon,730-inf,Calcium,condition,0.0002845759817871
+0-8,Prediabetes,180-365,Calcium,condition,0.0002845759817871
+0-8,Prediabetes,365-730,Calcium,condition,0.0002845759817871
+0-8,Primary dental caries (disorder),14-30,Calcium,condition,0.0002845759817871
+0-8,Primary dental caries (disorder),365-730,Calcium,condition,0.0002845759817871
+0-8,Primary dental caries (disorder),730-inf,Calcium,condition,0.002276607854297
+0-8,Protracted diarrhea,365-730,Calcium,condition,0.0002845759817871
+0-8,Reports of violence in the environment (finding),60-90,Calcium,condition,0.0017074558907228
+0-8,Reports of violence in the environment (finding),180-365,Calcium,condition,0.0005691519635742
+0-8,Reports of violence in the environment (finding),730-inf,Calcium,condition,0.0014228799089356
+0-8,Resorption of alveolar process due to dental trauma (disorder),730-inf,Calcium,condition,0.0002845759817871
+0-8,Respiratory distress (finding),730-inf,Calcium,condition,0.0002845759817871
+0-8,Secondary malignant neoplasm of colon,365-730,Calcium,condition,0.0002845759817871
+0-8,Sepsis caused by virus (disorder),730-inf,Calcium,condition,0.0002845759817871
+0-8,Severe anxiety (panic) (finding),180-365,Calcium,condition,0.0002845759817871
+0-8,Severe anxiety (panic) (finding),730-inf,Calcium,condition,0.0002845759817871
+0-8,Sinusitis (disorder),90-180,Calcium,condition,0.0017074558907228
+0-8,Sleep disorder (disorder),730-inf,Calcium,condition,0.0002845759817871
+0-8,Social isolation (finding),180-365,Calcium,condition,0.0002845759817871
+0-8,Social isolation (finding),365-730,Calcium,condition,0.0025611838360842
+0-8,Social isolation (finding),730-inf,Calcium,condition,0.004268639726807
+0-8,Sore throat symptom (finding),730-inf,Calcium,condition,0.0002845759817871
+0-8,Sprain (morphologic abnormality),730-inf,Calcium,condition,0.0002845759817871
+0-8,Sprain of ankle,730-inf,Calcium,condition,0.0002845759817871
+0-8,Sputum finding (finding),730-inf,Calcium,condition,0.0002845759817871
+0-8,Streptococcal sore throat (disorder),0-7,Calcium,condition,0.0008537279453614
+0-8,Streptococcal sore throat (disorder),730-inf,Calcium,condition,0.0002845759817871
+0-8,Stress (finding),14-30,Calcium,condition,0.0008537279453614
+0-8,Stress (finding),30-60,Calcium,condition,0.0011383039271485
+0-8,Stress (finding),60-90,Calcium,condition,0.0014228799089356
+0-8,Stress (finding),90-180,Calcium,condition,0.0014228799089356
+0-8,Stress (finding),180-365,Calcium,condition,0.0034149117814456
+0-8,Stress (finding),365-730,Calcium,condition,0.0036994877632327
+0-8,Stress (finding),730-inf,Calcium,condition,0.0110984632896983
+0-8,Suspected COVID-19,365-730,Calcium,condition,0.0002845759817871
+0-8,Suspected COVID-19,730-inf,Calcium,condition,0.0005691519635742
+0-8,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,180-365,Calcium,immunization,0.0008537279453614
+0-8,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,730-inf,Calcium,immunization,0.0008537279453614
+0-8,Tear of meniscus of knee,365-730,Calcium,condition,0.0002845759817871
+0-8,Tongue tie (disorder),730-inf,Calcium,condition,0.0002845759817871
+0-8,Transformed migraine (disorder),90-180,Calcium,condition,0.0002845759817871
+0-8,Unemployed (finding),180-365,Calcium,condition,0.0002845759817871
+0-8,Unemployed (finding),365-730,Calcium,condition,0.0005691519635742
+0-8,Unemployed (finding),730-inf,Calcium,condition,0.002276607854297
+0-8,Unhealthy alcohol drinking behavior (finding),730-inf,Calcium,condition,0.0005691519635742
+0-8,Victim of intimate partner abuse (finding),7-14,Calcium,condition,0.0008537279453614
+0-8,Victim of intimate partner abuse (finding),30-60,Calcium,condition,0.0002845759817871
+0-8,Victim of intimate partner abuse (finding),60-90,Calcium,condition,0.0002845759817871
+0-8,Victim of intimate partner abuse (finding),90-180,Calcium,condition,0.0002845759817871
+0-8,Victim of intimate partner abuse (finding),365-730,Calcium,condition,0.0002845759817871
+0-8,Victim of intimate partner abuse (finding),730-inf,Calcium,condition,0.0011383039271485
+0-8,Viral sinusitis (disorder),180-365,Calcium,condition,0.0002845759817871
+0-8,Viral sinusitis (disorder),365-730,Calcium,condition,0.0002845759817871
+0-8,Viral sinusitis (disorder),730-inf,Calcium,condition,0.0028457598178713
+0-8,Wheezing (finding),365-730,Calcium,condition,0.0002845759817871
+0-8,zoster vaccine  live,180-365,Calcium,immunization,0.0002845759817871
+8-10,0-1,0-7,Calcium,Creatinine,0.0090056715443712
+8-10,0-1,7-14,Calcium,Creatinine,0.0027519779841761
+8-10,0-1,14-30,Calcium,Creatinine,0.0048071410300512
+8-10,0-1,30-60,Calcium,Creatinine,0.0080618842228749
+8-10,0-1,60-90,Calcium,Creatinine,0.0035987404408457
+8-10,0-1,90-180,Calcium,Creatinine,0.0009702486482672
+8-10,0-1,730-inf,Calcium,Creatinine,0.003484074691505
+8-10,0-100,730-inf,Calcium,Alkaline Phosphatase,8.820442256974764e-06
+8-10,0-150,7-14,Calcium,Body Height,8.820442256974764e-06
+8-10,0-150,14-30,Calcium,Body Height,8.820442256974764e-06
+8-10,0-150,30-60,Calcium,Body Height,4.410221128487383e-05
+8-10,0-150,60-90,Calcium,Body Height,2.646132677092429e-05
+8-10,0-150,90-180,Calcium,Body Height,8.820442256974765e-05
+8-10,0-150,180-365,Calcium,Body Height,0.0002910745944801
+8-10,0-150,365-730,Calcium,Body Height,0.0002910745944801
+8-10,0-150,730-inf,Calcium,Body Height,0.0005997900734742
+8-10,0-35,0-7,Calcium,Carbon Dioxide,0.016750019845995
+8-10,0-35,7-14,Calcium,Carbon Dioxide,0.0038016106127561
+8-10,0-35,14-30,Calcium,Carbon Dioxide,0.0079119367045063
+8-10,0-35,30-60,Calcium,Carbon Dioxide,0.0127190777345576
+8-10,0-35,60-90,Calcium,Carbon Dioxide,0.004524886877828
+8-10,0-35,90-180,Calcium,Carbon Dioxide,0.0011025552821218
+8-10,0-35,730-inf,Calcium,Carbon Dioxide,0.006262514002452
+8-10,0-50,7-14,Calcium,Body Weight,8.820442256974764e-06
+8-10,0-50,14-30,Calcium,Body Weight,8.820442256974764e-06
+8-10,0-50,30-60,Calcium,Body Weight,5.292265354184859e-05
+8-10,0-50,60-90,Calcium,Body Weight,2.646132677092429e-05
+8-10,0-50,90-180,Calcium,Body Weight,8.820442256974765e-05
+8-10,0-50,180-365,Calcium,Body Weight,0.0002998950367371
+8-10,0-50,365-730,Calcium,Body Weight,0.000335176805765
+8-10,0-50,730-inf,Calcium,Body Weight,0.0006438922847591
+8-10,0-60,7-14,Calcium,Diastolic Blood Pressure,0.0001058453070836
+8-10,0-60,14-30,Calcium,Diastolic Blood Pressure,0.0002205110564243
+8-10,0-60,30-60,Calcium,Diastolic Blood Pressure,0.0004322016705917
+8-10,0-60,60-90,Calcium,Diastolic Blood Pressure,0.0001587679606255
+8-10,0-60,90-180,Calcium,Diastolic Blood Pressure,0.0005380469776754
+8-10,0-60,180-365,Calcium,Diastolic Blood Pressure,0.0007938398031277
+8-10,0-60,365-730,Calcium,Diastolic Blood Pressure,0.0015612182794845
+8-10,0-60,730-inf,Calcium,Diastolic Blood Pressure,0.0044102211284873
+8-10,0-70,0-7,Calcium,Glucose,0.0022844945445564
+8-10,0-70,7-14,Calcium,Glucose,0.000317535921251
+8-10,0-70,14-30,Calcium,Glucose,0.0014730138569147
+8-10,0-70,30-60,Calcium,Glucose,0.0026549531193494
+8-10,0-70,60-90,Calcium,Glucose,0.0007144558228149
+8-10,0-70,90-180,Calcium,Glucose,0.0002381519409383
+8-10,0-70,730-inf,Calcium,Glucose,0.0009437873214962
+8-10,0-8,0-7,Calcium,Calcium,0.0004851243241336
+8-10,0-8,7-14,Calcium,Calcium,0.0002293314986813
+8-10,0-8,14-30,Calcium,Calcium,0.000317535921251
+8-10,0-8,30-60,Calcium,Calcium,0.0005292265354184
+8-10,0-8,60-90,Calcium,Calcium,0.0001234861915976
+8-10,0-8,90-180,Calcium,Calcium,0.0001146657493406
+8-10,0-8,730-inf,Calcium,Calcium,0.0002381519409383
+8-10,0-90,7-14,Calcium,Systolic Blood Pressure,2.646132677092429e-05
+8-10,0-90,14-30,Calcium,Systolic Blood Pressure,2.646132677092429e-05
+8-10,0-90,30-60,Calcium,Systolic Blood Pressure,0.0001323066338546
+8-10,0-90,60-90,Calcium,Systolic Blood Pressure,4.410221128487383e-05
+8-10,0-90,90-180,Calcium,Systolic Blood Pressure,0.0001940497296534
+8-10,0-90,180-365,Calcium,Systolic Blood Pressure,0.0002910745944801
+8-10,0-90,365-730,Calcium,Systolic Blood Pressure,0.0006527127270161
+8-10,0-90,730-inf,Calcium,Systolic Blood Pressure,0.0009526077637532
+8-10,1-1,0-7,Calcium,Creatinine,0.0034223315957062
+8-10,1-1,7-14,Calcium,Creatinine,0.001014350859552
+8-10,1-1,14-30,Calcium,Creatinine,0.0030165912518853
+8-10,1-1,30-60,Calcium,Creatinine,0.0044543233397722
+8-10,1-1,60-90,Calcium,Creatinine,0.0009261464369823
+8-10,1-1,90-180,Calcium,Creatinine,0.0001323066338546
+8-10,1-1,730-inf,Calcium,Creatinine,0.0012789641272613
+8-10,1-inf,0-7,Calcium,Creatinine,0.0043220167059176
+8-10,1-inf,7-14,Calcium,Creatinine,3.5281769027899056e-05
+8-10,1-inf,14-30,Calcium,Creatinine,8.820442256974765e-05
+8-10,1-inf,30-60,Calcium,Creatinine,0.0002028701719104
+8-10,1-inf,730-inf,Calcium,Creatinine,0.0014994751836857
+8-10,107-inf,0-7,Calcium,Chloride,0.0054863150838383
+8-10,107-inf,7-14,Calcium,Chloride,0.0017552680091379
+8-10,107-inf,14-30,Calcium,Chloride,0.0032635636350806
+8-10,107-inf,30-60,Calcium,Chloride,0.0054422128725534
+8-10,107-inf,60-90,Calcium,Chloride,0.0017905497781658
+8-10,107-inf,90-180,Calcium,Chloride,0.0007056353805579
+8-10,107-inf,730-inf,Calcium,Chloride,0.0022756741022994
+8-10,120-140,0-7,Calcium,Systolic Blood Pressure,8.820442256974764e-06
+8-10,120-140,7-14,Calcium,Systolic Blood Pressure,0.0005645083044463
+8-10,120-140,14-30,Calcium,Systolic Blood Pressure,0.0002822541522231
+8-10,120-140,30-60,Calcium,Systolic Blood Pressure,0.0004674834396196
+8-10,120-140,60-90,Calcium,Systolic Blood Pressure,0.0006350718425021
+8-10,120-140,90-180,Calcium,Systolic Blood Pressure,0.0010672735130939
+8-10,120-140,180-365,Calcium,Systolic Blood Pressure,0.0026196713503215
+8-10,120-140,365-730,Calcium,Systolic Blood Pressure,0.0045072459933141
+8-10,120-140,730-inf,Calcium,Systolic Blood Pressure,0.0155592601413034
+8-10,120-180,730-inf,Calcium,ALT (Elevated),8.820442256974764e-06
+8-10,135-145,0-7,Calcium,Sodium,0.016750019845995
+8-10,135-145,7-14,Calcium,Sodium,0.0038016106127561
+8-10,135-145,14-30,Calcium,Sodium,0.0079119367045063
+8-10,135-145,30-60,Calcium,Sodium,0.0127190777345576
+8-10,135-145,60-90,Calcium,Sodium,0.004524886877828
+8-10,135-145,90-180,Calcium,Sodium,0.0011025552821218
+8-10,135-145,730-inf,Calcium,Sodium,0.006262514002452
+8-10,140-inf,7-14,Calcium,Systolic Blood Pressure,5.292265354184859e-05
+8-10,140-inf,30-60,Calcium,Systolic Blood Pressure,4.410221128487383e-05
+8-10,140-inf,60-90,Calcium,Systolic Blood Pressure,5.292265354184859e-05
+8-10,140-inf,90-180,Calcium,Systolic Blood Pressure,0.0002205110564243
+8-10,140-inf,180-365,Calcium,Systolic Blood Pressure,0.0006527127270161
+8-10,140-inf,365-730,Calcium,Systolic Blood Pressure,0.0004145607860778
+8-10,140-inf,730-inf,Calcium,Systolic Blood Pressure,0.0032723840773376
+8-10,150-170,0-7,Calcium,Body Height,8.820442256974764e-06
+8-10,150-170,7-14,Calcium,Body Height,0.0009173259947253
+8-10,150-170,14-30,Calcium,Body Height,0.000696814938301
+8-10,150-170,30-60,Calcium,Body Height,0.0008379420144126
+8-10,150-170,60-90,Calcium,Body Height,0.0009085055524684
+8-10,150-170,90-180,Calcium,Body Height,0.0016670635865682
+8-10,150-170,180-365,Calcium,Body Height,0.0037222266324433
+8-10,150-170,365-730,Calcium,Body Height,0.0065712294814461
+8-10,150-170,730-inf,Calcium,Body Height,0.0208691663800022
+8-10,150-450,730-inf,Calcium,Platelet Count,8.820442256974764e-06
+8-10,16-inf,730-inf,Calcium,Hemoglobin,8.820442256974764e-06
+8-10,170-190,7-14,Calcium,Body Height,0.0007409171495858
+8-10,170-190,14-30,Calcium,Body Height,0.0005204060931615
+8-10,170-190,30-60,Calcium,Body Height,0.0011642983779206
+8-10,170-190,60-90,Calcium,Body Height,0.0007850193608707
+8-10,170-190,90-180,Calcium,Body Height,0.0019757790655623
+8-10,170-190,180-365,Calcium,Body Height,0.004524886877828
+8-10,170-190,365-730,Calcium,Body Height,0.0076385029945401
+8-10,170-190,730-inf,Calcium,Body Height,0.0254557963536291
+8-10,190-inf,90-180,Calcium,Body Height,8.820442256974764e-06
+8-10,190-inf,180-365,Calcium,Body Height,0.0004498425551057
+8-10,190-inf,365-730,Calcium,Body Height,2.646132677092429e-05
+8-10,190-inf,730-inf,Calcium,Body Height,9.70248648267224e-05
+8-10,3-5,0-7,Calcium,Potassium,0.0144037822056397
+8-10,3-5,7-14,Calcium,Potassium,0.0033341271731364
+8-10,3-5,14-30,Calcium,Potassium,0.0065535885969322
+8-10,3-5,30-60,Calcium,Potassium,0.0115371384721229
+8-10,3-5,60-90,Calcium,Potassium,0.0041985305143199
+8-10,3-5,90-180,Calcium,Potassium,0.0011025552821218
+8-10,3-5,730-inf,Calcium,Albumin,8.820442256974764e-06
+8-10,3-5,730-inf,Calcium,Potassium,0.0055039559683522
+8-10,5-inf,0-7,Calcium,Potassium,0.0023462376403552
+8-10,5-inf,7-14,Calcium,Potassium,0.0004674834396196
+8-10,5-inf,14-30,Calcium,Potassium,0.0013583481075741
+8-10,5-inf,30-60,Calcium,Potassium,0.0011819392624346
+8-10,5-inf,60-90,Calcium,Potassium,0.000326356363508
+8-10,5-inf,730-inf,Calcium,Potassium,0.0007585580340998
+8-10,50-70,7-14,Calcium,Body Weight,9.70248648267224e-05
+8-10,50-70,14-30,Calcium,Body Weight,9.70248648267224e-05
+8-10,50-70,30-60,Calcium,Body Weight,0.0001058453070836
+8-10,50-70,60-90,Calcium,Body Weight,0.0001146657493406
+8-10,50-70,90-180,Calcium,Body Weight,0.0001058453070836
+8-10,50-70,180-365,Calcium,Body Weight,0.0002116906141673
+8-10,50-70,365-730,Calcium,Body Weight,0.0007497375918428
+8-10,50-70,730-inf,Calcium,Body Weight,0.0007409171495858
+8-10,60-80,7-14,Calcium,Diastolic Blood Pressure,0.0007497375918428
+8-10,60-80,14-30,Calcium,Diastolic Blood Pressure,0.0005027652086475
+8-10,60-80,30-60,Calcium,Diastolic Blood Pressure,0.0008203011298986
+8-10,60-80,60-90,Calcium,Diastolic Blood Pressure,0.0008114806876416
+8-10,60-80,90-180,Calcium,Diastolic Blood Pressure,0.0017552680091379
+8-10,60-80,180-365,Calcium,Diastolic Blood Pressure,0.003484074691505
+8-10,60-80,365-730,Calcium,Diastolic Blood Pressure,0.0055039559683522
+8-10,60-80,730-inf,Calcium,Diastolic Blood Pressure,0.0177467298210332
+8-10,70-90,0-7,Calcium,Body Weight,8.820442256974764e-06
+8-10,70-90,7-14,Calcium,Body Weight,0.0012084005892055
+8-10,70-90,14-30,Calcium,Body Weight,0.0007938398031277
+8-10,70-90,30-60,Calcium,Body Weight,0.0010584530708369
+8-10,70-90,60-90,Calcium,Body Weight,0.001040812186323
+8-10,70-90,90-180,Calcium,Body Weight,0.0023903398516401
+8-10,70-90,180-365,Calcium,Body Weight,0.0053981106612685
+8-10,70-90,365-730,Calcium,Body Weight,0.0089439284485724
+8-10,70-90,730-inf,Calcium,Body Weight,0.0335794236723029
+8-10,70-99,0-7,Calcium,Glucose,0.0135570197489702
+8-10,70-99,7-14,Calcium,Glucose,0.0033429476153934
+8-10,70-99,14-30,Calcium,Glucose,0.0058567736586312
+8-10,70-99,30-60,Calcium,Glucose,0.0095084367530187
+8-10,70-99,60-90,Calcium,Glucose,0.0035810995563317
+8-10,70-99,90-180,Calcium,Glucose,0.0008644033411835
+8-10,70-99,730-inf,Calcium,Glucose,0.0049570885484198
+8-10,8-10,0-7,Calcium,Calcium,0.0162648955218614
+8-10,8-10,7-14,Calcium,Calcium,0.0035722791140747
+8-10,8-10,14-30,Calcium,Calcium,0.0075944007832552
+8-10,8-10,30-60,Calcium,Calcium,0.0121898511991391
+8-10,8-10,60-90,Calcium,Calcium,0.0044014006862304
+8-10,8-10,90-180,Calcium,Calcium,0.0009878895327811
+8-10,8-10,730-inf,Calcium,Calcium,0.0060243620615137
+8-10,8-16,730-inf,Calcium,Anion Gap,8.820442256974764e-06
+8-10,80-150,730-inf,Calcium,AST (Elevated),8.820442256974764e-06
+8-10,80-90,7-14,Calcium,Diastolic Blood Pressure,0.0005733287467033
+8-10,80-90,14-30,Calcium,Diastolic Blood Pressure,0.0004057403438208
+8-10,80-90,30-60,Calcium,Diastolic Blood Pressure,0.0005997900734742
+8-10,80-90,60-90,Calcium,Diastolic Blood Pressure,0.000343997248022
+8-10,80-90,90-180,Calcium,Diastolic Blood Pressure,0.0005027652086475
+8-10,80-90,180-365,Calcium,Diastolic Blood Pressure,0.0022227514487576
+8-10,80-90,365-730,Calcium,Diastolic Blood Pressure,0.0039162763620967
+8-10,80-90,730-inf,Calcium,Diastolic Blood Pressure,0.0128161025993843
+8-10,90-120,7-14,Calcium,Systolic Blood Pressure,0.001023171301809
+8-10,90-120,14-30,Calcium,Systolic Blood Pressure,0.0009173259947253
+8-10,90-120,30-60,Calcium,Systolic Blood Pressure,0.0014024503188589
+8-10,90-120,60-90,Calcium,Systolic Blood Pressure,0.0009967099750381
+8-10,90-120,90-180,Calcium,Systolic Blood Pressure,0.0022580332177855
+8-10,90-120,180-365,Calcium,Systolic Blood Pressure,0.0054686741993243
+8-10,90-120,365-730,Calcium,Systolic Blood Pressure,0.0093408483501362
+8-10,90-120,730-inf,Calcium,Systolic Blood Pressure,0.0300688876540269
+8-10,90-inf,0-7,Calcium,Diastolic Blood Pressure,8.820442256974764e-06
+8-10,90-inf,7-14,Calcium,Body Weight,0.0003528176902789
+8-10,90-inf,7-14,Calcium,Diastolic Blood Pressure,0.0002381519409383
+8-10,90-inf,14-30,Calcium,Body Weight,0.000326356363508
+8-10,90-inf,14-30,Calcium,Diastolic Blood Pressure,9.70248648267224e-05
+8-10,90-inf,30-60,Calcium,Body Weight,0.0008291215721556
+8-10,90-inf,30-60,Calcium,Diastolic Blood Pressure,0.0001940497296534
+8-10,90-inf,60-90,Calcium,Body Weight,0.0005468674199324
+8-10,90-inf,60-90,Calcium,Diastolic Blood Pressure,0.0004145607860778
+8-10,90-inf,90-180,Calcium,Body Weight,0.0011554779356636
+8-10,90-inf,90-180,Calcium,Diastolic Blood Pressure,0.0009437873214962
+8-10,90-inf,180-365,Calcium,Body Weight,0.003113616116712
+8-10,90-inf,180-365,Calcium,Diastolic Blood Pressure,0.0025314669277517
+8-10,90-inf,365-730,Calcium,Body Weight,0.0046571935116826
+8-10,90-inf,365-730,Calcium,Diastolic Blood Pressure,0.0039339172466107
+8-10,90-inf,730-inf,Calcium,Body Weight,0.0151270584707117
+8-10,90-inf,730-inf,Calcium,Diastolic Blood Pressure,0.0148800860875164
+8-10,98-107,0-7,Calcium,Chloride,0.0112637047621567
+8-10,98-107,7-14,Calcium,Chloride,0.0020463426036181
+8-10,98-107,14-30,Calcium,Chloride,0.0046483730694257
+8-10,98-107,30-60,Calcium,Chloride,0.0072768648620041
+8-10,98-107,60-90,Calcium,Chloride,0.0027343370996621
+8-10,98-107,90-180,Calcium,Chloride,0.0003969199015638
+8-10,98-107,730-inf,Calcium,Chloride,0.0039868399001525
+8-10,99-125,0-7,Calcium,Glucose,0.0009085055524684
+8-10,99-125,7-14,Calcium,Glucose,0.0001411270761115
+8-10,99-125,14-30,Calcium,Glucose,0.0005821491889603
+8-10,99-125,30-60,Calcium,Glucose,0.0005556878621894
+8-10,99-125,60-90,Calcium,Glucose,0.0002293314986813
+8-10,99-125,730-inf,Calcium,Glucose,0.0003616381325359
+8-10,Abnormal findings diagnostic imaging heart+coronary circulat (finding),90-180,Calcium,condition,8.820442256974764e-06
+8-10,Abnormal findings diagnostic imaging heart+coronary circulat (finding),180-365,Calcium,condition,7.938398031277289e-05
+8-10,Abnormal findings diagnostic imaging heart+coronary circulat (finding),365-730,Calcium,condition,2.646132677092429e-05
+8-10,Abnormal findings diagnostic imaging heart+coronary circulat (finding),730-inf,Calcium,condition,0.0001852292873964
+8-10,Acute Cholecystitis,730-inf,Calcium,condition,8.820442256974764e-06
+8-10,Acute ST segment elevation myocardial infarction (disorder),90-180,Calcium,condition,8.820442256974764e-06
+8-10,Acute ST segment elevation myocardial infarction (disorder),180-365,Calcium,condition,6.174309579882335e-05
+8-10,Acute ST segment elevation myocardial infarction (disorder),730-inf,Calcium,condition,2.646132677092429e-05
+8-10,Acute bacterial sinusitis (disorder),30-60,Calcium,condition,1.7640884513949528e-05
+8-10,Acute bacterial sinusitis (disorder),60-90,Calcium,condition,2.646132677092429e-05
+8-10,Acute bacterial sinusitis (disorder),90-180,Calcium,condition,2.646132677092429e-05
+8-10,Acute bacterial sinusitis (disorder),365-730,Calcium,condition,0.0002205110564243
+8-10,Acute bacterial sinusitis (disorder),730-inf,Calcium,condition,0.0001411270761115
+8-10,Acute bronchitis (disorder),30-60,Calcium,condition,8.820442256974764e-06
+8-10,Acute bronchitis (disorder),60-90,Calcium,condition,5.292265354184859e-05
+8-10,Acute bronchitis (disorder),90-180,Calcium,condition,8.820442256974764e-06
+8-10,Acute bronchitis (disorder),180-365,Calcium,condition,0.0002381519409383
+8-10,Acute bronchitis (disorder),365-730,Calcium,condition,0.0005292265354184
+8-10,Acute bronchitis (disorder),730-inf,Calcium,condition,0.0012701436850043
+8-10,Acute deep venous thrombosis (disorder),730-inf,Calcium,condition,9.70248648267224e-05
+8-10,Acute infective cystitis (disorder),180-365,Calcium,condition,8.820442256974764e-06
+8-10,Acute infective cystitis (disorder),365-730,Calcium,condition,0.0002028701719104
+8-10,Acute infective cystitis (disorder),730-inf,Calcium,condition,0.0004322016705917
+8-10,Acute non-ST segment elevation myocardial infarction (disorder),90-180,Calcium,condition,1.7640884513949528e-05
+8-10,Acute non-ST segment elevation myocardial infarction (disorder),180-365,Calcium,condition,6.174309579882335e-05
+8-10,Acute non-ST segment elevation myocardial infarction (disorder),730-inf,Calcium,condition,0.0001146657493406
+8-10,Acute pulmonary embolism (disorder),730-inf,Calcium,condition,6.174309579882335e-05
+8-10,Acute respiratory distress syndrome (disorder),365-730,Calcium,condition,7.938398031277289e-05
+8-10,Acute respiratory distress syndrome (disorder),730-inf,Calcium,condition,7.056353805579811e-05
+8-10,Acute respiratory failure (disorder),730-inf,Calcium,condition,6.174309579882335e-05
+8-10,Acute viral pharyngitis (disorder),0-7,Calcium,condition,4.410221128487383e-05
+8-10,Acute viral pharyngitis (disorder),14-30,Calcium,condition,8.820442256974764e-06
+8-10,Acute viral pharyngitis (disorder),30-60,Calcium,condition,4.410221128487383e-05
+8-10,Acute viral pharyngitis (disorder),60-90,Calcium,condition,1.7640884513949528e-05
+8-10,Acute viral pharyngitis (disorder),90-180,Calcium,condition,0.0001411270761115
+8-10,Acute viral pharyngitis (disorder),180-365,Calcium,condition,0.0002293314986813
+8-10,Acute viral pharyngitis (disorder),365-730,Calcium,condition,0.0004586629973626
+8-10,Acute viral pharyngitis (disorder),730-inf,Calcium,condition,0.0009085055524684
+8-10,Alcoholism,365-730,Calcium,condition,7.938398031277289e-05
+8-10,Alcoholism,730-inf,Calcium,condition,8.820442256974764e-06
+8-10,Alveolitis of jaw (disorder),180-365,Calcium,condition,8.820442256974764e-06
+8-10,Alveolitis of jaw (disorder),365-730,Calcium,condition,8.820442256974764e-06
+8-10,Alveolitis of jaw (disorder),730-inf,Calcium,condition,3.5281769027899056e-05
+8-10,Alzheimer's disease (disorder),730-inf,Calcium,condition,9.70248648267224e-05
+8-10,Anemia (disorder),365-730,Calcium,condition,8.820442256974764e-06
+8-10,Anemia (disorder),730-inf,Calcium,condition,8.820442256974764e-06
+8-10,Antepartum eclampsia,730-inf,Calcium,condition,7.938398031277289e-05
+8-10,Aortic valve stenosis (disorder),90-180,Calcium,condition,7.056353805579811e-05
+8-10,Aortic valve stenosis (disorder),180-365,Calcium,condition,7.938398031277289e-05
+8-10,Awaiting transplantation of kidney (situation),0-7,Calcium,condition,0.0002116906141673
+8-10,Bleeding from anus,365-730,Calcium,condition,3.5281769027899056e-05
+8-10,Bleeding from anus,730-inf,Calcium,condition,5.292265354184859e-05
+8-10,Body mass index 30+ - obesity (finding),90-180,Calcium,condition,8.820442256974764e-06
+8-10,Body mass index 30+ - obesity (finding),365-730,Calcium,condition,8.820442256974764e-06
+8-10,Body mass index 30+ - obesity (finding),730-inf,Calcium,condition,0.0001411270761115
+8-10,Burn injury (morphologic abnormality),180-365,Calcium,condition,2.646132677092429e-05
+8-10,Burn injury (morphologic abnormality),365-730,Calcium,condition,0.0002116906141673
+8-10,Burn injury (morphologic abnormality),730-inf,Calcium,condition,1.7640884513949528e-05
+8-10,COVID-19,60-90,Calcium,condition,8.820442256974764e-06
+8-10,COVID-19,180-365,Calcium,condition,3.5281769027899056e-05
+8-10,COVID-19,365-730,Calcium,condition,7.938398031277289e-05
+8-10,COVID-19,730-inf,Calcium,condition,0.0003969199015638
+8-10,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,90-180,Calcium,immunization,0.0001499475183685
+8-10,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,180-365,Calcium,immunization,0.0001499475183685
+8-10,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,365-730,Calcium,immunization,0.0003704585747929
+8-10,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,730-inf,Calcium,immunization,0.0015435773949705
+8-10,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,14-30,Calcium,immunization,8.820442256974764e-06
+8-10,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,90-180,Calcium,immunization,0.0001058453070836
+8-10,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,180-365,Calcium,immunization,0.0002998950367371
+8-10,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,365-730,Calcium,immunization,0.0004586629973626
+8-10,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,730-inf,Calcium,immunization,0.0007585580340998
+8-10,COVID-19 vaccine  vector-nr  rS-Ad26  PF  0.5 mL,180-365,Calcium,immunization,8.820442256974764e-06
+8-10,COVID-19 vaccine  vector-nr  rS-Ad26  PF  0.5 mL,365-730,Calcium,immunization,4.410221128487383e-05
+8-10,COVID-19 vaccine  vector-nr  rS-Ad26  PF  0.5 mL,730-inf,Calcium,immunization,5.292265354184859e-05
+8-10,Carcinoma in situ of prostate (disorder),365-730,Calcium,condition,2.646132677092429e-05
+8-10,Carcinoma in situ of prostate (disorder),730-inf,Calcium,condition,8.820442256974765e-05
+8-10,Cholelithiasis,730-inf,Calcium,condition,8.820442256974764e-06
+8-10,Chronic congestive heart failure (disorder),365-730,Calcium,condition,7.938398031277289e-05
+8-10,Chronic congestive heart failure (disorder),730-inf,Calcium,condition,7.938398031277289e-05
+8-10,Chronic kidney disease stage 1 (disorder),180-365,Calcium,condition,0.0002998950367371
+8-10,Chronic kidney disease stage 1 (disorder),365-730,Calcium,condition,0.0003528176902789
+8-10,Chronic kidney disease stage 1 (disorder),730-inf,Calcium,condition,0.0009085055524684
+8-10,Chronic kidney disease stage 2 (disorder),730-inf,Calcium,condition,0.0005204060931615
+8-10,Chronic kidney disease stage 4 (disorder),7-14,Calcium,condition,2.646132677092429e-05
+8-10,Chronic kidney disease stage 4 (disorder),14-30,Calcium,condition,8.820442256974764e-06
+8-10,Chronic kidney disease stage 4 (disorder),30-60,Calcium,condition,5.292265354184859e-05
+8-10,Chronic kidney disease stage 4 (disorder),60-90,Calcium,condition,7.938398031277289e-05
+8-10,Chronic kidney disease stage 4 (disorder),90-180,Calcium,condition,0.0001234861915976
+8-10,Chronic kidney disease stage 4 (disorder),180-365,Calcium,condition,0.0001234861915976
+8-10,Chronic low back pain (finding),730-inf,Calcium,condition,0.0001146657493406
+8-10,Chronic neck pain (finding),365-730,Calcium,condition,8.820442256974764e-06
+8-10,Chronic neck pain (finding),730-inf,Calcium,condition,0.0001058453070836
+8-10,Chronic obstructive bronchitis (disorder),730-inf,Calcium,condition,8.820442256974764e-06
+8-10,Chronic pain (finding),90-180,Calcium,condition,7.938398031277289e-05
+8-10,Chronic pain (finding),365-730,Calcium,condition,8.820442256974764e-06
+8-10,Chronic pain (finding),730-inf,Calcium,condition,0.0002557928254522
+8-10,Chronic sinusitis (disorder),365-730,Calcium,condition,0.0001499475183685
+8-10,Chronic sinusitis (disorder),730-inf,Calcium,condition,0.0002469723831952
+8-10,Complete miscarriage (disorder),30-60,Calcium,condition,2.646132677092429e-05
+8-10,Complete miscarriage (disorder),60-90,Calcium,condition,1.7640884513949528e-05
+8-10,Complete miscarriage (disorder),90-180,Calcium,condition,9.70248648267224e-05
+8-10,Complete miscarriage (disorder),180-365,Calcium,condition,5.292265354184859e-05
+8-10,Complete miscarriage (disorder),730-inf,Calcium,condition,1.7640884513949528e-05
+8-10,Complication occuring during pregnancy,730-inf,Calcium,condition,8.820442256974764e-06
+8-10,Concussion injury of brain (disorder),7-14,Calcium,condition,8.820442256974764e-06
+8-10,Concussion injury of brain (disorder),14-30,Calcium,condition,8.820442256974764e-06
+8-10,Concussion injury of brain (disorder),30-60,Calcium,condition,8.820442256974764e-06
+8-10,Concussion injury of brain (disorder),60-90,Calcium,condition,8.820442256974764e-06
+8-10,Concussion injury of brain (disorder),180-365,Calcium,condition,8.820442256974764e-06
+8-10,Concussion injury of brain (disorder),365-730,Calcium,condition,7.938398031277289e-05
+8-10,Concussion injury of brain (disorder),730-inf,Calcium,condition,0.0001146657493406
+8-10,Concussion with loss of consciousness,180-365,Calcium,condition,8.820442256974764e-06
+8-10,Concussion with no loss of consciousness,7-14,Calcium,condition,8.820442256974764e-06
+8-10,Concussion with no loss of consciousness,14-30,Calcium,condition,8.820442256974764e-06
+8-10,Concussion with no loss of consciousness,30-60,Calcium,condition,8.820442256974764e-06
+8-10,Concussion with no loss of consciousness,60-90,Calcium,condition,8.820442256974764e-06
+8-10,Concussion with no loss of consciousness,365-730,Calcium,condition,7.938398031277289e-05
+8-10,Concussion with no loss of consciousness,730-inf,Calcium,condition,0.0001146657493406
+8-10,Cough (finding),60-90,Calcium,condition,8.820442256974764e-06
+8-10,Cough (finding),365-730,Calcium,condition,8.820442256974764e-06
+8-10,Cough (finding),730-inf,Calcium,condition,0.0002205110564243
+8-10,DTaP,14-30,Calcium,immunization,8.820442256974764e-06
+8-10,DTaP,30-60,Calcium,immunization,1.7640884513949528e-05
+8-10,DTaP,60-90,Calcium,immunization,8.820442256974764e-06
+8-10,DTaP,90-180,Calcium,immunization,3.5281769027899056e-05
+8-10,DTaP,365-730,Calcium,immunization,2.646132677092429e-05
+8-10,DTaP,730-inf,Calcium,immunization,8.820442256974764e-06
+8-10,Dental filling lost (finding),30-60,Calcium,condition,8.820442256974764e-06
+8-10,Dental filling lost (finding),60-90,Calcium,condition,5.292265354184859e-05
+8-10,Dental filling lost (finding),90-180,Calcium,condition,1.7640884513949528e-05
+8-10,Dental filling lost (finding),180-365,Calcium,condition,0.0001411270761115
+8-10,Dental filling lost (finding),365-730,Calcium,condition,7.056353805579811e-05
+8-10,Dental filling lost (finding),730-inf,Calcium,condition,0.0007056353805579
+8-10,Died in hospice (finding),365-730,Calcium,condition,7.056353805579811e-05
+8-10,Died in hospice (finding),730-inf,Calcium,condition,0.0001234861915976
+8-10,Drug overdose,0-7,Calcium,condition,4.410221128487383e-05
+8-10,Drug overdose,7-14,Calcium,condition,6.174309579882335e-05
+8-10,Drug overdose,14-30,Calcium,condition,0.0001411270761115
+8-10,Drug overdose,30-60,Calcium,condition,7.938398031277289e-05
+8-10,Drug overdose,60-90,Calcium,condition,3.5281769027899056e-05
+8-10,Drug overdose,90-180,Calcium,condition,0.0002469723831952
+8-10,Drug overdose,180-365,Calcium,condition,0.0001852292873964
+8-10,Drug overdose,365-730,Calcium,condition,0.0001234861915976
+8-10,Drug overdose,730-inf,Calcium,condition,0.0005115856509045
+8-10,Dyspnea (finding),60-90,Calcium,condition,8.820442256974764e-06
+8-10,Dyspnea (finding),180-365,Calcium,condition,3.5281769027899056e-05
+8-10,Dyspnea (finding),365-730,Calcium,condition,7.938398031277289e-05
+8-10,Dyspnea (finding),730-inf,Calcium,condition,0.0001058453070836
+8-10,End-stage renal disease (disorder),7-14,Calcium,condition,8.820442256974764e-06
+8-10,End-stage renal disease (disorder),30-60,Calcium,condition,1.7640884513949528e-05
+8-10,End-stage renal disease (disorder),60-90,Calcium,condition,8.820442256974764e-06
+8-10,End-stage renal disease (disorder),90-180,Calcium,condition,2.646132677092429e-05
+8-10,End-stage renal disease (disorder),180-365,Calcium,condition,3.5281769027899056e-05
+8-10,End-stage renal disease (disorder),365-730,Calcium,condition,0.0001058453070836
+8-10,End-stage renal disease (disorder),730-inf,Calcium,condition,0.0002381519409383
+8-10,Epidermal burn of skin (disorder),180-365,Calcium,condition,2.646132677092429e-05
+8-10,Epidermal burn of skin (disorder),365-730,Calcium,condition,8.820442256974765e-05
+8-10,Epidermal burn of skin (disorder),730-inf,Calcium,condition,8.820442256974764e-06
+8-10,Facial laceration,730-inf,Calcium,condition,0.0001499475183685
+8-10,Fatigue (finding),180-365,Calcium,condition,3.5281769027899056e-05
+8-10,Fatigue (finding),365-730,Calcium,condition,7.938398031277289e-05
+8-10,Fatigue (finding),730-inf,Calcium,condition,0.0001940497296534
+8-10,Fetus with chromosomal abnormality,365-730,Calcium,condition,8.820442256974764e-06
+8-10,Fever (finding),180-365,Calcium,condition,3.5281769027899056e-05
+8-10,Fever (finding),365-730,Calcium,condition,7.938398031277289e-05
+8-10,Fever (finding),730-inf,Calcium,condition,0.0003969199015638
+8-10,Fracture of ankle,60-90,Calcium,condition,8.820442256974764e-06
+8-10,Fracture of ankle,730-inf,Calcium,condition,8.820442256974764e-06
+8-10,Fracture of bone (disorder),60-90,Calcium,condition,8.820442256974764e-06
+8-10,Fracture of bone (disorder),180-365,Calcium,condition,3.5281769027899056e-05
+8-10,Fracture of bone (disorder),365-730,Calcium,condition,0.0002734337099662
+8-10,Fracture of bone (disorder),730-inf,Calcium,condition,0.0002205110564243
+8-10,Fracture of clavicle,365-730,Calcium,condition,0.0001499475183685
+8-10,Fracture of clavicle,730-inf,Calcium,condition,1.7640884513949528e-05
+8-10,Fracture of forearm,730-inf,Calcium,condition,7.938398031277289e-05
+8-10,Fracture of rib,180-365,Calcium,condition,3.5281769027899056e-05
+8-10,Fracture of rib,365-730,Calcium,condition,6.174309579882335e-05
+8-10,Fracture subluxation of wrist,365-730,Calcium,condition,6.174309579882335e-05
+8-10,Fracture subluxation of wrist,730-inf,Calcium,condition,0.0001146657493406
+8-10,Fractured dental filling (finding),90-180,Calcium,condition,8.820442256974764e-06
+8-10,Fractured dental filling (finding),180-365,Calcium,condition,0.0001323066338546
+8-10,Fractured dental filling (finding),365-730,Calcium,condition,0.0002646132677092
+8-10,Fractured dental filling (finding),730-inf,Calcium,condition,0.000696814938301
+8-10,Full-time employment (finding),7-14,Calcium,condition,0.0004586629973626
+8-10,Full-time employment (finding),14-30,Calcium,condition,0.0001146657493406
+8-10,Full-time employment (finding),30-60,Calcium,condition,0.0002557928254522
+8-10,Full-time employment (finding),60-90,Calcium,condition,0.0001323066338546
+8-10,Full-time employment (finding),90-180,Calcium,condition,0.000679174053787
+8-10,Full-time employment (finding),180-365,Calcium,condition,0.0015700387217415
+8-10,Full-time employment (finding),365-730,Calcium,condition,0.0027607984264331
+8-10,Full-time employment (finding),730-inf,Calcium,condition,0.0096672047136443
+8-10,Gingival disease (disorder),7-14,Calcium,condition,2.646132677092429e-05
+8-10,Gingival disease (disorder),14-30,Calcium,condition,1.7640884513949528e-05
+8-10,Gingival disease (disorder),30-60,Calcium,condition,0.0002822541522231
+8-10,Gingival disease (disorder),60-90,Calcium,condition,7.056353805579811e-05
+8-10,Gingival disease (disorder),90-180,Calcium,condition,0.0002998950367371
+8-10,Gingival disease (disorder),180-365,Calcium,condition,0.0004233812283347
+8-10,Gingival disease (disorder),365-730,Calcium,condition,0.0003969199015638
+8-10,Gingival disease (disorder),730-inf,Calcium,condition,0.003113616116712
+8-10,Gingivitis (disorder),7-14,Calcium,condition,0.0003704585747929
+8-10,Gingivitis (disorder),14-30,Calcium,condition,0.0002734337099662
+8-10,Gingivitis (disorder),30-60,Calcium,condition,0.0003087154789941
+8-10,Gingivitis (disorder),60-90,Calcium,condition,0.000317535921251
+8-10,Gingivitis (disorder),90-180,Calcium,condition,0.0009085055524684
+8-10,Gingivitis (disorder),180-365,Calcium,condition,0.0026725940038633
+8-10,Gingivitis (disorder),365-730,Calcium,condition,0.0023109558713273
+8-10,Gingivitis (disorder),730-inf,Calcium,condition,0.0116341633369497
+8-10,Has a criminal record (finding),365-730,Calcium,condition,8.820442256974764e-06
+8-10,Has a criminal record (finding),730-inf,Calcium,condition,0.000343997248022
+8-10,Headache (finding),180-365,Calcium,condition,3.5281769027899056e-05
+8-10,Headache (finding),365-730,Calcium,condition,7.938398031277289e-05
+8-10,Headache (finding),730-inf,Calcium,condition,8.820442256974764e-06
+8-10,Hep A  adult,90-180,Calcium,immunization,8.820442256974764e-06
+8-10,Hep A  adult,180-365,Calcium,immunization,8.820442256974764e-06
+8-10,Hep A  adult,365-730,Calcium,immunization,2.646132677092429e-05
+8-10,Hep A  adult,730-inf,Calcium,immunization,5.292265354184859e-05
+8-10,Hep A  ped/adol  2 dose,180-365,Calcium,immunization,8.820442256974764e-06
+8-10,Hep A  ped/adol  2 dose,365-730,Calcium,immunization,2.646132677092429e-05
+8-10,Hep A  ped/adol  2 dose,730-inf,Calcium,immunization,1.7640884513949528e-05
+8-10,Hep B  adolescent or pediatric,90-180,Calcium,immunization,2.646132677092429e-05
+8-10,Hib (PRP-OMP),14-30,Calcium,immunization,8.820442256974764e-06
+8-10,Hib (PRP-OMP),30-60,Calcium,immunization,1.7640884513949528e-05
+8-10,Hib (PRP-OMP),60-90,Calcium,immunization,8.820442256974764e-06
+8-10,Hib (PRP-OMP),90-180,Calcium,immunization,8.820442256974764e-06
+8-10,Hib (PRP-OMP),180-365,Calcium,immunization,0.0001058453070836
+8-10,Hib (PRP-OMP),365-730,Calcium,immunization,1.7640884513949528e-05
+8-10,Hib (PRP-OMP),730-inf,Calcium,immunization,8.820442256974764e-06
+8-10,History of aortic valve replacement (situation),730-inf,Calcium,condition,0.0002293314986813
+8-10,History of artificial joint (situation),730-inf,Calcium,condition,8.820442256974764e-06
+8-10,History of coronary artery bypass grafting (situation),30-60,Calcium,condition,7.056353805579811e-05
+8-10,History of coronary artery bypass grafting (situation),180-365,Calcium,condition,7.938398031277289e-05
+8-10,History of coronary artery bypass grafting (situation),730-inf,Calcium,condition,3.5281769027899056e-05
+8-10,History of myocardial infarction (situation),90-180,Calcium,condition,1.7640884513949528e-05
+8-10,History of myocardial infarction (situation),180-365,Calcium,condition,0.0001323066338546
+8-10,History of myocardial infarction (situation),730-inf,Calcium,condition,0.0001411270761115
+8-10,History of renal transplant (situation),0-7,Calcium,condition,0.0002028701719104
+8-10,History of renal transplant (situation),730-inf,Calcium,condition,0.0005645083044463
+8-10,Homeless (finding),365-730,Calcium,condition,8.820442256974764e-06
+8-10,Homeless (finding),730-inf,Calcium,condition,0.0001852292873964
+8-10,Hyperlipidemia,365-730,Calcium,condition,2.646132677092429e-05
+8-10,Hyperlipidemia,730-inf,Calcium,condition,8.820442256974765e-05
+8-10,Hypoxemia (disorder),730-inf,Calcium,condition,0.0001587679606255
+8-10,IPV,14-30,Calcium,immunization,8.820442256974764e-06
+8-10,IPV,30-60,Calcium,immunization,2.646132677092429e-05
+8-10,IPV,60-90,Calcium,immunization,1.7640884513949528e-05
+8-10,IPV,90-180,Calcium,immunization,4.410221128487383e-05
+8-10,IPV,730-inf,Calcium,immunization,1.7640884513949528e-05
+8-10,Infection of tooth (disorder),14-30,Calcium,condition,2.646132677092429e-05
+8-10,Infection of tooth (disorder),30-60,Calcium,condition,1.7640884513949528e-05
+8-10,Infection of tooth (disorder),180-365,Calcium,condition,3.5281769027899056e-05
+8-10,Infection of tooth (disorder),365-730,Calcium,condition,0.0001411270761115
+8-10,Infection of tooth (disorder),730-inf,Calcium,condition,0.0008820442256974
+8-10,Infectious mediastinitis (disorder),730-inf,Calcium,condition,7.938398031277289e-05
+8-10,Influenza  seasonal  injectable  preservative free,7-14,Calcium,immunization,0.0003616381325359
+8-10,Influenza  seasonal  injectable  preservative free,14-30,Calcium,immunization,0.0001411270761115
+8-10,Influenza  seasonal  injectable  preservative free,30-60,Calcium,immunization,0.0007761989186137
+8-10,Influenza  seasonal  injectable  preservative free,60-90,Calcium,immunization,0.000679174053787
+8-10,Influenza  seasonal  injectable  preservative free,90-180,Calcium,immunization,0.0013318867808031
+8-10,Influenza  seasonal  injectable  preservative free,180-365,Calcium,immunization,0.0044631437820292
+8-10,Influenza  seasonal  injectable  preservative free,365-730,Calcium,immunization,0.0072945057465181
+8-10,Influenza  seasonal  injectable  preservative free,730-inf,Calcium,immunization,0.0210102934561138
+8-10,Injury of anterior cruciate ligament,365-730,Calcium,condition,8.820442256974765e-05
+8-10,Injury of anterior cruciate ligament,730-inf,Calcium,condition,1.7640884513949528e-05
+8-10,Injury of kidney (disorder),730-inf,Calcium,condition,6.174309579882335e-05
+8-10,Injury of knee (disorder),365-730,Calcium,condition,0.0001587679606255
+8-10,Injury of knee (disorder),730-inf,Calcium,condition,0.0001675884028825
+8-10,Injury of neck (disorder),30-60,Calcium,condition,3.5281769027899056e-05
+8-10,Injury of neck (disorder),60-90,Calcium,condition,3.5281769027899056e-05
+8-10,Injury of neck (disorder),730-inf,Calcium,condition,1.7640884513949528e-05
+8-10,Ischemic heart disease (disorder),180-365,Calcium,condition,1.7640884513949528e-05
+8-10,Ischemic heart disease (disorder),365-730,Calcium,condition,9.70248648267224e-05
+8-10,Ischemic heart disease (disorder),730-inf,Calcium,condition,0.0001764088451394
+8-10,Joint pain (finding),60-90,Calcium,condition,8.820442256974764e-06
+8-10,Joint pain (finding),730-inf,Calcium,condition,0.0001499475183685
+8-10,Kidney transplant failure and rejection (disorder),0-7,Calcium,condition,8.820442256974764e-06
+8-10,Kidney transplant failure and rejection (disorder),14-30,Calcium,condition,0.0001940497296534
+8-10,Kidney transplant failure and rejection (disorder),30-60,Calcium,condition,4.410221128487383e-05
+8-10,Kidney transplant failure and rejection (disorder),730-inf,Calcium,condition,2.646132677092429e-05
+8-10,Laceration - injury (disorder),30-60,Calcium,condition,1.7640884513949528e-05
+8-10,Laceration - injury (disorder),60-90,Calcium,condition,1.7640884513949528e-05
+8-10,Laceration - injury (disorder),90-180,Calcium,condition,4.410221128487383e-05
+8-10,Laceration - injury (disorder),365-730,Calcium,condition,7.938398031277289e-05
+8-10,Laceration - injury (disorder),730-inf,Calcium,condition,0.0004939447663905
+8-10,Laceration of foot,90-180,Calcium,condition,8.820442256974764e-06
+8-10,Laceration of foot,730-inf,Calcium,condition,8.820442256974764e-06
+8-10,Laceration of forearm,30-60,Calcium,condition,1.7640884513949528e-05
+8-10,Laceration of forearm,60-90,Calcium,condition,1.7640884513949528e-05
+8-10,Laceration of forearm,90-180,Calcium,condition,3.5281769027899056e-05
+8-10,Laceration of forearm,730-inf,Calcium,condition,2.646132677092429e-05
+8-10,Laceration of hand,365-730,Calcium,condition,7.056353805579811e-05
+8-10,Laceration of hand,730-inf,Calcium,condition,0.0003087154789941
+8-10,Laceration of thigh,365-730,Calcium,condition,8.820442256974764e-06
+8-10,Leaking dental filling (finding),90-180,Calcium,condition,8.820442256974764e-06
+8-10,Leaking dental filling (finding),180-365,Calcium,condition,0.0001234861915976
+8-10,Leaking dental filling (finding),365-730,Calcium,condition,7.938398031277289e-05
+8-10,Leaking dental filling (finding),730-inf,Calcium,condition,0.0001499475183685
+8-10,Limited social contact (finding),7-14,Calcium,condition,0.0001411270761115
+8-10,Limited social contact (finding),14-30,Calcium,condition,7.938398031277289e-05
+8-10,Limited social contact (finding),30-60,Calcium,condition,0.0001234861915976
+8-10,Limited social contact (finding),60-90,Calcium,condition,0.0001146657493406
+8-10,Limited social contact (finding),90-180,Calcium,condition,0.0002646132677092
+8-10,Limited social contact (finding),180-365,Calcium,condition,0.0009173259947253
+8-10,Limited social contact (finding),365-730,Calcium,condition,0.0011290166088927
+8-10,Limited social contact (finding),730-inf,Calcium,condition,0.0025138260432378
+8-10,Loose dental filling (finding),14-30,Calcium,condition,8.820442256974764e-06
+8-10,Loose dental filling (finding),30-60,Calcium,condition,3.5281769027899056e-05
+8-10,Loose dental filling (finding),60-90,Calcium,condition,8.820442256974764e-06
+8-10,Loose dental filling (finding),90-180,Calcium,condition,8.820442256974764e-06
+8-10,Loose dental filling (finding),180-365,Calcium,condition,1.7640884513949528e-05
+8-10,Loose dental filling (finding),365-730,Calcium,condition,0.0003616381325359
+8-10,Loose dental filling (finding),730-inf,Calcium,condition,0.0003087154789941
+8-10,Loss of taste (finding),60-90,Calcium,condition,8.820442256974764e-06
+8-10,Loss of taste (finding),180-365,Calcium,condition,3.5281769027899056e-05
+8-10,Loss of taste (finding),365-730,Calcium,condition,7.056353805579811e-05
+8-10,Loss of taste (finding),730-inf,Calcium,condition,1.7640884513949528e-05
+8-10,Loss of teeth (disorder),180-365,Calcium,condition,1.7640884513949528e-05
+8-10,Loss of teeth (disorder),730-inf,Calcium,condition,0.000335176805765
+8-10,MMR,180-365,Calcium,immunization,1.7640884513949528e-05
+8-10,MMR,365-730,Calcium,immunization,1.7640884513949528e-05
+8-10,MMR,730-inf,Calcium,immunization,1.7640884513949528e-05
+8-10,Medication review due (situation),7-14,Calcium,condition,0.0008203011298986
+8-10,Medication review due (situation),14-30,Calcium,condition,0.0008732237834405
+8-10,Medication review due (situation),30-60,Calcium,condition,0.0012966050117752
+8-10,Medication review due (situation),60-90,Calcium,condition,0.0010584530708369
+8-10,Medication review due (situation),90-180,Calcium,condition,0.0020551630458751
+8-10,Medication review due (situation),180-365,Calcium,condition,0.005230522258386
+8-10,Medication review due (situation),365-730,Calcium,condition,0.0086793151808631
+8-10,Medication review due (situation),730-inf,Calcium,condition,0.0257821527171372
+8-10,Metabolic syndrome X (disorder),7-14,Calcium,condition,4.410221128487383e-05
+8-10,Metabolic syndrome X (disorder),365-730,Calcium,condition,1.7640884513949528e-05
+8-10,Metabolic syndrome X (disorder),730-inf,Calcium,condition,0.0002646132677092
+8-10,Metastasis from malignant tumor of prostate (disorder),730-inf,Calcium,condition,0.0001146657493406
+8-10,Miscarriage in first trimester,30-60,Calcium,condition,2.646132677092429e-05
+8-10,Miscarriage in first trimester,60-90,Calcium,condition,1.7640884513949528e-05
+8-10,Miscarriage in first trimester,90-180,Calcium,condition,9.70248648267224e-05
+8-10,Miscarriage in first trimester,180-365,Calcium,condition,5.292265354184859e-05
+8-10,Miscarriage in first trimester,730-inf,Calcium,condition,1.7640884513949528e-05
+8-10,Miscarriage in second trimester,365-730,Calcium,condition,8.820442256974764e-06
+8-10,Miscarriage in second trimester,730-inf,Calcium,condition,8.820442256974764e-06
+8-10,Misuses drugs (finding),7-14,Calcium,condition,8.820442256974764e-06
+8-10,Misuses drugs (finding),90-180,Calcium,condition,1.7640884513949528e-05
+8-10,Misuses drugs (finding),180-365,Calcium,condition,7.056353805579811e-05
+8-10,Misuses drugs (finding),730-inf,Calcium,condition,0.0003087154789941
+8-10,Muscle pain (finding),60-90,Calcium,condition,8.820442256974764e-06
+8-10,Muscle pain (finding),730-inf,Calcium,condition,0.0001499475183685
+8-10,Myocardial infarction (disorder),90-180,Calcium,condition,2.646132677092429e-05
+8-10,Myocardial infarction (disorder),180-365,Calcium,condition,0.0001234861915976
+8-10,Myocardial infarction (disorder),730-inf,Calcium,condition,0.0001411270761115
+8-10,Neoplasm of prostate,365-730,Calcium,condition,2.646132677092429e-05
+8-10,Neoplasm of prostate,730-inf,Calcium,condition,8.820442256974765e-05
+8-10,Non-small cell carcinoma of lung  TNM stage 1 (disorder),365-730,Calcium,condition,0.0001146657493406
+8-10,Non-small cell carcinoma of lung  TNM stage 1 (disorder),730-inf,Calcium,condition,1.7640884513949528e-05
+8-10,Non-small cell lung cancer (disorder),365-730,Calcium,condition,0.0001146657493406
+8-10,Non-small cell lung cancer (disorder),730-inf,Calcium,condition,1.7640884513949528e-05
+8-10,Normal pregnancy,30-60,Calcium,condition,2.646132677092429e-05
+8-10,Normal pregnancy,60-90,Calcium,condition,1.7640884513949528e-05
+8-10,Normal pregnancy,90-180,Calcium,condition,0.0001058453070836
+8-10,Normal pregnancy,180-365,Calcium,condition,6.174309579882335e-05
+8-10,Normal pregnancy,365-730,Calcium,condition,0.0002293314986813
+8-10,Normal pregnancy,730-inf,Calcium,condition,0.0001058453070836
+8-10,Not in labor force (finding),7-14,Calcium,condition,0.0001323066338546
+8-10,Not in labor force (finding),14-30,Calcium,condition,0.0001234861915976
+8-10,Not in labor force (finding),30-60,Calcium,condition,0.0001940497296534
+8-10,Not in labor force (finding),60-90,Calcium,condition,0.0002822541522231
+8-10,Not in labor force (finding),90-180,Calcium,condition,0.0005645083044463
+8-10,Not in labor force (finding),180-365,Calcium,condition,0.0004763038818766
+8-10,Not in labor force (finding),365-730,Calcium,condition,0.001384809434345
+8-10,Not in labor force (finding),730-inf,Calcium,condition,0.0040397625536944
+8-10,Obstructive sleep apnea syndrome (disorder),180-365,Calcium,condition,8.820442256974764e-06
+8-10,Osteoarthritis of hip,30-60,Calcium,condition,8.820442256974764e-06
+8-10,Osteoarthritis of hip,730-inf,Calcium,condition,0.0001323066338546
+8-10,Osteoarthritis of knee,180-365,Calcium,condition,4.410221128487383e-05
+8-10,Osteoarthritis of knee,365-730,Calcium,condition,4.410221128487383e-05
+8-10,Osteoarthritis of knee,730-inf,Calcium,condition,3.5281769027899056e-05
+8-10,Osteoporosis (disorder),180-365,Calcium,condition,0.0001146657493406
+8-10,Osteoporosis (disorder),365-730,Calcium,condition,0.0001146657493406
+8-10,Osteoporosis (disorder),730-inf,Calcium,condition,2.646132677092429e-05
+8-10,Otitis media,90-180,Calcium,condition,8.820442256974764e-06
+8-10,Otitis media,365-730,Calcium,condition,8.820442256974764e-06
+8-10,Otitis media,730-inf,Calcium,condition,1.7640884513949528e-05
+8-10,Part-time employment (finding),7-14,Calcium,condition,0.0001764088451394
+8-10,Part-time employment (finding),14-30,Calcium,condition,0.0001234861915976
+8-10,Part-time employment (finding),30-60,Calcium,condition,0.0001323066338546
+8-10,Part-time employment (finding),60-90,Calcium,condition,0.0002469723831952
+8-10,Part-time employment (finding),90-180,Calcium,condition,0.0005997900734742
+8-10,Part-time employment (finding),180-365,Calcium,condition,0.0014818342991717
+8-10,Part-time employment (finding),365-730,Calcium,condition,0.0015347569527136
+8-10,Part-time employment (finding),730-inf,Calcium,condition,0.0070387129210658
+8-10,Pathological fracture due to osteoporosis (disorder),365-730,Calcium,condition,0.0001499475183685
+8-10,Pathological fracture due to osteoporosis (disorder),730-inf,Calcium,condition,0.0001058453070836
+8-10,Pneumococcal conjugate PCV 13,30-60,Calcium,immunization,1.7640884513949528e-05
+8-10,Pneumococcal conjugate PCV 13,60-90,Calcium,immunization,2.646132677092429e-05
+8-10,Pneumococcal conjugate PCV 13,90-180,Calcium,immunization,1.7640884513949528e-05
+8-10,Pneumococcal conjugate PCV 13,180-365,Calcium,immunization,5.292265354184859e-05
+8-10,Pneumococcal conjugate PCV 13,365-730,Calcium,immunization,0.0001852292873964
+8-10,Pneumococcal conjugate PCV 13,730-inf,Calcium,immunization,2.646132677092429e-05
+8-10,Pneumonia (disorder),730-inf,Calcium,condition,0.0001587679606255
+8-10,Polyp of colon,90-180,Calcium,condition,8.820442256974764e-06
+8-10,Polyp of colon,180-365,Calcium,condition,0.0001323066338546
+8-10,Polyp of colon,365-730,Calcium,condition,0.0003087154789941
+8-10,Polyp of colon,730-inf,Calcium,condition,0.0002293314986813
+8-10,Posttraumatic stress disorder,365-730,Calcium,condition,8.820442256974764e-06
+8-10,Prediabetes,90-180,Calcium,condition,9.70248648267224e-05
+8-10,Prediabetes,180-365,Calcium,condition,8.820442256974764e-06
+8-10,Prediabetes,365-730,Calcium,condition,8.820442256974764e-06
+8-10,Prediabetes,730-inf,Calcium,condition,2.646132677092429e-05
+8-10,Preeclampsia,365-730,Calcium,condition,8.820442256974764e-06
+8-10,Preeclampsia,730-inf,Calcium,condition,8.820442256974764e-06
+8-10,Primary dental caries (disorder),7-14,Calcium,condition,8.820442256974764e-06
+8-10,Primary dental caries (disorder),14-30,Calcium,condition,1.7640884513949528e-05
+8-10,Primary dental caries (disorder),30-60,Calcium,condition,4.410221128487383e-05
+8-10,Primary dental caries (disorder),60-90,Calcium,condition,8.820442256974764e-06
+8-10,Primary dental caries (disorder),90-180,Calcium,condition,0.0001852292873964
+8-10,Primary dental caries (disorder),180-365,Calcium,condition,0.0002557928254522
+8-10,Primary dental caries (disorder),365-730,Calcium,condition,0.0001323066338546
+8-10,Primary dental caries (disorder),730-inf,Calcium,condition,0.0019669586233053
+8-10,Primary malignant neoplasm of colon,365-730,Calcium,condition,8.820442256974764e-06
+8-10,Protracted diarrhea,365-730,Calcium,condition,3.5281769027899056e-05
+8-10,Protracted diarrhea,730-inf,Calcium,condition,5.292265354184859e-05
+8-10,Pulmonary emphysema (disorder),730-inf,Calcium,condition,8.820442256974764e-06
+8-10,Recurrent rectal polyp,730-inf,Calcium,condition,8.820442256974764e-06
+8-10,Recurrent urinary tract infection (disorder),730-inf,Calcium,condition,0.0001675884028825
+8-10,Refugee (person),7-14,Calcium,condition,8.820442256974764e-06
+8-10,Refugee (person),14-30,Calcium,condition,1.7640884513949528e-05
+8-10,Refugee (person),30-60,Calcium,condition,1.7640884513949528e-05
+8-10,Refugee (person),90-180,Calcium,condition,3.5281769027899056e-05
+8-10,Refugee (person),365-730,Calcium,condition,8.820442256974764e-06
+8-10,Refugee (person),730-inf,Calcium,condition,8.820442256974764e-06
+8-10,Reports of violence in the environment (finding),7-14,Calcium,condition,7.056353805579811e-05
+8-10,Reports of violence in the environment (finding),14-30,Calcium,condition,6.174309579882335e-05
+8-10,Reports of violence in the environment (finding),30-60,Calcium,condition,0.0001675884028825
+8-10,Reports of violence in the environment (finding),60-90,Calcium,condition,0.0001323066338546
+8-10,Reports of violence in the environment (finding),90-180,Calcium,condition,0.0002557928254522
+8-10,Reports of violence in the environment (finding),180-365,Calcium,condition,0.0007320967073289
+8-10,Reports of violence in the environment (finding),365-730,Calcium,condition,0.0009790690905241
+8-10,Reports of violence in the environment (finding),730-inf,Calcium,condition,0.0025843895812936
+8-10,Resorption of alveolar process due to dental trauma (disorder),730-inf,Calcium,condition,7.056353805579811e-05
+8-10,Respiratory distress (finding),730-inf,Calcium,condition,0.0001587679606255
+8-10,Rupture of patellar tendon,730-inf,Calcium,condition,0.0001411270761115
+8-10,Secondary malignant neoplasm of colon,730-inf,Calcium,condition,8.820442256974765e-05
+8-10,Sepsis (disorder),365-730,Calcium,condition,8.820442256974765e-05
+8-10,Sepsis (disorder),730-inf,Calcium,condition,8.820442256974764e-06
+8-10,Sepsis caused by virus (disorder),730-inf,Calcium,condition,6.174309579882335e-05
+8-10,Septic shock (disorder),365-730,Calcium,condition,8.820442256974765e-05
+8-10,Septic shock (disorder),730-inf,Calcium,condition,8.820442256974764e-06
+8-10,Severe anxiety (panic) (finding),7-14,Calcium,condition,2.646132677092429e-05
+8-10,Severe anxiety (panic) (finding),30-60,Calcium,condition,8.820442256974764e-06
+8-10,Severe anxiety (panic) (finding),180-365,Calcium,condition,3.5281769027899056e-05
+8-10,Severe anxiety (panic) (finding),365-730,Calcium,condition,9.70248648267224e-05
+8-10,Severe anxiety (panic) (finding),730-inf,Calcium,condition,0.0002646132677092
+8-10,Sinusitis (disorder),0-7,Calcium,condition,8.820442256974764e-06
+8-10,Sinusitis (disorder),7-14,Calcium,condition,8.820442256974764e-06
+8-10,Sinusitis (disorder),30-60,Calcium,condition,1.7640884513949528e-05
+8-10,Sinusitis (disorder),60-90,Calcium,condition,8.820442256974764e-06
+8-10,Sinusitis (disorder),90-180,Calcium,condition,0.0001587679606255
+8-10,Sinusitis (disorder),730-inf,Calcium,condition,0.0002557928254522
+8-10,Sleep disorder (disorder),90-180,Calcium,condition,8.820442256974764e-06
+8-10,Smokes tobacco daily,365-730,Calcium,condition,7.938398031277289e-05
+8-10,Smokes tobacco daily,730-inf,Calcium,condition,8.820442256974764e-06
+8-10,Social isolation (finding),7-14,Calcium,condition,0.0001411270761115
+8-10,Social isolation (finding),14-30,Calcium,condition,0.0001146657493406
+8-10,Social isolation (finding),30-60,Calcium,condition,0.0001411270761115
+8-10,Social isolation (finding),60-90,Calcium,condition,7.056353805579811e-05
+8-10,Social isolation (finding),90-180,Calcium,condition,0.0002910745944801
+8-10,Social isolation (finding),180-365,Calcium,condition,0.0005468674199324
+8-10,Social isolation (finding),365-730,Calcium,condition,0.0012613232427473
+8-10,Social isolation (finding),730-inf,Calcium,condition,0.003828071939527
+8-10,Sore throat symptom (finding),730-inf,Calcium,condition,5.292265354184859e-05
+8-10,Sprain (morphologic abnormality),60-90,Calcium,condition,8.820442256974764e-06
+8-10,Sprain (morphologic abnormality),90-180,Calcium,condition,8.820442256974764e-06
+8-10,Sprain (morphologic abnormality),180-365,Calcium,condition,7.056353805579811e-05
+8-10,Sprain (morphologic abnormality),730-inf,Calcium,condition,0.0003616381325359
+8-10,Sprain of ankle,60-90,Calcium,condition,8.820442256974764e-06
+8-10,Sprain of ankle,90-180,Calcium,condition,8.820442256974764e-06
+8-10,Sprain of ankle,180-365,Calcium,condition,7.056353805579811e-05
+8-10,Sprain of ankle,730-inf,Calcium,condition,0.0003528176902789
+8-10,Sprain of wrist,730-inf,Calcium,condition,8.820442256974764e-06
+8-10,Sputum finding (finding),730-inf,Calcium,condition,7.056353805579811e-05
+8-10,Streptococcal sore throat (disorder),7-14,Calcium,condition,6.174309579882335e-05
+8-10,Streptococcal sore throat (disorder),60-90,Calcium,condition,8.820442256974764e-06
+8-10,Streptococcal sore throat (disorder),365-730,Calcium,condition,7.938398031277289e-05
+8-10,Streptococcal sore throat (disorder),730-inf,Calcium,condition,0.0002116906141673
+8-10,Stress (finding),7-14,Calcium,condition,0.000343997248022
+8-10,Stress (finding),14-30,Calcium,condition,0.0002822541522231
+8-10,Stress (finding),30-60,Calcium,condition,0.0004674834396196
+8-10,Stress (finding),60-90,Calcium,condition,0.000696814938301
+8-10,Stress (finding),90-180,Calcium,condition,0.0009349668792393
+8-10,Stress (finding),180-365,Calcium,condition,0.0020551630458751
+8-10,Stress (finding),365-730,Calcium,condition,0.0037575084014712
+8-10,Stress (finding),730-inf,Calcium,condition,0.0118105721820892
+8-10,Stroke,730-inf,Calcium,condition,7.938398031277289e-05
+8-10,Suspected COVID-19,60-90,Calcium,condition,8.820442256974764e-06
+8-10,Suspected COVID-19,180-365,Calcium,condition,3.5281769027899056e-05
+8-10,Suspected COVID-19,365-730,Calcium,condition,7.938398031277289e-05
+8-10,Suspected COVID-19,730-inf,Calcium,condition,0.0003969199015638
+8-10,Suspected lung cancer (situation),365-730,Calcium,condition,0.0001234861915976
+8-10,Suspected lung cancer (situation),730-inf,Calcium,condition,8.820442256974764e-06
+8-10,Suspected prostate cancer (situation),90-180,Calcium,condition,8.820442256974764e-06
+8-10,Suspected prostate cancer (situation),365-730,Calcium,condition,3.5281769027899056e-05
+8-10,Suspected prostate cancer (situation),730-inf,Calcium,condition,8.820442256974765e-05
+8-10,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,7-14,Calcium,immunization,8.820442256974764e-06
+8-10,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,90-180,Calcium,immunization,2.646132677092429e-05
+8-10,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,180-365,Calcium,immunization,0.0004057403438208
+8-10,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,365-730,Calcium,immunization,0.0005733287467033
+8-10,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,730-inf,Calcium,immunization,0.0023197763135843
+8-10,Tear of meniscus of knee,365-730,Calcium,condition,7.056353805579811e-05
+8-10,Tear of meniscus of knee,730-inf,Calcium,condition,8.820442256974764e-06
+8-10,Third degree burn,365-730,Calcium,condition,0.0001234861915976
+8-10,Third degree burn,730-inf,Calcium,condition,8.820442256974764e-06
+8-10,Tongue tie (disorder),730-inf,Calcium,condition,8.820442256974765e-05
+8-10,Torus palatinus (disorder),730-inf,Calcium,condition,0.0001587679606255
+8-10,Transformed migraine (disorder),90-180,Calcium,condition,7.938398031277289e-05
+8-10,Transformed migraine (disorder),730-inf,Calcium,condition,0.0001411270761115
+8-10,Traumatic dislocation of temporomandibular joint (disorder),365-730,Calcium,condition,8.820442256974764e-06
+8-10,Unemployed (finding),7-14,Calcium,condition,3.5281769027899056e-05
+8-10,Unemployed (finding),90-180,Calcium,condition,4.410221128487383e-05
+8-10,Unemployed (finding),180-365,Calcium,condition,0.0004057403438208
+8-10,Unemployed (finding),365-730,Calcium,condition,0.0004322016705917
+8-10,Unemployed (finding),730-inf,Calcium,condition,0.0014641934146578
+8-10,Unhealthy alcohol drinking behavior (finding),14-30,Calcium,condition,8.820442256974764e-06
+8-10,Unhealthy alcohol drinking behavior (finding),30-60,Calcium,condition,8.820442256974764e-06
+8-10,Unhealthy alcohol drinking behavior (finding),90-180,Calcium,condition,4.410221128487383e-05
+8-10,Unhealthy alcohol drinking behavior (finding),180-365,Calcium,condition,0.0002469723831952
+8-10,Unhealthy alcohol drinking behavior (finding),365-730,Calcium,condition,6.174309579882335e-05
+8-10,Unhealthy alcohol drinking behavior (finding),730-inf,Calcium,condition,0.0003616381325359
+8-10,Victim of intimate partner abuse (finding),7-14,Calcium,condition,1.7640884513949528e-05
+8-10,Victim of intimate partner abuse (finding),14-30,Calcium,condition,8.820442256974765e-05
+8-10,Victim of intimate partner abuse (finding),30-60,Calcium,condition,6.174309579882335e-05
+8-10,Victim of intimate partner abuse (finding),60-90,Calcium,condition,7.938398031277289e-05
+8-10,Victim of intimate partner abuse (finding),90-180,Calcium,condition,0.0002910745944801
+8-10,Victim of intimate partner abuse (finding),180-365,Calcium,condition,0.0006086105157312
+8-10,Victim of intimate partner abuse (finding),365-730,Calcium,condition,0.0007232762650719
+8-10,Victim of intimate partner abuse (finding),730-inf,Calcium,condition,0.0032723840773376
+8-10,Viral sinusitis (disorder),0-7,Calcium,condition,7.056353805579811e-05
+8-10,Viral sinusitis (disorder),7-14,Calcium,condition,5.292265354184859e-05
+8-10,Viral sinusitis (disorder),14-30,Calcium,condition,0.0001675884028825
+8-10,Viral sinusitis (disorder),30-60,Calcium,condition,0.0001058453070836
+8-10,Viral sinusitis (disorder),60-90,Calcium,condition,8.820442256974764e-06
+8-10,Viral sinusitis (disorder),90-180,Calcium,condition,8.820442256974765e-05
+8-10,Viral sinusitis (disorder),180-365,Calcium,condition,0.0010672735130939
+8-10,Viral sinusitis (disorder),365-730,Calcium,condition,0.000696814938301
+8-10,Viral sinusitis (disorder),730-inf,Calcium,condition,0.002063983488132
+8-10,Wheezing (finding),60-90,Calcium,condition,8.820442256974764e-06
+8-10,Wheezing (finding),180-365,Calcium,condition,3.5281769027899056e-05
+8-10,Wheezing (finding),365-730,Calcium,condition,7.938398031277289e-05
+8-10,Wheezing (finding),730-inf,Calcium,condition,0.0001058453070836
+8-10,Whiplash injury to neck,30-60,Calcium,condition,3.5281769027899056e-05
+8-10,Whiplash injury to neck,60-90,Calcium,condition,3.5281769027899056e-05
+8-10,Whiplash injury to neck,730-inf,Calcium,condition,1.7640884513949528e-05
+8-10,pneumococcal polysaccharide vaccine  23 valent,30-60,Calcium,immunization,8.820442256974764e-06
+8-10,pneumococcal polysaccharide vaccine  23 valent,60-90,Calcium,immunization,3.5281769027899056e-05
+8-10,pneumococcal polysaccharide vaccine  23 valent,90-180,Calcium,immunization,5.292265354184859e-05
+8-10,pneumococcal polysaccharide vaccine  23 valent,180-365,Calcium,immunization,8.820442256974765e-05
+8-10,pneumococcal polysaccharide vaccine  23 valent,365-730,Calcium,immunization,0.0001764088451394
+8-10,pneumococcal polysaccharide vaccine  23 valent,730-inf,Calcium,immunization,0.0001499475183685
+8-10,rotavirus  monovalent,30-60,Calcium,immunization,8.820442256974764e-06
+8-10,rotavirus  monovalent,90-180,Calcium,immunization,8.820442256974764e-06
+8-10,varicella,180-365,Calcium,immunization,8.820442256974764e-06
+8-10,varicella,365-730,Calcium,immunization,1.7640884513949528e-05
+8-10,varicella,730-inf,Calcium,immunization,8.820442256974764e-06
+8-10,zoster vaccine  live,90-180,Calcium,immunization,3.5281769027899056e-05
+8-10,zoster vaccine  live,180-365,Calcium,immunization,7.938398031277289e-05
+8-10,zoster vaccine  live,365-730,Calcium,immunization,0.0002028701719104
+8-10,zoster vaccine  live,730-inf,Calcium,immunization,0.0009261464369823
+0-8.5,0-150,0-0,Calcium,Body Height,0.0
+0-8.5,150-170,0-0,Calcium,Body Height,0.0
+0-8.5,170-190,0-0,Calcium,Body Height,0.0
+0-8.5,190-inf,0-0,Calcium,Body Height,0.0
+8.5-10.2,0-150,0-0,Calcium,Body Height,0.0
+8.5-10.2,150-170,0-0,Calcium,Body Height,0.0
+8.5-10.2,170-190,0-0,Calcium,Body Height,0.0
+8.5-10.2,190-inf,0-0,Calcium,Body Height,0.0
+10.2-inf,0-150,0-0,Calcium,Body Height,0.0
+10.2-inf,150-170,0-0,Calcium,Body Height,0.0
+10.2-inf,170-190,0-0,Calcium,Body Height,0.0
+10.2-inf,190-inf,0-0,Calcium,Body Height,0.0
+0-8.5,0-36.0,0-0,Calcium,Body Temperature,0.0
+0-8.5,36.0-37.5,0-0,Calcium,Body Temperature,0.0
+0-8.5,37.5-inf,0-0,Calcium,Body Temperature,0.0
+8.5-10.2,0-36.0,0-0,Calcium,Body Temperature,0.0
+8.5-10.2,36.0-37.5,0-0,Calcium,Body Temperature,0.0
+8.5-10.2,37.5-inf,0-0,Calcium,Body Temperature,0.0
+10.2-inf,0-36.0,0-0,Calcium,Body Temperature,0.0
+10.2-inf,36.0-37.5,0-0,Calcium,Body Temperature,0.0
+10.2-inf,37.5-inf,0-0,Calcium,Body Temperature,0.0
+0-8.5,0-50,0-0,Calcium,Body Weight,0.0
+0-8.5,50-70,0-0,Calcium,Body Weight,0.0
+0-8.5,70-90,0-0,Calcium,Body Weight,0.0
+0-8.5,90-inf,0-0,Calcium,Body Weight,0.0
+8.5-10.2,0-50,0-0,Calcium,Body Weight,0.0
+8.5-10.2,50-70,0-0,Calcium,Body Weight,0.0
+8.5-10.2,70-90,0-0,Calcium,Body Weight,0.0
+8.5-10.2,90-inf,0-0,Calcium,Body Weight,0.0
+10.2-inf,0-50,0-0,Calcium,Body Weight,0.0
+10.2-inf,50-70,0-0,Calcium,Body Weight,0.0
+10.2-inf,70-90,0-0,Calcium,Body Weight,0.0
+10.2-inf,90-inf,0-0,Calcium,Body Weight,0.0
+0-8.5,0-18.5,0-0,Calcium,BMI (Body Mass Index),0.0
+0-8.5,18.5-24.9,0-0,Calcium,BMI (Body Mass Index),0.0
+0-8.5,24.9-29.9,0-0,Calcium,BMI (Body Mass Index),0.0
+0-8.5,29.9-34.9,0-0,Calcium,BMI (Body Mass Index),0.0
+0-8.5,34.9-inf,0-0,Calcium,BMI (Body Mass Index),0.0
+8.5-10.2,0-18.5,0-0,Calcium,BMI (Body Mass Index),0.0
+8.5-10.2,18.5-24.9,0-0,Calcium,BMI (Body Mass Index),0.0
+8.5-10.2,24.9-29.9,0-0,Calcium,BMI (Body Mass Index),0.0
+8.5-10.2,29.9-34.9,0-0,Calcium,BMI (Body Mass Index),0.0
+8.5-10.2,34.9-inf,0-0,Calcium,BMI (Body Mass Index),0.0
+10.2-inf,0-18.5,0-0,Calcium,BMI (Body Mass Index),0.0
+10.2-inf,18.5-24.9,0-0,Calcium,BMI (Body Mass Index),0.0
+10.2-inf,24.9-29.9,0-0,Calcium,BMI (Body Mass Index),0.0
+10.2-inf,29.9-34.9,0-0,Calcium,BMI (Body Mass Index),0.0
+10.2-inf,34.9-inf,0-0,Calcium,BMI (Body Mass Index),0.0
+0-8.5,0-8.5,0-0,Calcium,Calcium,0.0
+0-8.5,8.5-10.2,0-0,Calcium,Calcium,0.0
+0-8.5,10.2-inf,0-0,Calcium,Calcium,0.0
+8.5-10.2,0-8.5,0-0,Calcium,Calcium,0.0
+8.5-10.2,8.5-10.2,0-0,Calcium,Calcium,0.0
+8.5-10.2,10.2-inf,0-0,Calcium,Calcium,0.0
+10.2-inf,0-8.5,0-0,Calcium,Calcium,0.0
+10.2-inf,8.5-10.2,0-0,Calcium,Calcium,0.0
+10.2-inf,10.2-inf,0-0,Calcium,Calcium,0.0
+0-8.5,0-60,0-0,Calcium,Diastolic Blood Pressure,0.0
+0-8.5,60-80,0-0,Calcium,Diastolic Blood Pressure,0.0
+0-8.5,80-90,0-0,Calcium,Diastolic Blood Pressure,0.0
+0-8.5,90-inf,0-0,Calcium,Diastolic Blood Pressure,0.0
+8.5-10.2,0-60,0-0,Calcium,Diastolic Blood Pressure,0.0
+8.5-10.2,60-80,0-0,Calcium,Diastolic Blood Pressure,0.0
+8.5-10.2,80-90,0-0,Calcium,Diastolic Blood Pressure,0.0
+8.5-10.2,90-inf,0-0,Calcium,Diastolic Blood Pressure,0.0
+10.2-inf,0-60,0-0,Calcium,Diastolic Blood Pressure,0.0
+10.2-inf,60-80,0-0,Calcium,Diastolic Blood Pressure,0.0
+10.2-inf,80-90,0-0,Calcium,Diastolic Blood Pressure,0.0
+10.2-inf,90-inf,0-0,Calcium,Diastolic Blood Pressure,0.0
+0-8.5,0-70,0-0,Calcium,Glucose,0.0
+0-8.5,70-99,0-0,Calcium,Glucose,0.0
+0-8.5,99-125,0-0,Calcium,Glucose,0.0
+0-8.5,125-inf,0-0,Calcium,Glucose,0.0
+8.5-10.2,0-70,0-0,Calcium,Glucose,0.0
+8.5-10.2,70-99,0-0,Calcium,Glucose,0.0
+8.5-10.2,99-125,0-0,Calcium,Glucose,0.0
+8.5-10.2,125-inf,0-0,Calcium,Glucose,0.0
+10.2-inf,0-70,0-0,Calcium,Glucose,0.0
+10.2-inf,70-99,0-0,Calcium,Glucose,0.0
+10.2-inf,99-125,0-0,Calcium,Glucose,0.0
+10.2-inf,125-inf,0-0,Calcium,Glucose,0.0
+0-8.5,0-12.0,0-0,Calcium,Hemoglobin,0.0
+0-8.5,12.0-16.0,0-0,Calcium,Hemoglobin,0.0
+0-8.5,16.0-inf,0-0,Calcium,Hemoglobin,0.0
+8.5-10.2,0-12.0,0-0,Calcium,Hemoglobin,0.0
+8.5-10.2,12.0-16.0,0-0,Calcium,Hemoglobin,0.0
+8.5-10.2,16.0-inf,0-0,Calcium,Hemoglobin,0.0
+10.2-inf,0-12.0,0-0,Calcium,Hemoglobin,0.0
+10.2-inf,12.0-16.0,0-0,Calcium,Hemoglobin,0.0
+10.2-inf,16.0-inf,0-0,Calcium,Hemoglobin,0.0
+0-8.5,0-60,0-0,Calcium,Heart Rate,0.0
+0-8.5,60-100,0-0,Calcium,Heart Rate,0.0
+0-8.5,100-inf,0-0,Calcium,Heart Rate,0.0
+8.5-10.2,0-60,0-0,Calcium,Heart Rate,0.0
+8.5-10.2,60-100,0-0,Calcium,Heart Rate,0.0
+8.5-10.2,100-inf,0-0,Calcium,Heart Rate,0.0
+10.2-inf,0-60,0-0,Calcium,Heart Rate,0.0
+10.2-inf,60-100,0-0,Calcium,Heart Rate,0.0
+10.2-inf,100-inf,0-0,Calcium,Heart Rate,0.0
+0-8.5,0-90,0-0,Calcium,Oxygen Saturation,0.0
+0-8.5,90-95,0-0,Calcium,Oxygen Saturation,0.0
+0-8.5,95-inf,0-0,Calcium,Oxygen Saturation,0.0
+8.5-10.2,0-90,0-0,Calcium,Oxygen Saturation,0.0
+8.5-10.2,90-95,0-0,Calcium,Oxygen Saturation,0.0
+8.5-10.2,95-inf,0-0,Calcium,Oxygen Saturation,0.0
+10.2-inf,0-90,0-0,Calcium,Oxygen Saturation,0.0
+10.2-inf,90-95,0-0,Calcium,Oxygen Saturation,0.0
+10.2-inf,95-inf,0-0,Calcium,Oxygen Saturation,0.0
+0-8.5,0-150,0-0,Calcium,Platelet Count,0.0
+0-8.5,150-450,0-0,Calcium,Platelet Count,0.0
+0-8.5,450-inf,0-0,Calcium,Platelet Count,0.0
+8.5-10.2,0-150,0-0,Calcium,Platelet Count,0.0
+8.5-10.2,150-450,0-0,Calcium,Platelet Count,0.0
+8.5-10.2,450-inf,0-0,Calcium,Platelet Count,0.0
+10.2-inf,0-150,0-0,Calcium,Platelet Count,0.0
+10.2-inf,150-450,0-0,Calcium,Platelet Count,0.0
+10.2-inf,450-inf,0-0,Calcium,Platelet Count,0.0
+0-8.5,0-3.5,0-0,Calcium,Potassium,0.0
+0-8.5,3.5-5.0,0-0,Calcium,Potassium,0.0
+0-8.5,5.0-inf,0-0,Calcium,Potassium,0.0
+8.5-10.2,0-3.5,0-0,Calcium,Potassium,0.0
+8.5-10.2,3.5-5.0,0-0,Calcium,Potassium,0.0
+8.5-10.2,5.0-inf,0-0,Calcium,Potassium,0.0
+10.2-inf,0-3.5,0-0,Calcium,Potassium,0.0
+10.2-inf,3.5-5.0,0-0,Calcium,Potassium,0.0
+10.2-inf,5.0-inf,0-0,Calcium,Potassium,0.0
+0-8.5,0-12,0-0,Calcium,Respiratory Rate,0.0
+0-8.5,12-20,0-0,Calcium,Respiratory Rate,0.0
+0-8.5,20-inf,0-0,Calcium,Respiratory Rate,0.0
+8.5-10.2,0-12,0-0,Calcium,Respiratory Rate,0.0
+8.5-10.2,12-20,0-0,Calcium,Respiratory Rate,0.0
+8.5-10.2,20-inf,0-0,Calcium,Respiratory Rate,0.0
+10.2-inf,0-12,0-0,Calcium,Respiratory Rate,0.0
+10.2-inf,12-20,0-0,Calcium,Respiratory Rate,0.0
+10.2-inf,20-inf,0-0,Calcium,Respiratory Rate,0.0
+0-8.5,0-135,0-0,Calcium,Sodium,0.0
+0-8.5,135-145,0-0,Calcium,Sodium,0.0
+0-8.5,145-inf,0-0,Calcium,Sodium,0.0
+8.5-10.2,0-135,0-0,Calcium,Sodium,0.0
+8.5-10.2,135-145,0-0,Calcium,Sodium,0.0
+8.5-10.2,145-inf,0-0,Calcium,Sodium,0.0
+10.2-inf,0-135,0-0,Calcium,Sodium,0.0
+10.2-inf,135-145,0-0,Calcium,Sodium,0.0
+10.2-inf,145-inf,0-0,Calcium,Sodium,0.0
+0-8.5,0-90,0-0,Calcium,Systolic Blood Pressure,0.0
+0-8.5,90-120,0-0,Calcium,Systolic Blood Pressure,0.0
+0-8.5,120-140,0-0,Calcium,Systolic Blood Pressure,0.0
+0-8.5,140-inf,0-0,Calcium,Systolic Blood Pressure,0.0
+8.5-10.2,0-90,0-0,Calcium,Systolic Blood Pressure,0.0
+8.5-10.2,90-120,0-0,Calcium,Systolic Blood Pressure,0.0
+8.5-10.2,120-140,0-0,Calcium,Systolic Blood Pressure,0.0
+8.5-10.2,140-inf,0-0,Calcium,Systolic Blood Pressure,0.0
+10.2-inf,0-90,0-0,Calcium,Systolic Blood Pressure,0.0
+10.2-inf,90-120,0-0,Calcium,Systolic Blood Pressure,0.0
+10.2-inf,120-140,0-0,Calcium,Systolic Blood Pressure,0.0
+10.2-inf,140-inf,0-0,Calcium,Systolic Blood Pressure,0.0

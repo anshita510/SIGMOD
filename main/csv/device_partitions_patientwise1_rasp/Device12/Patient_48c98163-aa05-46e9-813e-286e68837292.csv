@@ -1,0 +1,31 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2010-10-06,,48c98163-aa05-46e9-813e-286e68837292,4a25f5cb-a9c4-5c22-82a3-ecf6c226f848,http://snomed.info/sct,271737000,Anemia (disorder),,,,,
+,,48c98163-aa05-46e9-813e-286e68837292,ca55558d-9009-0fbd-7f45-0d56129e7038,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2014-12-09T19:11:31Z,laboratory,5.9,%,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,ca55558d-9009-0fbd-7f45-0d56129e7038,,718-7,Hemoglobin [Mass/volume] in Blood,2014-12-09T19:11:31Z,laboratory,16.7,g/dL,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,0a3fffea-ab58-4ea6-accb-fa6034671b2d,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2015-12-15T19:11:31Z,laboratory,6.2,%,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,63d104bc-2b66-054c-16a0-ff0b76777cef,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2016-12-20T19:11:31Z,laboratory,6.0,%,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,43810680-c889-ce48-a6f9-89c2c9c3d785,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2017-12-26T19:11:31Z,laboratory,5.9,%,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,4eed6ed6-805a-bafa-3e55-7304242f7427,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2019-01-01T19:11:31Z,laboratory,6.2,%,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,646a4684-8e6d-4afe-84da-d37a49d7f902,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2020-01-07T19:11:31Z,laboratory,6.1,%,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,646a4684-8e6d-4afe-84da-d37a49d7f902,,718-7,Hemoglobin [Mass/volume] in Blood,2020-01-07T19:11:31Z,laboratory,12.5,g/dL,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,1fa95448-4e0a-ccea-07c3-da936d27d23a,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2021-01-12T19:11:31Z,laboratory,6.2,%,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,66036734-4f7c-e5d6-bada-5bc7a9beaee1,,718-7,Hemoglobin [Mass/volume] in Blood,2021-02-09T20:17:39Z,laboratory,12.5,g/dL,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,66036734-4f7c-e5d6-bada-5bc7a9beaee1,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2021-02-09T20:17:39Z,laboratory,6.4,%,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,66036734-4f7c-e5d6-bada-5bc7a9beaee1,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2021-02-09T20:17:39Z,laboratory,0.0,{presence},numeric
+,,48c98163-aa05-46e9-813e-286e68837292,d29aa7b5-a551-749c-1608-3bf0f30cb7a8,,718-7,Hemoglobin [Mass/volume] in Blood,2021-02-10T03:22:58Z,laboratory,17.0,g/dL,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,d29aa7b5-a551-749c-1608-3bf0f30cb7a8,,718-7,Hemoglobin [Mass/volume] in Blood,2021-02-10T16:03:29Z,laboratory,13.4,g/dL,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,d29aa7b5-a551-749c-1608-3bf0f30cb7a8,,718-7,Hemoglobin [Mass/volume] in Blood,2021-02-11T04:03:29Z,laboratory,15.4,g/dL,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,d29aa7b5-a551-749c-1608-3bf0f30cb7a8,,718-7,Hemoglobin [Mass/volume] in Blood,2021-02-11T16:44:13Z,laboratory,11.5,g/dL,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,d29aa7b5-a551-749c-1608-3bf0f30cb7a8,,718-7,Hemoglobin [Mass/volume] in Blood,2021-02-12T04:44:13Z,laboratory,11.6,g/dL,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,d29aa7b5-a551-749c-1608-3bf0f30cb7a8,,718-7,Hemoglobin [Mass/volume] in Blood,2021-02-12T17:26:13Z,laboratory,15.1,g/dL,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,d29aa7b5-a551-749c-1608-3bf0f30cb7a8,,718-7,Hemoglobin [Mass/volume] in Blood,2021-02-13T05:26:13Z,laboratory,17.6,g/dL,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,d29aa7b5-a551-749c-1608-3bf0f30cb7a8,,718-7,Hemoglobin [Mass/volume] in Blood,2021-02-13T18:15:28Z,laboratory,16.0,g/dL,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,d29aa7b5-a551-749c-1608-3bf0f30cb7a8,,718-7,Hemoglobin [Mass/volume] in Blood,2021-02-14T06:15:28Z,laboratory,16.7,g/dL,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,d29aa7b5-a551-749c-1608-3bf0f30cb7a8,,718-7,Hemoglobin [Mass/volume] in Blood,2021-02-14T18:56:21Z,laboratory,12.5,g/dL,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,d29aa7b5-a551-749c-1608-3bf0f30cb7a8,,718-7,Hemoglobin [Mass/volume] in Blood,2021-02-15T06:56:21Z,laboratory,15.2,g/dL,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,d29aa7b5-a551-749c-1608-3bf0f30cb7a8,,718-7,Hemoglobin [Mass/volume] in Blood,2021-02-15T19:44:31Z,laboratory,14.3,g/dL,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,d29aa7b5-a551-749c-1608-3bf0f30cb7a8,,718-7,Hemoglobin [Mass/volume] in Blood,2021-02-16T07:44:31Z,laboratory,14.8,g/dL,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,d29aa7b5-a551-749c-1608-3bf0f30cb7a8,,718-7,Hemoglobin [Mass/volume] in Blood,2021-02-16T20:33:46Z,laboratory,17.1,g/dL,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,890ff2a2-c179-6be0-a900-651eab847266,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2022-01-18T19:11:31Z,laboratory,6.4,%,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,85391c85-d68f-264a-523c-545a751d0865,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2023-01-24T19:11:31Z,laboratory,6.2,%,numeric
+,,48c98163-aa05-46e9-813e-286e68837292,e9659115-2103-7bee-d670-9273010db8e9,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2024-01-30T19:11:31Z,laboratory,6.3,%,numeric

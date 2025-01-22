@@ -1,0 +1,2 @@
+Timestamp,Disease Name,Patient ID,Initiator Device,Final Device,Experiment ID,No. of Devices Accessed,Chain Data,Total Time (T),Cached TPHG Load Time (t1),Backward Viterbi Time (t2),Fallback Path Time (t_fallback),Time per Device (t_dash),Memory Usage (MB),CPU Usage (%),RAM Usage (MB),Energy Consumption (J),current_device
+2025-01-14 23:05:00.5,['Stroke'],8a2ab9dc-d34e-9f31-9a98-14bcf27330c7,Device20,,Exp_8a2ab9dc-d34e-9f31-9a98-14bcf27330c7_20250114230500,,"[['Stroke', 'Stroke', 1.0, 0, 'Device20']]",0,0,0,0,0,43.14453125,0.1,8977.66015625,0.010000000000000002,Device7

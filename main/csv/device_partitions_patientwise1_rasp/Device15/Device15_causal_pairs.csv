@@ -1,0 +1,319 @@
+cause,effect,lag_bin,cause_type,effect_type,conditional_probability
+150-450,0-60,14-30,Platelet Count,Diastolic Blood Pressure,0.0010309278350515
+150-450,0-60,30-60,Platelet Count,Diastolic Blood Pressure,0.002061855670103
+150-450,0-60,60-90,Platelet Count,Diastolic Blood Pressure,0.002061855670103
+150-450,0-60,90-180,Platelet Count,Diastolic Blood Pressure,0.0030927835051546
+150-450,0-60,180-365,Platelet Count,Diastolic Blood Pressure,0.0092783505154639
+150-450,0-60,365-730,Platelet Count,Diastolic Blood Pressure,0.0185567010309278
+150-450,0-60,730-inf,Platelet Count,Diastolic Blood Pressure,0.0144329896907216
+150-450,0-90,30-60,Platelet Count,Systolic Blood Pressure,0.0010309278350515
+150-450,0-90,90-180,Platelet Count,Systolic Blood Pressure,0.0010309278350515
+150-450,0-90,180-365,Platelet Count,Systolic Blood Pressure,0.0030927835051546
+150-450,0-90,365-730,Platelet Count,Systolic Blood Pressure,0.0082474226804123
+150-450,0-90,730-inf,Platelet Count,Systolic Blood Pressure,0.0092783505154639
+150-450,120-140,14-30,Platelet Count,Systolic Blood Pressure,0.0010309278350515
+150-450,120-140,30-60,Platelet Count,Systolic Blood Pressure,0.0010309278350515
+150-450,120-140,90-180,Platelet Count,Systolic Blood Pressure,0.0041237113402061
+150-450,120-140,180-365,Platelet Count,Systolic Blood Pressure,0.0041237113402061
+150-450,120-140,365-730,Platelet Count,Systolic Blood Pressure,0.0072164948453608
+150-450,120-140,730-inf,Platelet Count,Systolic Blood Pressure,0.0298969072164948
+150-450,140-inf,365-730,Platelet Count,Systolic Blood Pressure,0.0010309278350515
+150-450,140-inf,730-inf,Platelet Count,Systolic Blood Pressure,0.0123711340206185
+150-450,150-170,14-30,Platelet Count,Body Height,0.0010309278350515
+150-450,150-170,90-180,Platelet Count,Body Height,0.0030927835051546
+150-450,150-170,180-365,Platelet Count,Body Height,0.0041237113402061
+150-450,150-170,365-730,Platelet Count,Body Height,0.0092783505154639
+150-450,150-170,730-inf,Platelet Count,Body Height,0.0412371134020618
+150-450,170-190,14-30,Platelet Count,Body Height,0.0010309278350515
+150-450,170-190,30-60,Platelet Count,Body Height,0.0030927835051546
+150-450,170-190,60-90,Platelet Count,Body Height,0.0030927835051546
+150-450,170-190,90-180,Platelet Count,Body Height,0.0061855670103092
+150-450,170-190,180-365,Platelet Count,Body Height,0.0103092783505154
+150-450,170-190,365-730,Platelet Count,Body Height,0.0216494845360824
+150-450,170-190,730-inf,Platelet Count,Body Height,0.0298969072164948
+150-450,50-70,90-180,Platelet Count,Body Weight,0.0010309278350515
+150-450,50-70,180-365,Platelet Count,Body Weight,0.002061855670103
+150-450,50-70,365-730,Platelet Count,Body Weight,0.0030927835051546
+150-450,50-70,730-inf,Platelet Count,Body Weight,0.0123711340206185
+150-450,60-80,365-730,Platelet Count,Diastolic Blood Pressure,0.002061855670103
+150-450,60-80,730-inf,Platelet Count,Diastolic Blood Pressure,0.0082474226804123
+150-450,70-90,14-30,Platelet Count,Body Weight,0.0010309278350515
+150-450,70-90,30-60,Platelet Count,Body Weight,0.0010309278350515
+150-450,70-90,60-90,Platelet Count,Body Weight,0.0010309278350515
+150-450,70-90,90-180,Platelet Count,Body Weight,0.0051546391752577
+150-450,70-90,180-365,Platelet Count,Body Weight,0.0051546391752577
+150-450,70-90,365-730,Platelet Count,Body Weight,0.0103092783505154
+150-450,70-90,730-inf,Platelet Count,Body Weight,0.0474226804123711
+150-450,80-90,14-30,Platelet Count,Diastolic Blood Pressure,0.0010309278350515
+150-450,80-90,30-60,Platelet Count,Diastolic Blood Pressure,0.0010309278350515
+150-450,80-90,60-90,Platelet Count,Diastolic Blood Pressure,0.0010309278350515
+150-450,80-90,90-180,Platelet Count,Diastolic Blood Pressure,0.0061855670103092
+150-450,80-90,180-365,Platelet Count,Diastolic Blood Pressure,0.0030927835051546
+150-450,80-90,365-730,Platelet Count,Diastolic Blood Pressure,0.0092783505154639
+150-450,80-90,730-inf,Platelet Count,Diastolic Blood Pressure,0.0371134020618556
+150-450,90-120,14-30,Platelet Count,Systolic Blood Pressure,0.0010309278350515
+150-450,90-120,30-60,Platelet Count,Systolic Blood Pressure,0.0010309278350515
+150-450,90-120,60-90,Platelet Count,Systolic Blood Pressure,0.0030927835051546
+150-450,90-120,90-180,Platelet Count,Systolic Blood Pressure,0.0041237113402061
+150-450,90-120,180-365,Platelet Count,Systolic Blood Pressure,0.0072164948453608
+150-450,90-120,365-730,Platelet Count,Systolic Blood Pressure,0.0144329896907216
+150-450,90-120,730-inf,Platelet Count,Systolic Blood Pressure,0.0195876288659793
+150-450,90-inf,14-30,Platelet Count,Body Weight,0.0010309278350515
+150-450,90-inf,30-60,Platelet Count,Body Weight,0.002061855670103
+150-450,90-inf,60-90,Platelet Count,Body Weight,0.002061855670103
+150-450,90-inf,90-180,Platelet Count,Body Weight,0.0030927835051546
+150-450,90-inf,180-365,Platelet Count,Body Weight,0.0072164948453608
+150-450,90-inf,180-365,Platelet Count,Diastolic Blood Pressure,0.002061855670103
+150-450,90-inf,365-730,Platelet Count,Body Weight,0.0175257731958762
+150-450,90-inf,365-730,Platelet Count,Diastolic Blood Pressure,0.0010309278350515
+150-450,90-inf,730-inf,Platelet Count,Body Weight,0.0123711340206185
+150-450,90-inf,730-inf,Platelet Count,Diastolic Blood Pressure,0.011340206185567
+150-450,Abnormal findings diagnostic imaging heart+coronary circulat (finding),730-inf,Platelet Count,condition,0.0010309278350515
+150-450,Acute Cholecystitis,0-7,Platelet Count,condition,0.0051546391752577
+150-450,Acute bronchitis (disorder),60-90,Platelet Count,condition,0.0010309278350515
+150-450,Acute bronchitis (disorder),365-730,Platelet Count,condition,0.0010309278350515
+150-450,Acute bronchitis (disorder),730-inf,Platelet Count,condition,0.002061855670103
+150-450,Acute viral pharyngitis (disorder),180-365,Platelet Count,condition,0.0010309278350515
+150-450,Acute viral pharyngitis (disorder),730-inf,Platelet Count,condition,0.002061855670103
+150-450,Awaiting transplantation of bone marrow (situation),730-inf,Platelet Count,condition,0.0010309278350515
+150-450,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,365-730,Platelet Count,immunization,0.002061855670103
+150-450,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,730-inf,Platelet Count,immunization,0.0061855670103092
+150-450,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,90-180,Platelet Count,immunization,0.002061855670103
+150-450,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,365-730,Platelet Count,immunization,0.002061855670103
+150-450,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,730-inf,Platelet Count,immunization,0.002061855670103
+150-450,Cholelithiasis,0-7,Platelet Count,condition,0.0051546391752577
+150-450,Chronic congestive heart failure (disorder),730-inf,Platelet Count,condition,0.0010309278350515
+150-450,Concussion injury of brain (disorder),90-180,Platelet Count,condition,0.0010309278350515
+150-450,Concussion with loss of consciousness,90-180,Platelet Count,condition,0.0010309278350515
+150-450,Full-time employment (finding),90-180,Platelet Count,condition,0.0041237113402061
+150-450,Full-time employment (finding),180-365,Platelet Count,condition,0.0030927835051546
+150-450,Full-time employment (finding),365-730,Platelet Count,condition,0.0041237113402061
+150-450,Full-time employment (finding),730-inf,Platelet Count,condition,0.0154639175257731
+150-450,Gingival disease (disorder),30-60,Platelet Count,condition,0.0010309278350515
+150-450,Gingival disease (disorder),90-180,Platelet Count,condition,0.0010309278350515
+150-450,Gingival disease (disorder),365-730,Platelet Count,condition,0.0030927835051546
+150-450,Gingival disease (disorder),730-inf,Platelet Count,condition,0.0061855670103092
+150-450,Gingivitis (disorder),30-60,Platelet Count,condition,0.0010309278350515
+150-450,Gingivitis (disorder),90-180,Platelet Count,condition,0.0030927835051546
+150-450,Gingivitis (disorder),180-365,Platelet Count,condition,0.0030927835051546
+150-450,Gingivitis (disorder),365-730,Platelet Count,condition,0.0061855670103092
+150-450,Gingivitis (disorder),730-inf,Platelet Count,condition,0.0195876288659793
+150-450,History of coronary artery bypass grafting (situation),730-inf,Platelet Count,condition,0.0010309278350515
+150-450,History of peripheral stem cell transplant (situation),730-inf,Platelet Count,condition,0.0010309278350515
+150-450,Hyperlipidemia,730-inf,Platelet Count,condition,0.0010309278350515
+150-450,Influenza  seasonal  injectable  preservative free,14-30,Platelet Count,immunization,0.0010309278350515
+150-450,Influenza  seasonal  injectable  preservative free,30-60,Platelet Count,immunization,0.0010309278350515
+150-450,Influenza  seasonal  injectable  preservative free,90-180,Platelet Count,immunization,0.002061855670103
+150-450,Influenza  seasonal  injectable  preservative free,180-365,Platelet Count,immunization,0.0061855670103092
+150-450,Influenza  seasonal  injectable  preservative free,365-730,Platelet Count,immunization,0.011340206185567
+150-450,Influenza  seasonal  injectable  preservative free,730-inf,Platelet Count,immunization,0.0371134020618556
+150-450,Injury of knee (disorder),730-inf,Platelet Count,condition,0.0010309278350515
+150-450,Injury of medial collateral ligament of knee,730-inf,Platelet Count,condition,0.0010309278350515
+150-450,Ischemic heart disease (disorder),730-inf,Platelet Count,condition,0.0010309278350515
+150-450,Leaking dental filling (finding),365-730,Platelet Count,condition,0.0010309278350515
+150-450,Leaking dental filling (finding),730-inf,Platelet Count,condition,0.0030927835051546
+150-450,Limited social contact (finding),14-30,Platelet Count,condition,0.0010309278350515
+150-450,Limited social contact (finding),365-730,Platelet Count,condition,0.0010309278350515
+150-450,Limited social contact (finding),730-inf,Platelet Count,condition,0.0041237113402061
+150-450,Loose dental filling (finding),365-730,Platelet Count,condition,0.002061855670103
+150-450,Loose dental filling (finding),730-inf,Platelet Count,condition,0.0010309278350515
+150-450,Medication review due (situation),30-60,Platelet Count,condition,0.002061855670103
+150-450,Medication review due (situation),60-90,Platelet Count,condition,0.0010309278350515
+150-450,Medication review due (situation),90-180,Platelet Count,condition,0.0072164948453608
+150-450,Medication review due (situation),180-365,Platelet Count,condition,0.011340206185567
+150-450,Medication review due (situation),365-730,Platelet Count,condition,0.0175257731958762
+150-450,Medication review due (situation),730-inf,Platelet Count,condition,0.0360824742268041
+150-450,Multiple myeloma (disorder),730-inf,Platelet Count,condition,0.0010309278350515
+150-450,Non-small cell carcinoma of lung  TNM stage 1 (disorder),365-730,Platelet Count,condition,0.0010309278350515
+150-450,Non-small cell lung cancer (disorder),365-730,Platelet Count,condition,0.0010309278350515
+150-450,Not in labor force (finding),60-90,Platelet Count,condition,0.0010309278350515
+150-450,Not in labor force (finding),180-365,Platelet Count,condition,0.0010309278350515
+150-450,Not in labor force (finding),365-730,Platelet Count,condition,0.0030927835051546
+150-450,Not in labor force (finding),730-inf,Platelet Count,condition,0.0051546391752577
+150-450,Osteoarthritis of knee,180-365,Platelet Count,condition,0.0010309278350515
+150-450,Osteoporosis (disorder),730-inf,Platelet Count,condition,0.0010309278350515
+150-450,Part-time employment (finding),180-365,Platelet Count,condition,0.002061855670103
+150-450,Part-time employment (finding),365-730,Platelet Count,condition,0.0030927835051546
+150-450,Part-time employment (finding),730-inf,Platelet Count,condition,0.0082474226804123
+150-450,Pneumococcal conjugate PCV 13,730-inf,Platelet Count,immunization,0.0010309278350515
+150-450,Polyp of colon,365-730,Platelet Count,condition,0.0010309278350515
+150-450,Primary dental caries (disorder),180-365,Platelet Count,condition,0.002061855670103
+150-450,Primary dental caries (disorder),365-730,Platelet Count,condition,0.0041237113402061
+150-450,Primary dental caries (disorder),730-inf,Platelet Count,condition,0.002061855670103
+150-450,Reports of violence in the environment (finding),60-90,Platelet Count,condition,0.0010309278350515
+150-450,Reports of violence in the environment (finding),365-730,Platelet Count,condition,0.0030927835051546
+150-450,Reports of violence in the environment (finding),730-inf,Platelet Count,condition,0.0010309278350515
+150-450,Severe anxiety (panic) (finding),90-180,Platelet Count,condition,0.0010309278350515
+150-450,Severe anxiety (panic) (finding),730-inf,Platelet Count,condition,0.0010309278350515
+150-450,Social isolation (finding),180-365,Platelet Count,condition,0.002061855670103
+150-450,Social isolation (finding),365-730,Platelet Count,condition,0.0051546391752577
+150-450,Social isolation (finding),730-inf,Platelet Count,condition,0.002061855670103
+150-450,Sprain (morphologic abnormality),180-365,Platelet Count,condition,0.0010309278350515
+150-450,Sprain (morphologic abnormality),365-730,Platelet Count,condition,0.0010309278350515
+150-450,Sprain of ankle,365-730,Platelet Count,condition,0.0010309278350515
+150-450,Sprain of wrist,180-365,Platelet Count,condition,0.0010309278350515
+150-450,Stress (finding),30-60,Platelet Count,condition,0.0030927835051546
+150-450,Stress (finding),90-180,Platelet Count,condition,0.0030927835051546
+150-450,Stress (finding),180-365,Platelet Count,condition,0.0010309278350515
+150-450,Stress (finding),365-730,Platelet Count,condition,0.0103092783505154
+150-450,Stress (finding),730-inf,Platelet Count,condition,0.0134020618556701
+150-450,Suspected lung cancer (situation),365-730,Platelet Count,condition,0.0010309278350515
+150-450,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,14-30,Platelet Count,immunization,0.0010309278350515
+150-450,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,30-60,Platelet Count,immunization,0.0010309278350515
+150-450,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,365-730,Platelet Count,immunization,0.0010309278350515
+150-450,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,730-inf,Platelet Count,immunization,0.002061855670103
+150-450,Unemployed (finding),14-30,Platelet Count,condition,0.0010309278350515
+150-450,Unemployed (finding),30-60,Platelet Count,condition,0.0010309278350515
+150-450,Unemployed (finding),730-inf,Platelet Count,condition,0.0030927835051546
+150-450,Unhealthy alcohol drinking behavior (finding),90-180,Platelet Count,condition,0.0010309278350515
+150-450,Unhealthy alcohol drinking behavior (finding),180-365,Platelet Count,condition,0.0010309278350515
+150-450,Unhealthy alcohol drinking behavior (finding),730-inf,Platelet Count,condition,0.0010309278350515
+150-450,Victim of intimate partner abuse (finding),90-180,Platelet Count,condition,0.0010309278350515
+150-450,Victim of intimate partner abuse (finding),180-365,Platelet Count,condition,0.002061855670103
+150-450,Victim of intimate partner abuse (finding),365-730,Platelet Count,condition,0.002061855670103
+150-450,Victim of intimate partner abuse (finding),730-inf,Platelet Count,condition,0.0041237113402061
+150-450,Viral sinusitis (disorder),730-inf,Platelet Count,condition,0.0051546391752577
+150-450,pneumococcal polysaccharide vaccine  23 valent,730-inf,Platelet Count,immunization,0.0010309278350515
+0-150,0-150,0-0,Platelet Count,Body Height,0.0
+0-150,150-170,0-0,Platelet Count,Body Height,0.0
+0-150,170-190,0-0,Platelet Count,Body Height,0.0
+0-150,190-inf,0-0,Platelet Count,Body Height,0.0
+150-450,0-150,0-0,Platelet Count,Body Height,0.0
+150-450,190-inf,0-0,Platelet Count,Body Height,0.0
+450-inf,0-150,0-0,Platelet Count,Body Height,0.0
+450-inf,150-170,0-0,Platelet Count,Body Height,0.0
+450-inf,170-190,0-0,Platelet Count,Body Height,0.0
+450-inf,190-inf,0-0,Platelet Count,Body Height,0.0
+0-150,0-36.0,0-0,Platelet Count,Body Temperature,0.0
+0-150,36.0-37.5,0-0,Platelet Count,Body Temperature,0.0
+0-150,37.5-inf,0-0,Platelet Count,Body Temperature,0.0
+150-450,0-36.0,0-0,Platelet Count,Body Temperature,0.0
+150-450,36.0-37.5,0-0,Platelet Count,Body Temperature,0.0
+150-450,37.5-inf,0-0,Platelet Count,Body Temperature,0.0
+450-inf,0-36.0,0-0,Platelet Count,Body Temperature,0.0
+450-inf,36.0-37.5,0-0,Platelet Count,Body Temperature,0.0
+450-inf,37.5-inf,0-0,Platelet Count,Body Temperature,0.0
+0-150,0-50,0-0,Platelet Count,Body Weight,0.0
+0-150,50-70,0-0,Platelet Count,Body Weight,0.0
+0-150,70-90,0-0,Platelet Count,Body Weight,0.0
+0-150,90-inf,0-0,Platelet Count,Body Weight,0.0
+150-450,0-50,0-0,Platelet Count,Body Weight,0.0
+450-inf,0-50,0-0,Platelet Count,Body Weight,0.0
+450-inf,50-70,0-0,Platelet Count,Body Weight,0.0
+450-inf,70-90,0-0,Platelet Count,Body Weight,0.0
+450-inf,90-inf,0-0,Platelet Count,Body Weight,0.0
+0-150,0-18.5,0-0,Platelet Count,BMI (Body Mass Index),0.0
+0-150,18.5-24.9,0-0,Platelet Count,BMI (Body Mass Index),0.0
+0-150,24.9-29.9,0-0,Platelet Count,BMI (Body Mass Index),0.0
+0-150,29.9-34.9,0-0,Platelet Count,BMI (Body Mass Index),0.0
+0-150,34.9-inf,0-0,Platelet Count,BMI (Body Mass Index),0.0
+150-450,0-18.5,0-0,Platelet Count,BMI (Body Mass Index),0.0
+150-450,18.5-24.9,0-0,Platelet Count,BMI (Body Mass Index),0.0
+150-450,24.9-29.9,0-0,Platelet Count,BMI (Body Mass Index),0.0
+150-450,29.9-34.9,0-0,Platelet Count,BMI (Body Mass Index),0.0
+150-450,34.9-inf,0-0,Platelet Count,BMI (Body Mass Index),0.0
+450-inf,0-18.5,0-0,Platelet Count,BMI (Body Mass Index),0.0
+450-inf,18.5-24.9,0-0,Platelet Count,BMI (Body Mass Index),0.0
+450-inf,24.9-29.9,0-0,Platelet Count,BMI (Body Mass Index),0.0
+450-inf,29.9-34.9,0-0,Platelet Count,BMI (Body Mass Index),0.0
+450-inf,34.9-inf,0-0,Platelet Count,BMI (Body Mass Index),0.0
+0-150,0-8.5,0-0,Platelet Count,Calcium,0.0
+0-150,8.5-10.2,0-0,Platelet Count,Calcium,0.0
+0-150,10.2-inf,0-0,Platelet Count,Calcium,0.0
+150-450,0-8.5,0-0,Platelet Count,Calcium,0.0
+150-450,8.5-10.2,0-0,Platelet Count,Calcium,0.0
+150-450,10.2-inf,0-0,Platelet Count,Calcium,0.0
+450-inf,0-8.5,0-0,Platelet Count,Calcium,0.0
+450-inf,8.5-10.2,0-0,Platelet Count,Calcium,0.0
+450-inf,10.2-inf,0-0,Platelet Count,Calcium,0.0
+0-150,0-60,0-0,Platelet Count,Diastolic Blood Pressure,0.0
+0-150,60-80,0-0,Platelet Count,Diastolic Blood Pressure,0.0
+0-150,80-90,0-0,Platelet Count,Diastolic Blood Pressure,0.0
+0-150,90-inf,0-0,Platelet Count,Diastolic Blood Pressure,0.0
+450-inf,0-60,0-0,Platelet Count,Diastolic Blood Pressure,0.0
+450-inf,60-80,0-0,Platelet Count,Diastolic Blood Pressure,0.0
+450-inf,80-90,0-0,Platelet Count,Diastolic Blood Pressure,0.0
+450-inf,90-inf,0-0,Platelet Count,Diastolic Blood Pressure,0.0
+0-150,0-70,0-0,Platelet Count,Glucose,0.0
+0-150,70-99,0-0,Platelet Count,Glucose,0.0
+0-150,99-125,0-0,Platelet Count,Glucose,0.0
+0-150,125-inf,0-0,Platelet Count,Glucose,0.0
+150-450,0-70,0-0,Platelet Count,Glucose,0.0
+150-450,70-99,0-0,Platelet Count,Glucose,0.0
+150-450,99-125,0-0,Platelet Count,Glucose,0.0
+150-450,125-inf,0-0,Platelet Count,Glucose,0.0
+450-inf,0-70,0-0,Platelet Count,Glucose,0.0
+450-inf,70-99,0-0,Platelet Count,Glucose,0.0
+450-inf,99-125,0-0,Platelet Count,Glucose,0.0
+450-inf,125-inf,0-0,Platelet Count,Glucose,0.0
+0-150,0-12.0,0-0,Platelet Count,Hemoglobin,0.0
+0-150,12.0-16.0,0-0,Platelet Count,Hemoglobin,0.0
+0-150,16.0-inf,0-0,Platelet Count,Hemoglobin,0.0
+150-450,0-12.0,0-0,Platelet Count,Hemoglobin,0.0
+150-450,12.0-16.0,0-0,Platelet Count,Hemoglobin,0.0
+150-450,16.0-inf,0-0,Platelet Count,Hemoglobin,0.0
+450-inf,0-12.0,0-0,Platelet Count,Hemoglobin,0.0
+450-inf,12.0-16.0,0-0,Platelet Count,Hemoglobin,0.0
+450-inf,16.0-inf,0-0,Platelet Count,Hemoglobin,0.0
+0-150,0-60,0-0,Platelet Count,Heart Rate,0.0
+0-150,60-100,0-0,Platelet Count,Heart Rate,0.0
+0-150,100-inf,0-0,Platelet Count,Heart Rate,0.0
+150-450,0-60,0-0,Platelet Count,Heart Rate,0.0
+150-450,60-100,0-0,Platelet Count,Heart Rate,0.0
+150-450,100-inf,0-0,Platelet Count,Heart Rate,0.0
+450-inf,0-60,0-0,Platelet Count,Heart Rate,0.0
+450-inf,60-100,0-0,Platelet Count,Heart Rate,0.0
+450-inf,100-inf,0-0,Platelet Count,Heart Rate,0.0
+0-150,0-90,0-0,Platelet Count,Oxygen Saturation,0.0
+0-150,90-95,0-0,Platelet Count,Oxygen Saturation,0.0
+0-150,95-inf,0-0,Platelet Count,Oxygen Saturation,0.0
+150-450,0-90,0-0,Platelet Count,Oxygen Saturation,0.0
+150-450,90-95,0-0,Platelet Count,Oxygen Saturation,0.0
+150-450,95-inf,0-0,Platelet Count,Oxygen Saturation,0.0
+450-inf,0-90,0-0,Platelet Count,Oxygen Saturation,0.0
+450-inf,90-95,0-0,Platelet Count,Oxygen Saturation,0.0
+450-inf,95-inf,0-0,Platelet Count,Oxygen Saturation,0.0
+0-150,0-150,0-0,Platelet Count,Platelet Count,0.0
+0-150,150-450,0-0,Platelet Count,Platelet Count,0.0
+0-150,450-inf,0-0,Platelet Count,Platelet Count,0.0
+150-450,0-150,0-0,Platelet Count,Platelet Count,0.0
+150-450,150-450,0-0,Platelet Count,Platelet Count,0.0
+150-450,450-inf,0-0,Platelet Count,Platelet Count,0.0
+450-inf,0-150,0-0,Platelet Count,Platelet Count,0.0
+450-inf,150-450,0-0,Platelet Count,Platelet Count,0.0
+450-inf,450-inf,0-0,Platelet Count,Platelet Count,0.0
+0-150,0-3.5,0-0,Platelet Count,Potassium,0.0
+0-150,3.5-5.0,0-0,Platelet Count,Potassium,0.0
+0-150,5.0-inf,0-0,Platelet Count,Potassium,0.0
+150-450,0-3.5,0-0,Platelet Count,Potassium,0.0
+150-450,3.5-5.0,0-0,Platelet Count,Potassium,0.0
+150-450,5.0-inf,0-0,Platelet Count,Potassium,0.0
+450-inf,0-3.5,0-0,Platelet Count,Potassium,0.0
+450-inf,3.5-5.0,0-0,Platelet Count,Potassium,0.0
+450-inf,5.0-inf,0-0,Platelet Count,Potassium,0.0
+0-150,0-12,0-0,Platelet Count,Respiratory Rate,0.0
+0-150,12-20,0-0,Platelet Count,Respiratory Rate,0.0
+0-150,20-inf,0-0,Platelet Count,Respiratory Rate,0.0
+150-450,0-12,0-0,Platelet Count,Respiratory Rate,0.0
+150-450,12-20,0-0,Platelet Count,Respiratory Rate,0.0
+150-450,20-inf,0-0,Platelet Count,Respiratory Rate,0.0
+450-inf,0-12,0-0,Platelet Count,Respiratory Rate,0.0
+450-inf,12-20,0-0,Platelet Count,Respiratory Rate,0.0
+450-inf,20-inf,0-0,Platelet Count,Respiratory Rate,0.0
+0-150,0-135,0-0,Platelet Count,Sodium,0.0
+0-150,135-145,0-0,Platelet Count,Sodium,0.0
+0-150,145-inf,0-0,Platelet Count,Sodium,0.0
+150-450,0-135,0-0,Platelet Count,Sodium,0.0
+150-450,135-145,0-0,Platelet Count,Sodium,0.0
+150-450,145-inf,0-0,Platelet Count,Sodium,0.0
+450-inf,0-135,0-0,Platelet Count,Sodium,0.0
+450-inf,135-145,0-0,Platelet Count,Sodium,0.0
+450-inf,145-inf,0-0,Platelet Count,Sodium,0.0
+0-150,0-90,0-0,Platelet Count,Systolic Blood Pressure,0.0
+0-150,90-120,0-0,Platelet Count,Systolic Blood Pressure,0.0
+0-150,120-140,0-0,Platelet Count,Systolic Blood Pressure,0.0
+0-150,140-inf,0-0,Platelet Count,Systolic Blood Pressure,0.0
+450-inf,0-90,0-0,Platelet Count,Systolic Blood Pressure,0.0
+450-inf,90-120,0-0,Platelet Count,Systolic Blood Pressure,0.0
+450-inf,120-140,0-0,Platelet Count,Systolic Blood Pressure,0.0
+450-inf,140-inf,0-0,Platelet Count,Systolic Blood Pressure,0.0

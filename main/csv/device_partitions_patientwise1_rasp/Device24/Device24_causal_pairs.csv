@@ -1,0 +1,626 @@
+cause,effect,lag_bin,cause_type,effect_type,conditional_probability
+Acute respiratory failure (disorder),0-60,0-7,condition,Diastolic Blood Pressure,0.0025951557093425
+Acute respiratory failure (disorder),0-60,7-14,condition,Diastolic Blood Pressure,0.0008650519031141
+Acute respiratory failure (disorder),0-90,0-7,condition,Systolic Blood Pressure,0.0043252595155709
+Acute respiratory failure (disorder),0-90,365-730,condition,Systolic Blood Pressure,0.0008650519031141
+Acute respiratory failure (disorder),120-140,0-7,condition,Systolic Blood Pressure,0.0527681660899653
+Acute respiratory failure (disorder),120-140,7-14,condition,Systolic Blood Pressure,0.0346020761245674
+Acute respiratory failure (disorder),120-140,14-30,condition,Systolic Blood Pressure,0.0034602076124567
+Acute respiratory failure (disorder),120-140,180-365,condition,Systolic Blood Pressure,0.0008650519031141
+Acute respiratory failure (disorder),120-140,365-730,condition,Systolic Blood Pressure,0.0025951557093425
+Acute respiratory failure (disorder),120-140,730-inf,condition,Systolic Blood Pressure,0.0060553633217993
+Acute respiratory failure (disorder),140-inf,0-7,condition,Systolic Blood Pressure,0.0121107266435986
+Acute respiratory failure (disorder),140-inf,7-14,condition,Systolic Blood Pressure,0.0051903114186851
+Acute respiratory failure (disorder),140-inf,730-inf,condition,Systolic Blood Pressure,0.0017301038062283
+Acute respiratory failure (disorder),150-170,90-180,condition,Body Height,0.0008650519031141
+Acute respiratory failure (disorder),150-170,180-365,condition,Body Height,0.0008650519031141
+Acute respiratory failure (disorder),150-170,365-730,condition,Body Height,0.0017301038062283
+Acute respiratory failure (disorder),150-170,730-inf,condition,Body Height,0.0043252595155709
+Acute respiratory failure (disorder),170-190,14-30,condition,Body Height,0.0008650519031141
+Acute respiratory failure (disorder),170-190,180-365,condition,Body Height,0.0017301038062283
+Acute respiratory failure (disorder),170-190,365-730,condition,Body Height,0.0034602076124567
+Acute respiratory failure (disorder),170-190,730-inf,condition,Body Height,0.0077854671280276
+Acute respiratory failure (disorder),50-70,0-7,condition,Body Weight,0.0181660899653979
+Acute respiratory failure (disorder),50-70,7-14,condition,Body Weight,0.0121107266435986
+Acute respiratory failure (disorder),50-70,14-30,condition,Body Weight,0.0034602076124567
+Acute respiratory failure (disorder),50-70,730-inf,condition,Body Weight,0.0008650519031141
+Acute respiratory failure (disorder),60-80,0-7,condition,Diastolic Blood Pressure,0.0406574394463667
+Acute respiratory failure (disorder),60-80,7-14,condition,Diastolic Blood Pressure,0.0328719723183391
+Acute respiratory failure (disorder),60-80,14-30,condition,Diastolic Blood Pressure,0.0051903114186851
+Acute respiratory failure (disorder),60-80,90-180,condition,Diastolic Blood Pressure,0.0008650519031141
+Acute respiratory failure (disorder),60-80,180-365,condition,Diastolic Blood Pressure,0.0017301038062283
+Acute respiratory failure (disorder),60-80,365-730,condition,Diastolic Blood Pressure,0.0017301038062283
+Acute respiratory failure (disorder),60-80,730-inf,condition,Diastolic Blood Pressure,0.0051903114186851
+Acute respiratory failure (disorder),70-90,0-7,condition,Body Weight,0.0501730103806228
+Acute respiratory failure (disorder),70-90,7-14,condition,Body Weight,0.0320069204152249
+Acute respiratory failure (disorder),70-90,14-30,condition,Body Weight,0.0025951557093425
+Acute respiratory failure (disorder),70-90,90-180,condition,Body Weight,0.0008650519031141
+Acute respiratory failure (disorder),70-90,180-365,condition,Body Weight,0.0008650519031141
+Acute respiratory failure (disorder),70-90,365-730,condition,Body Weight,0.0034602076124567
+Acute respiratory failure (disorder),70-90,730-inf,condition,Body Weight,0.0060553633217993
+Acute respiratory failure (disorder),80-90,0-7,condition,Diastolic Blood Pressure,0.0294117647058823
+Acute respiratory failure (disorder),80-90,7-14,condition,Diastolic Blood Pressure,0.0181660899653979
+Acute respiratory failure (disorder),80-90,14-30,condition,Diastolic Blood Pressure,0.0017301038062283
+Acute respiratory failure (disorder),80-90,365-730,condition,Diastolic Blood Pressure,0.0025951557093425
+Acute respiratory failure (disorder),80-90,730-inf,condition,Diastolic Blood Pressure,0.0025951557093425
+Acute respiratory failure (disorder),90-120,0-7,condition,Systolic Blood Pressure,0.0363321799307958
+Acute respiratory failure (disorder),90-120,7-14,condition,Systolic Blood Pressure,0.0311418685121107
+Acute respiratory failure (disorder),90-120,14-30,condition,Systolic Blood Pressure,0.0043252595155709
+Acute respiratory failure (disorder),90-120,90-180,condition,Systolic Blood Pressure,0.0008650519031141
+Acute respiratory failure (disorder),90-120,180-365,condition,Systolic Blood Pressure,0.0017301038062283
+Acute respiratory failure (disorder),90-120,365-730,condition,Systolic Blood Pressure,0.0017301038062283
+Acute respiratory failure (disorder),90-120,730-inf,condition,Systolic Blood Pressure,0.0077854671280276
+Acute respiratory failure (disorder),90-inf,0-7,condition,Body Weight,0.03719723183391
+Acute respiratory failure (disorder),90-inf,0-7,condition,Diastolic Blood Pressure,0.0328719723183391
+Acute respiratory failure (disorder),90-inf,7-14,condition,Body Weight,0.0268166089965397
+Acute respiratory failure (disorder),90-inf,7-14,condition,Diastolic Blood Pressure,0.0190311418685121
+Acute respiratory failure (disorder),90-inf,14-30,condition,Body Weight,0.0017301038062283
+Acute respiratory failure (disorder),90-inf,14-30,condition,Diastolic Blood Pressure,0.0008650519031141
+Acute respiratory failure (disorder),90-inf,180-365,condition,Body Weight,0.0017301038062283
+Acute respiratory failure (disorder),90-inf,180-365,condition,Diastolic Blood Pressure,0.0008650519031141
+Acute respiratory failure (disorder),90-inf,365-730,condition,Body Weight,0.0017301038062283
+Acute respiratory failure (disorder),90-inf,365-730,condition,Diastolic Blood Pressure,0.0008650519031141
+Acute respiratory failure (disorder),90-inf,730-inf,condition,Body Weight,0.0051903114186851
+Acute respiratory failure (disorder),90-inf,730-inf,condition,Diastolic Blood Pressure,0.0077854671280276
+Acute respiratory failure (disorder),Abnormal findings diagnostic imaging heart+coronary circulat (finding),730-inf,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Acquired coagulation disorder (disorder),7-14,condition,condition,0.0017301038062283
+Acute respiratory failure (disorder),Acute bronchitis (disorder),730-inf,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Acute deep venous thrombosis (disorder),0-7,condition,condition,0.0025951557093425
+Acute respiratory failure (disorder),Acute deep venous thrombosis (disorder),7-14,condition,condition,0.0017301038062283
+Acute respiratory failure (disorder),Acute infective cystitis (disorder),730-inf,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Acute pulmonary embolism (disorder),0-7,condition,condition,0.0043252595155709
+Acute respiratory failure (disorder),Acute pulmonary embolism (disorder),7-14,condition,condition,0.0017301038062283
+Acute respiratory failure (disorder),Acute respiratory distress syndrome (disorder),0-7,condition,condition,0.0034602076124567
+Acute respiratory failure (disorder),Acute respiratory distress syndrome (disorder),7-14,condition,condition,0.0025951557093425
+Acute respiratory failure (disorder),Acute viral pharyngitis (disorder),30-60,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Acute viral pharyngitis (disorder),180-365,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Acute viral pharyngitis (disorder),365-730,condition,condition,0.0017301038062283
+Acute respiratory failure (disorder),Acute viral pharyngitis (disorder),730-inf,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Anemia (disorder),730-inf,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Bacterial infectious disease (disorder),7-14,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Blighted ovum,730-inf,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,14-30,condition,immunization,0.0008650519031141
+Acute respiratory failure (disorder),COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,30-60,condition,immunization,0.0008650519031141
+Acute respiratory failure (disorder),COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,60-90,condition,immunization,0.0008650519031141
+Acute respiratory failure (disorder),COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,90-180,condition,immunization,0.0034602076124567
+Acute respiratory failure (disorder),COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,180-365,condition,immunization,0.0043252595155709
+Acute respiratory failure (disorder),COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,365-730,condition,immunization,0.0017301038062283
+Acute respiratory failure (disorder),Chronic kidney disease stage 1 (disorder),730-inf,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Chronic pain,90-180,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Disorder of kidney due to diabetes mellitus (disorder),730-inf,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Essential hypertension (disorder),730-inf,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Facial laceration,365-730,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Fractured dental filling (finding),365-730,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Full-time employment (finding),90-180,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Full-time employment (finding),365-730,condition,condition,0.0017301038062283
+Acute respiratory failure (disorder),Full-time employment (finding),730-inf,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Gingival disease (disorder),365-730,condition,condition,0.0017301038062283
+Acute respiratory failure (disorder),Gingival disease (disorder),730-inf,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Gingivitis (disorder),90-180,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Gingivitis (disorder),180-365,condition,condition,0.0017301038062283
+Acute respiratory failure (disorder),Gingivitis (disorder),365-730,condition,condition,0.0034602076124567
+Acute respiratory failure (disorder),Gingivitis (disorder),730-inf,condition,condition,0.0034602076124567
+Acute respiratory failure (disorder),Heart failure (disorder),0-7,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Heart failure (disorder),7-14,condition,condition,0.0017301038062283
+Acute respiratory failure (disorder),Hep A  adult,365-730,condition,immunization,0.0008650519031141
+Acute respiratory failure (disorder),Hep B  adult,365-730,condition,immunization,0.0008650519031141
+Acute respiratory failure (disorder),Hep B  adult,730-inf,condition,immunization,0.0008650519031141
+Acute respiratory failure (disorder),History of coronary artery bypass grafting (situation),730-inf,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Influenza  seasonal  injectable  preservative free,14-30,condition,immunization,0.0008650519031141
+Acute respiratory failure (disorder),Influenza  seasonal  injectable  preservative free,90-180,condition,immunization,0.0008650519031141
+Acute respiratory failure (disorder),Influenza  seasonal  injectable  preservative free,180-365,condition,immunization,0.0025951557093425
+Acute respiratory failure (disorder),Influenza  seasonal  injectable  preservative free,365-730,condition,immunization,0.0051903114186851
+Acute respiratory failure (disorder),Influenza  seasonal  injectable  preservative free,730-inf,condition,immunization,0.0112456747404844
+Acute respiratory failure (disorder),Injury of heart (disorder),0-7,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Injury of heart (disorder),7-14,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Injury of kidney (disorder),0-7,condition,condition,0.0034602076124567
+Acute respiratory failure (disorder),Injury of kidney (disorder),7-14,condition,condition,0.0017301038062283
+Acute respiratory failure (disorder),Ischemic heart disease (disorder),730-inf,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Laceration - injury (disorder),365-730,condition,condition,0.0017301038062283
+Acute respiratory failure (disorder),Laceration of thigh,365-730,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Limited social contact (finding),365-730,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Limited social contact (finding),730-inf,condition,condition,0.0017301038062283
+Acute respiratory failure (disorder),Medication review due (situation),14-30,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Medication review due (situation),180-365,condition,condition,0.0017301038062283
+Acute respiratory failure (disorder),Medication review due (situation),365-730,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Medication review due (situation),730-inf,condition,condition,0.0077854671280276
+Acute respiratory failure (disorder),Metabolic syndrome X (disorder),730-inf,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Miscarriage in first trimester,730-inf,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Misuses drugs (finding),365-730,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Normal pregnancy,730-inf,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Not in labor force (finding),180-365,condition,condition,0.0017301038062283
+Acute respiratory failure (disorder),Not in labor force (finding),730-inf,condition,condition,0.0017301038062283
+Acute respiratory failure (disorder),Otitis media,730-inf,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Part-time employment (finding),365-730,condition,condition,0.0017301038062283
+Acute respiratory failure (disorder),Part-time employment (finding),730-inf,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Pneumococcal conjugate PCV 13,365-730,condition,immunization,0.0008650519031141
+Acute respiratory failure (disorder),Polyp of colon,730-inf,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Primary dental caries (disorder),730-inf,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Septic shock (disorder),0-7,condition,condition,0.0025951557093425
+Acute respiratory failure (disorder),Septic shock (disorder),7-14,condition,condition,0.0017301038062283
+Acute respiratory failure (disorder),Severe anxiety (panic) (finding),730-inf,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Sinusitis (disorder),730-inf,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Social isolation (finding),730-inf,condition,condition,0.0017301038062283
+Acute respiratory failure (disorder),Sprain (morphologic abnormality),365-730,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Sprain of wrist,365-730,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Stress (finding),180-365,condition,condition,0.0017301038062283
+Acute respiratory failure (disorder),Stress (finding),365-730,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Stress (finding),730-inf,condition,condition,0.0017301038062283
+Acute respiratory failure (disorder),Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,365-730,condition,immunization,0.0017301038062283
+Acute respiratory failure (disorder),Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,730-inf,condition,immunization,0.0025951557093425
+Acute respiratory failure (disorder),Unemployed (finding),730-inf,condition,condition,0.0017301038062283
+Acute respiratory failure (disorder),Viral sinusitis (disorder),90-180,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),Viral sinusitis (disorder),180-365,condition,condition,0.0008650519031141
+Acute respiratory failure (disorder),meningococcal MCV4P,365-730,condition,immunization,0.0008650519031141
+Acute respiratory failure (disorder),meningococcal MCV4P,730-inf,condition,immunization,0.0008650519031141
+Acute respiratory failure (disorder),pneumococcal polysaccharide vaccine  23 valent,730-inf,condition,immunization,0.0008650519031141
+Acute respiratory failure (disorder),zoster vaccine  live,730-inf,condition,immunization,0.0017301038062283
+Hypoxemia (disorder),0-35,180-365,condition,Carbon Dioxide,0.0002928257686676
+Hypoxemia (disorder),0-50,0-7,condition,Body Weight,0.0040995607613469
+Hypoxemia (disorder),0-50,7-14,condition,Body Weight,0.0038067349926793
+Hypoxemia (disorder),0-50,14-30,condition,Body Weight,0.0002928257686676
+Hypoxemia (disorder),0-50,30-60,condition,Body Weight,0.0002928257686676
+Hypoxemia (disorder),0-50,90-180,condition,Body Weight,0.0002928257686676
+Hypoxemia (disorder),0-50,180-365,condition,Body Weight,0.0005856515373352
+Hypoxemia (disorder),0-50,365-730,condition,Body Weight,0.0008784773060029
+Hypoxemia (disorder),0-50,730-inf,condition,Body Weight,0.0026354319180087
+Hypoxemia (disorder),0-60,0-7,condition,Diastolic Blood Pressure,0.0017569546120058
+Hypoxemia (disorder),0-60,7-14,condition,Diastolic Blood Pressure,0.0005856515373352
+Hypoxemia (disorder),0-60,60-90,condition,Diastolic Blood Pressure,0.0002928257686676
+Hypoxemia (disorder),0-60,90-180,condition,Diastolic Blood Pressure,0.0002928257686676
+Hypoxemia (disorder),0-60,730-inf,condition,Diastolic Blood Pressure,0.0005856515373352
+Hypoxemia (disorder),0-90,0-7,condition,Systolic Blood Pressure,0.0014641288433382
+Hypoxemia (disorder),0-90,365-730,condition,Systolic Blood Pressure,0.0005856515373352
+Hypoxemia (disorder),1-inf,180-365,condition,Creatinine,0.0002928257686676
+Hypoxemia (disorder),120-140,0-7,condition,Systolic Blood Pressure,0.0421669106881405
+Hypoxemia (disorder),120-140,7-14,condition,Systolic Blood Pressure,0.0286969253294289
+Hypoxemia (disorder),120-140,14-30,condition,Systolic Blood Pressure,0.0020497803806734
+Hypoxemia (disorder),120-140,30-60,condition,Systolic Blood Pressure,0.0002928257686676
+Hypoxemia (disorder),120-140,60-90,condition,Systolic Blood Pressure,0.0008784773060029
+Hypoxemia (disorder),120-140,90-180,condition,Systolic Blood Pressure,0.0023426061493411
+Hypoxemia (disorder),120-140,180-365,condition,Systolic Blood Pressure,0.0023426061493411
+Hypoxemia (disorder),120-140,365-730,condition,Systolic Blood Pressure,0.0055636896046852
+Hypoxemia (disorder),120-140,730-inf,condition,Systolic Blood Pressure,0.0146412884333821
+Hypoxemia (disorder),135-145,180-365,condition,Sodium,0.0002928257686676
+Hypoxemia (disorder),140-inf,0-7,condition,Systolic Blood Pressure,0.0084919472913616
+Hypoxemia (disorder),140-inf,7-14,condition,Systolic Blood Pressure,0.0043923865300146
+Hypoxemia (disorder),140-inf,14-30,condition,Systolic Blood Pressure,0.0002928257686676
+Hypoxemia (disorder),140-inf,90-180,condition,Systolic Blood Pressure,0.0002928257686676
+Hypoxemia (disorder),140-inf,180-365,condition,Systolic Blood Pressure,0.0002928257686676
+Hypoxemia (disorder),140-inf,365-730,condition,Systolic Blood Pressure,0.0002928257686676
+Hypoxemia (disorder),140-inf,730-inf,condition,Systolic Blood Pressure,0.0014641288433382
+Hypoxemia (disorder),150-170,14-30,condition,Body Height,0.0008784773060029
+Hypoxemia (disorder),150-170,30-60,condition,Body Height,0.0002928257686676
+Hypoxemia (disorder),150-170,60-90,condition,Body Height,0.0005856515373352
+Hypoxemia (disorder),150-170,90-180,condition,Body Height,0.0023426061493411
+Hypoxemia (disorder),150-170,180-365,condition,Body Height,0.003221083455344
+Hypoxemia (disorder),150-170,365-730,condition,Body Height,0.0067349926793557
+Hypoxemia (disorder),150-170,730-inf,condition,Body Height,0.0134699853587115
+Hypoxemia (disorder),170-190,14-30,condition,Body Height,0.0002928257686676
+Hypoxemia (disorder),170-190,30-60,condition,Body Height,0.0002928257686676
+Hypoxemia (disorder),170-190,60-90,condition,Body Height,0.0002928257686676
+Hypoxemia (disorder),170-190,90-180,condition,Body Height,0.0014641288433382
+Hypoxemia (disorder),170-190,180-365,condition,Body Height,0.0026354319180087
+Hypoxemia (disorder),170-190,365-730,condition,Body Height,0.0046852122986822
+Hypoxemia (disorder),170-190,730-inf,condition,Body Height,0.0108345534407027
+Hypoxemia (disorder),3-5,180-365,condition,Potassium,0.0002928257686676
+Hypoxemia (disorder),50-70,0-7,condition,Body Weight,0.0184480234260614
+Hypoxemia (disorder),50-70,7-14,condition,Body Weight,0.0125915080527086
+Hypoxemia (disorder),50-70,14-30,condition,Body Weight,0.0014641288433382
+Hypoxemia (disorder),50-70,60-90,condition,Body Weight,0.0002928257686676
+Hypoxemia (disorder),50-70,90-180,condition,Body Weight,0.0002928257686676
+Hypoxemia (disorder),50-70,180-365,condition,Body Weight,0.0008784773060029
+Hypoxemia (disorder),50-70,365-730,condition,Body Weight,0.0017569546120058
+Hypoxemia (disorder),50-70,730-inf,condition,Body Weight,0.0038067349926793
+Hypoxemia (disorder),60-80,0-7,condition,Diastolic Blood Pressure,0.0298682284040995
+Hypoxemia (disorder),60-80,7-14,condition,Diastolic Blood Pressure,0.0204978038067349
+Hypoxemia (disorder),60-80,14-30,condition,Diastolic Blood Pressure,0.0023426061493411
+Hypoxemia (disorder),60-80,60-90,condition,Diastolic Blood Pressure,0.0002928257686676
+Hypoxemia (disorder),60-80,90-180,condition,Diastolic Blood Pressure,0.0017569546120058
+Hypoxemia (disorder),60-80,180-365,condition,Diastolic Blood Pressure,0.0023426061493411
+Hypoxemia (disorder),60-80,365-730,condition,Diastolic Blood Pressure,0.003221083455344
+Hypoxemia (disorder),60-80,730-inf,condition,Diastolic Blood Pressure,0.0079062957540263
+Hypoxemia (disorder),70-90,0-7,condition,Body Weight,0.0395314787701317
+Hypoxemia (disorder),70-90,7-14,condition,Body Weight,0.0254758418740849
+Hypoxemia (disorder),70-90,14-30,condition,Body Weight,0.0014641288433382
+Hypoxemia (disorder),70-90,30-60,condition,Body Weight,0.0002928257686676
+Hypoxemia (disorder),70-90,60-90,condition,Body Weight,0.0005856515373352
+Hypoxemia (disorder),70-90,90-180,condition,Body Weight,0.0026354319180087
+Hypoxemia (disorder),70-90,180-365,condition,Body Weight,0.0023426061493411
+Hypoxemia (disorder),70-90,365-730,condition,Body Weight,0.0064421669106881
+Hypoxemia (disorder),70-90,730-inf,condition,Body Weight,0.0125915080527086
+Hypoxemia (disorder),70-99,180-365,condition,Glucose,0.0002928257686676
+Hypoxemia (disorder),8-10,180-365,condition,Calcium,0.0002928257686676
+Hypoxemia (disorder),80-90,0-7,condition,Diastolic Blood Pressure,0.023718887262079
+Hypoxemia (disorder),80-90,7-14,condition,Diastolic Blood Pressure,0.0178623718887262
+Hypoxemia (disorder),80-90,14-30,condition,Diastolic Blood Pressure,0.0014641288433382
+Hypoxemia (disorder),80-90,90-180,condition,Diastolic Blood Pressure,0.0005856515373352
+Hypoxemia (disorder),80-90,180-365,condition,Diastolic Blood Pressure,0.0011713030746705
+Hypoxemia (disorder),80-90,365-730,condition,Diastolic Blood Pressure,0.0035139092240117
+Hypoxemia (disorder),80-90,730-inf,condition,Diastolic Blood Pressure,0.0046852122986822
+Hypoxemia (disorder),90-120,0-7,condition,Systolic Blood Pressure,0.0327964860907759
+Hypoxemia (disorder),90-120,7-14,condition,Systolic Blood Pressure,0.0257686676427525
+Hypoxemia (disorder),90-120,14-30,condition,Systolic Blood Pressure,0.0023426061493411
+Hypoxemia (disorder),90-120,30-60,condition,Systolic Blood Pressure,0.0002928257686676
+Hypoxemia (disorder),90-120,90-180,condition,Systolic Blood Pressure,0.0011713030746705
+Hypoxemia (disorder),90-120,180-365,condition,Systolic Blood Pressure,0.003221083455344
+Hypoxemia (disorder),90-120,365-730,condition,Systolic Blood Pressure,0.0049780380673499
+Hypoxemia (disorder),90-120,730-inf,condition,Systolic Blood Pressure,0.0096632503660322
+Hypoxemia (disorder),90-inf,0-7,condition,Body Weight,0.0228404099560761
+Hypoxemia (disorder),90-inf,0-7,condition,Diastolic Blood Pressure,0.0295754026354319
+Hypoxemia (disorder),90-inf,7-14,condition,Body Weight,0.0169838945827232
+Hypoxemia (disorder),90-inf,7-14,condition,Diastolic Blood Pressure,0.0199121522693997
+Hypoxemia (disorder),90-inf,14-30,condition,Body Weight,0.0014641288433382
+Hypoxemia (disorder),90-inf,14-30,condition,Diastolic Blood Pressure,0.0008784773060029
+Hypoxemia (disorder),90-inf,30-60,condition,Diastolic Blood Pressure,0.0005856515373352
+Hypoxemia (disorder),90-inf,60-90,condition,Diastolic Blood Pressure,0.0002928257686676
+Hypoxemia (disorder),90-inf,90-180,condition,Body Weight,0.0005856515373352
+Hypoxemia (disorder),90-inf,90-180,condition,Diastolic Blood Pressure,0.0011713030746705
+Hypoxemia (disorder),90-inf,180-365,condition,Body Weight,0.0020497803806734
+Hypoxemia (disorder),90-inf,180-365,condition,Diastolic Blood Pressure,0.0023426061493411
+Hypoxemia (disorder),90-inf,365-730,condition,Body Weight,0.0023426061493411
+Hypoxemia (disorder),90-inf,365-730,condition,Diastolic Blood Pressure,0.0046852122986822
+Hypoxemia (disorder),90-inf,730-inf,condition,Body Weight,0.0052708638360175
+Hypoxemia (disorder),90-inf,730-inf,condition,Diastolic Blood Pressure,0.0125915080527086
+Hypoxemia (disorder),98-107,180-365,condition,Chloride,0.0002928257686676
+Hypoxemia (disorder),Abnormal findings diagnostic imaging heart+coronary circulat (finding),730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Acquired coagulation disorder (disorder),7-14,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Acute bronchitis (disorder),180-365,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Acute bronchitis (disorder),365-730,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Acute bronchitis (disorder),730-inf,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Acute deep venous thrombosis (disorder),0-7,condition,condition,0.0014641288433382
+Hypoxemia (disorder),Acute deep venous thrombosis (disorder),7-14,condition,condition,0.0023426061493411
+Hypoxemia (disorder),Acute infective cystitis (disorder),180-365,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Acute infective cystitis (disorder),730-inf,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Acute pulmonary embolism (disorder),0-7,condition,condition,0.0014641288433382
+Hypoxemia (disorder),Acute pulmonary embolism (disorder),7-14,condition,condition,0.0017569546120058
+Hypoxemia (disorder),Acute respiratory distress syndrome (disorder),0-7,condition,condition,0.0011713030746705
+Hypoxemia (disorder),Acute respiratory distress syndrome (disorder),7-14,condition,condition,0.0008784773060029
+Hypoxemia (disorder),Acute viral pharyngitis (disorder),14-30,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Acute viral pharyngitis (disorder),30-60,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Acute viral pharyngitis (disorder),90-180,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Acute viral pharyngitis (disorder),180-365,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Acute viral pharyngitis (disorder),365-730,condition,condition,0.0011713030746705
+Hypoxemia (disorder),Acute viral pharyngitis (disorder),730-inf,condition,condition,0.0008784773060029
+Hypoxemia (disorder),Anemia (disorder),730-inf,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Appendicitis,730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Awaiting transplantation of kidney (situation),180-365,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Bacterial infectious disease (disorder),7-14,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Blighted ovum,180-365,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Blighted ovum,730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Body mass index 30+ - obesity (finding),730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,30-60,condition,immunization,0.0002928257686676
+Hypoxemia (disorder),COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,60-90,condition,immunization,0.0002928257686676
+Hypoxemia (disorder),COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,90-180,condition,immunization,0.0020497803806734
+Hypoxemia (disorder),COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,180-365,condition,immunization,0.0020497803806734
+Hypoxemia (disorder),COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,365-730,condition,immunization,0.0005856515373352
+Hypoxemia (disorder),COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,14-30,condition,immunization,0.0005856515373352
+Hypoxemia (disorder),COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,30-60,condition,immunization,0.0017569546120058
+Hypoxemia (disorder),COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,60-90,condition,immunization,0.0014641288433382
+Hypoxemia (disorder),COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,90-180,condition,immunization,0.0029282576866764
+Hypoxemia (disorder),COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,180-365,condition,immunization,0.0026354319180087
+Hypoxemia (disorder),COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,365-730,condition,immunization,0.0011713030746705
+Hypoxemia (disorder),COVID-19 vaccine  vector-nr  rS-Ad26  PF  0.5 mL,90-180,condition,immunization,0.0002928257686676
+Hypoxemia (disorder),COVID-19 vaccine  vector-nr  rS-Ad26  PF  0.5 mL,180-365,condition,immunization,0.0002928257686676
+Hypoxemia (disorder),Carcinoma in situ of prostate (disorder),730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Chronic kidney disease stage 1 (disorder),365-730,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Chronic kidney disease stage 1 (disorder),730-inf,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Chronic kidney disease stage 2 (disorder),730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Chronic kidney disease stage 4 (disorder),180-365,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Chronic pain,90-180,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Dental filling lost (finding),730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Diabetes mellitus type 2 (disorder),365-730,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Diabetes mellitus type 2 (disorder),730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Disorder of kidney due to diabetes mellitus (disorder),365-730,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Disorder of kidney due to diabetes mellitus (disorder),730-inf,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Drug overdose,730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),End-stage renal disease (disorder),730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Essential hypertension (disorder),730-inf,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Facial laceration,365-730,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Fracture of bone (disorder),730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Fracture of rib,730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Fractured dental filling (finding),180-365,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Fractured dental filling (finding),365-730,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Fractured dental filling (finding),730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Full-time employment (finding),60-90,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Full-time employment (finding),90-180,condition,condition,0.0011713030746705
+Hypoxemia (disorder),Full-time employment (finding),180-365,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Full-time employment (finding),365-730,condition,condition,0.0026354319180087
+Hypoxemia (disorder),Full-time employment (finding),730-inf,condition,condition,0.003221083455344
+Hypoxemia (disorder),Gingival disease (disorder),60-90,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Gingival disease (disorder),90-180,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Gingival disease (disorder),180-365,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Gingival disease (disorder),365-730,condition,condition,0.0017569546120058
+Hypoxemia (disorder),Gingival disease (disorder),730-inf,condition,condition,0.0029282576866764
+Hypoxemia (disorder),Gingivitis (disorder),60-90,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Gingivitis (disorder),90-180,condition,condition,0.0011713030746705
+Hypoxemia (disorder),Gingivitis (disorder),180-365,condition,condition,0.0026354319180087
+Hypoxemia (disorder),Gingivitis (disorder),365-730,condition,condition,0.003221083455344
+Hypoxemia (disorder),Gingivitis (disorder),730-inf,condition,condition,0.0055636896046852
+Hypoxemia (disorder),HPV  quadrivalent,180-365,condition,immunization,0.0002928257686676
+Hypoxemia (disorder),HPV  quadrivalent,365-730,condition,immunization,0.0002928257686676
+Hypoxemia (disorder),Has a criminal record (finding),90-180,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Has a criminal record (finding),365-730,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Heart failure (disorder),0-7,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Heart failure (disorder),7-14,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Hep A  adult,180-365,condition,immunization,0.0002928257686676
+Hypoxemia (disorder),Hep A  adult,365-730,condition,immunization,0.0005856515373352
+Hypoxemia (disorder),Hep A  adult,730-inf,condition,immunization,0.0011713030746705
+Hypoxemia (disorder),Hep B  adult,365-730,condition,immunization,0.0002928257686676
+Hypoxemia (disorder),Hep B  adult,730-inf,condition,immunization,0.0002928257686676
+Hypoxemia (disorder),History of appendectomy,730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),History of coronary artery bypass grafting (situation),730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Housing unsatisfactory (finding),365-730,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Hypertriglyceridemia (disorder),730-inf,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Infection of tooth (disorder),90-180,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Infection of tooth (disorder),365-730,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Infection of tooth (disorder),730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Influenza  seasonal  injectable  preservative free,14-30,condition,immunization,0.0005856515373352
+Hypoxemia (disorder),Influenza  seasonal  injectable  preservative free,60-90,condition,immunization,0.0005856515373352
+Hypoxemia (disorder),Influenza  seasonal  injectable  preservative free,90-180,condition,immunization,0.0017569546120058
+Hypoxemia (disorder),Influenza  seasonal  injectable  preservative free,180-365,condition,immunization,0.0046852122986822
+Hypoxemia (disorder),Influenza  seasonal  injectable  preservative free,365-730,condition,immunization,0.0081991215226939
+Hypoxemia (disorder),Influenza  seasonal  injectable  preservative free,730-inf,condition,immunization,0.0152269399707174
+Hypoxemia (disorder),Injury of heart (disorder),0-7,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Injury of heart (disorder),7-14,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Injury of kidney (disorder),0-7,condition,condition,0.0011713030746705
+Hypoxemia (disorder),Injury of kidney (disorder),7-14,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Injury of neck (disorder),180-365,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Injury of neck (disorder),730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Ischemic heart disease (disorder),730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Laceration - injury (disorder),365-730,condition,condition,0.0008784773060029
+Hypoxemia (disorder),Laceration - injury (disorder),730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Laceration of foot,730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Laceration of thigh,365-730,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Leaking dental filling (finding),365-730,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Leaking dental filling (finding),730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Limited social contact (finding),90-180,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Limited social contact (finding),365-730,condition,condition,0.0008784773060029
+Hypoxemia (disorder),Limited social contact (finding),730-inf,condition,condition,0.0014641288433382
+Hypoxemia (disorder),Localized  primary osteoarthritis of the hand,60-90,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Loose dental filling (finding),7-14,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Loose dental filling (finding),365-730,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Loose dental filling (finding),730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Loss of teeth (disorder),90-180,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Loss of teeth (disorder),730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Medication review due (situation),14-30,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Medication review due (situation),30-60,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Medication review due (situation),60-90,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Medication review due (situation),90-180,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Medication review due (situation),180-365,condition,condition,0.0026354319180087
+Hypoxemia (disorder),Medication review due (situation),365-730,condition,condition,0.0052708638360175
+Hypoxemia (disorder),Medication review due (situation),730-inf,condition,condition,0.0099560761346998
+Hypoxemia (disorder),Metabolic syndrome X (disorder),730-inf,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Microalbuminuria due to type 2 diabetes mellitus (disorder),730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Miscarriage in first trimester,180-365,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Miscarriage in first trimester,730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Misuses drugs (finding),365-730,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Misuses drugs (finding),730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Neoplasm of prostate,730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Normal pregnancy,180-365,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Normal pregnancy,730-inf,condition,condition,0.0008784773060029
+Hypoxemia (disorder),Not in labor force (finding),180-365,condition,condition,0.0014641288433382
+Hypoxemia (disorder),Not in labor force (finding),365-730,condition,condition,0.0008784773060029
+Hypoxemia (disorder),Not in labor force (finding),730-inf,condition,condition,0.0020497803806734
+Hypoxemia (disorder),Osteoarthritis of hip,365-730,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Otitis media,730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Part-time employment (finding),14-30,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Part-time employment (finding),60-90,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Part-time employment (finding),180-365,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Part-time employment (finding),365-730,condition,condition,0.0020497803806734
+Hypoxemia (disorder),Part-time employment (finding),730-inf,condition,condition,0.0029282576866764
+Hypoxemia (disorder),Past pregnancy history of miscarriage (situation),180-365,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Pneumococcal conjugate PCV 13,365-730,condition,immunization,0.0002928257686676
+Hypoxemia (disorder),Polyp of colon,730-inf,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Prediabetes,180-365,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Prediabetes,365-730,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Primary dental caries (disorder),90-180,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Primary dental caries (disorder),180-365,condition,condition,0.0008784773060029
+Hypoxemia (disorder),Primary dental caries (disorder),365-730,condition,condition,0.0008784773060029
+Hypoxemia (disorder),Primary dental caries (disorder),730-inf,condition,condition,0.0011713030746705
+Hypoxemia (disorder),Received higher education (finding),365-730,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Reports of violence in the environment (finding),90-180,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Reports of violence in the environment (finding),180-365,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Reports of violence in the environment (finding),365-730,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Reports of violence in the environment (finding),730-inf,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Resorption of alveolar process due to dental trauma (disorder),90-180,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Risk activity involvement (finding),365-730,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Septic shock (disorder),0-7,condition,condition,0.0008784773060029
+Hypoxemia (disorder),Septic shock (disorder),7-14,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Severe anxiety (panic) (finding),730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Sinusitis (disorder),730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Social isolation (finding),180-365,condition,condition,0.0008784773060029
+Hypoxemia (disorder),Social isolation (finding),365-730,condition,condition,0.0008784773060029
+Hypoxemia (disorder),Social isolation (finding),730-inf,condition,condition,0.0020497803806734
+Hypoxemia (disorder),Sprain (morphologic abnormality),365-730,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Sprain of ankle,365-730,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Sprain of wrist,365-730,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Streptococcal sore throat (disorder),730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Stress (finding),14-30,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Stress (finding),90-180,condition,condition,0.0011713030746705
+Hypoxemia (disorder),Stress (finding),180-365,condition,condition,0.0017569546120058
+Hypoxemia (disorder),Stress (finding),365-730,condition,condition,0.0026354319180087
+Hypoxemia (disorder),Stress (finding),730-inf,condition,condition,0.0055636896046852
+Hypoxemia (disorder),Suspected prostate cancer (situation),730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,180-365,condition,immunization,0.0002928257686676
+Hypoxemia (disorder),Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,365-730,condition,immunization,0.0005856515373352
+Hypoxemia (disorder),Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,730-inf,condition,immunization,0.003221083455344
+Hypoxemia (disorder),Torus palatinus (disorder),730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Unemployed (finding),365-730,condition,condition,0.0005856515373352
+Hypoxemia (disorder),Unemployed (finding),730-inf,condition,condition,0.0014641288433382
+Hypoxemia (disorder),Unhealthy alcohol drinking behavior (finding),60-90,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Unhealthy alcohol drinking behavior (finding),730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Victim of intimate partner abuse (finding),60-90,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Victim of intimate partner abuse (finding),180-365,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Victim of intimate partner abuse (finding),365-730,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Victim of intimate partner abuse (finding),730-inf,condition,condition,0.0008784773060029
+Hypoxemia (disorder),Viral sinusitis (disorder),14-30,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Viral sinusitis (disorder),30-60,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Viral sinusitis (disorder),90-180,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Viral sinusitis (disorder),180-365,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Viral sinusitis (disorder),365-730,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Viral sinusitis (disorder),730-inf,condition,condition,0.0011713030746705
+Hypoxemia (disorder),Whiplash injury to neck,180-365,condition,condition,0.0002928257686676
+Hypoxemia (disorder),Whiplash injury to neck,730-inf,condition,condition,0.0002928257686676
+Hypoxemia (disorder),meningococcal MCV4P,365-730,condition,immunization,0.0002928257686676
+Hypoxemia (disorder),meningococcal MCV4P,730-inf,condition,immunization,0.0005856515373352
+Hypoxemia (disorder),pneumococcal polysaccharide vaccine  23 valent,730-inf,condition,immunization,0.0002928257686676
+Hypoxemia (disorder),zoster vaccine  live,180-365,condition,immunization,0.0002928257686676
+Hypoxemia (disorder),zoster vaccine  live,365-730,condition,immunization,0.0002928257686676
+Hypoxemia (disorder),zoster vaccine  live,730-inf,condition,immunization,0.0017569546120058
+0-90,0-150,0-0,Oxygen Saturation,Body Height,0.0
+0-90,150-170,0-0,Oxygen Saturation,Body Height,0.0
+0-90,170-190,0-0,Oxygen Saturation,Body Height,0.0
+0-90,190-inf,0-0,Oxygen Saturation,Body Height,0.0
+90-95,0-150,0-0,Oxygen Saturation,Body Height,0.0
+90-95,150-170,0-0,Oxygen Saturation,Body Height,0.0
+90-95,170-190,0-0,Oxygen Saturation,Body Height,0.0
+90-95,190-inf,0-0,Oxygen Saturation,Body Height,0.0
+95-inf,0-150,0-0,Oxygen Saturation,Body Height,0.0
+95-inf,150-170,0-0,Oxygen Saturation,Body Height,0.0
+95-inf,170-190,0-0,Oxygen Saturation,Body Height,0.0
+95-inf,190-inf,0-0,Oxygen Saturation,Body Height,0.0
+0-90,0-36.0,0-0,Oxygen Saturation,Body Temperature,0.0
+0-90,36.0-37.5,0-0,Oxygen Saturation,Body Temperature,0.0
+0-90,37.5-inf,0-0,Oxygen Saturation,Body Temperature,0.0
+90-95,0-36.0,0-0,Oxygen Saturation,Body Temperature,0.0
+90-95,36.0-37.5,0-0,Oxygen Saturation,Body Temperature,0.0
+90-95,37.5-inf,0-0,Oxygen Saturation,Body Temperature,0.0
+95-inf,0-36.0,0-0,Oxygen Saturation,Body Temperature,0.0
+95-inf,36.0-37.5,0-0,Oxygen Saturation,Body Temperature,0.0
+95-inf,37.5-inf,0-0,Oxygen Saturation,Body Temperature,0.0
+0-90,0-50,0-0,Oxygen Saturation,Body Weight,0.0
+0-90,50-70,0-0,Oxygen Saturation,Body Weight,0.0
+0-90,70-90,0-0,Oxygen Saturation,Body Weight,0.0
+0-90,90-inf,0-0,Oxygen Saturation,Body Weight,0.0
+90-95,0-50,0-0,Oxygen Saturation,Body Weight,0.0
+90-95,50-70,0-0,Oxygen Saturation,Body Weight,0.0
+90-95,70-90,0-0,Oxygen Saturation,Body Weight,0.0
+90-95,90-inf,0-0,Oxygen Saturation,Body Weight,0.0
+95-inf,0-50,0-0,Oxygen Saturation,Body Weight,0.0
+95-inf,50-70,0-0,Oxygen Saturation,Body Weight,0.0
+95-inf,70-90,0-0,Oxygen Saturation,Body Weight,0.0
+95-inf,90-inf,0-0,Oxygen Saturation,Body Weight,0.0
+0-90,0-18.5,0-0,Oxygen Saturation,BMI (Body Mass Index),0.0
+0-90,18.5-24.9,0-0,Oxygen Saturation,BMI (Body Mass Index),0.0
+0-90,24.9-29.9,0-0,Oxygen Saturation,BMI (Body Mass Index),0.0
+0-90,29.9-34.9,0-0,Oxygen Saturation,BMI (Body Mass Index),0.0
+0-90,34.9-inf,0-0,Oxygen Saturation,BMI (Body Mass Index),0.0
+90-95,0-18.5,0-0,Oxygen Saturation,BMI (Body Mass Index),0.0
+90-95,18.5-24.9,0-0,Oxygen Saturation,BMI (Body Mass Index),0.0
+90-95,24.9-29.9,0-0,Oxygen Saturation,BMI (Body Mass Index),0.0
+90-95,29.9-34.9,0-0,Oxygen Saturation,BMI (Body Mass Index),0.0
+90-95,34.9-inf,0-0,Oxygen Saturation,BMI (Body Mass Index),0.0
+95-inf,0-18.5,0-0,Oxygen Saturation,BMI (Body Mass Index),0.0
+95-inf,18.5-24.9,0-0,Oxygen Saturation,BMI (Body Mass Index),0.0
+95-inf,24.9-29.9,0-0,Oxygen Saturation,BMI (Body Mass Index),0.0
+95-inf,29.9-34.9,0-0,Oxygen Saturation,BMI (Body Mass Index),0.0
+95-inf,34.9-inf,0-0,Oxygen Saturation,BMI (Body Mass Index),0.0
+0-90,0-8.5,0-0,Oxygen Saturation,Calcium,0.0
+0-90,8.5-10.2,0-0,Oxygen Saturation,Calcium,0.0
+0-90,10.2-inf,0-0,Oxygen Saturation,Calcium,0.0
+90-95,0-8.5,0-0,Oxygen Saturation,Calcium,0.0
+90-95,8.5-10.2,0-0,Oxygen Saturation,Calcium,0.0
+90-95,10.2-inf,0-0,Oxygen Saturation,Calcium,0.0
+95-inf,0-8.5,0-0,Oxygen Saturation,Calcium,0.0
+95-inf,8.5-10.2,0-0,Oxygen Saturation,Calcium,0.0
+95-inf,10.2-inf,0-0,Oxygen Saturation,Calcium,0.0
+0-90,0-60,0-0,Oxygen Saturation,Diastolic Blood Pressure,0.0
+0-90,60-80,0-0,Oxygen Saturation,Diastolic Blood Pressure,0.0
+0-90,80-90,0-0,Oxygen Saturation,Diastolic Blood Pressure,0.0
+0-90,90-inf,0-0,Oxygen Saturation,Diastolic Blood Pressure,0.0
+90-95,0-60,0-0,Oxygen Saturation,Diastolic Blood Pressure,0.0
+90-95,60-80,0-0,Oxygen Saturation,Diastolic Blood Pressure,0.0
+90-95,80-90,0-0,Oxygen Saturation,Diastolic Blood Pressure,0.0
+90-95,90-inf,0-0,Oxygen Saturation,Diastolic Blood Pressure,0.0
+95-inf,0-60,0-0,Oxygen Saturation,Diastolic Blood Pressure,0.0
+95-inf,60-80,0-0,Oxygen Saturation,Diastolic Blood Pressure,0.0
+95-inf,80-90,0-0,Oxygen Saturation,Diastolic Blood Pressure,0.0
+95-inf,90-inf,0-0,Oxygen Saturation,Diastolic Blood Pressure,0.0
+0-90,0-70,0-0,Oxygen Saturation,Glucose,0.0
+0-90,70-99,0-0,Oxygen Saturation,Glucose,0.0
+0-90,99-125,0-0,Oxygen Saturation,Glucose,0.0
+0-90,125-inf,0-0,Oxygen Saturation,Glucose,0.0
+90-95,0-70,0-0,Oxygen Saturation,Glucose,0.0
+90-95,70-99,0-0,Oxygen Saturation,Glucose,0.0
+90-95,99-125,0-0,Oxygen Saturation,Glucose,0.0
+90-95,125-inf,0-0,Oxygen Saturation,Glucose,0.0
+95-inf,0-70,0-0,Oxygen Saturation,Glucose,0.0
+95-inf,70-99,0-0,Oxygen Saturation,Glucose,0.0
+95-inf,99-125,0-0,Oxygen Saturation,Glucose,0.0
+95-inf,125-inf,0-0,Oxygen Saturation,Glucose,0.0
+0-90,0-12.0,0-0,Oxygen Saturation,Hemoglobin,0.0
+0-90,12.0-16.0,0-0,Oxygen Saturation,Hemoglobin,0.0
+0-90,16.0-inf,0-0,Oxygen Saturation,Hemoglobin,0.0
+90-95,0-12.0,0-0,Oxygen Saturation,Hemoglobin,0.0
+90-95,12.0-16.0,0-0,Oxygen Saturation,Hemoglobin,0.0
+90-95,16.0-inf,0-0,Oxygen Saturation,Hemoglobin,0.0
+95-inf,0-12.0,0-0,Oxygen Saturation,Hemoglobin,0.0
+95-inf,12.0-16.0,0-0,Oxygen Saturation,Hemoglobin,0.0
+95-inf,16.0-inf,0-0,Oxygen Saturation,Hemoglobin,0.0
+0-90,0-60,0-0,Oxygen Saturation,Heart Rate,0.0
+0-90,60-100,0-0,Oxygen Saturation,Heart Rate,0.0
+0-90,100-inf,0-0,Oxygen Saturation,Heart Rate,0.0
+90-95,0-60,0-0,Oxygen Saturation,Heart Rate,0.0
+90-95,60-100,0-0,Oxygen Saturation,Heart Rate,0.0
+90-95,100-inf,0-0,Oxygen Saturation,Heart Rate,0.0
+95-inf,0-60,0-0,Oxygen Saturation,Heart Rate,0.0
+95-inf,60-100,0-0,Oxygen Saturation,Heart Rate,0.0
+95-inf,100-inf,0-0,Oxygen Saturation,Heart Rate,0.0
+0-90,0-90,0-0,Oxygen Saturation,Oxygen Saturation,0.0
+0-90,90-95,0-0,Oxygen Saturation,Oxygen Saturation,0.0
+0-90,95-inf,0-0,Oxygen Saturation,Oxygen Saturation,0.0
+90-95,0-90,0-0,Oxygen Saturation,Oxygen Saturation,0.0
+90-95,90-95,0-0,Oxygen Saturation,Oxygen Saturation,0.0
+90-95,95-inf,0-0,Oxygen Saturation,Oxygen Saturation,0.0
+95-inf,0-90,0-0,Oxygen Saturation,Oxygen Saturation,0.0
+95-inf,90-95,0-0,Oxygen Saturation,Oxygen Saturation,0.0
+95-inf,95-inf,0-0,Oxygen Saturation,Oxygen Saturation,0.0
+0-90,0-150,0-0,Oxygen Saturation,Platelet Count,0.0
+0-90,150-450,0-0,Oxygen Saturation,Platelet Count,0.0
+0-90,450-inf,0-0,Oxygen Saturation,Platelet Count,0.0
+90-95,0-150,0-0,Oxygen Saturation,Platelet Count,0.0
+90-95,150-450,0-0,Oxygen Saturation,Platelet Count,0.0
+90-95,450-inf,0-0,Oxygen Saturation,Platelet Count,0.0
+95-inf,0-150,0-0,Oxygen Saturation,Platelet Count,0.0
+95-inf,150-450,0-0,Oxygen Saturation,Platelet Count,0.0
+95-inf,450-inf,0-0,Oxygen Saturation,Platelet Count,0.0
+0-90,0-3.5,0-0,Oxygen Saturation,Potassium,0.0
+0-90,3.5-5.0,0-0,Oxygen Saturation,Potassium,0.0
+0-90,5.0-inf,0-0,Oxygen Saturation,Potassium,0.0
+90-95,0-3.5,0-0,Oxygen Saturation,Potassium,0.0
+90-95,3.5-5.0,0-0,Oxygen Saturation,Potassium,0.0
+90-95,5.0-inf,0-0,Oxygen Saturation,Potassium,0.0
+95-inf,0-3.5,0-0,Oxygen Saturation,Potassium,0.0
+95-inf,3.5-5.0,0-0,Oxygen Saturation,Potassium,0.0
+95-inf,5.0-inf,0-0,Oxygen Saturation,Potassium,0.0
+0-90,0-12,0-0,Oxygen Saturation,Respiratory Rate,0.0
+0-90,12-20,0-0,Oxygen Saturation,Respiratory Rate,0.0
+0-90,20-inf,0-0,Oxygen Saturation,Respiratory Rate,0.0
+90-95,0-12,0-0,Oxygen Saturation,Respiratory Rate,0.0
+90-95,12-20,0-0,Oxygen Saturation,Respiratory Rate,0.0
+90-95,20-inf,0-0,Oxygen Saturation,Respiratory Rate,0.0
+95-inf,0-12,0-0,Oxygen Saturation,Respiratory Rate,0.0
+95-inf,12-20,0-0,Oxygen Saturation,Respiratory Rate,0.0
+95-inf,20-inf,0-0,Oxygen Saturation,Respiratory Rate,0.0
+0-90,0-135,0-0,Oxygen Saturation,Sodium,0.0
+0-90,135-145,0-0,Oxygen Saturation,Sodium,0.0
+0-90,145-inf,0-0,Oxygen Saturation,Sodium,0.0
+90-95,0-135,0-0,Oxygen Saturation,Sodium,0.0
+90-95,135-145,0-0,Oxygen Saturation,Sodium,0.0
+90-95,145-inf,0-0,Oxygen Saturation,Sodium,0.0
+95-inf,0-135,0-0,Oxygen Saturation,Sodium,0.0
+95-inf,135-145,0-0,Oxygen Saturation,Sodium,0.0
+95-inf,145-inf,0-0,Oxygen Saturation,Sodium,0.0
+0-90,0-90,0-0,Oxygen Saturation,Systolic Blood Pressure,0.0
+0-90,90-120,0-0,Oxygen Saturation,Systolic Blood Pressure,0.0
+0-90,120-140,0-0,Oxygen Saturation,Systolic Blood Pressure,0.0
+0-90,140-inf,0-0,Oxygen Saturation,Systolic Blood Pressure,0.0
+90-95,0-90,0-0,Oxygen Saturation,Systolic Blood Pressure,0.0
+90-95,90-120,0-0,Oxygen Saturation,Systolic Blood Pressure,0.0
+90-95,120-140,0-0,Oxygen Saturation,Systolic Blood Pressure,0.0
+90-95,140-inf,0-0,Oxygen Saturation,Systolic Blood Pressure,0.0
+95-inf,0-90,0-0,Oxygen Saturation,Systolic Blood Pressure,0.0
+95-inf,90-120,0-0,Oxygen Saturation,Systolic Blood Pressure,0.0
+95-inf,120-140,0-0,Oxygen Saturation,Systolic Blood Pressure,0.0
+95-inf,140-inf,0-0,Oxygen Saturation,Systolic Blood Pressure,0.0

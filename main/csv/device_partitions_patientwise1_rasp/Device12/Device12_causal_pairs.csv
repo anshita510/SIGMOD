@@ -1,0 +1,1215 @@
+cause,effect,lag_bin,cause_type,effect_type,conditional_probability
+12-16,0-60,180-365,Hemoglobin,Diastolic Blood Pressure,0.0048780487804878
+12-16,0-60,365-730,Hemoglobin,Diastolic Blood Pressure,0.0048780487804878
+12-16,0-60,730-inf,Hemoglobin,Diastolic Blood Pressure,0.0097560975609756
+12-16,120-140,180-365,Hemoglobin,Systolic Blood Pressure,0.0097560975609756
+12-16,120-140,365-730,Hemoglobin,Systolic Blood Pressure,0.0048780487804878
+12-16,120-140,730-inf,Hemoglobin,Systolic Blood Pressure,0.0390243902439024
+12-16,140-inf,730-inf,Hemoglobin,Systolic Blood Pressure,0.0097560975609756
+12-16,150-170,180-365,Hemoglobin,Body Height,0.0097560975609756
+12-16,150-170,365-730,Hemoglobin,Body Height,0.0146341463414634
+12-16,150-170,730-inf,Hemoglobin,Body Height,0.0439024390243902
+12-16,170-190,180-365,Hemoglobin,Body Height,0.0048780487804878
+12-16,170-190,730-inf,Hemoglobin,Body Height,0.0292682926829268
+12-16,50-70,180-365,Hemoglobin,Body Weight,0.0097560975609756
+12-16,50-70,365-730,Hemoglobin,Body Weight,0.0097560975609756
+12-16,50-70,730-inf,Hemoglobin,Body Weight,0.0390243902439024
+12-16,60-80,365-730,Hemoglobin,Diastolic Blood Pressure,0.0048780487804878
+12-16,60-80,730-inf,Hemoglobin,Diastolic Blood Pressure,0.0146341463414634
+12-16,70-90,180-365,Hemoglobin,Body Weight,0.0048780487804878
+12-16,70-90,365-730,Hemoglobin,Body Weight,0.0048780487804878
+12-16,70-90,730-inf,Hemoglobin,Body Weight,0.0341463414634146
+12-16,80-90,730-inf,Hemoglobin,Diastolic Blood Pressure,0.0146341463414634
+12-16,90-120,180-365,Hemoglobin,Systolic Blood Pressure,0.0048780487804878
+12-16,90-120,365-730,Hemoglobin,Systolic Blood Pressure,0.0097560975609756
+12-16,90-120,730-inf,Hemoglobin,Systolic Blood Pressure,0.024390243902439
+12-16,90-inf,180-365,Hemoglobin,Diastolic Blood Pressure,0.0097560975609756
+12-16,90-inf,365-730,Hemoglobin,Diastolic Blood Pressure,0.0048780487804878
+12-16,90-inf,730-inf,Hemoglobin,Diastolic Blood Pressure,0.0341463414634146
+12-16,Abnormal findings diagnostic imaging heart+coronary circulat (finding),730-inf,Hemoglobin,condition,0.0048780487804878
+12-16,Acute Cholecystitis,0-7,Hemoglobin,condition,0.0048780487804878
+12-16,Acute bronchitis (disorder),730-inf,Hemoglobin,condition,0.0048780487804878
+12-16,Acute viral pharyngitis (disorder),730-inf,Hemoglobin,condition,0.0048780487804878
+12-16,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,730-inf,Hemoglobin,immunization,0.0195121951219512
+12-16,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,365-730,Hemoglobin,immunization,0.0097560975609756
+12-16,Cholelithiasis,0-7,Hemoglobin,condition,0.0048780487804878
+12-16,Full-time employment (finding),180-365,Hemoglobin,condition,0.0048780487804878
+12-16,Full-time employment (finding),730-inf,Hemoglobin,condition,0.0195121951219512
+12-16,Gingival disease (disorder),365-730,Hemoglobin,condition,0.0048780487804878
+12-16,Gingival disease (disorder),730-inf,Hemoglobin,condition,0.0097560975609756
+12-16,Gingivitis (disorder),365-730,Hemoglobin,condition,0.0048780487804878
+12-16,Gingivitis (disorder),730-inf,Hemoglobin,condition,0.0292682926829268
+12-16,History of coronary artery bypass grafting (situation),730-inf,Hemoglobin,condition,0.0048780487804878
+12-16,Hyperlipidemia,730-inf,Hemoglobin,condition,0.0048780487804878
+12-16,Influenza  seasonal  injectable  preservative free,180-365,Hemoglobin,immunization,0.0146341463414634
+12-16,Influenza  seasonal  injectable  preservative free,365-730,Hemoglobin,immunization,0.0195121951219512
+12-16,Influenza  seasonal  injectable  preservative free,730-inf,Hemoglobin,immunization,0.0682926829268292
+12-16,Ischemic heart disease (disorder),730-inf,Hemoglobin,condition,0.0048780487804878
+12-16,Limited social contact (finding),365-730,Hemoglobin,condition,0.0048780487804878
+12-16,Limited social contact (finding),730-inf,Hemoglobin,condition,0.0048780487804878
+12-16,Loose dental filling (finding),365-730,Hemoglobin,condition,0.0048780487804878
+12-16,Loose dental filling (finding),730-inf,Hemoglobin,condition,0.0048780487804878
+12-16,Medication review due (situation),180-365,Hemoglobin,condition,0.0048780487804878
+12-16,Medication review due (situation),730-inf,Hemoglobin,condition,0.024390243902439
+12-16,Non-small cell carcinoma of lung  TNM stage 1 (disorder),365-730,Hemoglobin,condition,0.0048780487804878
+12-16,Non-small cell lung cancer (disorder),365-730,Hemoglobin,condition,0.0048780487804878
+12-16,Not in labor force (finding),365-730,Hemoglobin,condition,0.0048780487804878
+12-16,Part-time employment (finding),365-730,Hemoglobin,condition,0.0048780487804878
+12-16,Part-time employment (finding),730-inf,Hemoglobin,condition,0.0146341463414634
+12-16,Polyp of colon,365-730,Hemoglobin,condition,0.0048780487804878
+12-16,Primary dental caries (disorder),365-730,Hemoglobin,condition,0.0048780487804878
+12-16,Primary dental caries (disorder),730-inf,Hemoglobin,condition,0.0048780487804878
+12-16,Reports of violence in the environment (finding),365-730,Hemoglobin,condition,0.0048780487804878
+12-16,Reports of violence in the environment (finding),730-inf,Hemoglobin,condition,0.0048780487804878
+12-16,Social isolation (finding),180-365,Hemoglobin,condition,0.0048780487804878
+12-16,Social isolation (finding),730-inf,Hemoglobin,condition,0.0048780487804878
+12-16,Sprain (morphologic abnormality),180-365,Hemoglobin,condition,0.0048780487804878
+12-16,Sprain (morphologic abnormality),365-730,Hemoglobin,condition,0.0048780487804878
+12-16,Sprain of ankle,365-730,Hemoglobin,condition,0.0048780487804878
+12-16,Sprain of wrist,180-365,Hemoglobin,condition,0.0048780487804878
+12-16,Stress (finding),365-730,Hemoglobin,condition,0.0097560975609756
+12-16,Stress (finding),730-inf,Hemoglobin,condition,0.0146341463414634
+12-16,Suspected lung cancer (situation),365-730,Hemoglobin,condition,0.0048780487804878
+12-16,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,730-inf,Hemoglobin,immunization,0.0048780487804878
+12-16,Unemployed (finding),730-inf,Hemoglobin,condition,0.0048780487804878
+12-16,Unhealthy alcohol drinking behavior (finding),730-inf,Hemoglobin,condition,0.0048780487804878
+12-16,Victim of intimate partner abuse (finding),365-730,Hemoglobin,condition,0.0048780487804878
+12-16,Viral sinusitis (disorder),730-inf,Hemoglobin,condition,0.0146341463414634
+16-inf,0-60,14-30,Hemoglobin,Diastolic Blood Pressure,0.0013071895424836
+16-inf,0-60,30-60,Hemoglobin,Diastolic Blood Pressure,0.0026143790849673
+16-inf,0-60,60-90,Hemoglobin,Diastolic Blood Pressure,0.0026143790849673
+16-inf,0-60,90-180,Hemoglobin,Diastolic Blood Pressure,0.0039215686274509
+16-inf,0-60,180-365,Hemoglobin,Diastolic Blood Pressure,0.0104575163398692
+16-inf,0-60,365-730,Hemoglobin,Diastolic Blood Pressure,0.0222222222222222
+16-inf,0-60,730-inf,Hemoglobin,Diastolic Blood Pressure,0.0156862745098039
+16-inf,0-90,30-60,Hemoglobin,Systolic Blood Pressure,0.0013071895424836
+16-inf,0-90,90-180,Hemoglobin,Systolic Blood Pressure,0.0013071895424836
+16-inf,0-90,180-365,Hemoglobin,Systolic Blood Pressure,0.0039215686274509
+16-inf,0-90,365-730,Hemoglobin,Systolic Blood Pressure,0.0104575163398692
+16-inf,0-90,730-inf,Hemoglobin,Systolic Blood Pressure,0.0117647058823529
+16-inf,120-140,14-30,Hemoglobin,Systolic Blood Pressure,0.0013071895424836
+16-inf,120-140,30-60,Hemoglobin,Systolic Blood Pressure,0.0013071895424836
+16-inf,120-140,90-180,Hemoglobin,Systolic Blood Pressure,0.0052287581699346
+16-inf,120-140,180-365,Hemoglobin,Systolic Blood Pressure,0.0026143790849673
+16-inf,120-140,365-730,Hemoglobin,Systolic Blood Pressure,0.0078431372549019
+16-inf,120-140,730-inf,Hemoglobin,Systolic Blood Pressure,0.0274509803921568
+16-inf,140-inf,365-730,Hemoglobin,Systolic Blood Pressure,0.0013071895424836
+16-inf,140-inf,730-inf,Hemoglobin,Systolic Blood Pressure,0.0130718954248366
+16-inf,150-170,14-30,Hemoglobin,Body Height,0.0013071895424836
+16-inf,150-170,90-180,Hemoglobin,Body Height,0.0039215686274509
+16-inf,150-170,180-365,Hemoglobin,Body Height,0.0026143790849673
+16-inf,150-170,365-730,Hemoglobin,Body Height,0.0078431372549019
+16-inf,150-170,730-inf,Hemoglobin,Body Height,0.0405228758169934
+16-inf,170-190,14-30,Hemoglobin,Body Height,0.0013071895424836
+16-inf,170-190,30-60,Hemoglobin,Body Height,0.0039215686274509
+16-inf,170-190,60-90,Hemoglobin,Body Height,0.0039215686274509
+16-inf,170-190,90-180,Hemoglobin,Body Height,0.0078431372549019
+16-inf,170-190,180-365,Hemoglobin,Body Height,0.0117647058823529
+16-inf,170-190,365-730,Hemoglobin,Body Height,0.0274509803921568
+16-inf,170-190,730-inf,Hemoglobin,Body Height,0.0300653594771241
+16-inf,50-70,90-180,Hemoglobin,Body Weight,0.0013071895424836
+16-inf,50-70,365-730,Hemoglobin,Body Weight,0.0013071895424836
+16-inf,50-70,730-inf,Hemoglobin,Body Weight,0.0052287581699346
+16-inf,60-80,365-730,Hemoglobin,Diastolic Blood Pressure,0.0013071895424836
+16-inf,60-80,730-inf,Hemoglobin,Diastolic Blood Pressure,0.0065359477124183
+16-inf,70-90,14-30,Hemoglobin,Body Weight,0.0013071895424836
+16-inf,70-90,30-60,Hemoglobin,Body Weight,0.0013071895424836
+16-inf,70-90,60-90,Hemoglobin,Body Weight,0.0013071895424836
+16-inf,70-90,90-180,Hemoglobin,Body Weight,0.0065359477124183
+16-inf,70-90,180-365,Hemoglobin,Body Weight,0.0052287581699346
+16-inf,70-90,365-730,Hemoglobin,Body Weight,0.0117647058823529
+16-inf,70-90,730-inf,Hemoglobin,Body Weight,0.0509803921568627
+16-inf,80-90,14-30,Hemoglobin,Diastolic Blood Pressure,0.0013071895424836
+16-inf,80-90,30-60,Hemoglobin,Diastolic Blood Pressure,0.0013071895424836
+16-inf,80-90,60-90,Hemoglobin,Diastolic Blood Pressure,0.0013071895424836
+16-inf,80-90,90-180,Hemoglobin,Diastolic Blood Pressure,0.0078431372549019
+16-inf,80-90,180-365,Hemoglobin,Diastolic Blood Pressure,0.0039215686274509
+16-inf,80-90,365-730,Hemoglobin,Diastolic Blood Pressure,0.0117647058823529
+16-inf,80-90,730-inf,Hemoglobin,Diastolic Blood Pressure,0.0431372549019607
+16-inf,90-120,14-30,Hemoglobin,Systolic Blood Pressure,0.0013071895424836
+16-inf,90-120,30-60,Hemoglobin,Systolic Blood Pressure,0.0013071895424836
+16-inf,90-120,60-90,Hemoglobin,Systolic Blood Pressure,0.0039215686274509
+16-inf,90-120,90-180,Hemoglobin,Systolic Blood Pressure,0.0052287581699346
+16-inf,90-120,180-365,Hemoglobin,Systolic Blood Pressure,0.0078431372549019
+16-inf,90-120,365-730,Hemoglobin,Systolic Blood Pressure,0.0156862745098039
+16-inf,90-120,730-inf,Hemoglobin,Systolic Blood Pressure,0.0183006535947712
+16-inf,90-inf,14-30,Hemoglobin,Body Weight,0.0013071895424836
+16-inf,90-inf,30-60,Hemoglobin,Body Weight,0.0026143790849673
+16-inf,90-inf,60-90,Hemoglobin,Body Weight,0.0026143790849673
+16-inf,90-inf,90-180,Hemoglobin,Body Weight,0.0039215686274509
+16-inf,90-inf,180-365,Hemoglobin,Body Weight,0.0091503267973856
+16-inf,90-inf,365-730,Hemoglobin,Body Weight,0.0222222222222222
+16-inf,90-inf,730-inf,Hemoglobin,Body Weight,0.0156862745098039
+16-inf,90-inf,730-inf,Hemoglobin,Diastolic Blood Pressure,0.0052287581699346
+16-inf,Acute Cholecystitis,0-7,Hemoglobin,condition,0.0052287581699346
+16-inf,Acute bronchitis (disorder),60-90,Hemoglobin,condition,0.0013071895424836
+16-inf,Acute bronchitis (disorder),365-730,Hemoglobin,condition,0.0013071895424836
+16-inf,Acute bronchitis (disorder),730-inf,Hemoglobin,condition,0.0013071895424836
+16-inf,Acute viral pharyngitis (disorder),180-365,Hemoglobin,condition,0.0013071895424836
+16-inf,Acute viral pharyngitis (disorder),730-inf,Hemoglobin,condition,0.0013071895424836
+16-inf,Awaiting transplantation of bone marrow (situation),730-inf,Hemoglobin,condition,0.0013071895424836
+16-inf,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,365-730,Hemoglobin,immunization,0.0026143790849673
+16-inf,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,730-inf,Hemoglobin,immunization,0.0026143790849673
+16-inf,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,90-180,Hemoglobin,immunization,0.0026143790849673
+16-inf,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,730-inf,Hemoglobin,immunization,0.0026143790849673
+16-inf,Cholelithiasis,0-7,Hemoglobin,condition,0.0052287581699346
+16-inf,Chronic congestive heart failure (disorder),730-inf,Hemoglobin,condition,0.0013071895424836
+16-inf,Concussion injury of brain (disorder),90-180,Hemoglobin,condition,0.0013071895424836
+16-inf,Concussion with loss of consciousness,90-180,Hemoglobin,condition,0.0013071895424836
+16-inf,Full-time employment (finding),90-180,Hemoglobin,condition,0.0052287581699346
+16-inf,Full-time employment (finding),180-365,Hemoglobin,condition,0.0026143790849673
+16-inf,Full-time employment (finding),365-730,Hemoglobin,condition,0.0052287581699346
+16-inf,Full-time employment (finding),730-inf,Hemoglobin,condition,0.0143790849673202
+16-inf,Gingival disease (disorder),30-60,Hemoglobin,condition,0.0013071895424836
+16-inf,Gingival disease (disorder),90-180,Hemoglobin,condition,0.0013071895424836
+16-inf,Gingival disease (disorder),365-730,Hemoglobin,condition,0.0026143790849673
+16-inf,Gingival disease (disorder),730-inf,Hemoglobin,condition,0.0052287581699346
+16-inf,Gingivitis (disorder),30-60,Hemoglobin,condition,0.0013071895424836
+16-inf,Gingivitis (disorder),90-180,Hemoglobin,condition,0.0039215686274509
+16-inf,Gingivitis (disorder),180-365,Hemoglobin,condition,0.0039215686274509
+16-inf,Gingivitis (disorder),365-730,Hemoglobin,condition,0.0065359477124183
+16-inf,Gingivitis (disorder),730-inf,Hemoglobin,condition,0.0169934640522875
+16-inf,History of peripheral stem cell transplant (situation),730-inf,Hemoglobin,condition,0.0013071895424836
+16-inf,Influenza  seasonal  injectable  preservative free,14-30,Hemoglobin,immunization,0.0013071895424836
+16-inf,Influenza  seasonal  injectable  preservative free,30-60,Hemoglobin,immunization,0.0013071895424836
+16-inf,Influenza  seasonal  injectable  preservative free,90-180,Hemoglobin,immunization,0.0026143790849673
+16-inf,Influenza  seasonal  injectable  preservative free,180-365,Hemoglobin,immunization,0.0039215686274509
+16-inf,Influenza  seasonal  injectable  preservative free,365-730,Hemoglobin,immunization,0.0091503267973856
+16-inf,Influenza  seasonal  injectable  preservative free,730-inf,Hemoglobin,immunization,0.0287581699346405
+16-inf,Injury of knee (disorder),730-inf,Hemoglobin,condition,0.0013071895424836
+16-inf,Injury of medial collateral ligament of knee,730-inf,Hemoglobin,condition,0.0013071895424836
+16-inf,Leaking dental filling (finding),365-730,Hemoglobin,condition,0.0013071895424836
+16-inf,Leaking dental filling (finding),730-inf,Hemoglobin,condition,0.0039215686274509
+16-inf,Limited social contact (finding),14-30,Hemoglobin,condition,0.0013071895424836
+16-inf,Limited social contact (finding),730-inf,Hemoglobin,condition,0.0039215686274509
+16-inf,Loose dental filling (finding),365-730,Hemoglobin,condition,0.0013071895424836
+16-inf,Medication review due (situation),30-60,Hemoglobin,condition,0.0026143790849673
+16-inf,Medication review due (situation),60-90,Hemoglobin,condition,0.0013071895424836
+16-inf,Medication review due (situation),90-180,Hemoglobin,condition,0.0091503267973856
+16-inf,Medication review due (situation),180-365,Hemoglobin,condition,0.0130718954248366
+16-inf,Medication review due (situation),365-730,Hemoglobin,condition,0.0222222222222222
+16-inf,Medication review due (situation),730-inf,Hemoglobin,condition,0.0392156862745098
+16-inf,Multiple myeloma (disorder),730-inf,Hemoglobin,condition,0.0013071895424836
+16-inf,Not in labor force (finding),60-90,Hemoglobin,condition,0.0013071895424836
+16-inf,Not in labor force (finding),180-365,Hemoglobin,condition,0.0013071895424836
+16-inf,Not in labor force (finding),365-730,Hemoglobin,condition,0.0026143790849673
+16-inf,Not in labor force (finding),730-inf,Hemoglobin,condition,0.0065359477124183
+16-inf,Osteoarthritis of knee,180-365,Hemoglobin,condition,0.0013071895424836
+16-inf,Osteoporosis (disorder),730-inf,Hemoglobin,condition,0.0013071895424836
+16-inf,Part-time employment (finding),180-365,Hemoglobin,condition,0.0026143790849673
+16-inf,Part-time employment (finding),365-730,Hemoglobin,condition,0.0026143790849673
+16-inf,Part-time employment (finding),730-inf,Hemoglobin,condition,0.0065359477124183
+16-inf,Pneumococcal conjugate PCV 13,730-inf,Hemoglobin,immunization,0.0013071895424836
+16-inf,Primary dental caries (disorder),180-365,Hemoglobin,condition,0.0026143790849673
+16-inf,Primary dental caries (disorder),365-730,Hemoglobin,condition,0.0039215686274509
+16-inf,Primary dental caries (disorder),730-inf,Hemoglobin,condition,0.0013071895424836
+16-inf,Reports of violence in the environment (finding),60-90,Hemoglobin,condition,0.0013071895424836
+16-inf,Reports of violence in the environment (finding),365-730,Hemoglobin,condition,0.0026143790849673
+16-inf,Severe anxiety (panic) (finding),90-180,Hemoglobin,condition,0.0013071895424836
+16-inf,Severe anxiety (panic) (finding),730-inf,Hemoglobin,condition,0.0013071895424836
+16-inf,Social isolation (finding),180-365,Hemoglobin,condition,0.0013071895424836
+16-inf,Social isolation (finding),365-730,Hemoglobin,condition,0.0065359477124183
+16-inf,Social isolation (finding),730-inf,Hemoglobin,condition,0.0013071895424836
+16-inf,Stress (finding),30-60,Hemoglobin,condition,0.0039215686274509
+16-inf,Stress (finding),90-180,Hemoglobin,condition,0.0039215686274509
+16-inf,Stress (finding),180-365,Hemoglobin,condition,0.0013071895424836
+16-inf,Stress (finding),365-730,Hemoglobin,condition,0.0104575163398692
+16-inf,Stress (finding),730-inf,Hemoglobin,condition,0.0130718954248366
+16-inf,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,14-30,Hemoglobin,immunization,0.0013071895424836
+16-inf,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,30-60,Hemoglobin,immunization,0.0013071895424836
+16-inf,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,365-730,Hemoglobin,immunization,0.0013071895424836
+16-inf,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,730-inf,Hemoglobin,immunization,0.0013071895424836
+16-inf,Unemployed (finding),14-30,Hemoglobin,condition,0.0013071895424836
+16-inf,Unemployed (finding),30-60,Hemoglobin,condition,0.0013071895424836
+16-inf,Unemployed (finding),730-inf,Hemoglobin,condition,0.0026143790849673
+16-inf,Unhealthy alcohol drinking behavior (finding),90-180,Hemoglobin,condition,0.0013071895424836
+16-inf,Unhealthy alcohol drinking behavior (finding),180-365,Hemoglobin,condition,0.0013071895424836
+16-inf,Victim of intimate partner abuse (finding),90-180,Hemoglobin,condition,0.0013071895424836
+16-inf,Victim of intimate partner abuse (finding),180-365,Hemoglobin,condition,0.0026143790849673
+16-inf,Victim of intimate partner abuse (finding),365-730,Hemoglobin,condition,0.0013071895424836
+16-inf,Victim of intimate partner abuse (finding),730-inf,Hemoglobin,condition,0.0052287581699346
+16-inf,Viral sinusitis (disorder),730-inf,Hemoglobin,condition,0.0026143790849673
+16-inf,pneumococcal polysaccharide vaccine  23 valent,730-inf,Hemoglobin,immunization,0.0013071895424836
+Anemia (disorder),0-1,730-inf,condition,Creatinine,0.003791032015659
+Anemia (disorder),0-100,730-inf,condition,Alkaline Phosphatase,7.874547213535222e-05
+Anemia (disorder),0-150,30-60,condition,Body Height,3.3748059486579524e-05
+Anemia (disorder),0-150,60-90,condition,Body Height,3.3748059486579524e-05
+Anemia (disorder),0-150,90-180,condition,Body Height,7.874547213535222e-05
+Anemia (disorder),0-150,180-365,condition,Body Height,0.0001574909442707
+Anemia (disorder),0-150,365-730,condition,Body Height,0.0002587351227304
+Anemia (disorder),0-150,730-inf,condition,Body Height,0.0007312079555425
+Anemia (disorder),0-35,14-30,condition,Carbon Dioxide,2.249870632438635e-05
+Anemia (disorder),0-35,30-60,condition,Carbon Dioxide,7.874547213535222e-05
+Anemia (disorder),0-35,60-90,condition,Carbon Dioxide,0.0001462415911085
+Anemia (disorder),0-35,90-180,condition,Carbon Dioxide,5.624676581096587e-05
+Anemia (disorder),0-35,730-inf,condition,Carbon Dioxide,0.0080882849236168
+Anemia (disorder),0-50,30-60,condition,Body Weight,3.3748059486579524e-05
+Anemia (disorder),0-50,60-90,condition,Body Weight,3.3748059486579524e-05
+Anemia (disorder),0-50,90-180,condition,Body Weight,7.874547213535222e-05
+Anemia (disorder),0-50,180-365,condition,Body Weight,0.0001687402974328
+Anemia (disorder),0-50,365-730,condition,Body Weight,0.0002587351227304
+Anemia (disorder),0-50,730-inf,condition,Body Weight,0.0004499741264877
+Anemia (disorder),0-60,14-30,condition,Diastolic Blood Pressure,1.1249353162193176e-05
+Anemia (disorder),0-60,30-60,condition,Diastolic Blood Pressure,1.1249353162193176e-05
+Anemia (disorder),0-60,90-180,condition,Diastolic Blood Pressure,6.749611897315905e-05
+Anemia (disorder),0-60,180-365,condition,Diastolic Blood Pressure,8.99948252975454e-05
+Anemia (disorder),0-60,365-730,condition,Diastolic Blood Pressure,0.000292483182217
+Anemia (disorder),0-60,730-inf,condition,Diastolic Blood Pressure,0.012520530069521
+Anemia (disorder),0-70,30-60,condition,Glucose,3.3748059486579524e-05
+Anemia (disorder),0-70,60-90,condition,Glucose,3.3748059486579524e-05
+Anemia (disorder),0-70,730-inf,condition,Glucose,0.0012036807883546
+Anemia (disorder),0-8,30-60,condition,Calcium,1.1249353162193176e-05
+Anemia (disorder),0-8,60-90,condition,Calcium,1.1249353162193176e-05
+Anemia (disorder),0-8,90-180,condition,Calcium,1.1249353162193176e-05
+Anemia (disorder),0-8,730-inf,condition,Anion Gap,3.3748059486579524e-05
+Anemia (disorder),0-8,730-inf,condition,Calcium,0.0002249870632438
+Anemia (disorder),0-90,14-30,condition,Systolic Blood Pressure,1.1249353162193176e-05
+Anemia (disorder),0-90,90-180,condition,Systolic Blood Pressure,1.1249353162193176e-05
+Anemia (disorder),0-90,180-365,condition,Systolic Blood Pressure,2.249870632438635e-05
+Anemia (disorder),0-90,365-730,condition,Systolic Blood Pressure,0.0001349922379463
+Anemia (disorder),0-90,730-inf,condition,Systolic Blood Pressure,0.0109456206268139
+Anemia (disorder),1-1,730-inf,condition,Creatinine,0.0019011406844106
+Anemia (disorder),1-inf,14-30,condition,Creatinine,2.249870632438635e-05
+Anemia (disorder),1-inf,30-60,condition,Creatinine,7.874547213535222e-05
+Anemia (disorder),1-inf,60-90,condition,Creatinine,0.0001462415911085
+Anemia (disorder),1-inf,90-180,condition,Creatinine,5.624676581096587e-05
+Anemia (disorder),1-inf,730-inf,condition,Creatinine,0.0023961122235471
+Anemia (disorder),107-inf,30-60,condition,Chloride,3.3748059486579524e-05
+Anemia (disorder),107-inf,60-90,condition,Chloride,7.874547213535222e-05
+Anemia (disorder),107-inf,90-180,condition,Chloride,3.3748059486579524e-05
+Anemia (disorder),107-inf,730-inf,condition,Chloride,0.0030035772943055
+Anemia (disorder),12-16,730-inf,condition,Hemoglobin,2.249870632438635e-05
+Anemia (disorder),120-140,0-7,condition,Systolic Blood Pressure,2.249870632438635e-05
+Anemia (disorder),120-140,7-14,condition,Systolic Blood Pressure,2.249870632438635e-05
+Anemia (disorder),120-140,14-30,condition,Systolic Blood Pressure,5.624676581096587e-05
+Anemia (disorder),120-140,30-60,condition,Systolic Blood Pressure,8.99948252975454e-05
+Anemia (disorder),120-140,60-90,condition,Systolic Blood Pressure,5.624676581096587e-05
+Anemia (disorder),120-140,90-180,condition,Systolic Blood Pressure,0.0002699844758926
+Anemia (disorder),120-140,180-365,condition,Systolic Blood Pressure,0.0006637118365693
+Anemia (disorder),120-140,365-730,condition,Systolic Blood Pressure,0.0014399172047607
+Anemia (disorder),120-140,730-inf,condition,Systolic Blood Pressure,0.040182689495354
+Anemia (disorder),120-180,730-inf,condition,ALT (Elevated),6.749611897315905e-05
+Anemia (disorder),125-inf,60-90,condition,Glucose,1.1249353162193176e-05
+Anemia (disorder),135-145,14-30,condition,Sodium,2.249870632438635e-05
+Anemia (disorder),135-145,30-60,condition,Sodium,7.874547213535222e-05
+Anemia (disorder),135-145,60-90,condition,Sodium,0.0001462415911085
+Anemia (disorder),135-145,90-180,condition,Sodium,5.624676581096587e-05
+Anemia (disorder),135-145,730-inf,condition,Sodium,0.0080882849236168
+Anemia (disorder),140-inf,7-14,condition,Systolic Blood Pressure,1.1249353162193176e-05
+Anemia (disorder),140-inf,90-180,condition,Systolic Blood Pressure,8.99948252975454e-05
+Anemia (disorder),140-inf,180-365,condition,Systolic Blood Pressure,6.749611897315905e-05
+Anemia (disorder),140-inf,365-730,condition,Systolic Blood Pressure,0.0002587351227304
+Anemia (disorder),140-inf,730-inf,condition,Systolic Blood Pressure,0.0071770873174792
+Anemia (disorder),150-170,7-14,condition,Body Height,5.624676581096587e-05
+Anemia (disorder),150-170,14-30,condition,Body Height,1.1249353162193176e-05
+Anemia (disorder),150-170,60-90,condition,Body Height,6.749611897315905e-05
+Anemia (disorder),150-170,90-180,condition,Body Height,0.0002137377100816
+Anemia (disorder),150-170,180-365,condition,Body Height,0.0004612234796499
+Anemia (disorder),150-170,365-730,condition,Body Height,0.0012936756136522
+Anemia (disorder),150-170,730-inf,condition,Body Height,0.0442999527527167
+Anemia (disorder),150-450,730-inf,condition,Platelet Count,7.874547213535222e-05
+Anemia (disorder),150-inf,730-inf,condition,AST (Elevated),2.249870632438635e-05
+Anemia (disorder),16-inf,730-inf,condition,Hemoglobin,5.624676581096587e-05
+Anemia (disorder),170-190,0-7,condition,Body Height,2.249870632438635e-05
+Anemia (disorder),170-190,7-14,condition,Body Height,2.249870632438635e-05
+Anemia (disorder),170-190,14-30,condition,Body Height,3.3748059486579524e-05
+Anemia (disorder),170-190,30-60,condition,Body Height,0.0001124935316219
+Anemia (disorder),170-190,60-90,condition,Body Height,4.49974126487727e-05
+Anemia (disorder),170-190,90-180,condition,Body Height,0.0003037325353792
+Anemia (disorder),170-190,180-365,condition,Body Height,0.0007874547213535
+Anemia (disorder),170-190,365-730,condition,Body Height,0.0021148783944923
+Anemia (disorder),170-190,730-inf,condition,Body Height,0.0673048799694017
+Anemia (disorder),190-inf,365-730,condition,Body Height,2.249870632438635e-05
+Anemia (disorder),190-inf,730-inf,condition,Body Height,0.0014849146174094
+Anemia (disorder),3-5,14-30,condition,Potassium,2.249870632438635e-05
+Anemia (disorder),3-5,30-60,condition,Potassium,7.874547213535222e-05
+Anemia (disorder),3-5,60-90,condition,Potassium,0.0001237428847841
+Anemia (disorder),3-5,90-180,condition,Potassium,5.624676581096587e-05
+Anemia (disorder),3-5,730-inf,condition,Albumin,6.749611897315905e-05
+Anemia (disorder),3-5,730-inf,condition,Potassium,0.0069521002542353
+Anemia (disorder),5-inf,60-90,condition,Potassium,2.249870632438635e-05
+Anemia (disorder),5-inf,730-inf,condition,Albumin,1.1249353162193176e-05
+Anemia (disorder),5-inf,730-inf,condition,Potassium,0.0011361846693815
+Anemia (disorder),50-70,7-14,condition,Body Weight,1.1249353162193176e-05
+Anemia (disorder),50-70,60-90,condition,Body Weight,4.49974126487727e-05
+Anemia (disorder),50-70,90-180,condition,Body Weight,5.624676581096587e-05
+Anemia (disorder),50-70,180-365,condition,Body Weight,0.0001349922379463
+Anemia (disorder),50-70,365-730,condition,Body Weight,0.0004387247733255
+Anemia (disorder),50-70,730-inf,condition,Body Weight,0.0084932616374558
+Anemia (disorder),60-120,730-inf,condition,ALT (Elevated),1.1249353162193176e-05
+Anemia (disorder),60-80,0-7,condition,Diastolic Blood Pressure,1.1249353162193176e-05
+Anemia (disorder),60-80,7-14,condition,Diastolic Blood Pressure,3.3748059486579524e-05
+Anemia (disorder),60-80,30-60,condition,Diastolic Blood Pressure,7.874547213535222e-05
+Anemia (disorder),60-80,60-90,condition,Diastolic Blood Pressure,0.0001124935316219
+Anemia (disorder),60-80,90-180,condition,Diastolic Blood Pressure,0.0002699844758926
+Anemia (disorder),60-80,180-365,condition,Diastolic Blood Pressure,0.0005174702454608
+Anemia (disorder),60-80,365-730,condition,Diastolic Blood Pressure,0.0025986005804666
+Anemia (disorder),60-80,730-inf,condition,Diastolic Blood Pressure,0.0566179944653182
+Anemia (disorder),70-90,0-7,condition,Body Weight,2.249870632438635e-05
+Anemia (disorder),70-90,7-14,condition,Body Weight,4.49974126487727e-05
+Anemia (disorder),70-90,14-30,condition,Body Weight,2.249870632438635e-05
+Anemia (disorder),70-90,30-60,condition,Body Weight,3.3748059486579524e-05
+Anemia (disorder),70-90,60-90,condition,Body Weight,3.3748059486579524e-05
+Anemia (disorder),70-90,90-180,condition,Body Weight,0.0002474857695682
+Anemia (disorder),70-90,180-365,condition,Body Weight,0.0006637118365693
+Anemia (disorder),70-90,365-730,condition,Body Weight,0.0020811303350057
+Anemia (disorder),70-90,730-inf,condition,Body Weight,0.0692172700069746
+Anemia (disorder),70-99,14-30,condition,Glucose,2.249870632438635e-05
+Anemia (disorder),70-99,30-60,condition,Glucose,4.49974126487727e-05
+Anemia (disorder),70-99,60-90,condition,Glucose,8.99948252975454e-05
+Anemia (disorder),70-99,90-180,condition,Glucose,5.624676581096587e-05
+Anemia (disorder),70-99,730-inf,condition,Glucose,0.0063333858303147
+Anemia (disorder),8-10,14-30,condition,Calcium,2.249870632438635e-05
+Anemia (disorder),8-10,30-60,condition,Calcium,6.749611897315905e-05
+Anemia (disorder),8-10,60-90,condition,Calcium,0.0001349922379463
+Anemia (disorder),8-10,90-180,condition,Calcium,4.49974126487727e-05
+Anemia (disorder),8-10,730-inf,condition,Calcium,0.007863297860373
+Anemia (disorder),8-16,730-inf,condition,Anion Gap,4.49974126487727e-05
+Anemia (disorder),80-150,730-inf,condition,AST (Elevated),5.624676581096587e-05
+Anemia (disorder),80-90,0-7,condition,Diastolic Blood Pressure,1.1249353162193176e-05
+Anemia (disorder),80-90,7-14,condition,Diastolic Blood Pressure,2.249870632438635e-05
+Anemia (disorder),80-90,14-30,condition,Diastolic Blood Pressure,5.624676581096587e-05
+Anemia (disorder),80-90,30-60,condition,Diastolic Blood Pressure,3.3748059486579524e-05
+Anemia (disorder),80-90,60-90,condition,Diastolic Blood Pressure,5.624676581096587e-05
+Anemia (disorder),80-90,90-180,condition,Diastolic Blood Pressure,0.0001349922379463
+Anemia (disorder),80-90,180-365,condition,Diastolic Blood Pressure,0.0003149818885414
+Anemia (disorder),80-90,365-730,condition,Diastolic Blood Pressure,0.0011249353162193
+Anemia (disorder),80-90,730-inf,condition,Diastolic Blood Pressure,0.0299570274709204
+Anemia (disorder),90-120,7-14,condition,Systolic Blood Pressure,4.49974126487727e-05
+Anemia (disorder),90-120,14-30,condition,Systolic Blood Pressure,3.3748059486579524e-05
+Anemia (disorder),90-120,30-60,condition,Systolic Blood Pressure,5.624676581096587e-05
+Anemia (disorder),90-120,60-90,condition,Systolic Blood Pressure,0.0001462415911085
+Anemia (disorder),90-120,90-180,condition,Systolic Blood Pressure,0.0003037325353792
+Anemia (disorder),90-120,180-365,condition,Systolic Blood Pressure,0.0007087092492181
+Anemia (disorder),90-120,365-730,condition,Systolic Blood Pressure,0.003149818885414
+Anemia (disorder),90-120,730-inf,condition,Systolic Blood Pressure,0.0677548540958894
+Anemia (disorder),90-inf,7-14,condition,Body Weight,2.249870632438635e-05
+Anemia (disorder),90-inf,7-14,condition,Diastolic Blood Pressure,2.249870632438635e-05
+Anemia (disorder),90-inf,14-30,condition,Body Weight,2.249870632438635e-05
+Anemia (disorder),90-inf,14-30,condition,Diastolic Blood Pressure,3.3748059486579524e-05
+Anemia (disorder),90-inf,30-60,condition,Body Weight,7.874547213535222e-05
+Anemia (disorder),90-inf,30-60,condition,Diastolic Blood Pressure,2.249870632438635e-05
+Anemia (disorder),90-inf,60-90,condition,Body Weight,3.3748059486579524e-05
+Anemia (disorder),90-inf,60-90,condition,Diastolic Blood Pressure,3.3748059486579524e-05
+Anemia (disorder),90-inf,90-180,condition,Body Weight,0.0002249870632438
+Anemia (disorder),90-inf,90-180,condition,Diastolic Blood Pressure,0.0002024883569194
+Anemia (disorder),90-inf,180-365,condition,Body Weight,0.0004499741264877
+Anemia (disorder),90-inf,180-365,condition,Diastolic Blood Pressure,0.0005399689517852
+Anemia (disorder),90-inf,365-730,condition,Body Weight,0.0010686885504083
+Anemia (disorder),90-inf,365-730,condition,Diastolic Blood Pressure,0.0009674443719486
+Anemia (disorder),90-inf,730-inf,condition,Body Weight,0.0409251468040587
+Anemia (disorder),90-inf,730-inf,condition,Diastolic Blood Pressure,0.026964699529777
+Anemia (disorder),98-107,14-30,condition,Chloride,2.249870632438635e-05
+Anemia (disorder),98-107,30-60,condition,Chloride,4.49974126487727e-05
+Anemia (disorder),98-107,60-90,condition,Chloride,6.749611897315905e-05
+Anemia (disorder),98-107,90-180,condition,Chloride,2.249870632438635e-05
+Anemia (disorder),98-107,730-inf,condition,Chloride,0.0050847076293113
+Anemia (disorder),99-125,60-90,condition,Glucose,1.1249353162193176e-05
+Anemia (disorder),99-125,730-inf,condition,Glucose,0.0005512183049474
+Anemia (disorder),Abnormal findings diagnostic imaging heart+coronary circulat (finding),90-180,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Abnormal findings diagnostic imaging heart+coronary circulat (finding),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Abnormal findings diagnostic imaging heart+coronary circulat (finding),365-730,condition,condition,2.249870632438635e-05
+Anemia (disorder),Abnormal findings diagnostic imaging heart+coronary circulat (finding),730-inf,condition,condition,0.0017998965059509
+Anemia (disorder),Acquired coagulation disorder (disorder),730-inf,condition,condition,2.249870632438635e-05
+Anemia (disorder),Acute Cholecystitis,730-inf,condition,condition,7.874547213535222e-05
+Anemia (disorder),Acute ST segment elevation myocardial infarction (disorder),730-inf,condition,condition,0.0002474857695682
+Anemia (disorder),Acute bacterial sinusitis (disorder),365-730,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Acute bacterial sinusitis (disorder),730-inf,condition,condition,0.0003937273606767
+Anemia (disorder),Acute bronchitis (disorder),0-7,condition,condition,4.49974126487727e-05
+Anemia (disorder),Acute bronchitis (disorder),7-14,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Acute bronchitis (disorder),30-60,condition,condition,2.249870632438635e-05
+Anemia (disorder),Acute bronchitis (disorder),90-180,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Acute bronchitis (disorder),180-365,condition,condition,5.624676581096587e-05
+Anemia (disorder),Acute bronchitis (disorder),365-730,condition,condition,0.0001574909442707
+Anemia (disorder),Acute bronchitis (disorder),730-inf,condition,condition,0.0027110941120885
+Anemia (disorder),Acute deep venous thrombosis (disorder),730-inf,condition,condition,2.249870632438635e-05
+Anemia (disorder),Acute infective cystitis (disorder),0-7,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Acute infective cystitis (disorder),90-180,condition,condition,2.249870632438635e-05
+Anemia (disorder),Acute infective cystitis (disorder),180-365,condition,condition,4.49974126487727e-05
+Anemia (disorder),Acute infective cystitis (disorder),365-730,condition,condition,2.249870632438635e-05
+Anemia (disorder),Acute infective cystitis (disorder),730-inf,condition,condition,0.0006299637770828
+Anemia (disorder),Acute non-ST segment elevation myocardial infarction (disorder),60-90,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Acute non-ST segment elevation myocardial infarction (disorder),730-inf,condition,condition,0.000292483182217
+Anemia (disorder),Acute pulmonary embolism (disorder),730-inf,condition,condition,5.624676581096587e-05
+Anemia (disorder),Acute respiratory distress syndrome (disorder),730-inf,condition,condition,5.624676581096587e-05
+Anemia (disorder),Acute respiratory failure (disorder),730-inf,condition,condition,7.874547213535222e-05
+Anemia (disorder),Acute viral pharyngitis (disorder),0-7,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Acute viral pharyngitis (disorder),7-14,condition,condition,6.749611897315905e-05
+Anemia (disorder),Acute viral pharyngitis (disorder),30-60,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Acute viral pharyngitis (disorder),60-90,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Acute viral pharyngitis (disorder),90-180,condition,condition,2.249870632438635e-05
+Anemia (disorder),Acute viral pharyngitis (disorder),180-365,condition,condition,7.874547213535222e-05
+Anemia (disorder),Acute viral pharyngitis (disorder),365-730,condition,condition,0.0002024883569194
+Anemia (disorder),Acute viral pharyngitis (disorder),730-inf,condition,condition,0.0037122865435237
+Anemia (disorder),Alcoholism,730-inf,condition,condition,4.49974126487727e-05
+Anemia (disorder),Alveolitis of jaw (disorder),90-180,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Alveolitis of jaw (disorder),365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Alveolitis of jaw (disorder),730-inf,condition,condition,0.0002699844758926
+Anemia (disorder),Alzheimer's disease (disorder),730-inf,condition,condition,0.0002137377100816
+Anemia (disorder),Antepartum eclampsia,180-365,condition,condition,6.749611897315905e-05
+Anemia (disorder),Antepartum eclampsia,365-730,condition,condition,2.249870632438635e-05
+Anemia (disorder),Antepartum eclampsia,730-inf,condition,condition,0.0001237428847841
+Anemia (disorder),Aortic valve regurgitation (disorder),730-inf,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Aortic valve stenosis (disorder),730-inf,condition,condition,2.249870632438635e-05
+Anemia (disorder),Appendicitis,730-inf,condition,condition,5.624676581096587e-05
+Anemia (disorder),Asthma,730-inf,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Atrial fibrillation (disorder),730-inf,condition,condition,0.0001462415911085
+Anemia (disorder),Awaiting transplantation of bone marrow (situation),730-inf,condition,condition,6.749611897315905e-05
+Anemia (disorder),Awaiting transplantation of kidney (situation),14-30,condition,condition,4.49974126487727e-05
+Anemia (disorder),Awaiting transplantation of kidney (situation),30-60,condition,condition,0.0001124935316219
+Anemia (disorder),Awaiting transplantation of kidney (situation),60-90,condition,condition,0.0001574909442707
+Anemia (disorder),Awaiting transplantation of kidney (situation),90-180,condition,condition,6.749611897315905e-05
+Anemia (disorder),Awaiting transplantation of kidney (situation),730-inf,condition,condition,0.0005512183049474
+Anemia (disorder),Bleeding from anus,730-inf,condition,condition,4.49974126487727e-05
+Anemia (disorder),Blighted ovum,180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Blighted ovum,365-730,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Blighted ovum,730-inf,condition,condition,7.874547213535222e-05
+Anemia (disorder),Body mass index 30+ - obesity (finding),30-60,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Body mass index 30+ - obesity (finding),90-180,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Body mass index 30+ - obesity (finding),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Body mass index 30+ - obesity (finding),365-730,condition,condition,0.0001012441784597
+Anemia (disorder),Body mass index 30+ - obesity (finding),730-inf,condition,condition,0.0025423538146556
+Anemia (disorder),Body mass index 40+ - severely obese (finding),365-730,condition,condition,2.249870632438635e-05
+Anemia (disorder),Brain damage - traumatic,730-inf,condition,condition,2.249870632438635e-05
+Anemia (disorder),Bullet wound,730-inf,condition,condition,2.249870632438635e-05
+Anemia (disorder),Burn injury (morphologic abnormality),365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Burn injury (morphologic abnormality),730-inf,condition,condition,0.0003374805948657
+Anemia (disorder),COVID-19,180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),COVID-19,365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),COVID-19,730-inf,condition,condition,0.0005174702454608
+Anemia (disorder),COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,7-14,condition,immunization,2.249870632438635e-05
+Anemia (disorder),COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,30-60,condition,immunization,2.249870632438635e-05
+Anemia (disorder),COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,60-90,condition,immunization,1.1249353162193176e-05
+Anemia (disorder),COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,180-365,condition,immunization,0.0001012441784597
+Anemia (disorder),COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,365-730,condition,immunization,0.0001237428847841
+Anemia (disorder),COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,730-inf,condition,immunization,0.003791032015659
+Anemia (disorder),COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,7-14,condition,immunization,1.1249353162193176e-05
+Anemia (disorder),COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,30-60,condition,immunization,2.249870632438635e-05
+Anemia (disorder),COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,60-90,condition,immunization,3.3748059486579524e-05
+Anemia (disorder),COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,90-180,condition,immunization,8.99948252975454e-05
+Anemia (disorder),COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,365-730,condition,immunization,0.000292483182217
+Anemia (disorder),COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,730-inf,condition,immunization,0.0048597205660674
+Anemia (disorder),COVID-19 vaccine  vector-nr  rS-Ad26  PF  0.5 mL,7-14,condition,immunization,1.1249353162193176e-05
+Anemia (disorder),COVID-19 vaccine  vector-nr  rS-Ad26  PF  0.5 mL,365-730,condition,immunization,2.249870632438635e-05
+Anemia (disorder),COVID-19 vaccine  vector-nr  rS-Ad26  PF  0.5 mL,730-inf,condition,immunization,0.000179989650595
+Anemia (disorder),Carcinoma in situ of prostate (disorder),730-inf,condition,condition,0.0001912390037572
+Anemia (disorder),Child attention deficit disorder,180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Child attention deficit disorder,730-inf,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Chill (finding),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Chill (finding),730-inf,condition,condition,5.624676581096587e-05
+Anemia (disorder),Cholelithiasis,730-inf,condition,condition,7.874547213535222e-05
+Anemia (disorder),Chronic congestive heart failure (disorder),90-180,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Chronic congestive heart failure (disorder),730-inf,condition,condition,0.000236236416406
+Anemia (disorder),Chronic intractable migraine without aura,365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Chronic intractable migraine without aura,730-inf,condition,condition,8.99948252975454e-05
+Anemia (disorder),Chronic kidney disease stage 1 (disorder),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Chronic kidney disease stage 1 (disorder),365-730,condition,condition,4.49974126487727e-05
+Anemia (disorder),Chronic kidney disease stage 1 (disorder),730-inf,condition,condition,0.0014399172047607
+Anemia (disorder),Chronic kidney disease stage 2 (disorder),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Chronic kidney disease stage 2 (disorder),365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Chronic kidney disease stage 2 (disorder),730-inf,condition,condition,0.0012599275541656
+Anemia (disorder),Chronic kidney disease stage 3 (disorder),730-inf,condition,condition,0.0008662001934888
+Anemia (disorder),Chronic kidney disease stage 4 (disorder),7-14,condition,condition,6.749611897315905e-05
+Anemia (disorder),Chronic kidney disease stage 4 (disorder),14-30,condition,condition,2.249870632438635e-05
+Anemia (disorder),Chronic kidney disease stage 4 (disorder),30-60,condition,condition,5.624676581096587e-05
+Anemia (disorder),Chronic kidney disease stage 4 (disorder),90-180,condition,condition,0.0001012441784597
+Anemia (disorder),Chronic kidney disease stage 4 (disorder),180-365,condition,condition,0.0001124935316219
+Anemia (disorder),Chronic kidney disease stage 4 (disorder),730-inf,condition,condition,0.0005399689517852
+Anemia (disorder),Chronic low back pain (finding),30-60,condition,condition,2.249870632438635e-05
+Anemia (disorder),Chronic low back pain (finding),60-90,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Chronic low back pain (finding),90-180,condition,condition,2.249870632438635e-05
+Anemia (disorder),Chronic low back pain (finding),180-365,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Chronic low back pain (finding),365-730,condition,condition,8.99948252975454e-05
+Anemia (disorder),Chronic low back pain (finding),730-inf,condition,condition,0.0010799379035705
+Anemia (disorder),Chronic neck pain (finding),30-60,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Chronic neck pain (finding),60-90,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Chronic neck pain (finding),180-365,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Chronic neck pain (finding),365-730,condition,condition,6.749611897315905e-05
+Anemia (disorder),Chronic neck pain (finding),730-inf,condition,condition,0.0006187144239206
+Anemia (disorder),Chronic obstructive bronchitis (disorder),90-180,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Chronic obstructive bronchitis (disorder),730-inf,condition,condition,4.49974126487727e-05
+Anemia (disorder),Chronic pain,730-inf,condition,condition,7.874547213535222e-05
+Anemia (disorder),Chronic pain (finding),30-60,condition,condition,2.249870632438635e-05
+Anemia (disorder),Chronic pain (finding),60-90,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Chronic pain (finding),90-180,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Chronic pain (finding),180-365,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Chronic pain (finding),365-730,condition,condition,0.0001124935316219
+Anemia (disorder),Chronic pain (finding),730-inf,condition,condition,0.0012486782010034
+Anemia (disorder),Chronic sinusitis (disorder),7-14,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Chronic sinusitis (disorder),60-90,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Chronic sinusitis (disorder),180-365,condition,condition,2.249870632438635e-05
+Anemia (disorder),Chronic sinusitis (disorder),365-730,condition,condition,4.49974126487727e-05
+Anemia (disorder),Chronic sinusitis (disorder),730-inf,condition,condition,0.0007312079555425
+Anemia (disorder),Closed fracture of hip,730-inf,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Complete miscarriage (disorder),0-7,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Complete miscarriage (disorder),7-14,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Complete miscarriage (disorder),90-180,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Complete miscarriage (disorder),365-730,condition,condition,4.49974126487727e-05
+Anemia (disorder),Complete miscarriage (disorder),730-inf,condition,condition,0.0002699844758926
+Anemia (disorder),Complication occuring during pregnancy,730-inf,condition,condition,2.249870632438635e-05
+Anemia (disorder),Concussion injury of brain (disorder),30-60,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Concussion injury of brain (disorder),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Concussion injury of brain (disorder),365-730,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Concussion injury of brain (disorder),730-inf,condition,condition,0.0004162260670011
+Anemia (disorder),Concussion with loss of consciousness,365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Concussion with loss of consciousness,730-inf,condition,condition,8.99948252975454e-05
+Anemia (disorder),Concussion with no loss of consciousness,30-60,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Concussion with no loss of consciousness,180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Concussion with no loss of consciousness,365-730,condition,condition,2.249870632438635e-05
+Anemia (disorder),Concussion with no loss of consciousness,730-inf,condition,condition,0.0003149818885414
+Anemia (disorder),Congenital uterine anomaly,30-60,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Congenital uterine anomaly,730-inf,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Contact dermatitis,730-inf,condition,condition,2.249870632438635e-05
+Anemia (disorder),Cough (finding),365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Cough (finding),730-inf,condition,condition,0.0003149818885414
+Anemia (disorder),DTaP,60-90,condition,immunization,3.3748059486579524e-05
+Anemia (disorder),DTaP,90-180,condition,immunization,2.249870632438635e-05
+Anemia (disorder),DTaP,180-365,condition,immunization,2.249870632438635e-05
+Anemia (disorder),DTaP,365-730,condition,immunization,2.249870632438635e-05
+Anemia (disorder),DTaP,730-inf,condition,immunization,2.249870632438635e-05
+Anemia (disorder),Dental filling lost (finding),14-30,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Dental filling lost (finding),90-180,condition,condition,2.249870632438635e-05
+Anemia (disorder),Dental filling lost (finding),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Dental filling lost (finding),365-730,condition,condition,7.874547213535222e-05
+Anemia (disorder),Dental filling lost (finding),730-inf,condition,condition,0.00128242626049
+Anemia (disorder),Dependent drug abuse (disorder),90-180,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Dependent drug abuse (disorder),180-365,condition,condition,2.249870632438635e-05
+Anemia (disorder),Dependent drug abuse (disorder),365-730,condition,condition,2.249870632438635e-05
+Anemia (disorder),Dependent drug abuse (disorder),730-inf,condition,condition,0.0001687402974328
+Anemia (disorder),Diabetes mellitus type 2 (disorder),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Diabetes mellitus type 2 (disorder),365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Diabetes mellitus type 2 (disorder),730-inf,condition,condition,0.0007087092492181
+Anemia (disorder),Diarrhea symptom (finding),730-inf,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Died in hospice (finding),730-inf,condition,condition,8.99948252975454e-05
+Anemia (disorder),Disorder of kidney due to diabetes mellitus (disorder),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Disorder of kidney due to diabetes mellitus (disorder),365-730,condition,condition,5.624676581096587e-05
+Anemia (disorder),Disorder of kidney due to diabetes mellitus (disorder),730-inf,condition,condition,0.0014061691452741
+Anemia (disorder),Drug overdose,60-90,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Drug overdose,90-180,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Drug overdose,180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Drug overdose,365-730,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Drug overdose,730-inf,condition,condition,0.0012149301415168
+Anemia (disorder),Dyspnea (finding),730-inf,condition,condition,0.0001462415911085
+Anemia (disorder),End-stage renal disease (disorder),90-180,condition,condition,5.624676581096587e-05
+Anemia (disorder),End-stage renal disease (disorder),365-730,condition,condition,6.749611897315905e-05
+Anemia (disorder),End-stage renal disease (disorder),730-inf,condition,condition,0.0003712286543523
+Anemia (disorder),Epidermal burn of skin (disorder),365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Epidermal burn of skin (disorder),730-inf,condition,condition,0.0001687402974328
+Anemia (disorder),Epilepsy,730-inf,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Essential hypertension (disorder),180-365,condition,condition,2.249870632438635e-05
+Anemia (disorder),Essential hypertension (disorder),365-730,condition,condition,5.624676581096587e-05
+Anemia (disorder),Essential hypertension (disorder),730-inf,condition,condition,0.001923639390735
+Anemia (disorder),Facial laceration,730-inf,condition,condition,0.0001574909442707
+Anemia (disorder),Familial Alzheimer's disease of early onset (disorder),730-inf,condition,condition,2.249870632438635e-05
+Anemia (disorder),Fatigue (finding),730-inf,condition,condition,0.0002249870632438
+Anemia (disorder),Fetus with chromosomal abnormality,730-inf,condition,condition,5.624676581096587e-05
+Anemia (disorder),Fever (finding),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Fever (finding),365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Fever (finding),730-inf,condition,condition,0.0004949715391364
+Anemia (disorder),Fibromyalgia (disorder),365-730,condition,condition,2.249870632438635e-05
+Anemia (disorder),Fibromyalgia (disorder),730-inf,condition,condition,0.0001124935316219
+Anemia (disorder),Fracture of ankle,730-inf,condition,condition,0.000236236416406
+Anemia (disorder),Fracture of bone (disorder),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Fracture of bone (disorder),365-730,condition,condition,2.249870632438635e-05
+Anemia (disorder),Fracture of bone (disorder),730-inf,condition,condition,0.0007537066618669
+Anemia (disorder),Fracture of clavicle,180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Fracture of clavicle,730-inf,condition,condition,0.0001237428847841
+Anemia (disorder),Fracture of forearm,365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Fracture of forearm,730-inf,condition,condition,0.0001574909442707
+Anemia (disorder),Fracture of mandible (disorder),730-inf,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Fracture of rib,365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Fracture of rib,730-inf,condition,condition,8.99948252975454e-05
+Anemia (disorder),Fracture subluxation of wrist,730-inf,condition,condition,0.0001349922379463
+Anemia (disorder),Fractured dental filling (finding),14-30,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Fractured dental filling (finding),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Fractured dental filling (finding),365-730,condition,condition,2.249870632438635e-05
+Anemia (disorder),Fractured dental filling (finding),730-inf,condition,condition,0.0012036807883546
+Anemia (disorder),Full-time employment (finding),0-7,condition,condition,2.249870632438635e-05
+Anemia (disorder),Full-time employment (finding),7-14,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Full-time employment (finding),14-30,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Full-time employment (finding),30-60,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Full-time employment (finding),60-90,condition,condition,2.249870632438635e-05
+Anemia (disorder),Full-time employment (finding),90-180,condition,condition,0.0001124935316219
+Anemia (disorder),Full-time employment (finding),180-365,condition,condition,0.0002249870632438
+Anemia (disorder),Full-time employment (finding),365-730,condition,condition,0.0008099534276779
+Anemia (disorder),Full-time employment (finding),730-inf,condition,condition,0.0265034760501271
+Anemia (disorder),Gingival disease (disorder),14-30,condition,condition,0.0001237428847841
+Anemia (disorder),Gingival disease (disorder),30-60,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Gingival disease (disorder),90-180,condition,condition,2.249870632438635e-05
+Anemia (disorder),Gingival disease (disorder),180-365,condition,condition,6.749611897315905e-05
+Anemia (disorder),Gingival disease (disorder),365-730,condition,condition,0.0002474857695682
+Anemia (disorder),Gingival disease (disorder),730-inf,condition,condition,0.0074020743807231
+Anemia (disorder),Gingivitis (disorder),0-7,condition,condition,2.249870632438635e-05
+Anemia (disorder),Gingivitis (disorder),14-30,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Gingivitis (disorder),30-60,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Gingivitis (disorder),60-90,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Gingivitis (disorder),90-180,condition,condition,0.0001012441784597
+Anemia (disorder),Gingivitis (disorder),180-365,condition,condition,0.0003937273606767
+Anemia (disorder),Gingivitis (disorder),365-730,condition,condition,0.0008099534276779
+Anemia (disorder),Gingivitis (disorder),730-inf,condition,condition,0.0254347874997187
+Anemia (disorder),Gout,730-inf,condition,condition,5.624676581096587e-05
+Anemia (disorder),Gunshot wound (disorder),730-inf,condition,condition,2.249870632438635e-05
+Anemia (disorder),HPV  quadrivalent,730-inf,condition,immunization,3.3748059486579524e-05
+Anemia (disorder),Has a criminal record (finding),180-365,condition,condition,2.249870632438635e-05
+Anemia (disorder),Has a criminal record (finding),365-730,condition,condition,6.749611897315905e-05
+Anemia (disorder),Has a criminal record (finding),730-inf,condition,condition,0.0014399172047607
+Anemia (disorder),Headache (finding),730-inf,condition,condition,0.0001012441784597
+Anemia (disorder),Heart failure (disorder),730-inf,condition,condition,2.249870632438635e-05
+Anemia (disorder),Hep A  adult,365-730,condition,immunization,2.249870632438635e-05
+Anemia (disorder),Hep A  adult,730-inf,condition,immunization,0.0025423538146556
+Anemia (disorder),Hep A  ped/adol  2 dose,365-730,condition,immunization,3.3748059486579524e-05
+Anemia (disorder),Hep A  ped/adol  2 dose,730-inf,condition,immunization,2.249870632438635e-05
+Anemia (disorder),Hep B  adolescent or pediatric,30-60,condition,immunization,2.249870632438635e-05
+Anemia (disorder),Hep B  adolescent or pediatric,180-365,condition,immunization,2.249870632438635e-05
+Anemia (disorder),Hep B  adult,0-7,condition,immunization,1.1249353162193176e-05
+Anemia (disorder),Hep B  adult,60-90,condition,immunization,1.1249353162193176e-05
+Anemia (disorder),Hep B  adult,90-180,condition,immunization,1.1249353162193176e-05
+Anemia (disorder),Hep B  adult,180-365,condition,immunization,0.0001012441784597
+Anemia (disorder),Hep B  adult,365-730,condition,immunization,0.0002474857695682
+Anemia (disorder),Hep B  adult,730-inf,condition,immunization,0.0005062208922986
+Anemia (disorder),Hib (PRP-OMP),60-90,condition,immunization,2.249870632438635e-05
+Anemia (disorder),Hib (PRP-OMP),90-180,condition,immunization,2.249870632438635e-05
+Anemia (disorder),Hib (PRP-OMP),365-730,condition,immunization,2.249870632438635e-05
+Anemia (disorder),History of aortic valve repair (situation),730-inf,condition,condition,1.1249353162193176e-05
+Anemia (disorder),History of aortic valve replacement (situation),730-inf,condition,condition,6.749611897315905e-05
+Anemia (disorder),History of appendectomy,0-7,condition,condition,1.1249353162193176e-05
+Anemia (disorder),History of appendectomy,730-inf,condition,condition,0.0002249870632438
+Anemia (disorder),History of artificial joint (situation),730-inf,condition,condition,2.249870632438635e-05
+Anemia (disorder),History of autologous bone marrow transplant (situation),730-inf,condition,condition,4.49974126487727e-05
+Anemia (disorder),History of coronary artery bypass grafting (situation),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),History of coronary artery bypass grafting (situation),365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),History of coronary artery bypass grafting (situation),730-inf,condition,condition,0.0007312079555425
+Anemia (disorder),History of myocardial infarction (situation),90-180,condition,condition,1.1249353162193176e-05
+Anemia (disorder),History of myocardial infarction (situation),730-inf,condition,condition,0.0005399689517852
+Anemia (disorder),History of peripheral stem cell transplant (situation),730-inf,condition,condition,3.3748059486579524e-05
+Anemia (disorder),History of renal transplant (situation),730-inf,condition,condition,0.0008886988998132
+Anemia (disorder),History of single seizure (situation),730-inf,condition,condition,1.1249353162193176e-05
+Anemia (disorder),History of tubal ligation (situation),14-30,condition,condition,2.249870632438635e-05
+Anemia (disorder),History of tubal ligation (situation),30-60,condition,condition,1.1249353162193176e-05
+Anemia (disorder),History of tubal ligation (situation),90-180,condition,condition,1.1249353162193176e-05
+Anemia (disorder),History of tubal ligation (situation),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),History of tubal ligation (situation),365-730,condition,condition,3.3748059486579524e-05
+Anemia (disorder),History of tubal ligation (situation),730-inf,condition,condition,0.0004499741264877
+Anemia (disorder),Homeless (finding),730-inf,condition,condition,6.749611897315905e-05
+Anemia (disorder),Housing unsatisfactory (finding),7-14,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Housing unsatisfactory (finding),365-730,condition,condition,2.249870632438635e-05
+Anemia (disorder),Hyperglycemia (disorder),365-730,condition,condition,4.49974126487727e-05
+Anemia (disorder),Hyperglycemia (disorder),730-inf,condition,condition,0.0004162260670011
+Anemia (disorder),Hyperlipidemia,365-730,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Hyperlipidemia,730-inf,condition,condition,0.0008437014871644
+Anemia (disorder),Hypertriglyceridemia (disorder),90-180,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Hypertriglyceridemia (disorder),365-730,condition,condition,0.0001124935316219
+Anemia (disorder),Hypertriglyceridemia (disorder),730-inf,condition,condition,0.0006974598960559
+Anemia (disorder),Hypoxemia (disorder),730-inf,condition,condition,0.0001237428847841
+Anemia (disorder),IPV,60-90,condition,immunization,2.249870632438635e-05
+Anemia (disorder),IPV,90-180,condition,immunization,2.249870632438635e-05
+Anemia (disorder),IPV,180-365,condition,immunization,2.249870632438635e-05
+Anemia (disorder),IPV,730-inf,condition,immunization,2.249870632438635e-05
+Anemia (disorder),Idiopathic atrophic hypothyroidism,730-inf,condition,condition,4.49974126487727e-05
+Anemia (disorder),Impacted molars,730-inf,condition,condition,0.0001574909442707
+Anemia (disorder),Infection of tooth (disorder),14-30,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Infection of tooth (disorder),30-60,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Infection of tooth (disorder),90-180,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Infection of tooth (disorder),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Infection of tooth (disorder),365-730,condition,condition,6.749611897315905e-05
+Anemia (disorder),Infection of tooth (disorder),730-inf,condition,condition,0.001574909442707
+Anemia (disorder),Infectious mediastinitis (disorder),730-inf,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Influenza  seasonal  injectable  preservative free,0-7,condition,immunization,3.3748059486579524e-05
+Anemia (disorder),Influenza  seasonal  injectable  preservative free,7-14,condition,immunization,2.249870632438635e-05
+Anemia (disorder),Influenza  seasonal  injectable  preservative free,14-30,condition,immunization,1.1249353162193176e-05
+Anemia (disorder),Influenza  seasonal  injectable  preservative free,30-60,condition,immunization,5.624676581096587e-05
+Anemia (disorder),Influenza  seasonal  injectable  preservative free,60-90,condition,immunization,6.749611897315905e-05
+Anemia (disorder),Influenza  seasonal  injectable  preservative free,90-180,condition,immunization,0.0002587351227304
+Anemia (disorder),Influenza  seasonal  injectable  preservative free,180-365,condition,immunization,0.0006749611897315
+Anemia (disorder),Influenza  seasonal  injectable  preservative free,365-730,condition,immunization,0.0021936238666276
+Anemia (disorder),Influenza  seasonal  injectable  preservative free,730-inf,condition,immunization,0.0555380565617477
+Anemia (disorder),Injury of anterior cruciate ligament,730-inf,condition,condition,4.49974126487727e-05
+Anemia (disorder),Injury of heart (disorder),730-inf,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Injury of kidney (disorder),730-inf,condition,condition,2.249870632438635e-05
+Anemia (disorder),Injury of knee (disorder),90-180,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Injury of knee (disorder),730-inf,condition,condition,0.0001687402974328
+Anemia (disorder),Injury of medial collateral ligament of knee,730-inf,condition,condition,4.49974126487727e-05
+Anemia (disorder),Injury of neck (disorder),365-730,condition,condition,2.249870632438635e-05
+Anemia (disorder),Injury of neck (disorder),730-inf,condition,condition,0.000292483182217
+Anemia (disorder),Injury of tendon of the rotator cuff of shoulder,180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Injury of tendon of the rotator cuff of shoulder,365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Injury of tendon of the rotator cuff of shoulder,730-inf,condition,condition,0.0001124935316219
+Anemia (disorder),Ischemic heart disease (disorder),90-180,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Ischemic heart disease (disorder),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Ischemic heart disease (disorder),365-730,condition,condition,2.249870632438635e-05
+Anemia (disorder),Ischemic heart disease (disorder),730-inf,condition,condition,0.0017773977996265
+Anemia (disorder),Joint pain (finding),730-inf,condition,condition,0.0001124935316219
+Anemia (disorder),Kidney transplant failure and rejection (disorder),730-inf,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Laceration - injury (disorder),14-30,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Laceration - injury (disorder),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Laceration - injury (disorder),365-730,condition,condition,4.49974126487727e-05
+Anemia (disorder),Laceration - injury (disorder),730-inf,condition,condition,0.0009224469592998
+Anemia (disorder),Laceration of foot,730-inf,condition,condition,0.0001574909442707
+Anemia (disorder),Laceration of forearm,14-30,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Laceration of forearm,180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Laceration of forearm,365-730,condition,condition,2.249870632438635e-05
+Anemia (disorder),Laceration of forearm,730-inf,condition,condition,0.000179989650595
+Anemia (disorder),Laceration of hand,365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Laceration of hand,730-inf,condition,condition,0.0002474857695682
+Anemia (disorder),Laceration of thigh,365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Laceration of thigh,730-inf,condition,condition,0.000179989650595
+Anemia (disorder),Lack of access to transportation (finding),365-730,condition,condition,6.749611897315905e-05
+Anemia (disorder),Lack of access to transportation (finding),730-inf,condition,condition,5.624676581096587e-05
+Anemia (disorder),Leaking dental filling (finding),30-60,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Leaking dental filling (finding),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Leaking dental filling (finding),365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Leaking dental filling (finding),730-inf,condition,condition,0.0010911872567327
+Anemia (disorder),Leukemia  disease (disorder),730-inf,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Limited social contact (finding),0-7,condition,condition,2.249870632438635e-05
+Anemia (disorder),Limited social contact (finding),7-14,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Limited social contact (finding),30-60,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Limited social contact (finding),60-90,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Limited social contact (finding),90-180,condition,condition,4.49974126487727e-05
+Anemia (disorder),Limited social contact (finding),180-365,condition,condition,0.0001124935316219
+Anemia (disorder),Limited social contact (finding),365-730,condition,condition,0.0002699844758926
+Anemia (disorder),Limited social contact (finding),730-inf,condition,condition,0.0101581659054604
+Anemia (disorder),Localized  primary osteoarthritis of the hand,730-inf,condition,condition,0.0001462415911085
+Anemia (disorder),Loose dental filling (finding),0-7,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Loose dental filling (finding),14-30,condition,condition,5.624676581096587e-05
+Anemia (disorder),Loose dental filling (finding),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Loose dental filling (finding),365-730,condition,condition,4.49974126487727e-05
+Anemia (disorder),Loose dental filling (finding),730-inf,condition,condition,0.0011136859630571
+Anemia (disorder),Loss of taste (finding),365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Loss of taste (finding),730-inf,condition,condition,0.0003037325353792
+Anemia (disorder),Loss of teeth (disorder),14-30,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Loss of teeth (disorder),90-180,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Loss of teeth (disorder),365-730,condition,condition,5.624676581096587e-05
+Anemia (disorder),Loss of teeth (disorder),730-inf,condition,condition,0.0009449456656242
+Anemia (disorder),MMR,365-730,condition,immunization,2.249870632438635e-05
+Anemia (disorder),MMR,730-inf,condition,immunization,2.249870632438635e-05
+Anemia (disorder),Macular edema and retinopathy due to type 2 diabetes mellitus (disorder),730-inf,condition,condition,4.49974126487727e-05
+Anemia (disorder),Malignant neoplasm of breast (disorder),730-inf,condition,condition,0.0001237428847841
+Anemia (disorder),Malignant tumor of colon,7-14,condition,condition,2.249870632438635e-05
+Anemia (disorder),Malignant tumor of colon,730-inf,condition,condition,7.874547213535222e-05
+Anemia (disorder),Medication review due (situation),0-7,condition,condition,5.624676581096587e-05
+Anemia (disorder),Medication review due (situation),7-14,condition,condition,2.249870632438635e-05
+Anemia (disorder),Medication review due (situation),14-30,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Medication review due (situation),30-60,condition,condition,7.874547213535222e-05
+Anemia (disorder),Medication review due (situation),60-90,condition,condition,0.0001012441784597
+Anemia (disorder),Medication review due (situation),90-180,condition,condition,0.0002024883569194
+Anemia (disorder),Medication review due (situation),180-365,condition,condition,0.0008099534276779
+Anemia (disorder),Medication review due (situation),365-730,condition,condition,0.0020023848628703
+Anemia (disorder),Medication review due (situation),730-inf,condition,condition,0.0639075753144194
+Anemia (disorder),Metabolic syndrome X (disorder),60-90,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Metabolic syndrome X (disorder),90-180,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Metabolic syndrome X (disorder),180-365,condition,condition,2.249870632438635e-05
+Anemia (disorder),Metabolic syndrome X (disorder),365-730,condition,condition,0.0002024883569194
+Anemia (disorder),Metabolic syndrome X (disorder),730-inf,condition,condition,0.0024861070488446
+Anemia (disorder),Metastasis from malignant tumor of prostate (disorder),730-inf,condition,condition,5.624676581096587e-05
+Anemia (disorder),Microalbuminuria due to type 2 diabetes mellitus (disorder),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Microalbuminuria due to type 2 diabetes mellitus (disorder),365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Microalbuminuria due to type 2 diabetes mellitus (disorder),730-inf,condition,condition,0.001226179494679
+Anemia (disorder),Miscarriage in first trimester,0-7,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Miscarriage in first trimester,7-14,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Miscarriage in first trimester,90-180,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Miscarriage in first trimester,180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Miscarriage in first trimester,365-730,condition,condition,7.874547213535222e-05
+Anemia (disorder),Miscarriage in first trimester,730-inf,condition,condition,0.0003937273606767
+Anemia (disorder),Miscarriage in second trimester,30-60,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Miscarriage in second trimester,730-inf,condition,condition,8.99948252975454e-05
+Anemia (disorder),Misuses drugs (finding),60-90,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Misuses drugs (finding),180-365,condition,condition,2.249870632438635e-05
+Anemia (disorder),Misuses drugs (finding),365-730,condition,condition,6.749611897315905e-05
+Anemia (disorder),Misuses drugs (finding),730-inf,condition,condition,0.0008212027808401
+Anemia (disorder),Mitral valve regurgitation (disorder),730-inf,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Multiple myeloma (disorder),730-inf,condition,condition,4.49974126487727e-05
+Anemia (disorder),Muscle pain (finding),730-inf,condition,condition,0.0001124935316219
+Anemia (disorder),Myocardial infarction (disorder),730-inf,condition,condition,0.0002699844758926
+Anemia (disorder),Nasal congestion (finding),730-inf,condition,condition,5.624676581096587e-05
+Anemia (disorder),Nausea (finding),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Neoplasm of prostate,730-inf,condition,condition,0.0002024883569194
+Anemia (disorder),Neuropathy due to type 2 diabetes mellitus (disorder),730-inf,condition,condition,0.0003262312417036
+Anemia (disorder),Non-small cell carcinoma of lung  TNM stage 1 (disorder),0-7,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Non-small cell carcinoma of lung  TNM stage 1 (disorder),30-60,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Non-small cell carcinoma of lung  TNM stage 1 (disorder),730-inf,condition,condition,8.99948252975454e-05
+Anemia (disorder),Non-small cell lung cancer (disorder),14-30,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Non-small cell lung cancer (disorder),730-inf,condition,condition,8.99948252975454e-05
+Anemia (disorder),Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder),730-inf,condition,condition,0.0001349922379463
+Anemia (disorder),Normal pregnancy,0-7,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Normal pregnancy,7-14,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Normal pregnancy,14-30,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Normal pregnancy,30-60,condition,condition,2.249870632438635e-05
+Anemia (disorder),Normal pregnancy,60-90,condition,condition,2.249870632438635e-05
+Anemia (disorder),Normal pregnancy,90-180,condition,condition,5.624676581096587e-05
+Anemia (disorder),Normal pregnancy,180-365,condition,condition,0.0001124935316219
+Anemia (disorder),Normal pregnancy,365-730,condition,condition,0.0003374805948657
+Anemia (disorder),Normal pregnancy,730-inf,condition,condition,0.0025423538146556
+Anemia (disorder),Not in labor force (finding),0-7,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Not in labor force (finding),14-30,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Not in labor force (finding),60-90,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Not in labor force (finding),90-180,condition,condition,2.249870632438635e-05
+Anemia (disorder),Not in labor force (finding),180-365,condition,condition,5.624676581096587e-05
+Anemia (disorder),Not in labor force (finding),365-730,condition,condition,0.0003487299480279
+Anemia (disorder),Not in labor force (finding),730-inf,condition,condition,0.0102706594370823
+Anemia (disorder),Obstructive sleep apnea syndrome (disorder),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Obstructive sleep apnea syndrome (disorder),365-730,condition,condition,5.624676581096587e-05
+Anemia (disorder),Obstructive sleep apnea syndrome (disorder),730-inf,condition,condition,0.0002587351227304
+Anemia (disorder),Opioid abuse (disorder),730-inf,condition,condition,7.874547213535222e-05
+Anemia (disorder),Osteoarthritis of hip,14-30,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Osteoarthritis of hip,730-inf,condition,condition,0.0002137377100816
+Anemia (disorder),Osteoarthritis of knee,180-365,condition,condition,2.249870632438635e-05
+Anemia (disorder),Osteoarthritis of knee,365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Osteoarthritis of knee,730-inf,condition,condition,0.0003487299480279
+Anemia (disorder),Osteoporosis (disorder),730-inf,condition,condition,0.0003149818885414
+Anemia (disorder),Otitis media,90-180,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Otitis media,180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Otitis media,730-inf,condition,condition,0.0001462415911085
+Anemia (disorder),Overlapping malignant neoplasm of colon,730-inf,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Part-time employment (finding),0-7,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Part-time employment (finding),7-14,condition,condition,2.249870632438635e-05
+Anemia (disorder),Part-time employment (finding),14-30,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Part-time employment (finding),30-60,condition,condition,4.49974126487727e-05
+Anemia (disorder),Part-time employment (finding),60-90,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Part-time employment (finding),90-180,condition,condition,5.624676581096587e-05
+Anemia (disorder),Part-time employment (finding),180-365,condition,condition,0.0001237428847841
+Anemia (disorder),Part-time employment (finding),365-730,condition,condition,0.0004949715391364
+Anemia (disorder),Part-time employment (finding),730-inf,condition,condition,0.0175939883456701
+Anemia (disorder),Passive conjunctival congestion (finding),730-inf,condition,condition,2.249870632438635e-05
+Anemia (disorder),Past pregnancy history of miscarriage (situation),14-30,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Past pregnancy history of miscarriage (situation),60-90,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Past pregnancy history of miscarriage (situation),90-180,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Past pregnancy history of miscarriage (situation),180-365,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Past pregnancy history of miscarriage (situation),365-730,condition,condition,0.0001237428847841
+Anemia (disorder),Past pregnancy history of miscarriage (situation),730-inf,condition,condition,0.0006749611897315
+Anemia (disorder),Pathological fracture due to osteoporosis (disorder),730-inf,condition,condition,6.749611897315905e-05
+Anemia (disorder),Pneumococcal conjugate PCV 13,365-730,condition,immunization,1.1249353162193176e-05
+Anemia (disorder),Pneumococcal conjugate PCV 13,730-inf,condition,immunization,0.0007874547213535
+Anemia (disorder),Pneumonia,730-inf,condition,condition,2.249870632438635e-05
+Anemia (disorder),Pneumonia (disorder),730-inf,condition,condition,0.0001237428847841
+Anemia (disorder),Polyp of colon,30-60,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Polyp of colon,365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Polyp of colon,730-inf,condition,condition,0.0005962157175962
+Anemia (disorder),Posttraumatic stress disorder,730-inf,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Prediabetes,180-365,condition,condition,2.249870632438635e-05
+Anemia (disorder),Prediabetes,365-730,condition,condition,2.249870632438635e-05
+Anemia (disorder),Prediabetes,730-inf,condition,condition,0.0001687402974328
+Anemia (disorder),Preeclampsia,90-180,condition,condition,7.874547213535222e-05
+Anemia (disorder),Preeclampsia,180-365,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Preeclampsia,365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Preeclampsia,730-inf,condition,condition,7.874547213535222e-05
+Anemia (disorder),Primary dental caries (disorder),7-14,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Primary dental caries (disorder),14-30,condition,condition,5.624676581096587e-05
+Anemia (disorder),Primary dental caries (disorder),30-60,condition,condition,2.249870632438635e-05
+Anemia (disorder),Primary dental caries (disorder),90-180,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Primary dental caries (disorder),180-365,condition,condition,4.49974126487727e-05
+Anemia (disorder),Primary dental caries (disorder),365-730,condition,condition,0.0001912390037572
+Anemia (disorder),Primary dental caries (disorder),730-inf,condition,condition,0.0051972011609332
+Anemia (disorder),Primary fibromyalgia syndrome,730-inf,condition,condition,5.624676581096587e-05
+Anemia (disorder),Primary malignant neoplasm of colon,730-inf,condition,condition,2.249870632438635e-05
+Anemia (disorder),Primary small cell malignant neoplasm of lung  TNM stage 1 (disorder),0-7,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder),730-inf,condition,condition,8.99948252975454e-05
+Anemia (disorder),Proteinuria due to type 2 diabetes mellitus (disorder),730-inf,condition,condition,0.000877449546651
+Anemia (disorder),Protracted diarrhea,730-inf,condition,condition,4.49974126487727e-05
+Anemia (disorder),Pulmonary emphysema (disorder),365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Pulmonary emphysema (disorder),730-inf,condition,condition,6.749611897315905e-05
+Anemia (disorder),Received certificate of high school equivalency (finding),365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Received higher education (finding),7-14,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Received higher education (finding),60-90,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Received higher education (finding),365-730,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Received higher education (finding),730-inf,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Recurrent rectal polyp,730-inf,condition,condition,0.0002024883569194
+Anemia (disorder),Recurrent urinary tract infection (disorder),60-90,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Recurrent urinary tract infection (disorder),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Recurrent urinary tract infection (disorder),365-730,condition,condition,2.249870632438635e-05
+Anemia (disorder),Recurrent urinary tract infection (disorder),730-inf,condition,condition,0.0001124935316219
+Anemia (disorder),Refugee (person),365-730,condition,condition,2.249870632438635e-05
+Anemia (disorder),Refugee (person),730-inf,condition,condition,0.0005062208922986
+Anemia (disorder),Reports of violence in the environment (finding),14-30,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Reports of violence in the environment (finding),90-180,condition,condition,2.249870632438635e-05
+Anemia (disorder),Reports of violence in the environment (finding),180-365,condition,condition,7.874547213535222e-05
+Anemia (disorder),Reports of violence in the environment (finding),365-730,condition,condition,0.0002137377100816
+Anemia (disorder),Reports of violence in the environment (finding),730-inf,condition,condition,0.0055121830494746
+Anemia (disorder),Resorption of alveolar process due to dental trauma (disorder),730-inf,condition,condition,0.0001574909442707
+Anemia (disorder),Respiratory distress (finding),730-inf,condition,condition,0.0001237428847841
+Anemia (disorder),Retinopathy due to type 2 diabetes mellitus (disorder),730-inf,condition,condition,0.0002249870632438
+Anemia (disorder),Rheumatoid arthritis,730-inf,condition,condition,2.249870632438635e-05
+Anemia (disorder),Risk activity involvement (finding),365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Risk activity involvement (finding),730-inf,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Rupture of appendix,730-inf,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Rupture of patellar tendon,90-180,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Rupture of patellar tendon,730-inf,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Second degree burn,730-inf,condition,condition,0.0001462415911085
+Anemia (disorder),Secondary malignant neoplasm of colon,730-inf,condition,condition,2.249870632438635e-05
+Anemia (disorder),Seizure disorder,730-inf,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Sepsis (disorder),60-90,condition,condition,2.249870632438635e-05
+Anemia (disorder),Sepsis (disorder),365-730,condition,condition,2.249870632438635e-05
+Anemia (disorder),Sepsis (disorder),730-inf,condition,condition,0.0001462415911085
+Anemia (disorder),Sepsis caused by virus (disorder),730-inf,condition,condition,5.624676581096587e-05
+Anemia (disorder),Septic shock (disorder),730-inf,condition,condition,7.874547213535222e-05
+Anemia (disorder),Severe anxiety (panic) (finding),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Severe anxiety (panic) (finding),365-730,condition,condition,7.874547213535222e-05
+Anemia (disorder),Severe anxiety (panic) (finding),730-inf,condition,condition,0.0013836704389497
+Anemia (disorder),Sinusitis (disorder),90-180,condition,condition,2.249870632438635e-05
+Anemia (disorder),Sinusitis (disorder),180-365,condition,condition,2.249870632438635e-05
+Anemia (disorder),Sinusitis (disorder),365-730,condition,condition,2.249870632438635e-05
+Anemia (disorder),Sinusitis (disorder),730-inf,condition,condition,0.0004612234796499
+Anemia (disorder),Sleep apnea (disorder),730-inf,condition,condition,0.0001124935316219
+Anemia (disorder),Sleep disorder (disorder),180-365,condition,condition,2.249870632438635e-05
+Anemia (disorder),Sleep disorder (disorder),365-730,condition,condition,4.49974126487727e-05
+Anemia (disorder),Sleep disorder (disorder),730-inf,condition,condition,0.0003712286543523
+Anemia (disorder),Smokes tobacco daily,730-inf,condition,condition,8.99948252975454e-05
+Anemia (disorder),Social isolation (finding),7-14,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Social isolation (finding),60-90,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Social isolation (finding),90-180,condition,condition,4.49974126487727e-05
+Anemia (disorder),Social isolation (finding),180-365,condition,condition,0.0001124935316219
+Anemia (disorder),Social isolation (finding),365-730,condition,condition,0.000292483182217
+Anemia (disorder),Social isolation (finding),730-inf,condition,condition,0.0098994307827299
+Anemia (disorder),Social migrant (finding),730-inf,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Sore throat symptom (finding),365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Sore throat symptom (finding),730-inf,condition,condition,0.0001124935316219
+Anemia (disorder),Sprain (morphologic abnormality),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Sprain (morphologic abnormality),365-730,condition,condition,4.49974126487727e-05
+Anemia (disorder),Sprain (morphologic abnormality),730-inf,condition,condition,0.0008549508403266
+Anemia (disorder),Sprain of ankle,365-730,condition,condition,4.49974126487727e-05
+Anemia (disorder),Sprain of ankle,730-inf,condition,condition,0.000584966364434
+Anemia (disorder),Sprain of wrist,180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Sprain of wrist,730-inf,condition,condition,0.0002699844758926
+Anemia (disorder),Sputum finding (finding),365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Sputum finding (finding),730-inf,condition,condition,0.0001574909442707
+Anemia (disorder),Sterilization requested (situation),30-60,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Sterilization requested (situation),90-180,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Sterilization requested (situation),365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Sterilization requested (situation),730-inf,condition,condition,0.0002137377100816
+Anemia (disorder),Streptococcal sore throat (disorder),7-14,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Streptococcal sore throat (disorder),14-30,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Streptococcal sore throat (disorder),30-60,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Streptococcal sore throat (disorder),90-180,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Streptococcal sore throat (disorder),180-365,condition,condition,2.249870632438635e-05
+Anemia (disorder),Streptococcal sore throat (disorder),365-730,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Streptococcal sore throat (disorder),730-inf,condition,condition,0.0006637118365693
+Anemia (disorder),Stress (finding),0-7,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Stress (finding),7-14,condition,condition,2.249870632438635e-05
+Anemia (disorder),Stress (finding),14-30,condition,condition,2.249870632438635e-05
+Anemia (disorder),Stress (finding),30-60,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Stress (finding),60-90,condition,condition,4.49974126487727e-05
+Anemia (disorder),Stress (finding),90-180,condition,condition,0.0001124935316219
+Anemia (disorder),Stress (finding),180-365,condition,condition,0.0002587351227304
+Anemia (disorder),Stress (finding),365-730,condition,condition,0.0010461898440839
+Anemia (disorder),Stress (finding),730-inf,condition,condition,0.0293833104596485
+Anemia (disorder),Stroke,730-inf,condition,condition,7.874547213535222e-05
+Anemia (disorder),Suspected COVID-19,180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Suspected COVID-19,365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Suspected COVID-19,730-inf,condition,condition,0.0005399689517852
+Anemia (disorder),Suspected lung cancer (situation),0-7,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Suspected lung cancer (situation),730-inf,condition,condition,8.99948252975454e-05
+Anemia (disorder),Suspected prostate cancer (situation),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Suspected prostate cancer (situation),730-inf,condition,condition,0.0002024883569194
+Anemia (disorder),Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,14-30,condition,immunization,1.1249353162193176e-05
+Anemia (disorder),Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,30-60,condition,immunization,1.1249353162193176e-05
+Anemia (disorder),Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,90-180,condition,immunization,1.1249353162193176e-05
+Anemia (disorder),Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,180-365,condition,immunization,7.874547213535222e-05
+Anemia (disorder),Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,365-730,condition,immunization,0.0002024883569194
+Anemia (disorder),Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,730-inf,condition,immunization,0.0060634013544221
+Anemia (disorder),Tdap,730-inf,condition,immunization,1.1249353162193176e-05
+Anemia (disorder),Tear of meniscus of knee,730-inf,condition,condition,4.49974126487727e-05
+Anemia (disorder),Third degree burn,730-inf,condition,condition,2.249870632438635e-05
+Anemia (disorder),Tongue tie (disorder),730-inf,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Torus palatinus (disorder),365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Torus palatinus (disorder),730-inf,condition,condition,0.0001349922379463
+Anemia (disorder),Transformed migraine (disorder),365-730,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Transformed migraine (disorder),730-inf,condition,condition,5.624676581096587e-05
+Anemia (disorder),Transport problem (finding),730-inf,condition,condition,0.0001124935316219
+Anemia (disorder),Traumatic dislocation of temporomandibular joint (disorder),730-inf,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Tubal pregnancy,730-inf,condition,condition,4.49974126487727e-05
+Anemia (disorder),Unemployed (finding),90-180,condition,condition,2.249870632438635e-05
+Anemia (disorder),Unemployed (finding),180-365,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Unemployed (finding),365-730,condition,condition,0.0001237428847841
+Anemia (disorder),Unemployed (finding),730-inf,condition,condition,0.0042747542016334
+Anemia (disorder),Unhealthy alcohol drinking behavior (finding),0-7,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Unhealthy alcohol drinking behavior (finding),90-180,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Unhealthy alcohol drinking behavior (finding),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Unhealthy alcohol drinking behavior (finding),365-730,condition,condition,0.0001012441784597
+Anemia (disorder),Unhealthy alcohol drinking behavior (finding),730-inf,condition,condition,0.0014961639705716
+Anemia (disorder),Victim of intimate partner abuse (finding),0-7,condition,condition,2.249870632438635e-05
+Anemia (disorder),Victim of intimate partner abuse (finding),30-60,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Victim of intimate partner abuse (finding),90-180,condition,condition,4.49974126487727e-05
+Anemia (disorder),Victim of intimate partner abuse (finding),180-365,condition,condition,7.874547213535222e-05
+Anemia (disorder),Victim of intimate partner abuse (finding),365-730,condition,condition,0.0001574909442707
+Anemia (disorder),Victim of intimate partner abuse (finding),730-inf,condition,condition,0.0067721106036402
+Anemia (disorder),Viral sinusitis (disorder),7-14,condition,condition,4.49974126487727e-05
+Anemia (disorder),Viral sinusitis (disorder),14-30,condition,condition,2.249870632438635e-05
+Anemia (disorder),Viral sinusitis (disorder),30-60,condition,condition,2.249870632438635e-05
+Anemia (disorder),Viral sinusitis (disorder),60-90,condition,condition,3.3748059486579524e-05
+Anemia (disorder),Viral sinusitis (disorder),90-180,condition,condition,0.0001012441784597
+Anemia (disorder),Viral sinusitis (disorder),180-365,condition,condition,0.0001124935316219
+Anemia (disorder),Viral sinusitis (disorder),365-730,condition,condition,0.0003599793011901
+Anemia (disorder),Viral sinusitis (disorder),730-inf,condition,condition,0.0061871442392062
+Anemia (disorder),Vomiting symptom (finding),180-365,condition,condition,1.1249353162193176e-05
+Anemia (disorder),Wheezing (finding),730-inf,condition,condition,0.0001462415911085
+Anemia (disorder),Whiplash injury to neck,365-730,condition,condition,2.249870632438635e-05
+Anemia (disorder),Whiplash injury to neck,730-inf,condition,condition,0.000292483182217
+Anemia (disorder),meningococcal MCV4P,180-365,condition,immunization,6.749611897315905e-05
+Anemia (disorder),meningococcal MCV4P,365-730,condition,immunization,8.99948252975454e-05
+Anemia (disorder),meningococcal MCV4P,730-inf,condition,immunization,0.0003037325353792
+Anemia (disorder),meningococcal polysaccharide (groups A  C  Y and W-135) diphtheria toxoid conjugate vaccine (MCV4P),180-365,condition,immunization,1.1249353162193176e-05
+Anemia (disorder),meningococcal polysaccharide (groups A  C  Y and W-135) diphtheria toxoid conjugate vaccine (MCV4P),730-inf,condition,immunization,4.49974126487727e-05
+Anemia (disorder),pneumococcal polysaccharide vaccine  23 valent,730-inf,condition,immunization,0.0009224469592998
+Anemia (disorder),tetanus toxoid  reduced diphtheria toxoid  and acellular pertussis vaccine  adsorbed,180-365,condition,immunization,1.1249353162193176e-05
+Anemia (disorder),tetanus toxoid  reduced diphtheria toxoid  and acellular pertussis vaccine  adsorbed,730-inf,condition,immunization,2.249870632438635e-05
+Anemia (disorder),varicella,365-730,condition,immunization,2.249870632438635e-05
+Anemia (disorder),varicella,730-inf,condition,immunization,2.249870632438635e-05
+Anemia (disorder),zoster vaccine  live,180-365,condition,immunization,3.3748059486579524e-05
+Anemia (disorder),zoster vaccine  live,365-730,condition,immunization,0.0001237428847841
+Anemia (disorder),zoster vaccine  live,730-inf,condition,immunization,0.0026323486399532
+Anemia (disorder),zoster vaccine recombinant,730-inf,condition,immunization,2.249870632438635e-05
+0-12.0,0-150,0-0,Hemoglobin,Body Height,0.0
+0-12.0,150-170,0-0,Hemoglobin,Body Height,0.0
+0-12.0,170-190,0-0,Hemoglobin,Body Height,0.0
+0-12.0,190-inf,0-0,Hemoglobin,Body Height,0.0
+12.0-16.0,0-150,0-0,Hemoglobin,Body Height,0.0
+12.0-16.0,150-170,0-0,Hemoglobin,Body Height,0.0
+12.0-16.0,170-190,0-0,Hemoglobin,Body Height,0.0
+12.0-16.0,190-inf,0-0,Hemoglobin,Body Height,0.0
+16.0-inf,0-150,0-0,Hemoglobin,Body Height,0.0
+16.0-inf,150-170,0-0,Hemoglobin,Body Height,0.0
+16.0-inf,170-190,0-0,Hemoglobin,Body Height,0.0
+16.0-inf,190-inf,0-0,Hemoglobin,Body Height,0.0
+0-12.0,0-36.0,0-0,Hemoglobin,Body Temperature,0.0
+0-12.0,36.0-37.5,0-0,Hemoglobin,Body Temperature,0.0
+0-12.0,37.5-inf,0-0,Hemoglobin,Body Temperature,0.0
+12.0-16.0,0-36.0,0-0,Hemoglobin,Body Temperature,0.0
+12.0-16.0,36.0-37.5,0-0,Hemoglobin,Body Temperature,0.0
+12.0-16.0,37.5-inf,0-0,Hemoglobin,Body Temperature,0.0
+16.0-inf,0-36.0,0-0,Hemoglobin,Body Temperature,0.0
+16.0-inf,36.0-37.5,0-0,Hemoglobin,Body Temperature,0.0
+16.0-inf,37.5-inf,0-0,Hemoglobin,Body Temperature,0.0
+0-12.0,0-50,0-0,Hemoglobin,Body Weight,0.0
+0-12.0,50-70,0-0,Hemoglobin,Body Weight,0.0
+0-12.0,70-90,0-0,Hemoglobin,Body Weight,0.0
+0-12.0,90-inf,0-0,Hemoglobin,Body Weight,0.0
+12.0-16.0,0-50,0-0,Hemoglobin,Body Weight,0.0
+12.0-16.0,50-70,0-0,Hemoglobin,Body Weight,0.0
+12.0-16.0,70-90,0-0,Hemoglobin,Body Weight,0.0
+12.0-16.0,90-inf,0-0,Hemoglobin,Body Weight,0.0
+16.0-inf,0-50,0-0,Hemoglobin,Body Weight,0.0
+16.0-inf,50-70,0-0,Hemoglobin,Body Weight,0.0
+16.0-inf,70-90,0-0,Hemoglobin,Body Weight,0.0
+16.0-inf,90-inf,0-0,Hemoglobin,Body Weight,0.0
+0-12.0,0-18.5,0-0,Hemoglobin,BMI (Body Mass Index),0.0
+0-12.0,18.5-24.9,0-0,Hemoglobin,BMI (Body Mass Index),0.0
+0-12.0,24.9-29.9,0-0,Hemoglobin,BMI (Body Mass Index),0.0
+0-12.0,29.9-34.9,0-0,Hemoglobin,BMI (Body Mass Index),0.0
+0-12.0,34.9-inf,0-0,Hemoglobin,BMI (Body Mass Index),0.0
+12.0-16.0,0-18.5,0-0,Hemoglobin,BMI (Body Mass Index),0.0
+12.0-16.0,18.5-24.9,0-0,Hemoglobin,BMI (Body Mass Index),0.0
+12.0-16.0,24.9-29.9,0-0,Hemoglobin,BMI (Body Mass Index),0.0
+12.0-16.0,29.9-34.9,0-0,Hemoglobin,BMI (Body Mass Index),0.0
+12.0-16.0,34.9-inf,0-0,Hemoglobin,BMI (Body Mass Index),0.0
+16.0-inf,0-18.5,0-0,Hemoglobin,BMI (Body Mass Index),0.0
+16.0-inf,18.5-24.9,0-0,Hemoglobin,BMI (Body Mass Index),0.0
+16.0-inf,24.9-29.9,0-0,Hemoglobin,BMI (Body Mass Index),0.0
+16.0-inf,29.9-34.9,0-0,Hemoglobin,BMI (Body Mass Index),0.0
+16.0-inf,34.9-inf,0-0,Hemoglobin,BMI (Body Mass Index),0.0
+0-12.0,0-8.5,0-0,Hemoglobin,Calcium,0.0
+0-12.0,8.5-10.2,0-0,Hemoglobin,Calcium,0.0
+0-12.0,10.2-inf,0-0,Hemoglobin,Calcium,0.0
+12.0-16.0,0-8.5,0-0,Hemoglobin,Calcium,0.0
+12.0-16.0,8.5-10.2,0-0,Hemoglobin,Calcium,0.0
+12.0-16.0,10.2-inf,0-0,Hemoglobin,Calcium,0.0
+16.0-inf,0-8.5,0-0,Hemoglobin,Calcium,0.0
+16.0-inf,8.5-10.2,0-0,Hemoglobin,Calcium,0.0
+16.0-inf,10.2-inf,0-0,Hemoglobin,Calcium,0.0
+0-12.0,0-60,0-0,Hemoglobin,Diastolic Blood Pressure,0.0
+0-12.0,60-80,0-0,Hemoglobin,Diastolic Blood Pressure,0.0
+0-12.0,80-90,0-0,Hemoglobin,Diastolic Blood Pressure,0.0
+0-12.0,90-inf,0-0,Hemoglobin,Diastolic Blood Pressure,0.0
+12.0-16.0,0-60,0-0,Hemoglobin,Diastolic Blood Pressure,0.0
+12.0-16.0,60-80,0-0,Hemoglobin,Diastolic Blood Pressure,0.0
+12.0-16.0,80-90,0-0,Hemoglobin,Diastolic Blood Pressure,0.0
+12.0-16.0,90-inf,0-0,Hemoglobin,Diastolic Blood Pressure,0.0
+16.0-inf,0-60,0-0,Hemoglobin,Diastolic Blood Pressure,0.0
+16.0-inf,60-80,0-0,Hemoglobin,Diastolic Blood Pressure,0.0
+16.0-inf,80-90,0-0,Hemoglobin,Diastolic Blood Pressure,0.0
+16.0-inf,90-inf,0-0,Hemoglobin,Diastolic Blood Pressure,0.0
+0-12.0,0-70,0-0,Hemoglobin,Glucose,0.0
+0-12.0,70-99,0-0,Hemoglobin,Glucose,0.0
+0-12.0,99-125,0-0,Hemoglobin,Glucose,0.0
+0-12.0,125-inf,0-0,Hemoglobin,Glucose,0.0
+12.0-16.0,0-70,0-0,Hemoglobin,Glucose,0.0
+12.0-16.0,70-99,0-0,Hemoglobin,Glucose,0.0
+12.0-16.0,99-125,0-0,Hemoglobin,Glucose,0.0
+12.0-16.0,125-inf,0-0,Hemoglobin,Glucose,0.0
+16.0-inf,0-70,0-0,Hemoglobin,Glucose,0.0
+16.0-inf,70-99,0-0,Hemoglobin,Glucose,0.0
+16.0-inf,99-125,0-0,Hemoglobin,Glucose,0.0
+16.0-inf,125-inf,0-0,Hemoglobin,Glucose,0.0
+0-12.0,0-12.0,0-0,Hemoglobin,Hemoglobin,0.0
+0-12.0,12.0-16.0,0-0,Hemoglobin,Hemoglobin,0.0
+0-12.0,16.0-inf,0-0,Hemoglobin,Hemoglobin,0.0
+12.0-16.0,0-12.0,0-0,Hemoglobin,Hemoglobin,0.0
+12.0-16.0,12.0-16.0,0-0,Hemoglobin,Hemoglobin,0.0
+12.0-16.0,16.0-inf,0-0,Hemoglobin,Hemoglobin,0.0
+16.0-inf,0-12.0,0-0,Hemoglobin,Hemoglobin,0.0
+16.0-inf,12.0-16.0,0-0,Hemoglobin,Hemoglobin,0.0
+16.0-inf,16.0-inf,0-0,Hemoglobin,Hemoglobin,0.0
+0-12.0,0-60,0-0,Hemoglobin,Heart Rate,0.0
+0-12.0,60-100,0-0,Hemoglobin,Heart Rate,0.0
+0-12.0,100-inf,0-0,Hemoglobin,Heart Rate,0.0
+12.0-16.0,0-60,0-0,Hemoglobin,Heart Rate,0.0
+12.0-16.0,60-100,0-0,Hemoglobin,Heart Rate,0.0
+12.0-16.0,100-inf,0-0,Hemoglobin,Heart Rate,0.0
+16.0-inf,0-60,0-0,Hemoglobin,Heart Rate,0.0
+16.0-inf,60-100,0-0,Hemoglobin,Heart Rate,0.0
+16.0-inf,100-inf,0-0,Hemoglobin,Heart Rate,0.0
+0-12.0,0-90,0-0,Hemoglobin,Oxygen Saturation,0.0
+0-12.0,90-95,0-0,Hemoglobin,Oxygen Saturation,0.0
+0-12.0,95-inf,0-0,Hemoglobin,Oxygen Saturation,0.0
+12.0-16.0,0-90,0-0,Hemoglobin,Oxygen Saturation,0.0
+12.0-16.0,90-95,0-0,Hemoglobin,Oxygen Saturation,0.0
+12.0-16.0,95-inf,0-0,Hemoglobin,Oxygen Saturation,0.0
+16.0-inf,0-90,0-0,Hemoglobin,Oxygen Saturation,0.0
+16.0-inf,90-95,0-0,Hemoglobin,Oxygen Saturation,0.0
+16.0-inf,95-inf,0-0,Hemoglobin,Oxygen Saturation,0.0
+0-12.0,0-150,0-0,Hemoglobin,Platelet Count,0.0
+0-12.0,150-450,0-0,Hemoglobin,Platelet Count,0.0
+0-12.0,450-inf,0-0,Hemoglobin,Platelet Count,0.0
+12.0-16.0,0-150,0-0,Hemoglobin,Platelet Count,0.0
+12.0-16.0,150-450,0-0,Hemoglobin,Platelet Count,0.0
+12.0-16.0,450-inf,0-0,Hemoglobin,Platelet Count,0.0
+16.0-inf,0-150,0-0,Hemoglobin,Platelet Count,0.0
+16.0-inf,150-450,0-0,Hemoglobin,Platelet Count,0.0
+16.0-inf,450-inf,0-0,Hemoglobin,Platelet Count,0.0
+0-12.0,0-3.5,0-0,Hemoglobin,Potassium,0.0
+0-12.0,3.5-5.0,0-0,Hemoglobin,Potassium,0.0
+0-12.0,5.0-inf,0-0,Hemoglobin,Potassium,0.0
+12.0-16.0,0-3.5,0-0,Hemoglobin,Potassium,0.0
+12.0-16.0,3.5-5.0,0-0,Hemoglobin,Potassium,0.0
+12.0-16.0,5.0-inf,0-0,Hemoglobin,Potassium,0.0
+16.0-inf,0-3.5,0-0,Hemoglobin,Potassium,0.0
+16.0-inf,3.5-5.0,0-0,Hemoglobin,Potassium,0.0
+16.0-inf,5.0-inf,0-0,Hemoglobin,Potassium,0.0
+0-12.0,0-12,0-0,Hemoglobin,Respiratory Rate,0.0
+0-12.0,12-20,0-0,Hemoglobin,Respiratory Rate,0.0
+0-12.0,20-inf,0-0,Hemoglobin,Respiratory Rate,0.0
+12.0-16.0,0-12,0-0,Hemoglobin,Respiratory Rate,0.0
+12.0-16.0,12-20,0-0,Hemoglobin,Respiratory Rate,0.0
+12.0-16.0,20-inf,0-0,Hemoglobin,Respiratory Rate,0.0
+16.0-inf,0-12,0-0,Hemoglobin,Respiratory Rate,0.0
+16.0-inf,12-20,0-0,Hemoglobin,Respiratory Rate,0.0
+16.0-inf,20-inf,0-0,Hemoglobin,Respiratory Rate,0.0
+0-12.0,0-135,0-0,Hemoglobin,Sodium,0.0
+0-12.0,135-145,0-0,Hemoglobin,Sodium,0.0
+0-12.0,145-inf,0-0,Hemoglobin,Sodium,0.0
+12.0-16.0,0-135,0-0,Hemoglobin,Sodium,0.0
+12.0-16.0,135-145,0-0,Hemoglobin,Sodium,0.0
+12.0-16.0,145-inf,0-0,Hemoglobin,Sodium,0.0
+16.0-inf,0-135,0-0,Hemoglobin,Sodium,0.0
+16.0-inf,135-145,0-0,Hemoglobin,Sodium,0.0
+16.0-inf,145-inf,0-0,Hemoglobin,Sodium,0.0
+0-12.0,0-90,0-0,Hemoglobin,Systolic Blood Pressure,0.0
+0-12.0,90-120,0-0,Hemoglobin,Systolic Blood Pressure,0.0
+0-12.0,120-140,0-0,Hemoglobin,Systolic Blood Pressure,0.0
+0-12.0,140-inf,0-0,Hemoglobin,Systolic Blood Pressure,0.0
+12.0-16.0,0-90,0-0,Hemoglobin,Systolic Blood Pressure,0.0
+12.0-16.0,90-120,0-0,Hemoglobin,Systolic Blood Pressure,0.0
+12.0-16.0,120-140,0-0,Hemoglobin,Systolic Blood Pressure,0.0
+12.0-16.0,140-inf,0-0,Hemoglobin,Systolic Blood Pressure,0.0
+16.0-inf,0-90,0-0,Hemoglobin,Systolic Blood Pressure,0.0
+16.0-inf,90-120,0-0,Hemoglobin,Systolic Blood Pressure,0.0
+16.0-inf,120-140,0-0,Hemoglobin,Systolic Blood Pressure,0.0
+16.0-inf,140-inf,0-0,Hemoglobin,Systolic Blood Pressure,0.0

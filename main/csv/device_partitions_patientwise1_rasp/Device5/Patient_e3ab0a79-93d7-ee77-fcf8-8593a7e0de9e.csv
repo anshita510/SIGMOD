@@ -1,0 +1,5 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2018-11-26,,e3ab0a79-93d7-ee77-fcf8-8593a7e0de9e,28d8d6b6-b62c-9c94-30be-b26441a6dd23,http://snomed.info/sct,162864005,Body mass index 30+ - obesity (finding),,,,,
+,,e3ab0a79-93d7-ee77-fcf8-8593a7e0de9e,808b7cea-1984-025a-dfba-6004ed118787,,29463-7,Body Weight,2015-11-22T22:09:05Z,vital-signs,75.4,kg,numeric
+,,e3ab0a79-93d7-ee77-fcf8-8593a7e0de9e,28d8d6b6-b62c-9c94-30be-b26441a6dd23,,29463-7,Body Weight,2018-11-25T22:09:05Z,vital-signs,76.8,kg,numeric
+,,e3ab0a79-93d7-ee77-fcf8-8593a7e0de9e,d054d69e-757d-61fc-7a30-1a27c2684647,,29463-7,Body Weight,2021-11-28T22:09:05Z,vital-signs,76.1,kg,numeric

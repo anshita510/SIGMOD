@@ -1,0 +1,7 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2020-06-03,,0078ded8-7b16-be7e-0651-cd7b5b2b3ae4,893094b2-508a-d247-3df7-17020ab51ad2,http://snomed.info/sct,162864005,Body mass index 30+ - obesity (finding),,,,,
+,,0078ded8-7b16-be7e-0651-cd7b5b2b3ae4,792a8242-478b-e3d9-cb30-4afe7a3f4685,,29463-7,Body Weight,2016-11-30T11:30:35Z,vital-signs,83.1,kg,numeric
+,,0078ded8-7b16-be7e-0651-cd7b5b2b3ae4,86db8986-a708-5af9-2d68-b7f11875c883,,29463-7,Body Weight,2017-08-16T11:30:35Z,vital-signs,84.3,kg,numeric
+,,0078ded8-7b16-be7e-0651-cd7b5b2b3ae4,893094b2-508a-d247-3df7-17020ab51ad2,,29463-7,Body Weight,2020-06-03T11:30:35Z,vital-signs,85.8,kg,numeric
+,,0078ded8-7b16-be7e-0651-cd7b5b2b3ae4,27c8c093-db18-ecec-9078-65802e7856b1,,29463-7,Body Weight,2022-06-08T11:30:35Z,vital-signs,85.8,kg,numeric
+,,0078ded8-7b16-be7e-0651-cd7b5b2b3ae4,c0610a6c-e3fa-1c5a-b1d1-f25398911e90,,29463-7,Body Weight,2024-06-12T11:30:35Z,vital-signs,85.8,kg,numeric

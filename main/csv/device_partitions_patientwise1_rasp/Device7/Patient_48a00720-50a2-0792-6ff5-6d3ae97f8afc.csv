@@ -1,0 +1,6 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+1997-11-30,,48a00720-50a2-0792-6ff5-6d3ae97f8afc,467ec1ec-12e6-9151-1ba0-d06a78136892,http://snomed.info/sct,44054006,Diabetes mellitus type 2 (disorder),,,,,
+,,48a00720-50a2-0792-6ff5-6d3ae97f8afc,1a5f375c-ac7a-94d2-1e0d-5a04deb349a4,,2345-7,Glucose [Mass/volume] in Serum or Plasma,1992-02-03T19:35:04Z,laboratory,69.3,mg/dL,numeric
+,,48a00720-50a2-0792-6ff5-6d3ae97f8afc,1a5f375c-ac7a-94d2-1e0d-5a04deb349a4,,5792-7,Glucose [Mass/volume] in Urine by Test strip,1992-02-03T19:35:04Z,laboratory,1.0,mg/dL,numeric
+,,48a00720-50a2-0792-6ff5-6d3ae97f8afc,1a5f375c-ac7a-94d2-1e0d-5a04deb349a4,,25428-4,Glucose [Presence] in Urine by Test strip,1992-02-03T19:35:04Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,48a00720-50a2-0792-6ff5-6d3ae97f8afc,467ec1ec-12e6-9151-1ba0-d06a78136892,,2339-0,Glucose [Mass/volume] in Blood,1997-11-29T18:32:46Z,laboratory,74.8,mg/dL,numeric

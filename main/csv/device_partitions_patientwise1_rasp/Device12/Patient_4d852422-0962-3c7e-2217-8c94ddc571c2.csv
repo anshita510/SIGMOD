@@ -1,0 +1,48 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2009-11-28,,4d852422-0962-3c7e-2217-8c94ddc571c2,3908d602-5633-4a1d-9602-586eead7700f,http://snomed.info/sct,271737000,Anemia (disorder),,,,,
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,a04db41b-13ce-1d3b-5fc4-050bdadf50ad,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2014-12-12T19:40:14Z,laboratory,6.1,%,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,a04db41b-13ce-1d3b-5fc4-050bdadf50ad,,718-7,Hemoglobin [Mass/volume] in Blood,2014-12-12T19:40:14Z,laboratory,13.9,g/dL,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,bcb10133-9010-cff4-14b1-a06948f5f1f1,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2015-12-18T19:40:14Z,laboratory,5.9,%,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,3a33896a-e40a-af0e-5e27-05b4f9541dd1,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2016-12-23T19:40:14Z,laboratory,6.3,%,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,3d9e9d3b-f6fb-1bf3-bd1f-1d74ef681a04,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2017-12-29T19:40:14Z,laboratory,6.0,%,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,d79546ee-d510-191f-9bb9-e248a3a20abf,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2019-01-04T19:40:14Z,laboratory,6.2,%,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,bcdb3b42-1c9b-b549-04b8-39173484d875,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2020-01-10T19:40:14Z,laboratory,6.2,%,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,bcdb3b42-1c9b-b549-04b8-39173484d875,,718-7,Hemoglobin [Mass/volume] in Blood,2020-01-10T19:40:14Z,laboratory,15.9,g/dL,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,51a9d664-1ff3-f372-a0be-856732817e47,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2021-01-15T19:40:14Z,laboratory,5.9,%,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,a058143f-8569-fe02-be98-cccd8e692871,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2022-01-21T19:40:14Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,a058143f-8569-fe02-be98-cccd8e692871,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2022-01-21T19:40:14Z,laboratory,6.1,%,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,96fc5372-e593-196b-ff5f-11dd982d1acc,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2022-11-25T19:40:14Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,96fc5372-e593-196b-ff5f-11dd982d1acc,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2022-11-25T19:40:14Z,laboratory,3.0,%,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,3d4daccb-9f30-832a-0002-596f8c580834,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2023-01-27T19:40:14Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,3d4daccb-9f30-832a-0002-596f8c580834,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2023-01-27T19:40:14Z,laboratory,3.0,%,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,661929b1-caa3-92b4-85e0-9400eb9fcebb,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2023-07-21T19:40:14Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,661929b1-caa3-92b4-85e0-9400eb9fcebb,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2023-07-21T19:40:14Z,laboratory,3.4,%,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,cca0ba2c-fdb8-253b-c2dc-3d515ae2daf3,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2023-07-28T19:40:14Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,cca0ba2c-fdb8-253b-c2dc-3d515ae2daf3,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2023-07-28T19:40:14Z,laboratory,3.3,%,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,c9af6d4d-c932-c92d-ddd4-29ad9b058957,,718-7,Hemoglobin [Mass/volume] in Blood,2023-08-16T03:39:55Z,laboratory,14.7,g/dL,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,c9af6d4d-c932-c92d-ddd4-29ad9b058957,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2023-08-16T03:39:55Z,laboratory,3.0,%,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,c9af6d4d-c932-c92d-ddd4-29ad9b058957,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2023-08-16T03:39:55Z,laboratory,0.0,{presence},numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,066715e2-57b7-045c-7d9c-f84a5e83e114,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2023-08-25T19:40:14Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,066715e2-57b7-045c-7d9c-f84a5e83e114,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2023-08-25T19:40:14Z,laboratory,3.3,%,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,f9fcb67a-ee53-14af-12c4-6795034799b0,,718-7,Hemoglobin [Mass/volume] in Blood,2023-09-02T02:35:46Z,laboratory,13.0,g/dL,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,f9fcb67a-ee53-14af-12c4-6795034799b0,,718-7,Hemoglobin [Mass/volume] in Blood,2023-09-02T15:23:40Z,laboratory,11.8,g/dL,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,f9fcb67a-ee53-14af-12c4-6795034799b0,,718-7,Hemoglobin [Mass/volume] in Blood,2023-09-03T03:23:40Z,laboratory,14.0,g/dL,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,f9fcb67a-ee53-14af-12c4-6795034799b0,,718-7,Hemoglobin [Mass/volume] in Blood,2023-09-03T16:05:28Z,laboratory,17.1,g/dL,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,f9fcb67a-ee53-14af-12c4-6795034799b0,,718-7,Hemoglobin [Mass/volume] in Blood,2023-09-04T04:05:28Z,laboratory,12.9,g/dL,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,f9fcb67a-ee53-14af-12c4-6795034799b0,,718-7,Hemoglobin [Mass/volume] in Blood,2023-09-04T16:51:09Z,laboratory,13.9,g/dL,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,f9fcb67a-ee53-14af-12c4-6795034799b0,,718-7,Hemoglobin [Mass/volume] in Blood,2023-09-05T04:51:09Z,laboratory,12.1,g/dL,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,f9fcb67a-ee53-14af-12c4-6795034799b0,,718-7,Hemoglobin [Mass/volume] in Blood,2023-09-05T17:35:00Z,laboratory,11.8,g/dL,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,f9fcb67a-ee53-14af-12c4-6795034799b0,,718-7,Hemoglobin [Mass/volume] in Blood,2023-09-06T05:35:00Z,laboratory,14.8,g/dL,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,f9fcb67a-ee53-14af-12c4-6795034799b0,,718-7,Hemoglobin [Mass/volume] in Blood,2023-09-06T18:20:48Z,laboratory,14.8,g/dL,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,f9fcb67a-ee53-14af-12c4-6795034799b0,,718-7,Hemoglobin [Mass/volume] in Blood,2023-09-07T06:20:48Z,laboratory,13.6,g/dL,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,f9fcb67a-ee53-14af-12c4-6795034799b0,,718-7,Hemoglobin [Mass/volume] in Blood,2023-09-07T19:05:49Z,laboratory,13.6,g/dL,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,f9fcb67a-ee53-14af-12c4-6795034799b0,,718-7,Hemoglobin [Mass/volume] in Blood,2023-09-08T07:05:49Z,laboratory,14.4,g/dL,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,f9fcb67a-ee53-14af-12c4-6795034799b0,,718-7,Hemoglobin [Mass/volume] in Blood,2023-09-08T19:47:05Z,laboratory,16.8,g/dL,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,f9fcb67a-ee53-14af-12c4-6795034799b0,,718-7,Hemoglobin [Mass/volume] in Blood,2023-09-09T07:47:05Z,laboratory,17.6,g/dL,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,f9fcb67a-ee53-14af-12c4-6795034799b0,,718-7,Hemoglobin [Mass/volume] in Blood,2023-09-09T20:31:42Z,laboratory,17.1,g/dL,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,47fa6905-ad42-7056-f97e-0a70e102c5c4,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2024-02-02T19:40:14Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,47fa6905-ad42-7056-f97e-0a70e102c5c4,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2024-02-02T19:40:14Z,laboratory,2.8,%,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,5981bd51-4947-7321-1244-1251a1d20367,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2024-07-12T19:40:14Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,5981bd51-4947-7321-1244-1251a1d20367,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2024-07-12T19:40:14Z,laboratory,3.2,%,numeric
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,d1ec04e2-1e3a-efb6-dc3c-23388f6bf24c,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2024-09-13T19:40:14Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,4d852422-0962-3c7e-2217-8c94ddc571c2,d1ec04e2-1e3a-efb6-dc3c-23388f6bf24c,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2024-09-13T19:40:14Z,laboratory,3.1,%,numeric

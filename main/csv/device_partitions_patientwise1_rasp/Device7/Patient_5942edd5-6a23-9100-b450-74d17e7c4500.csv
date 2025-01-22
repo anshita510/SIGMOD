@@ -1,0 +1,10 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2012-03-30,,5942edd5-6a23-9100-b450-74d17e7c4500,87c7e217-e988-8c79-1862-ab9a53a6463b,http://snomed.info/sct,15777000,Prediabetes,,,,,
+2021-04-09,,5942edd5-6a23-9100-b450-74d17e7c4500,7f09c46a-2161-4b46-0cd6-19647b3491b7,http://snomed.info/sct,44054006,Diabetes mellitus type 2 (disorder),,,,,
+2021-04-09,,5942edd5-6a23-9100-b450-74d17e7c4500,7f09c46a-2161-4b46-0cd6-19647b3491b7,http://snomed.info/sct,422034002,Retinopathy due to type 2 diabetes mellitus (disorder),,,,,
+2024-01-26,,5942edd5-6a23-9100-b450-74d17e7c4500,78373ece-3cdf-21a5-1e1e-d3ba4e0714af,http://snomed.info/sct,368581000119106,Neuropathy due to type 2 diabetes mellitus (disorder),,,,,
+,,5942edd5-6a23-9100-b450-74d17e7c4500,cbe71220-5b1f-b146-9f6b-4e16f1c1804f,,2339-0,Glucose [Mass/volume] in Blood,2015-04-02T20:23:35Z,laboratory,79.0,mg/dL,numeric
+,,5942edd5-6a23-9100-b450-74d17e7c4500,eb6ae46a-3d89-b479-c451-04985ba98971,,2339-0,Glucose [Mass/volume] in Blood,2018-04-05T20:23:35Z,laboratory,83.2,mg/dL,numeric
+,,5942edd5-6a23-9100-b450-74d17e7c4500,7f09c46a-2161-4b46-0cd6-19647b3491b7,,2339-0,Glucose [Mass/volume] in Blood,2021-04-08T20:23:35Z,laboratory,87.0,mg/dL,numeric
+,,5942edd5-6a23-9100-b450-74d17e7c4500,78373ece-3cdf-21a5-1e1e-d3ba4e0714af,,2339-0,Glucose [Mass/volume] in Blood,2024-01-25T20:23:35Z,laboratory,110.0,mg/dL,numeric
+,,5942edd5-6a23-9100-b450-74d17e7c4500,401cf94b-f674-3ebc-2086-48a6bd9da668,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2024-07-08T21:52:45Z,laboratory,3.8,mg/dL,numeric

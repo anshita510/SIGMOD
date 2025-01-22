@@ -1,0 +1,14 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+1992-04-13,,0fdb0695-5ac0-600c-2c33-0a7967783c44,0cd80cde-96b2-dd62-fdf6-087cae3bf77f,http://snomed.info/sct,162864005,Body mass index 30+ - obesity (finding),,,,,
+,,0fdb0695-5ac0-600c-2c33-0a7967783c44,63240b17-9250-2d3a-690e-1ce094107df2,,29463-7,Body Weight,2000-05-28T21:56:46Z,vital-signs,95.0,kg,numeric
+,,0fdb0695-5ac0-600c-2c33-0a7967783c44,12abad93-1aaf-cece-53ec-a85796ce5e92,,29463-7,Body Weight,2001-06-03T21:56:46Z,vital-signs,95.0,kg,numeric
+,,0fdb0695-5ac0-600c-2c33-0a7967783c44,edf6580e-cdac-cff1-51b2-23140f2636e8,,29463-7,Body Weight,2002-06-09T21:56:46Z,vital-signs,95.0,kg,numeric
+,,0fdb0695-5ac0-600c-2c33-0a7967783c44,d448f701-fed1-ee80-caa5-efba41faad66,,29463-7,Body Weight,2003-06-15T21:56:46Z,vital-signs,95.0,kg,numeric
+,,0fdb0695-5ac0-600c-2c33-0a7967783c44,2c5dcc5c-3ec7-4002-8afa-0425cbec66ab,,29463-7,Body Weight,2004-06-20T21:56:46Z,vital-signs,95.0,kg,numeric
+,,0fdb0695-5ac0-600c-2c33-0a7967783c44,5483410b-6dd3-2cec-ee24-46f82774dfba,,29463-7,Body Weight,2005-06-26T21:56:46Z,vital-signs,95.0,kg,numeric
+,,0fdb0695-5ac0-600c-2c33-0a7967783c44,a0287eb7-7a24-ff6d-2d7a-fcee695377c3,,29463-7,Body Weight,2005-11-13T21:56:46Z,vital-signs,95.0,kg,numeric
+,,0fdb0695-5ac0-600c-2c33-0a7967783c44,55868109-88bd-d6d2-ae79-517dcbc67a4c,,29463-7,Body Weight,2005-12-11T21:56:46Z,vital-signs,95.0,kg,numeric
+,,0fdb0695-5ac0-600c-2c33-0a7967783c44,de9f018d-b379-2c0b-10cb-f712008f794c,,29463-7,Body Weight,2006-07-02T21:56:46Z,vital-signs,95.0,kg,numeric
+,,0fdb0695-5ac0-600c-2c33-0a7967783c44,f817b91c-0b4f-464a-7327-e52e72404162,,29463-7,Body Weight,2007-07-08T21:56:46Z,vital-signs,95.0,kg,numeric
+,,0fdb0695-5ac0-600c-2c33-0a7967783c44,37cb9531-d4b4-de71-5b4c-00748a87ec23,,29463-7,Body Weight,2008-07-13T21:56:46Z,vital-signs,95.0,kg,numeric
+,,0fdb0695-5ac0-600c-2c33-0a7967783c44,8ab58238-70ba-ce52-dd32-426e27e53509,,29463-7,Body Weight,2009-07-19T21:56:46Z,vital-signs,95.0,kg,numeric

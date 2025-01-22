@@ -1,0 +1,36 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2021-01-06,,9a68eece-43e7-f25c-16c7-b89226b82062,911bc755-6d72-743d-0013-464406a91cda,http://snomed.info/sct,389087006,Hypoxemia (disorder),,,,,
+2021-01-06,,9a68eece-43e7-f25c-16c7-b89226b82062,911bc755-6d72-743d-0013-464406a91cda,http://snomed.info/sct,65710008,Acute respiratory failure (disorder),,,,,
+,,9a68eece-43e7-f25c-16c7-b89226b82062,a0039637-c513-cc2a-00cf-c679cd84da35,,2708-6,Oxygen saturation in Arterial blood,2021-01-05T23:16:42Z,vital-signs,83.5,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,911bc755-6d72-743d-0013-464406a91cda,,2708-6,Oxygen saturation in Arterial blood,2021-01-06T01:15:50Z,vital-signs,87.6,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,911bc755-6d72-743d-0013-464406a91cda,,2708-6,Oxygen saturation in Arterial blood,2021-01-06T01:15:50Z,vital-signs,76.6,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,911bc755-6d72-743d-0013-464406a91cda,,2708-6,Oxygen saturation in Arterial blood,2021-01-07T01:15:50Z,vital-signs,83.7,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,911bc755-6d72-743d-0013-464406a91cda,,2708-6,Oxygen saturation in Arterial blood,2021-01-07T01:15:50Z,vital-signs,81.7,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,911bc755-6d72-743d-0013-464406a91cda,,2708-6,Oxygen saturation in Arterial blood,2021-01-08T01:15:50Z,vital-signs,80.4,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,911bc755-6d72-743d-0013-464406a91cda,,2708-6,Oxygen saturation in Arterial blood,2021-01-08T01:15:50Z,vital-signs,83.9,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,911bc755-6d72-743d-0013-464406a91cda,,2708-6,Oxygen saturation in Arterial blood,2021-01-09T01:15:50Z,vital-signs,81.8,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,911bc755-6d72-743d-0013-464406a91cda,,2708-6,Oxygen saturation in Arterial blood,2021-01-09T01:15:50Z,vital-signs,82.9,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,911bc755-6d72-743d-0013-464406a91cda,,2708-6,Oxygen saturation in Arterial blood,2021-01-10T01:15:50Z,vital-signs,85.8,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,911bc755-6d72-743d-0013-464406a91cda,,2708-6,Oxygen saturation in Arterial blood,2021-01-10T01:15:50Z,vital-signs,78.4,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,911bc755-6d72-743d-0013-464406a91cda,,2708-6,Oxygen saturation in Arterial blood,2021-01-11T01:15:50Z,vital-signs,88.1,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,911bc755-6d72-743d-0013-464406a91cda,,2708-6,Oxygen saturation in Arterial blood,2021-01-11T01:15:50Z,vital-signs,88.0,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,b19f1382-1cdb-c1d8-dd05-29fc80b0c79c,,2708-6,Oxygen saturation in Arterial blood,2021-01-11T02:06:08Z,vital-signs,77.2,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,b19f1382-1cdb-c1d8-dd05-29fc80b0c79c,,2708-6,Oxygen saturation in Arterial blood,2021-01-11T02:06:08Z,vital-signs,78.6,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,b19f1382-1cdb-c1d8-dd05-29fc80b0c79c,,2708-6,Oxygen saturation in Arterial blood,2021-01-12T04:25:08Z,vital-signs,88.4,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,b19f1382-1cdb-c1d8-dd05-29fc80b0c79c,,2708-6,Oxygen saturation in Arterial blood,2021-01-12T04:25:08Z,vital-signs,75.0,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,b19f1382-1cdb-c1d8-dd05-29fc80b0c79c,,2708-6,Oxygen saturation in Arterial blood,2021-01-13T08:08:08Z,vital-signs,75.8,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,b19f1382-1cdb-c1d8-dd05-29fc80b0c79c,,2708-6,Oxygen saturation in Arterial blood,2021-01-13T08:08:08Z,vital-signs,75.3,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,b19f1382-1cdb-c1d8-dd05-29fc80b0c79c,,2708-6,Oxygen saturation in Arterial blood,2021-01-14T11:26:08Z,vital-signs,77.2,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,b19f1382-1cdb-c1d8-dd05-29fc80b0c79c,,2708-6,Oxygen saturation in Arterial blood,2021-01-14T11:26:08Z,vital-signs,85.4,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,b19f1382-1cdb-c1d8-dd05-29fc80b0c79c,,2708-6,Oxygen saturation in Arterial blood,2021-01-15T13:36:08Z,vital-signs,84.4,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,b19f1382-1cdb-c1d8-dd05-29fc80b0c79c,,2708-6,Oxygen saturation in Arterial blood,2021-01-15T13:36:08Z,vital-signs,84.3,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,b19f1382-1cdb-c1d8-dd05-29fc80b0c79c,,2708-6,Oxygen saturation in Arterial blood,2021-01-16T17:25:08Z,vital-signs,81.3,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,b19f1382-1cdb-c1d8-dd05-29fc80b0c79c,,2708-6,Oxygen saturation in Arterial blood,2021-01-16T17:25:08Z,vital-signs,78.2,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,b19f1382-1cdb-c1d8-dd05-29fc80b0c79c,,2708-6,Oxygen saturation in Arterial blood,2021-01-17T20:57:08Z,vital-signs,77.8,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,b19f1382-1cdb-c1d8-dd05-29fc80b0c79c,,2708-6,Oxygen saturation in Arterial blood,2021-01-17T20:57:08Z,vital-signs,83.1,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,b19f1382-1cdb-c1d8-dd05-29fc80b0c79c,,2708-6,Oxygen saturation in Arterial blood,2021-01-19T00:25:08Z,vital-signs,82.4,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,b19f1382-1cdb-c1d8-dd05-29fc80b0c79c,,2708-6,Oxygen saturation in Arterial blood,2021-01-19T00:25:08Z,vital-signs,76.3,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,b19f1382-1cdb-c1d8-dd05-29fc80b0c79c,,2708-6,Oxygen saturation in Arterial blood,2021-01-20T02:28:08Z,vital-signs,78.5,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,b19f1382-1cdb-c1d8-dd05-29fc80b0c79c,,2708-6,Oxygen saturation in Arterial blood,2021-01-20T02:28:08Z,vital-signs,88.5,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,b19f1382-1cdb-c1d8-dd05-29fc80b0c79c,,2708-6,Oxygen saturation in Arterial blood,2021-01-21T05:07:08Z,vital-signs,80.4,%,numeric
+,,9a68eece-43e7-f25c-16c7-b89226b82062,b19f1382-1cdb-c1d8-dd05-29fc80b0c79c,,2708-6,Oxygen saturation in Arterial blood,2021-01-21T05:07:08Z,vital-signs,77.7,%,numeric

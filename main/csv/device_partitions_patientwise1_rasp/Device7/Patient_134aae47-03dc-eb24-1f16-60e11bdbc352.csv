@@ -1,0 +1,20 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+1965-08-21,,134aae47-03dc-eb24-1f16-60e11bdbc352,1dbf0820-94fc-1373-0df5-de3e60f80748,http://snomed.info/sct,15777000,Prediabetes,,,,,
+1992-11-28,,134aae47-03dc-eb24-1f16-60e11bdbc352,4b94044a-dc8f-b8d1-df6d-820efa9413a7,http://snomed.info/sct,44054006,Diabetes mellitus type 2 (disorder),,,,,
+1993-12-04,,134aae47-03dc-eb24-1f16-60e11bdbc352,be95bf02-e3e8-6bb6-b16b-f5f84a630db0,http://snomed.info/sct,368581000119106,Neuropathy due to type 2 diabetes mellitus (disorder),,,,,
+,,134aae47-03dc-eb24-1f16-60e11bdbc352,df6ec1cf-aadf-87e8-9ae7-09ab99298825,,2339-0,Glucose [Mass/volume] in Blood,1987-10-31T04:52:27Z,laboratory,73.7,mg/dL,numeric
+,,134aae47-03dc-eb24-1f16-60e11bdbc352,d74dad13-8f14-f05c-2ce0-78dbb093881f,,2339-0,Glucose [Mass/volume] in Blood,1988-11-05T04:52:27Z,laboratory,95.6,mg/dL,numeric
+,,134aae47-03dc-eb24-1f16-60e11bdbc352,e8666732-eee1-b46e-3744-1f3c6c67ff77,,2339-0,Glucose [Mass/volume] in Blood,1989-11-11T04:52:27Z,laboratory,66.8,mg/dL,numeric
+,,134aae47-03dc-eb24-1f16-60e11bdbc352,c502b10f-3805-ead1-1b24-8747a42fada9,,2339-0,Glucose [Mass/volume] in Blood,1990-11-17T04:52:27Z,laboratory,67.7,mg/dL,numeric
+,,134aae47-03dc-eb24-1f16-60e11bdbc352,276d05e6-9bf9-636d-df91-d4c551c2df19,,2339-0,Glucose [Mass/volume] in Blood,1991-11-23T04:52:27Z,laboratory,97.6,mg/dL,numeric
+,,134aae47-03dc-eb24-1f16-60e11bdbc352,4b94044a-dc8f-b8d1-df6d-820efa9413a7,,2339-0,Glucose [Mass/volume] in Blood,1992-11-28T04:52:27Z,laboratory,72.8,mg/dL,numeric
+,,134aae47-03dc-eb24-1f16-60e11bdbc352,be95bf02-e3e8-6bb6-b16b-f5f84a630db0,,2339-0,Glucose [Mass/volume] in Blood,1993-12-04T04:52:27Z,laboratory,115.4,mg/dL,numeric
+,,134aae47-03dc-eb24-1f16-60e11bdbc352,be95bf02-e3e8-6bb6-b16b-f5f84a630db0,,2339-0,Glucose [Mass/volume] in Blood,1993-12-04T04:52:27Z,laboratory,115.4,mg/dL,numeric
+,,134aae47-03dc-eb24-1f16-60e11bdbc352,cbfd19cf-45d3-781d-f587-973cd3b29413,,2339-0,Glucose [Mass/volume] in Blood,1994-12-10T04:52:27Z,laboratory,103.9,mg/dL,numeric
+,,134aae47-03dc-eb24-1f16-60e11bdbc352,6d8c7a93-b6ab-4504-08a3-c28fd6932d52,,2339-0,Glucose [Mass/volume] in Blood,1994-12-25T04:52:27Z,laboratory,110.1,mg/dL,numeric
+,,134aae47-03dc-eb24-1f16-60e11bdbc352,0adfb987-918c-0d63-f955-8ca1c7306458,,2339-0,Glucose [Mass/volume] in Blood,1995-12-16T04:52:27Z,laboratory,122.7,mg/dL,numeric
+,,134aae47-03dc-eb24-1f16-60e11bdbc352,f27a6df5-7397-fcf7-4538-ac20331ae157,,2339-0,Glucose [Mass/volume] in Blood,1995-12-25T04:52:27Z,laboratory,121.7,mg/dL,numeric
+,,134aae47-03dc-eb24-1f16-60e11bdbc352,7c4f39df-eac4-aa95-b9c9-a0712cdacb9c,,2339-0,Glucose [Mass/volume] in Blood,1996-12-21T04:52:27Z,laboratory,103.0,mg/dL,numeric
+,,134aae47-03dc-eb24-1f16-60e11bdbc352,3d9e56e8-2ded-9988-8125-f527a58603d6,,2339-0,Glucose [Mass/volume] in Blood,1997-01-04T04:52:27Z,laboratory,116.4,mg/dL,numeric
+,,134aae47-03dc-eb24-1f16-60e11bdbc352,1346d0fa-0b4e-8daf-2d38-cb90ea4b1b42,,2345-7,Glucose [Mass/volume] in Serum or Plasma,1997-01-05T20:40:38Z,laboratory,116.9,mg/dL,numeric
+,,134aae47-03dc-eb24-1f16-60e11bdbc352,1346d0fa-0b4e-8daf-2d38-cb90ea4b1b42,,25428-4,Glucose [Presence] in Urine by Test strip,1997-01-05T20:40:38Z,laboratory,1.0,{presence},numeric

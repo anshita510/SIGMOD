@@ -1,0 +1,192 @@
+cause,effect,lag_bin,cause_type,effect_type,conditional_probability
+37-inf,0-150,90-180,Body Temperature,Body Height,0.027027027027027
+37-inf,0-150,180-365,Body Temperature,Body Height,0.054054054054054
+37-inf,0-150,365-730,Body Temperature,Body Height,0.027027027027027
+37-inf,0-150,730-inf,Body Temperature,Body Height,0.054054054054054
+37-inf,0-50,90-180,Body Temperature,Body Weight,0.027027027027027
+37-inf,0-50,180-365,Body Temperature,Body Weight,0.054054054054054
+37-inf,0-50,365-730,Body Temperature,Body Weight,0.027027027027027
+37-inf,0-50,730-inf,Body Temperature,Body Weight,0.0675675675675675
+37-inf,120-140,90-180,Body Temperature,Systolic Blood Pressure,0.027027027027027
+37-inf,120-140,180-365,Body Temperature,Systolic Blood Pressure,0.054054054054054
+37-inf,120-140,365-730,Body Temperature,Systolic Blood Pressure,0.027027027027027
+37-inf,120-140,730-inf,Body Temperature,Systolic Blood Pressure,0.0675675675675675
+37-inf,150-170,730-inf,Body Temperature,Body Height,0.0135135135135135
+37-inf,60-80,90-180,Body Temperature,Diastolic Blood Pressure,0.0135135135135135
+37-inf,60-80,180-365,Body Temperature,Diastolic Blood Pressure,0.0135135135135135
+37-inf,60-80,365-730,Body Temperature,Diastolic Blood Pressure,0.027027027027027
+37-inf,60-80,730-inf,Body Temperature,Diastolic Blood Pressure,0.027027027027027
+37-inf,80-90,90-180,Body Temperature,Diastolic Blood Pressure,0.0135135135135135
+37-inf,80-90,180-365,Body Temperature,Diastolic Blood Pressure,0.0405405405405405
+37-inf,80-90,730-inf,Body Temperature,Diastolic Blood Pressure,0.0405405405405405
+37-inf,Acute bronchitis (disorder),180-365,Body Temperature,condition,0.0135135135135135
+37-inf,Acute bronchitis (disorder),365-730,Body Temperature,condition,0.0135135135135135
+37-inf,Acute viral pharyngitis (disorder),180-365,Body Temperature,condition,0.0135135135135135
+37-inf,DTaP,365-730,Body Temperature,immunization,0.0135135135135135
+37-inf,IPV,365-730,Body Temperature,immunization,0.0135135135135135
+37-inf,Influenza  seasonal  injectable  preservative free,180-365,Body Temperature,immunization,0.0135135135135135
+37-inf,Influenza  seasonal  injectable  preservative free,365-730,Body Temperature,immunization,0.0135135135135135
+37-inf,Influenza  seasonal  injectable  preservative free,730-inf,Body Temperature,immunization,0.0675675675675675
+37-inf,MMR,365-730,Body Temperature,immunization,0.0135135135135135
+37-inf,Medication review due (situation),180-365,Body Temperature,condition,0.0135135135135135
+37-inf,Medication review due (situation),365-730,Body Temperature,condition,0.0135135135135135
+37-inf,Medication review due (situation),730-inf,Body Temperature,condition,0.027027027027027
+37-inf,Primary dental caries (disorder),180-365,Body Temperature,condition,0.0135135135135135
+37-inf,Viral sinusitis (disorder),730-inf,Body Temperature,condition,0.0135135135135135
+37-inf,varicella,365-730,Body Temperature,immunization,0.0135135135135135
+0-36.0,0-150,0-0,Body Temperature,Body Height,0.0
+0-36.0,150-170,0-0,Body Temperature,Body Height,0.0
+0-36.0,170-190,0-0,Body Temperature,Body Height,0.0
+0-36.0,190-inf,0-0,Body Temperature,Body Height,0.0
+36.0-37.5,0-150,0-0,Body Temperature,Body Height,0.0
+36.0-37.5,150-170,0-0,Body Temperature,Body Height,0.0
+36.0-37.5,170-190,0-0,Body Temperature,Body Height,0.0
+36.0-37.5,190-inf,0-0,Body Temperature,Body Height,0.0
+37.5-inf,0-150,0-0,Body Temperature,Body Height,0.0
+37.5-inf,150-170,0-0,Body Temperature,Body Height,0.0
+37.5-inf,170-190,0-0,Body Temperature,Body Height,0.0
+37.5-inf,190-inf,0-0,Body Temperature,Body Height,0.0
+0-36.0,0-36.0,0-0,Body Temperature,Body Temperature,0.0
+0-36.0,36.0-37.5,0-0,Body Temperature,Body Temperature,0.0
+0-36.0,37.5-inf,0-0,Body Temperature,Body Temperature,0.0
+36.0-37.5,0-36.0,0-0,Body Temperature,Body Temperature,0.0
+36.0-37.5,36.0-37.5,0-0,Body Temperature,Body Temperature,0.0
+36.0-37.5,37.5-inf,0-0,Body Temperature,Body Temperature,0.0
+37.5-inf,0-36.0,0-0,Body Temperature,Body Temperature,0.0
+37.5-inf,36.0-37.5,0-0,Body Temperature,Body Temperature,0.0
+37.5-inf,37.5-inf,0-0,Body Temperature,Body Temperature,0.0
+0-36.0,0-50,0-0,Body Temperature,Body Weight,0.0
+0-36.0,50-70,0-0,Body Temperature,Body Weight,0.0
+0-36.0,70-90,0-0,Body Temperature,Body Weight,0.0
+0-36.0,90-inf,0-0,Body Temperature,Body Weight,0.0
+36.0-37.5,0-50,0-0,Body Temperature,Body Weight,0.0
+36.0-37.5,50-70,0-0,Body Temperature,Body Weight,0.0
+36.0-37.5,70-90,0-0,Body Temperature,Body Weight,0.0
+36.0-37.5,90-inf,0-0,Body Temperature,Body Weight,0.0
+37.5-inf,0-50,0-0,Body Temperature,Body Weight,0.0
+37.5-inf,50-70,0-0,Body Temperature,Body Weight,0.0
+37.5-inf,70-90,0-0,Body Temperature,Body Weight,0.0
+37.5-inf,90-inf,0-0,Body Temperature,Body Weight,0.0
+0-36.0,0-18.5,0-0,Body Temperature,BMI (Body Mass Index),0.0
+0-36.0,18.5-24.9,0-0,Body Temperature,BMI (Body Mass Index),0.0
+0-36.0,24.9-29.9,0-0,Body Temperature,BMI (Body Mass Index),0.0
+0-36.0,29.9-34.9,0-0,Body Temperature,BMI (Body Mass Index),0.0
+0-36.0,34.9-inf,0-0,Body Temperature,BMI (Body Mass Index),0.0
+36.0-37.5,0-18.5,0-0,Body Temperature,BMI (Body Mass Index),0.0
+36.0-37.5,18.5-24.9,0-0,Body Temperature,BMI (Body Mass Index),0.0
+36.0-37.5,24.9-29.9,0-0,Body Temperature,BMI (Body Mass Index),0.0
+36.0-37.5,29.9-34.9,0-0,Body Temperature,BMI (Body Mass Index),0.0
+36.0-37.5,34.9-inf,0-0,Body Temperature,BMI (Body Mass Index),0.0
+37.5-inf,0-18.5,0-0,Body Temperature,BMI (Body Mass Index),0.0
+37.5-inf,18.5-24.9,0-0,Body Temperature,BMI (Body Mass Index),0.0
+37.5-inf,24.9-29.9,0-0,Body Temperature,BMI (Body Mass Index),0.0
+37.5-inf,29.9-34.9,0-0,Body Temperature,BMI (Body Mass Index),0.0
+37.5-inf,34.9-inf,0-0,Body Temperature,BMI (Body Mass Index),0.0
+0-36.0,0-8.5,0-0,Body Temperature,Calcium,0.0
+0-36.0,8.5-10.2,0-0,Body Temperature,Calcium,0.0
+0-36.0,10.2-inf,0-0,Body Temperature,Calcium,0.0
+36.0-37.5,0-8.5,0-0,Body Temperature,Calcium,0.0
+36.0-37.5,8.5-10.2,0-0,Body Temperature,Calcium,0.0
+36.0-37.5,10.2-inf,0-0,Body Temperature,Calcium,0.0
+37.5-inf,0-8.5,0-0,Body Temperature,Calcium,0.0
+37.5-inf,8.5-10.2,0-0,Body Temperature,Calcium,0.0
+37.5-inf,10.2-inf,0-0,Body Temperature,Calcium,0.0
+0-36.0,0-60,0-0,Body Temperature,Diastolic Blood Pressure,0.0
+0-36.0,60-80,0-0,Body Temperature,Diastolic Blood Pressure,0.0
+0-36.0,80-90,0-0,Body Temperature,Diastolic Blood Pressure,0.0
+0-36.0,90-inf,0-0,Body Temperature,Diastolic Blood Pressure,0.0
+36.0-37.5,0-60,0-0,Body Temperature,Diastolic Blood Pressure,0.0
+36.0-37.5,60-80,0-0,Body Temperature,Diastolic Blood Pressure,0.0
+36.0-37.5,80-90,0-0,Body Temperature,Diastolic Blood Pressure,0.0
+36.0-37.5,90-inf,0-0,Body Temperature,Diastolic Blood Pressure,0.0
+37.5-inf,0-60,0-0,Body Temperature,Diastolic Blood Pressure,0.0
+37.5-inf,60-80,0-0,Body Temperature,Diastolic Blood Pressure,0.0
+37.5-inf,80-90,0-0,Body Temperature,Diastolic Blood Pressure,0.0
+37.5-inf,90-inf,0-0,Body Temperature,Diastolic Blood Pressure,0.0
+0-36.0,0-70,0-0,Body Temperature,Glucose,0.0
+0-36.0,70-99,0-0,Body Temperature,Glucose,0.0
+0-36.0,99-125,0-0,Body Temperature,Glucose,0.0
+0-36.0,125-inf,0-0,Body Temperature,Glucose,0.0
+36.0-37.5,0-70,0-0,Body Temperature,Glucose,0.0
+36.0-37.5,70-99,0-0,Body Temperature,Glucose,0.0
+36.0-37.5,99-125,0-0,Body Temperature,Glucose,0.0
+36.0-37.5,125-inf,0-0,Body Temperature,Glucose,0.0
+37.5-inf,0-70,0-0,Body Temperature,Glucose,0.0
+37.5-inf,70-99,0-0,Body Temperature,Glucose,0.0
+37.5-inf,99-125,0-0,Body Temperature,Glucose,0.0
+37.5-inf,125-inf,0-0,Body Temperature,Glucose,0.0
+0-36.0,0-12.0,0-0,Body Temperature,Hemoglobin,0.0
+0-36.0,12.0-16.0,0-0,Body Temperature,Hemoglobin,0.0
+0-36.0,16.0-inf,0-0,Body Temperature,Hemoglobin,0.0
+36.0-37.5,0-12.0,0-0,Body Temperature,Hemoglobin,0.0
+36.0-37.5,12.0-16.0,0-0,Body Temperature,Hemoglobin,0.0
+36.0-37.5,16.0-inf,0-0,Body Temperature,Hemoglobin,0.0
+37.5-inf,0-12.0,0-0,Body Temperature,Hemoglobin,0.0
+37.5-inf,12.0-16.0,0-0,Body Temperature,Hemoglobin,0.0
+37.5-inf,16.0-inf,0-0,Body Temperature,Hemoglobin,0.0
+0-36.0,0-60,0-0,Body Temperature,Heart Rate,0.0
+0-36.0,60-100,0-0,Body Temperature,Heart Rate,0.0
+0-36.0,100-inf,0-0,Body Temperature,Heart Rate,0.0
+36.0-37.5,0-60,0-0,Body Temperature,Heart Rate,0.0
+36.0-37.5,60-100,0-0,Body Temperature,Heart Rate,0.0
+36.0-37.5,100-inf,0-0,Body Temperature,Heart Rate,0.0
+37.5-inf,0-60,0-0,Body Temperature,Heart Rate,0.0
+37.5-inf,60-100,0-0,Body Temperature,Heart Rate,0.0
+37.5-inf,100-inf,0-0,Body Temperature,Heart Rate,0.0
+0-36.0,0-90,0-0,Body Temperature,Oxygen Saturation,0.0
+0-36.0,90-95,0-0,Body Temperature,Oxygen Saturation,0.0
+0-36.0,95-inf,0-0,Body Temperature,Oxygen Saturation,0.0
+36.0-37.5,0-90,0-0,Body Temperature,Oxygen Saturation,0.0
+36.0-37.5,90-95,0-0,Body Temperature,Oxygen Saturation,0.0
+36.0-37.5,95-inf,0-0,Body Temperature,Oxygen Saturation,0.0
+37.5-inf,0-90,0-0,Body Temperature,Oxygen Saturation,0.0
+37.5-inf,90-95,0-0,Body Temperature,Oxygen Saturation,0.0
+37.5-inf,95-inf,0-0,Body Temperature,Oxygen Saturation,0.0
+0-36.0,0-150,0-0,Body Temperature,Platelet Count,0.0
+0-36.0,150-450,0-0,Body Temperature,Platelet Count,0.0
+0-36.0,450-inf,0-0,Body Temperature,Platelet Count,0.0
+36.0-37.5,0-150,0-0,Body Temperature,Platelet Count,0.0
+36.0-37.5,150-450,0-0,Body Temperature,Platelet Count,0.0
+36.0-37.5,450-inf,0-0,Body Temperature,Platelet Count,0.0
+37.5-inf,0-150,0-0,Body Temperature,Platelet Count,0.0
+37.5-inf,150-450,0-0,Body Temperature,Platelet Count,0.0
+37.5-inf,450-inf,0-0,Body Temperature,Platelet Count,0.0
+0-36.0,0-3.5,0-0,Body Temperature,Potassium,0.0
+0-36.0,3.5-5.0,0-0,Body Temperature,Potassium,0.0
+0-36.0,5.0-inf,0-0,Body Temperature,Potassium,0.0
+36.0-37.5,0-3.5,0-0,Body Temperature,Potassium,0.0
+36.0-37.5,3.5-5.0,0-0,Body Temperature,Potassium,0.0
+36.0-37.5,5.0-inf,0-0,Body Temperature,Potassium,0.0
+37.5-inf,0-3.5,0-0,Body Temperature,Potassium,0.0
+37.5-inf,3.5-5.0,0-0,Body Temperature,Potassium,0.0
+37.5-inf,5.0-inf,0-0,Body Temperature,Potassium,0.0
+0-36.0,0-12,0-0,Body Temperature,Respiratory Rate,0.0
+0-36.0,12-20,0-0,Body Temperature,Respiratory Rate,0.0
+0-36.0,20-inf,0-0,Body Temperature,Respiratory Rate,0.0
+36.0-37.5,0-12,0-0,Body Temperature,Respiratory Rate,0.0
+36.0-37.5,12-20,0-0,Body Temperature,Respiratory Rate,0.0
+36.0-37.5,20-inf,0-0,Body Temperature,Respiratory Rate,0.0
+37.5-inf,0-12,0-0,Body Temperature,Respiratory Rate,0.0
+37.5-inf,12-20,0-0,Body Temperature,Respiratory Rate,0.0
+37.5-inf,20-inf,0-0,Body Temperature,Respiratory Rate,0.0
+0-36.0,0-135,0-0,Body Temperature,Sodium,0.0
+0-36.0,135-145,0-0,Body Temperature,Sodium,0.0
+0-36.0,145-inf,0-0,Body Temperature,Sodium,0.0
+36.0-37.5,0-135,0-0,Body Temperature,Sodium,0.0
+36.0-37.5,135-145,0-0,Body Temperature,Sodium,0.0
+36.0-37.5,145-inf,0-0,Body Temperature,Sodium,0.0
+37.5-inf,0-135,0-0,Body Temperature,Sodium,0.0
+37.5-inf,135-145,0-0,Body Temperature,Sodium,0.0
+37.5-inf,145-inf,0-0,Body Temperature,Sodium,0.0
+0-36.0,0-90,0-0,Body Temperature,Systolic Blood Pressure,0.0
+0-36.0,90-120,0-0,Body Temperature,Systolic Blood Pressure,0.0
+0-36.0,120-140,0-0,Body Temperature,Systolic Blood Pressure,0.0
+0-36.0,140-inf,0-0,Body Temperature,Systolic Blood Pressure,0.0
+36.0-37.5,0-90,0-0,Body Temperature,Systolic Blood Pressure,0.0
+36.0-37.5,90-120,0-0,Body Temperature,Systolic Blood Pressure,0.0
+36.0-37.5,120-140,0-0,Body Temperature,Systolic Blood Pressure,0.0
+36.0-37.5,140-inf,0-0,Body Temperature,Systolic Blood Pressure,0.0
+37.5-inf,0-90,0-0,Body Temperature,Systolic Blood Pressure,0.0
+37.5-inf,90-120,0-0,Body Temperature,Systolic Blood Pressure,0.0
+37.5-inf,120-140,0-0,Body Temperature,Systolic Blood Pressure,0.0
+37.5-inf,140-inf,0-0,Body Temperature,Systolic Blood Pressure,0.0

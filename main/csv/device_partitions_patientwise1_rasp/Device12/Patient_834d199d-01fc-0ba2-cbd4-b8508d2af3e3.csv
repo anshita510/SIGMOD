@@ -1,0 +1,13 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2005-11-28,,834d199d-01fc-0ba2-cbd4-b8508d2af3e3,5b4dd98e-34a2-f876-c011-9ca46ef720c1,http://snomed.info/sct,271737000,Anemia (disorder),,,,,
+,,834d199d-01fc-0ba2-cbd4-b8508d2af3e3,b19e2e99-3ee2-bc1f-27ec-d4770806c0fd,,718-7,Hemoglobin [Mass/volume] in Blood,2015-03-22T15:41:29Z,laboratory,17.3,g/dL,numeric
+,,834d199d-01fc-0ba2-cbd4-b8508d2af3e3,b19e2e99-3ee2-bc1f-27ec-d4770806c0fd,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2015-03-22T15:41:29Z,laboratory,5.1,%,numeric
+,,834d199d-01fc-0ba2-cbd4-b8508d2af3e3,b19e2e99-3ee2-bc1f-27ec-d4770806c0fd,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2015-03-22T15:41:29Z,laboratory,0.0,{presence},numeric
+,,834d199d-01fc-0ba2-cbd4-b8508d2af3e3,4b62603f-b7cd-681c-14ce-51a87deaf972,,718-7,Hemoglobin [Mass/volume] in Blood,2015-03-22T21:51:37Z,laboratory,17.6,g/dL,numeric
+,,834d199d-01fc-0ba2-cbd4-b8508d2af3e3,4b62603f-b7cd-681c-14ce-51a87deaf972,,718-7,Hemoglobin [Mass/volume] in Blood,2015-03-23T10:34:49Z,laboratory,17.1,g/dL,numeric
+,,834d199d-01fc-0ba2-cbd4-b8508d2af3e3,4b62603f-b7cd-681c-14ce-51a87deaf972,,718-7,Hemoglobin [Mass/volume] in Blood,2015-03-23T22:34:49Z,laboratory,17.0,g/dL,numeric
+,,834d199d-01fc-0ba2-cbd4-b8508d2af3e3,4b62603f-b7cd-681c-14ce-51a87deaf972,,718-7,Hemoglobin [Mass/volume] in Blood,2015-03-24T12:14:23Z,laboratory,15.4,g/dL,numeric
+,,834d199d-01fc-0ba2-cbd4-b8508d2af3e3,e6351acb-7034-bfc3-c52f-f27b2c7d9a1c,,718-7,Hemoglobin [Mass/volume] in Blood,2018-03-26T13:40:34Z,laboratory,15.8,g/dL,numeric
+,,834d199d-01fc-0ba2-cbd4-b8508d2af3e3,6de84c04-f9ed-403d-78c2-f74148f113ae,,718-7,Hemoglobin [Mass/volume] in Blood,2023-04-24T13:40:34Z,laboratory,16.0,g/dL,numeric
+,,834d199d-01fc-0ba2-cbd4-b8508d2af3e3,87f64bd7-0f6a-8959-c095-10c9ae2cc621,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2024-01-01T13:40:34Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,834d199d-01fc-0ba2-cbd4-b8508d2af3e3,771e6e85-46aa-ccc9-957b-2703a36c6f46,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2024-04-29T13:40:34Z,laboratory,Urine blood test = negative (finding),{nominal},text

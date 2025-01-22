@@ -1,0 +1,526 @@
+DATE,PATIENT,ENCOUNTER,CATEGORY,CODE,DESCRIPTION,VALUE,UNITS,TYPE
+2013-12-12T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,b8acfe38-91db-53db-42b1-71e33ee96985,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.4,mg/dL,numeric
+2013-12-19T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,1b0f05e6-8f9f-4776-53c3-c4cce6a1f23b,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.4,mg/dL,numeric
+2013-12-19T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,1b0f05e6-8f9f-4776-53c3-c4cce6a1f23b,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.4,mg/dL,numeric
+2013-12-26T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,3c810f59-2b8e-2bb2-2004-3d79c96b5d05,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.3,mg/dL,numeric
+2014-01-02T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,76d479f5-370e-3762-8ee4-b65bf7790ec1,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.1,mg/dL,numeric
+2014-01-02T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,76d479f5-370e-3762-8ee4-b65bf7790ec1,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.1,mg/dL,numeric
+2014-01-09T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,243a75ec-46a0-57d3-154f-61bffc40e27d,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.1,mg/dL,numeric
+2014-01-16T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,304452e3-1c18-5626-f16e-9117d3f4005b,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.0,mg/dL,numeric
+2014-01-16T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,304452e3-1c18-5626-f16e-9117d3f4005b,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.0,mg/dL,numeric
+2014-01-23T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,64e27c26-714b-4a7d-09f6-27a0bbf1ff4d,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.0,mg/dL,numeric
+2014-01-30T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,7c779819-34d5-981a-cbd6-736a3fb95943,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.9,mg/dL,numeric
+2014-01-30T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,7c779819-34d5-981a-cbd6-736a3fb95943,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.9,mg/dL,numeric
+2014-02-06T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,e1c41284-a20a-d038-e948-cdb62b7d39cf,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.4,mg/dL,numeric
+2014-02-13T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,2c1bbdd0-b648-0f45-dcdb-283e83d8f9cf,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.3,mg/dL,numeric
+2014-02-13T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,2c1bbdd0-b648-0f45-dcdb-283e83d8f9cf,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.3,mg/dL,numeric
+2014-02-20T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,fa0b5ef6-48b5-a467-eb4e-b278232e46e5,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.0,mg/dL,numeric
+2014-02-27T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,88376118-338b-7b8b-22b8-4c314c3239c5,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.1,mg/dL,numeric
+2014-02-27T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,88376118-338b-7b8b-22b8-4c314c3239c5,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.1,mg/dL,numeric
+2014-03-06T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,4fc9715a-5b6e-55be-234f-363b037a3202,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.1,mg/dL,numeric
+2014-03-13T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,b2771cc7-1b9b-2095-00ab-c5aec2d8fce8,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.9,mg/dL,numeric
+2014-03-13T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,b2771cc7-1b9b-2095-00ab-c5aec2d8fce8,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.9,mg/dL,numeric
+2014-03-20T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,fc2ed6e9-b62d-c65a-b7aa-efddd28b1600,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.3,mg/dL,numeric
+2014-03-27T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,2f7df785-07cd-9f95-7bae-e1562dd33942,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.0,mg/dL,numeric
+2014-03-27T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,2f7df785-07cd-9f95-7bae-e1562dd33942,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.0,mg/dL,numeric
+2014-04-03T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,33f772ca-e2fb-4f7c-5c47-4dd4b03741bf,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.5,mg/dL,numeric
+2014-04-10T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,161b0956-988c-13ef-4056-ce900f60d166,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.8,mg/dL,numeric
+2014-04-10T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,161b0956-988c-13ef-4056-ce900f60d166,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.8,mg/dL,numeric
+2014-04-17T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,0f47ae62-0d57-66ac-ad39-a3e7f315e8d9,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.0,mg/dL,numeric
+2014-04-24T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,03070d5b-5bab-5088-0ebd-e386d5c74eaf,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.2,mg/dL,numeric
+2014-04-24T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,03070d5b-5bab-5088-0ebd-e386d5c74eaf,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.2,mg/dL,numeric
+2014-05-01T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,f960891a-9ec2-d9b8-b72c-8e2aeacad007,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.6,mg/dL,numeric
+2014-05-08T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,fe824053-3e69-546c-0ee6-137e64c84c73,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.4,mg/dL,numeric
+2014-05-08T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,fe824053-3e69-546c-0ee6-137e64c84c73,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.4,mg/dL,numeric
+2014-05-15T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,9be10acb-3ad0-3b21-d044-f87f5dfbb35c,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.6,mg/dL,numeric
+2014-05-22T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ec233f26-c8b8-f8d1-de1e-eebf37580d36,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.0,mg/dL,numeric
+2014-05-22T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ec233f26-c8b8-f8d1-de1e-eebf37580d36,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.0,mg/dL,numeric
+2014-05-29T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,24f8cfc6-7292-035e-222c-dbc56e6fb520,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.9,mg/dL,numeric
+2014-06-05T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,07587606-dab7-b55d-2e4f-fa22007ac6a8,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.7,mg/dL,numeric
+2014-06-05T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,07587606-dab7-b55d-2e4f-fa22007ac6a8,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.7,mg/dL,numeric
+2014-06-12T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,c80e3070-3ea2-c549-a3c1-68d1f7ec624c,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.2,mg/dL,numeric
+2014-06-19T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,dcefdf2f-51f8-09f9-bc47-81c52afe2722,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.8,mg/dL,numeric
+2014-06-19T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,dcefdf2f-51f8-09f9-bc47-81c52afe2722,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.8,mg/dL,numeric
+2014-06-26T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,528f31c8-1b3b-eaab-820e-8734ec7e214c,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.4,mg/dL,numeric
+2014-07-03T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,c74c7e78-3a06-919c-7c18-e5a027e05cab,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.6,mg/dL,numeric
+2014-07-03T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,c74c7e78-3a06-919c-7c18-e5a027e05cab,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.6,mg/dL,numeric
+2014-07-10T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,c4008b49-7397-71ef-1348-2721d3fc850b,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.9,mg/dL,numeric
+2014-07-17T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,e6257d7c-f29f-8363-d405-268036b48c3a,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.3,mg/dL,numeric
+2014-07-17T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,e6257d7c-f29f-8363-d405-268036b48c3a,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.3,mg/dL,numeric
+2014-07-24T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,b4f3f5e1-ab19-3332-1310-a8da4bce8622,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.7,mg/dL,numeric
+2014-07-31T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,a5639dcd-e9cb-27d5-9057-455fad032da8,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.4,mg/dL,numeric
+2014-07-31T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,a5639dcd-e9cb-27d5-9057-455fad032da8,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.4,mg/dL,numeric
+2014-08-07T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,53fba1ff-bf2b-693d-75a5-51c75193a367,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.1,mg/dL,numeric
+2014-08-14T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,c3a6d554-ad9f-33ee-88be-58ac871da7a5,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.5,mg/dL,numeric
+2014-08-14T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,c3a6d554-ad9f-33ee-88be-58ac871da7a5,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.5,mg/dL,numeric
+2014-08-21T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,df0e8b0f-8612-b8b8-32bf-8a7dce076b20,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.4,mg/dL,numeric
+2014-08-28T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,7a49dccf-bc17-7819-6aa3-e3848ccbd5b6,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.5,mg/dL,numeric
+2014-08-28T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,7a49dccf-bc17-7819-6aa3-e3848ccbd5b6,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.5,mg/dL,numeric
+2014-09-04T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,913fa5bb-56c5-0317-c85c-a3525dcf29ed,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.7,mg/dL,numeric
+2014-09-11T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ef9167fa-f6f8-3a42-5f8f-75b212fd5fcd,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.4,mg/dL,numeric
+2014-09-11T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ef9167fa-f6f8-3a42-5f8f-75b212fd5fcd,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.4,mg/dL,numeric
+2014-09-18T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,e24c1041-9e79-5c1b-17a2-99dd044f6e1c,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.3,mg/dL,numeric
+2014-09-25T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,9f4a20c7-45ad-66fb-3ce1-f108bfc1f1be,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.2,mg/dL,numeric
+2014-09-25T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,9f4a20c7-45ad-66fb-3ce1-f108bfc1f1be,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.2,mg/dL,numeric
+2014-10-02T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,0b5cfc3d-c343-2b91-2ef9-af45d0b62205,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.7,mg/dL,numeric
+2014-10-09T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,fc0e24ed-ce1d-d50c-e18b-c51861ae5ec7,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.9,mg/dL,numeric
+2014-10-09T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,fc0e24ed-ce1d-d50c-e18b-c51861ae5ec7,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.9,mg/dL,numeric
+2014-10-16T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,dc2dca5f-0915-8732-a3b9-50996f8ceb74,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.3,mg/dL,numeric
+2014-10-23T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,47f494e0-72f7-4044-2c78-6e3358a8fc5c,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.8,mg/dL,numeric
+2014-10-23T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,47f494e0-72f7-4044-2c78-6e3358a8fc5c,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.8,mg/dL,numeric
+2014-10-30T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,82a02fe5-82e6-5a00-062e-c4c758c9b379,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.6,mg/dL,numeric
+2014-11-06T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d758de06-e525-d338-7324-85420e342116,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.1,mg/dL,numeric
+2014-11-06T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d758de06-e525-d338-7324-85420e342116,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.1,mg/dL,numeric
+2014-11-13T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,5bdc9fdd-9c79-e2e5-8e58-f9b70369db70,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.0,mg/dL,numeric
+2014-11-20T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,f78ea9f9-6440-042e-adab-d28a6cf01a6b,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.6,mg/dL,numeric
+2014-11-20T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,f78ea9f9-6440-042e-adab-d28a6cf01a6b,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.6,mg/dL,numeric
+2014-11-27T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,9df8804f-22b8-e075-2aea-9e9a4afb5faf,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.2,mg/dL,numeric
+2014-12-04T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,5a9ca508-75c5-07d7-2023-6979e9bf9f7d,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.3,mg/dL,numeric
+2014-12-04T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,5a9ca508-75c5-07d7-2023-6979e9bf9f7d,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.3,mg/dL,numeric
+2014-12-11T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,0af8637d-2a31-bae7-2a09-ed6139004930,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.1,mg/dL,numeric
+2014-12-18T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,7ecb17f7-7639-5c01-c21b-88e9b2002ef3,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.0,mg/dL,numeric
+2014-12-18T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,7ecb17f7-7639-5c01-c21b-88e9b2002ef3,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.0,mg/dL,numeric
+2014-12-25T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d77da2c7-d25c-4233-9408-a74d137954a0,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.1,mg/dL,numeric
+2015-01-01T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,479bc6d1-cfdc-abf7-f842-aa3a0b465fee,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.1,mg/dL,numeric
+2015-01-01T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,479bc6d1-cfdc-abf7-f842-aa3a0b465fee,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.1,mg/dL,numeric
+2015-01-08T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,a8cf4075-3e11-9f65-790c-68ea42bcad31,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.0,mg/dL,numeric
+2015-01-15T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,b8833d84-fefb-8362-14c1-d0b6bcc95840,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.0,mg/dL,numeric
+2015-01-15T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,b8833d84-fefb-8362-14c1-d0b6bcc95840,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.0,mg/dL,numeric
+2015-01-22T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,c61e7a73-77e4-b9e2-390a-6860e3cf70f4,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.8,mg/dL,numeric
+2015-01-29T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,b6d70bdc-0cc8-82c7-e68d-12dfd82bd1b6,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.3,mg/dL,numeric
+2015-01-29T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,b6d70bdc-0cc8-82c7-e68d-12dfd82bd1b6,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.3,mg/dL,numeric
+2015-02-05T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,b25c0847-1cad-5694-31ce-daa513b587ec,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.8,mg/dL,numeric
+2015-02-12T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,c8115165-1a35-a48f-8c24-cdce8b1e7336,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.8,mg/dL,numeric
+2015-02-12T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,c8115165-1a35-a48f-8c24-cdce8b1e7336,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.8,mg/dL,numeric
+2015-02-19T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,9ed9bf84-c3fa-6a1c-d465-005df80c3b93,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.5,mg/dL,numeric
+2015-02-26T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,90fb497b-9f8d-8c3c-4bad-79be19b312f0,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.7,mg/dL,numeric
+2015-02-26T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,90fb497b-9f8d-8c3c-4bad-79be19b312f0,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.7,mg/dL,numeric
+2015-03-05T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d2242925-0ef3-2744-98bf-714533327297,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.1,mg/dL,numeric
+2015-03-12T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,a83ee2ac-869b-29b3-2cf2-cefde063138b,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.9,mg/dL,numeric
+2015-03-12T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,a83ee2ac-869b-29b3-2cf2-cefde063138b,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.9,mg/dL,numeric
+2015-03-19T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,aeb1ba52-ac49-903b-a273-8d14ddd37627,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.7,mg/dL,numeric
+2015-03-26T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,f86e86a6-3321-c0ed-522d-9af4b24ccd23,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.8,mg/dL,numeric
+2015-03-26T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,f86e86a6-3321-c0ed-522d-9af4b24ccd23,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.8,mg/dL,numeric
+2015-04-02T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,82fb130f-b72a-c94d-eb3e-5078466e0674,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.0,mg/dL,numeric
+2015-04-09T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,2ab7d31e-a607-12d1-3eb0-a28b762ba34d,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.0,mg/dL,numeric
+2015-04-09T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,2ab7d31e-a607-12d1-3eb0-a28b762ba34d,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.0,mg/dL,numeric
+2015-04-16T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,951c4c4a-4ea1-5d56-167f-d9a8c8a5ab76,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.1,mg/dL,numeric
+2015-04-23T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,c48af6e0-6477-f740-43d7-87bbd4f8a069,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.5,mg/dL,numeric
+2015-04-23T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,c48af6e0-6477-f740-43d7-87bbd4f8a069,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.5,mg/dL,numeric
+2015-04-30T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,dbf09c60-85f2-cfba-8dd3-75d4928409dd,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.0,mg/dL,numeric
+2015-05-07T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,3c22666b-fc7c-1495-53b5-431b6278b259,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.1,mg/dL,numeric
+2015-05-07T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,3c22666b-fc7c-1495-53b5-431b6278b259,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.1,mg/dL,numeric
+2015-05-14T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ef9309b8-de8b-3d58-9741-07004c683104,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.9,mg/dL,numeric
+2015-05-21T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,1b4a641c-96ab-05e4-41a0-b27ed2e8c7bb,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.6,mg/dL,numeric
+2015-05-21T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,1b4a641c-96ab-05e4-41a0-b27ed2e8c7bb,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.6,mg/dL,numeric
+2015-05-28T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,577c2325-1eea-4d0b-5d7e-8d1ec42f79d9,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.9,mg/dL,numeric
+2015-06-04T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,954e85ff-a891-0078-e780-6e9673587610,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.4,mg/dL,numeric
+2015-06-04T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,954e85ff-a891-0078-e780-6e9673587610,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.4,mg/dL,numeric
+2015-06-11T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d5410763-a366-753d-4c78-1b1a36f9e094,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.6,mg/dL,numeric
+2015-06-18T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,06ca4718-5ecc-6bd3-f6ed-2bde4880037f,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.6,mg/dL,numeric
+2015-06-18T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,06ca4718-5ecc-6bd3-f6ed-2bde4880037f,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.6,mg/dL,numeric
+2015-06-25T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,342ca2d5-3568-3b39-53df-b9b63e76a095,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.1,mg/dL,numeric
+2015-07-02T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,8216e6ae-dc37-d386-12ae-4d84235752d9,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.9,mg/dL,numeric
+2015-07-02T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,8216e6ae-dc37-d386-12ae-4d84235752d9,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.9,mg/dL,numeric
+2015-07-09T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,a41af1f3-7720-0ca3-f0c7-c2c4c7d647fb,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.8,mg/dL,numeric
+2015-07-16T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,dd8bf11e-1406-c5cc-1016-8a359e4cc9d2,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.2,mg/dL,numeric
+2015-07-16T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,dd8bf11e-1406-c5cc-1016-8a359e4cc9d2,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.2,mg/dL,numeric
+2015-07-23T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,47e497a8-2937-e0a3-5636-0e5b55592f7c,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.9,mg/dL,numeric
+2015-07-30T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,21a150e2-a198-e8d0-c745-16edabb4afa9,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.6,mg/dL,numeric
+2015-07-30T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,21a150e2-a198-e8d0-c745-16edabb4afa9,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.6,mg/dL,numeric
+2015-08-06T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,4ad45e50-124b-5085-5dbe-713edba28c04,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.9,mg/dL,numeric
+2015-08-13T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,3df23093-0b57-114f-e6eb-a2d30a3aa61b,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.8,mg/dL,numeric
+2015-08-13T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,3df23093-0b57-114f-e6eb-a2d30a3aa61b,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.8,mg/dL,numeric
+2015-08-20T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,7041842d-b190-9c52-38b4-25d538ac7b0e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.9,mg/dL,numeric
+2015-08-27T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,510012d5-9504-60f0-2520-bdd7e8735a5f,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.9,mg/dL,numeric
+2015-08-27T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,510012d5-9504-60f0-2520-bdd7e8735a5f,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.9,mg/dL,numeric
+2015-09-03T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,a0c249b1-7f93-0412-c8ef-fd3d51ebb6be,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.9,mg/dL,numeric
+2015-09-10T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,dc1896b0-55f2-3217-9350-5eff9e6f7959,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.8,mg/dL,numeric
+2015-09-10T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,dc1896b0-55f2-3217-9350-5eff9e6f7959,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.8,mg/dL,numeric
+2015-09-17T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,385b42f8-92fd-a1ed-fff4-78c5a0e8c893,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.2,mg/dL,numeric
+2015-09-24T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,abe4c843-02fd-f6eb-e542-5312587301e6,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.5,mg/dL,numeric
+2015-09-24T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,abe4c843-02fd-f6eb-e542-5312587301e6,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.5,mg/dL,numeric
+2015-10-01T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,8f6efb6c-b92d-3a94-30fa-1902fcd3a685,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.1,mg/dL,numeric
+2015-10-08T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,f79a0bb3-0481-7fd7-bddb-21222b709833,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.6,mg/dL,numeric
+2015-10-08T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,f79a0bb3-0481-7fd7-bddb-21222b709833,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.6,mg/dL,numeric
+2015-10-15T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,307c33f8-92e7-f34c-426f-99b0937055bc,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.7,mg/dL,numeric
+2015-10-22T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,75efd553-427f-cda7-ff0f-4617a5378000,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.9,mg/dL,numeric
+2015-10-22T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,75efd553-427f-cda7-ff0f-4617a5378000,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.9,mg/dL,numeric
+2015-10-29T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,af2a5532-bfce-ac91-7c7b-0504755ca9ea,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.1,mg/dL,numeric
+2015-11-05T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,2e4de131-3257-f5a3-5a63-f4ea9313120b,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.0,mg/dL,numeric
+2015-11-05T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,2e4de131-3257-f5a3-5a63-f4ea9313120b,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.0,mg/dL,numeric
+2015-11-12T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,a7841744-806d-e482-bcc6-8fdb44f0105f,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.6,mg/dL,numeric
+2015-11-19T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,5df660e9-e9d8-a80c-34ab-249aef27739e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.5,mg/dL,numeric
+2015-11-19T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,5df660e9-e9d8-a80c-34ab-249aef27739e,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.5,mg/dL,numeric
+2015-11-26T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,e710cd8e-599c-985b-e17a-d673576ecd56,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.0,mg/dL,numeric
+2015-12-03T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,4d5b587d-acda-48e6-2e07-9c0fd976bdc5,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.6,mg/dL,numeric
+2015-12-03T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,4d5b587d-acda-48e6-2e07-9c0fd976bdc5,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.6,mg/dL,numeric
+2015-12-10T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,236c1c28-f0c1-13bd-4e60-109f5f709b7d,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.1,mg/dL,numeric
+2015-12-17T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ef122bb3-d714-ac8b-c6ab-024e70e6f018,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.5,mg/dL,numeric
+2015-12-17T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ef122bb3-d714-ac8b-c6ab-024e70e6f018,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.5,mg/dL,numeric
+2015-12-24T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,cefe8d6a-928b-73d1-fb92-f7a3ed297866,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.5,mg/dL,numeric
+2015-12-31T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,299fe1b8-23d9-2fa1-e84c-e596d17acffe,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.2,mg/dL,numeric
+2015-12-31T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,299fe1b8-23d9-2fa1-e84c-e596d17acffe,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.2,mg/dL,numeric
+2016-01-07T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,2e29a3b6-d45e-54b8-4224-de9b7b8a3617,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.8,mg/dL,numeric
+2016-01-14T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,6c524c9e-4177-fa26-a0e4-ee191892bb40,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.2,mg/dL,numeric
+2016-01-14T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,6c524c9e-4177-fa26-a0e4-ee191892bb40,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.2,mg/dL,numeric
+2016-01-21T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,6cd1225d-75a3-4969-b8fc-51067df203d2,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.2,mg/dL,numeric
+2016-01-28T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,5f15c4a7-970f-7608-f0ea-f8f6eca9927a,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.1,mg/dL,numeric
+2016-01-28T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,5f15c4a7-970f-7608-f0ea-f8f6eca9927a,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.1,mg/dL,numeric
+2016-02-04T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,16f85465-cea1-06a0-3f6a-0f34acdc7209,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.1,mg/dL,numeric
+2016-02-11T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,a1fec40f-3e10-e286-214d-3f6ec176d854,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.6,mg/dL,numeric
+2016-02-11T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,a1fec40f-3e10-e286-214d-3f6ec176d854,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.6,mg/dL,numeric
+2016-02-18T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,5e742127-7272-b11a-5d74-262cdabb8fe5,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.2,mg/dL,numeric
+2016-02-25T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,114423a2-07e2-58e1-7dfd-5916e0a1024b,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.8,mg/dL,numeric
+2016-02-25T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,114423a2-07e2-58e1-7dfd-5916e0a1024b,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.8,mg/dL,numeric
+2016-03-03T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,0b1f3d24-1acc-a078-0114-f837a6e738f4,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.1,mg/dL,numeric
+2016-03-10T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ad41df0e-0acb-9e05-8ab3-4d6942eb008b,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.8,mg/dL,numeric
+2016-03-10T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ad41df0e-0acb-9e05-8ab3-4d6942eb008b,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.8,mg/dL,numeric
+2016-03-17T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,1f75404b-9258-0365-882a-c0ce656c1290,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.4,mg/dL,numeric
+2016-03-24T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ed5a2f61-eac3-13a0-9250-09cb47e5b974,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.7,mg/dL,numeric
+2016-03-24T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ed5a2f61-eac3-13a0-9250-09cb47e5b974,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.7,mg/dL,numeric
+2016-03-31T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,b601e294-a665-8bbc-7b4f-91bde5a8726a,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.8,mg/dL,numeric
+2016-04-07T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,826b4b15-7f82-2438-5ac1-1eca11f2aed9,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.5,mg/dL,numeric
+2016-04-07T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,826b4b15-7f82-2438-5ac1-1eca11f2aed9,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.5,mg/dL,numeric
+2016-04-14T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,745edcce-a849-d379-2e27-b0d24bb55290,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.4,mg/dL,numeric
+2016-04-21T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,097fb626-fa9b-0320-1eff-13377b538ec5,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.2,mg/dL,numeric
+2016-04-21T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,097fb626-fa9b-0320-1eff-13377b538ec5,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.2,mg/dL,numeric
+2016-04-28T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,6b3e60e6-0655-ba41-cc18-5ac305971898,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.7,mg/dL,numeric
+2016-05-05T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d25b2996-9126-ac09-24d2-d78b7a84fff8,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.0,mg/dL,numeric
+2016-05-05T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d25b2996-9126-ac09-24d2-d78b7a84fff8,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.0,mg/dL,numeric
+2016-05-12T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,111dd44a-f225-caf8-5115-8063649ef3be,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.8,mg/dL,numeric
+2016-05-19T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d9e2cd6b-b0a5-60ae-6290-47a1bda8f622,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.1,mg/dL,numeric
+2016-05-19T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d9e2cd6b-b0a5-60ae-6290-47a1bda8f622,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.1,mg/dL,numeric
+2016-05-26T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,95b9c7e4-7e2e-e646-36e6-e63f0333cc47,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.9,mg/dL,numeric
+2016-06-02T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,28c0bb69-5b20-75cf-cc07-50756f4f8a79,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.6,mg/dL,numeric
+2016-06-02T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,28c0bb69-5b20-75cf-cc07-50756f4f8a79,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.6,mg/dL,numeric
+2016-06-09T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,c30187ce-31f1-2bad-01c3-715cd07ff130,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.7,mg/dL,numeric
+2016-06-16T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,8988d91d-d90d-985b-fe86-bd852973f250,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.8,mg/dL,numeric
+2016-06-16T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,8988d91d-d90d-985b-fe86-bd852973f250,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.8,mg/dL,numeric
+2016-06-23T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,742899ed-1b5e-b385-5380-a9f5e698b9c5,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.5,mg/dL,numeric
+2016-06-30T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,61259244-3d55-d72d-3814-468becf329af,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.6,mg/dL,numeric
+2016-06-30T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,61259244-3d55-d72d-3814-468becf329af,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.6,mg/dL,numeric
+2016-07-07T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,277805e6-6ca5-1ea1-3624-64ec68132908,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.6,mg/dL,numeric
+2016-07-14T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,c1f7c5b8-f100-16e5-5cf5-af5dc61767d6,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.0,mg/dL,numeric
+2016-07-14T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,c1f7c5b8-f100-16e5-5cf5-af5dc61767d6,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.0,mg/dL,numeric
+2016-07-21T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,fd358a77-76b9-e984-04ac-0f02d7de3fad,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.4,mg/dL,numeric
+2016-07-28T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,49dddd6d-e1f5-4200-3087-b1b81cd7bb5f,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.9,mg/dL,numeric
+2016-07-28T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,49dddd6d-e1f5-4200-3087-b1b81cd7bb5f,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.9,mg/dL,numeric
+2016-08-04T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,09a7c381-e659-3608-829a-93f0bcaecd94,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.0,mg/dL,numeric
+2016-08-11T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,5c78ef75-9ab0-3995-abc7-e966a42027df,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.8,mg/dL,numeric
+2016-08-11T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,5c78ef75-9ab0-3995-abc7-e966a42027df,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.8,mg/dL,numeric
+2016-08-18T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,711f1f47-aaf9-942d-80d3-74c62aef41a3,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.2,mg/dL,numeric
+2016-08-25T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d12aa7ef-16e9-c65a-f5bc-f605fe5df41e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.7,mg/dL,numeric
+2016-08-25T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d12aa7ef-16e9-c65a-f5bc-f605fe5df41e,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.7,mg/dL,numeric
+2016-09-01T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,b5692b6c-437b-4696-8a24-ab7a026a51ed,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.9,mg/dL,numeric
+2016-09-08T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,58c8cd67-a9d0-36f9-c091-0d574d5b9cbf,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.0,mg/dL,numeric
+2016-09-08T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,58c8cd67-a9d0-36f9-c091-0d574d5b9cbf,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.0,mg/dL,numeric
+2016-09-15T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,a1adc83a-fdd8-0699-70da-1bb259ff1808,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.5,mg/dL,numeric
+2016-09-22T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d5d2f6b2-496e-7a27-c6b8-6e3291486fa3,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.1,mg/dL,numeric
+2016-09-22T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d5d2f6b2-496e-7a27-c6b8-6e3291486fa3,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.1,mg/dL,numeric
+2016-09-29T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,bbfeb507-e13e-ed65-5df8-3c556a53f1f1,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.5,mg/dL,numeric
+2016-10-06T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,bf8d6725-baf2-6ec2-897f-2b15a3eb88b7,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.7,mg/dL,numeric
+2016-10-06T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,bf8d6725-baf2-6ec2-897f-2b15a3eb88b7,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.7,mg/dL,numeric
+2016-10-13T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,0af5af28-d9cf-1064-9360-611068832f23,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.1,mg/dL,numeric
+2016-10-20T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,bcaa1691-de0a-6a60-aba5-220d3d6fb1a9,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.3,mg/dL,numeric
+2016-10-20T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,bcaa1691-de0a-6a60-aba5-220d3d6fb1a9,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.3,mg/dL,numeric
+2016-10-27T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,31db3e4b-3264-3d36-b5a0-8e2c1b5a57f5,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.1,mg/dL,numeric
+2016-11-03T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,1434d7fe-3bcb-2460-42d0-5f2acf7b8412,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.2,mg/dL,numeric
+2016-11-03T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,1434d7fe-3bcb-2460-42d0-5f2acf7b8412,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.2,mg/dL,numeric
+2016-11-10T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,cbd949d1-a26f-efc2-d5cc-e15f7009da64,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.8,mg/dL,numeric
+2016-11-17T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,bf4cc235-91d6-3b05-d17c-90c85fc80fb2,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.8,mg/dL,numeric
+2016-11-17T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,bf4cc235-91d6-3b05-d17c-90c85fc80fb2,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.8,mg/dL,numeric
+2016-11-24T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,a9c1773f-54a6-4d73-07b5-858764723c23,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.2,mg/dL,numeric
+2016-12-01T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,b6242b73-07e9-aaae-5baf-561a08116f91,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.7,mg/dL,numeric
+2016-12-01T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,b6242b73-07e9-aaae-5baf-561a08116f91,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.7,mg/dL,numeric
+2016-12-08T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,973c9798-3a07-2b54-0346-cc4b341e266b,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.5,mg/dL,numeric
+2016-12-15T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,8d599c44-9cb6-0776-4800-3929faf89dd4,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.6,mg/dL,numeric
+2016-12-15T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,8d599c44-9cb6-0776-4800-3929faf89dd4,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.6,mg/dL,numeric
+2016-12-22T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,59a1148b-5888-00bf-3c6e-1f07ffff33b2,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.4,mg/dL,numeric
+2016-12-29T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,f36914ba-7654-da10-2bd6-255c3e1ee166,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.5,mg/dL,numeric
+2016-12-29T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,f36914ba-7654-da10-2bd6-255c3e1ee166,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.5,mg/dL,numeric
+2017-01-05T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,35d5cfce-493f-16e2-cc30-6622e330b38d,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.2,mg/dL,numeric
+2017-01-12T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,06972f3c-d670-64cb-7751-25e89084be29,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.2,mg/dL,numeric
+2017-01-12T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,06972f3c-d670-64cb-7751-25e89084be29,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.2,mg/dL,numeric
+2017-01-19T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,4cc7f640-1db2-c60a-c7be-20fb79771772,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.8,mg/dL,numeric
+2017-01-26T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,419676e5-52e8-cc65-c38b-6acaf52d81a1,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.0,mg/dL,numeric
+2017-01-26T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,419676e5-52e8-cc65-c38b-6acaf52d81a1,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.0,mg/dL,numeric
+2017-02-02T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d9962812-a8df-fb43-a06d-83f6826356e6,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.6,mg/dL,numeric
+2017-02-09T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,def8d7b2-82aa-215c-c644-ce644f73c8cc,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.7,mg/dL,numeric
+2017-02-09T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,def8d7b2-82aa-215c-c644-ce644f73c8cc,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.7,mg/dL,numeric
+2017-02-16T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,2e79ec4e-b201-b126-13b1-d2e04f116b25,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.8,mg/dL,numeric
+2017-02-23T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,b8734320-4bb2-09ad-7383-dd8f679b2807,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.6,mg/dL,numeric
+2017-02-23T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,b8734320-4bb2-09ad-7383-dd8f679b2807,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.6,mg/dL,numeric
+2017-03-02T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,31923ba6-76df-6cb6-4216-6a1f398b9a48,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.1,mg/dL,numeric
+2017-03-09T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,cfb6d71f-4173-379a-71c6-21a86b0d3692,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.9,mg/dL,numeric
+2017-03-09T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,cfb6d71f-4173-379a-71c6-21a86b0d3692,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.9,mg/dL,numeric
+2017-03-16T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,8216290c-028d-a610-dbde-5b4a34169433,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.9,mg/dL,numeric
+2017-03-23T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,1b85042e-6ea2-5f1a-1055-9f0442b1655d,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.0,mg/dL,numeric
+2017-03-23T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,1b85042e-6ea2-5f1a-1055-9f0442b1655d,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.0,mg/dL,numeric
+2017-03-30T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,6a4c7371-d8e9-fcf9-c886-eb46a26e5ae3,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.9,mg/dL,numeric
+2017-04-06T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,43bd2a81-6fde-5d5f-3292-2693d0e34290,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.6,mg/dL,numeric
+2017-04-06T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,43bd2a81-6fde-5d5f-3292-2693d0e34290,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.6,mg/dL,numeric
+2017-04-13T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d05cdf77-0234-98ad-da03-c4413e074a15,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.0,mg/dL,numeric
+2017-04-20T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,0d02df04-a2c9-c203-dfbd-a9fb6867ca77,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.1,mg/dL,numeric
+2017-04-20T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,0d02df04-a2c9-c203-dfbd-a9fb6867ca77,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.1,mg/dL,numeric
+2017-04-27T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,db306fe7-e1c0-2c20-8f54-1cccb40f0ba1,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.6,mg/dL,numeric
+2017-05-04T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d826101b-6f12-1111-932c-f7d8d9937e7e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.3,mg/dL,numeric
+2017-05-04T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d826101b-6f12-1111-932c-f7d8d9937e7e,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.3,mg/dL,numeric
+2017-05-11T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,19befc3c-c4f4-3930-40e6-d3b66a234b5b,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.7,mg/dL,numeric
+2017-05-18T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,16a80632-f743-add7-16e3-ad545dd41db0,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.1,mg/dL,numeric
+2017-05-18T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,16a80632-f743-add7-16e3-ad545dd41db0,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.1,mg/dL,numeric
+2017-05-25T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,83d21495-5092-c819-d77f-cb4ba9819a56,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.0,mg/dL,numeric
+2017-06-01T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,15e4c634-f7f9-886c-b110-46d72af39928,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.2,mg/dL,numeric
+2017-06-01T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,15e4c634-f7f9-886c-b110-46d72af39928,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.2,mg/dL,numeric
+2017-06-08T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,4e5e6995-175d-f4d2-cbd6-cbf833c84499,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.0,mg/dL,numeric
+2017-06-15T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,8084f67a-b3b2-7212-97c8-d4781f4c581d,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.4,mg/dL,numeric
+2017-06-15T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,8084f67a-b3b2-7212-97c8-d4781f4c581d,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.4,mg/dL,numeric
+2017-06-22T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,58ddb725-334a-a4d3-d355-c62174465bde,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.9,mg/dL,numeric
+2017-06-29T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,7163927f-f4e4-3a67-e030-979e74e8942c,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.7,mg/dL,numeric
+2017-06-29T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,7163927f-f4e4-3a67-e030-979e74e8942c,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.7,mg/dL,numeric
+2017-07-06T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,869b4ac8-2ada-92ee-19f6-deba36d5da19,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.7,mg/dL,numeric
+2017-07-13T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,dd0de382-8b45-48e5-1875-f99c43358b93,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.1,mg/dL,numeric
+2017-07-13T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,dd0de382-8b45-48e5-1875-f99c43358b93,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.1,mg/dL,numeric
+2017-07-20T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,0325c94d-4bbb-b249-045e-5bcac57ca52e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.9,mg/dL,numeric
+2017-07-27T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,76668b38-7d64-fa3c-5565-76653f615d40,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.5,mg/dL,numeric
+2017-07-27T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,76668b38-7d64-fa3c-5565-76653f615d40,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.5,mg/dL,numeric
+2017-08-03T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d23aa0d9-303d-b239-d4d4-7069dc0251bc,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.1,mg/dL,numeric
+2017-08-10T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,54b2a8c8-c878-da40-848a-7b64dba45d50,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.1,mg/dL,numeric
+2017-08-10T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,54b2a8c8-c878-da40-848a-7b64dba45d50,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.1,mg/dL,numeric
+2017-08-17T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,300309a7-262b-31fa-ffdf-a7344c172f95,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.7,mg/dL,numeric
+2017-08-24T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,63225566-8363-89c3-7c8f-23dcbd64724d,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.6,mg/dL,numeric
+2017-08-24T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,63225566-8363-89c3-7c8f-23dcbd64724d,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.6,mg/dL,numeric
+2017-08-31T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,133c579d-1ccb-783a-05bd-d456ca2675d5,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.3,mg/dL,numeric
+2017-09-07T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ec70728b-eeb7-f7a5-54af-163a6bd12a82,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.1,mg/dL,numeric
+2017-09-07T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ec70728b-eeb7-f7a5-54af-163a6bd12a82,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.1,mg/dL,numeric
+2017-09-14T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,f19c3d0b-6d14-208e-8317-26704bbc54cc,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.9,mg/dL,numeric
+2017-09-21T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,8e84da02-91bc-6ca1-9ac9-e4c847525efa,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.6,mg/dL,numeric
+2017-09-21T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,8e84da02-91bc-6ca1-9ac9-e4c847525efa,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.6,mg/dL,numeric
+2017-09-28T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,83ba0588-da19-18b9-7d2f-8800b61bacba,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.8,mg/dL,numeric
+2017-10-05T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,7be5f032-d2ee-7afc-53f7-660158d31774,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.0,mg/dL,numeric
+2017-10-05T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,7be5f032-d2ee-7afc-53f7-660158d31774,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.0,mg/dL,numeric
+2017-10-12T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,911201af-023b-b2c7-8628-2b959017efa9,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.5,mg/dL,numeric
+2017-10-19T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,6ba11fed-fce0-1031-133e-c00e33adce59,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.9,mg/dL,numeric
+2017-10-19T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,6ba11fed-fce0-1031-133e-c00e33adce59,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.9,mg/dL,numeric
+2017-10-26T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,22e9e887-19cb-25d7-2965-76b981168d54,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.1,mg/dL,numeric
+2017-11-02T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,e73042d5-8f4c-dc4c-a500-88ef03bf796e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.7,mg/dL,numeric
+2017-11-02T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,e73042d5-8f4c-dc4c-a500-88ef03bf796e,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.7,mg/dL,numeric
+2017-11-09T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,13de769d-b284-86d3-11df-0c0d958b6dc0,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.7,mg/dL,numeric
+2017-11-16T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,3bc7335b-ee75-f909-232e-82945e3c3259,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.8,mg/dL,numeric
+2017-11-16T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,3bc7335b-ee75-f909-232e-82945e3c3259,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.8,mg/dL,numeric
+2017-11-23T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,6c93aeb0-be84-b8d0-22cf-b41271af5387,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.0,mg/dL,numeric
+2017-11-30T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,a8dd2a92-80ed-02a0-c3b3-383a6fa89c73,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.7,mg/dL,numeric
+2017-11-30T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,a8dd2a92-80ed-02a0-c3b3-383a6fa89c73,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.7,mg/dL,numeric
+2017-12-07T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,a2e54c97-dd1e-f3c7-19f0-f9b7f2bb107c,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.0,mg/dL,numeric
+2017-12-14T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,4269f24a-9234-fcfd-48f4-0ba7aa120d3d,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.1,mg/dL,numeric
+2017-12-14T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,4269f24a-9234-fcfd-48f4-0ba7aa120d3d,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.1,mg/dL,numeric
+2017-12-21T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,272d7428-b387-a175-f270-bd015297d768,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.0,mg/dL,numeric
+2017-12-28T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,7b3e91e3-06e5-aa70-8aee-da7217e119f2,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.6,mg/dL,numeric
+2017-12-28T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,7b3e91e3-06e5-aa70-8aee-da7217e119f2,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.6,mg/dL,numeric
+2018-01-04T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ded9fb1f-78b1-3de9-4bd8-bdc75a98eb65,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.6,mg/dL,numeric
+2018-01-11T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,a7a3cf5c-9465-12f3-7e69-94e15a2c692f,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.2,mg/dL,numeric
+2018-01-11T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,a7a3cf5c-9465-12f3-7e69-94e15a2c692f,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.2,mg/dL,numeric
+2018-01-18T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,290ca324-f2c3-7fd3-5f90-597f590c0d9e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.0,mg/dL,numeric
+2018-01-25T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,dcf60ed2-b091-9614-af46-9081f2f74afd,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.5,mg/dL,numeric
+2018-01-25T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,dcf60ed2-b091-9614-af46-9081f2f74afd,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.5,mg/dL,numeric
+2018-02-01T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,eb1f23db-df80-6736-71a4-236eb84da760,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.0,mg/dL,numeric
+2018-02-08T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,c1528dd7-55d1-76cb-7780-6b34d4595f8a,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.5,mg/dL,numeric
+2018-02-08T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,c1528dd7-55d1-76cb-7780-6b34d4595f8a,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.5,mg/dL,numeric
+2018-02-15T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,873d3cf6-5a46-b374-ee5e-38060fa3c31b,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.4,mg/dL,numeric
+2018-02-22T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,b2c82cab-f635-43e4-7925-3f89b1719524,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.3,mg/dL,numeric
+2018-02-22T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,b2c82cab-f635-43e4-7925-3f89b1719524,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.3,mg/dL,numeric
+2018-03-01T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,34c830f6-b773-48fd-c90c-63e9d5065226,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.3,mg/dL,numeric
+2018-03-08T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,85423535-eba5-4527-c9cc-a3c2909f6568,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.9,mg/dL,numeric
+2018-03-08T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,85423535-eba5-4527-c9cc-a3c2909f6568,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.9,mg/dL,numeric
+2018-03-15T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,81eb0ce7-f643-4092-0e02-e9601834ef5f,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.9,mg/dL,numeric
+2018-03-22T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,e3261f33-3f1b-8844-5d16-723d7a4efb9e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.5,mg/dL,numeric
+2018-03-22T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,e3261f33-3f1b-8844-5d16-723d7a4efb9e,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.5,mg/dL,numeric
+2018-03-29T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,721405ab-1fe4-9fd6-7d4d-27ed73cf68f2,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.9,mg/dL,numeric
+2018-04-05T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,1a588788-734b-40d9-0139-8d0d5df80462,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.0,mg/dL,numeric
+2018-04-05T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,1a588788-734b-40d9-0139-8d0d5df80462,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.0,mg/dL,numeric
+2018-04-12T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d8784ea4-a7f7-550b-856d-3ddc9ef30720,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.5,mg/dL,numeric
+2018-04-19T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ab733b33-5147-a71d-d2d6-f8d15f0a92b2,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.3,mg/dL,numeric
+2018-04-19T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ab733b33-5147-a71d-d2d6-f8d15f0a92b2,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.3,mg/dL,numeric
+2018-04-26T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,dee5e9d0-0bce-68ad-541c-406699aeb2b2,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.9,mg/dL,numeric
+2018-05-03T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d79b648b-1a3d-c7b9-e312-6b353f6be1d1,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.1,mg/dL,numeric
+2018-05-03T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d79b648b-1a3d-c7b9-e312-6b353f6be1d1,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.1,mg/dL,numeric
+2018-05-10T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,0997b799-e7a4-31de-59c9-20f04aa85ca7,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.0,mg/dL,numeric
+2018-05-17T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,4f0f04c2-0103-bd46-e73e-84c75782ffc6,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.1,mg/dL,numeric
+2018-05-17T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,4f0f04c2-0103-bd46-e73e-84c75782ffc6,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.1,mg/dL,numeric
+2018-05-24T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ae17e183-0689-bc38-59a5-08177241a3a3,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.0,mg/dL,numeric
+2018-05-31T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,21596fa3-2421-c950-8624-d546b249c7fa,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.4,mg/dL,numeric
+2018-05-31T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,21596fa3-2421-c950-8624-d546b249c7fa,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.4,mg/dL,numeric
+2018-06-07T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,91b3abae-05f1-35af-734e-744f2dc2abd5,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.9,mg/dL,numeric
+2018-06-14T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,404f9cec-48a3-df4d-bd9d-4d32e1a01033,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.9,mg/dL,numeric
+2018-06-14T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,404f9cec-48a3-df4d-bd9d-4d32e1a01033,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.9,mg/dL,numeric
+2018-06-21T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d8f7ca16-cb27-49f6-5e12-5d9345b1d94e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.6,mg/dL,numeric
+2018-06-28T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,a8f107a0-682c-343f-7db9-2534d3223f38,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.9,mg/dL,numeric
+2018-06-28T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,a8f107a0-682c-343f-7db9-2534d3223f38,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.9,mg/dL,numeric
+2018-07-05T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,2387a7db-c9a0-538c-e780-eca306569815,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.8,mg/dL,numeric
+2018-07-12T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,306827c4-b8b2-aed6-35ce-2d362062053e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.6,mg/dL,numeric
+2018-07-12T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,306827c4-b8b2-aed6-35ce-2d362062053e,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.6,mg/dL,numeric
+2018-07-19T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,719af8df-78b1-7834-618d-731662ac44e2,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.8,mg/dL,numeric
+2018-07-26T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,978cc6d2-805b-ef42-f780-bbffb4b4d75f,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.2,mg/dL,numeric
+2018-07-26T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,978cc6d2-805b-ef42-f780-bbffb4b4d75f,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.2,mg/dL,numeric
+2018-08-02T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,f8c57f0a-20b2-95d7-e79f-9184f4ad373a,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.0,mg/dL,numeric
+2018-08-09T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ed4057a5-ca85-178e-c595-9be115ebd92a,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.8,mg/dL,numeric
+2018-08-09T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ed4057a5-ca85-178e-c595-9be115ebd92a,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.8,mg/dL,numeric
+2018-08-16T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,7162870e-9cf2-2b72-4a88-f01d050918d3,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.6,mg/dL,numeric
+2018-08-23T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,e05c01e1-4a43-5157-e45c-a9a626b4868c,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.0,mg/dL,numeric
+2018-08-23T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,e05c01e1-4a43-5157-e45c-a9a626b4868c,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.0,mg/dL,numeric
+2018-08-30T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,700e43f9-243c-7386-2772-11b026d2cdc7,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.6,mg/dL,numeric
+2018-09-06T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,4d67c437-9e3b-8c14-2cb0-e74f4ba630a9,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.3,mg/dL,numeric
+2018-09-06T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,4d67c437-9e3b-8c14-2cb0-e74f4ba630a9,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.3,mg/dL,numeric
+2018-09-13T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,5a652a79-524b-1d5c-dba0-10d3856a667e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.0,mg/dL,numeric
+2018-09-20T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,c9742d45-6402-2f56-51b3-11105a0d24c9,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.9,mg/dL,numeric
+2018-09-20T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,c9742d45-6402-2f56-51b3-11105a0d24c9,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.9,mg/dL,numeric
+2018-09-27T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,8918eb1b-0cdb-f679-c8b2-2ecb2dd70ff5,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.1,mg/dL,numeric
+2018-10-04T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d54ed9a4-1112-8d16-bf3e-bb096eee98a3,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.8,mg/dL,numeric
+2018-10-04T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d54ed9a4-1112-8d16-bf3e-bb096eee98a3,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.8,mg/dL,numeric
+2018-10-11T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,07f4be00-4880-7363-d530-09c8e0369980,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.2,mg/dL,numeric
+2018-10-18T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,bd49c522-62e2-41b5-aeda-da5d9ed7c207,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.5,mg/dL,numeric
+2018-10-18T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,bd49c522-62e2-41b5-aeda-da5d9ed7c207,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.5,mg/dL,numeric
+2018-10-25T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ea037826-4f54-c7a7-3c0d-ba97c5f9ad8e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.9,mg/dL,numeric
+2018-11-01T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,3c8ffb5a-1df6-759f-385c-a4ee9ad5a0fd,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.7,mg/dL,numeric
+2018-11-01T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,3c8ffb5a-1df6-759f-385c-a4ee9ad5a0fd,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.7,mg/dL,numeric
+2018-11-08T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,1225c7ad-d8dc-f74c-da4d-40c0ea329bbd,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.8,mg/dL,numeric
+2018-11-15T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,e306e861-4e66-b2c8-79ff-2a93492df912,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.9,mg/dL,numeric
+2018-11-15T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,e306e861-4e66-b2c8-79ff-2a93492df912,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.9,mg/dL,numeric
+2018-11-22T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,8677d230-da8f-2c16-85ff-538a4c520e07,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.9,mg/dL,numeric
+2018-11-29T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,23c47b48-2c75-02e6-e6d0-0548a7b54c50,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.2,mg/dL,numeric
+2018-11-29T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,23c47b48-2c75-02e6-e6d0-0548a7b54c50,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.2,mg/dL,numeric
+2018-12-06T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,92f3c805-a060-1177-aaa3-fbef1149c454,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.8,mg/dL,numeric
+2018-12-13T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,bc111023-c15e-5d4f-a1a2-2c5a895bab28,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.0,mg/dL,numeric
+2018-12-13T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,bc111023-c15e-5d4f-a1a2-2c5a895bab28,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.0,mg/dL,numeric
+2018-12-20T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,2e438b35-9230-8a47-8acd-b87cfd7f5f5c,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.6,mg/dL,numeric
+2018-12-27T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,4454220b-7d31-0c9a-8dfd-202e5ca369ec,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.1,mg/dL,numeric
+2018-12-27T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,4454220b-7d31-0c9a-8dfd-202e5ca369ec,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.1,mg/dL,numeric
+2019-01-03T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,66c65456-e002-4d4d-30ed-7e40b5402024,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,10.1,mg/dL,numeric
+2019-01-10T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,9574c814-8f36-a561-9d12-aba35b91b038,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.9,mg/dL,numeric
+2019-01-24T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,277b1671-7d17-600f-e760-cd7f7d60783e,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.7,mg/dL,numeric
+2019-02-07T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,2c2cfb79-eac7-3031-816a-52c2084ca546,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.5,mg/dL,numeric
+2019-02-21T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,af9532b2-c557-0cf4-ee5a-7d512f716a91,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.0,mg/dL,numeric
+2019-03-07T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,4ccc2695-097a-7b96-23e0-a2eb11cc07a9,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.3,mg/dL,numeric
+2019-03-21T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,8df0075e-8aec-964d-3778-4ddb498c8ee9,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.0,mg/dL,numeric
+2019-04-04T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,0778318d-70dd-9056-3cb8-61119c943e8e,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.9,mg/dL,numeric
+2019-04-18T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,fcf38ed2-8280-9c56-2467-ed52394cdfa6,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.1,mg/dL,numeric
+2019-05-02T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,36883683-53dc-419f-fce6-0455c5b9ff04,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.4,mg/dL,numeric
+2019-05-16T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,9dc58533-13c7-2461-5d2e-1eb849d5e471,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.5,mg/dL,numeric
+2019-05-30T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,a02a28f8-083e-a5f5-2469-6f4c0cf5e60c,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.4,mg/dL,numeric
+2019-06-13T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,88710390-5080-4d18-b0ba-5151fe9e2242,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.5,mg/dL,numeric
+2019-06-27T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,413609d3-a77f-cf8d-97ff-7f8c819451c4,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.0,mg/dL,numeric
+2019-07-11T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,034e204a-2033-f9e0-6f63-ff8fb8bf37df,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.9,mg/dL,numeric
+2019-07-25T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,4ae09b51-650a-cc20-1cea-7c57a15e0e9f,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.9,mg/dL,numeric
+2019-08-08T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,72098d8d-33ef-c877-74e7-ffea7c0976b3,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.4,mg/dL,numeric
+2019-08-22T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,af2d25ee-204e-bec2-ef55-691636ef422d,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.2,mg/dL,numeric
+2019-09-05T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,a7733858-0799-13f3-7e0f-451f04a877ed,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.6,mg/dL,numeric
+2019-09-19T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,b27a1fe2-8611-26cc-32dc-ec6e2ff5cec6,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.7,mg/dL,numeric
+2019-10-03T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,0f9c1e6c-cc73-2fa6-08a9-8c5e008b305b,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.9,mg/dL,numeric
+2019-10-17T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,e0d8daac-3fa0-088e-fbb2-fb43410f519e,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.7,mg/dL,numeric
+2019-10-31T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ce485803-aac6-c77b-fe04-1e2c088e176c,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.5,mg/dL,numeric
+2019-11-14T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,1a37ab26-d539-f763-8acc-2e837de91501,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.4,mg/dL,numeric
+2019-11-28T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,e31f24cb-eed8-4b61-b7b5-b1be67e12836,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.2,mg/dL,numeric
+2019-12-12T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,78121279-5c8c-3dad-526b-ed00a5eee280,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.1,mg/dL,numeric
+2019-12-26T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,1200cdd8-20ad-f246-8161-b71ec7bcbc78,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.2,mg/dL,numeric
+2020-01-09T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,a8f2a44b-f777-1422-37b2-e3f9870c166d,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.7,mg/dL,numeric
+2020-01-23T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,e5cb2d9b-7ae7-e63d-64b1-75ce0458a2f9,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.2,mg/dL,numeric
+2020-02-06T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,408e4fce-63a2-259a-832d-ab11a5c3b890,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.5,mg/dL,numeric
+2020-02-20T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,929802d3-f903-0535-70de-22c50dabc3e8,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.0,mg/dL,numeric
+2020-03-05T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,5028b32f-3dae-3b24-34e1-54317f83ad33,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.6,mg/dL,numeric
+2020-03-19T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,553438ee-7c9b-903a-e883-3cfa97484832,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.5,mg/dL,numeric
+2020-04-02T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d6ce4e1f-186f-4156-f1d5-a503a87b4f59,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.1,mg/dL,numeric
+2020-04-16T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,6b62cf8b-aa3e-74e7-ee2b-d23c7e66c466,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.8,mg/dL,numeric
+2020-04-30T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ecd478dd-32d5-eac9-ecfc-edc5733b688c,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.0,mg/dL,numeric
+2020-05-14T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,8264b5bd-a478-5fe0-3f40-b01231bc24d3,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.6,mg/dL,numeric
+2020-05-28T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,3bee2a2b-f6e2-5b44-6a27-84dfaa9d23e5,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.2,mg/dL,numeric
+2020-06-11T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,b7dadd5e-1e7f-4722-c154-f837046217e0,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.8,mg/dL,numeric
+2020-06-25T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,9cca168b-5817-a51d-2c41-0be109f579cb,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.8,mg/dL,numeric
+2020-07-09T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,a7c6ee69-4f31-2299-8206-f73534af84a6,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.7,mg/dL,numeric
+2020-07-23T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,6898b94e-94a2-62c3-5849-d993ce4473ce,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.7,mg/dL,numeric
+2020-08-06T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,3188a743-943f-0b2a-acc6-2ee9add5d15a,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.5,mg/dL,numeric
+2020-08-20T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,dbcba954-35ab-984f-d718-a6537e65c740,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.9,mg/dL,numeric
+2020-09-03T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,fe2ee106-0cff-d533-e161-da35f2651cee,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.1,mg/dL,numeric
+2020-09-17T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,8fb92095-2108-b386-ab43-e199f9641596,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.9,mg/dL,numeric
+2020-10-01T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,5cc869bb-3705-914b-6838-6de646ef6c3b,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.1,mg/dL,numeric
+2020-10-15T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,8543281b-3eac-7672-fc9c-1788c58ec717,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.1,mg/dL,numeric
+2020-10-29T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,b3b50c32-421f-c270-4711-f074972b0d5e,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.1,mg/dL,numeric
+2020-11-12T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,4cab3325-6420-98d5-6178-f777fccf4b1c,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.8,mg/dL,numeric
+2020-11-26T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,00afff76-c6d3-f832-7bdb-f512dd0adcf1,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.0,mg/dL,numeric
+2020-12-10T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,71da3b12-9cad-7c0f-aba4-bbdab62431f9,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.8,mg/dL,numeric
+2020-12-24T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,bbc87537-2546-7e59-d059-eb13c6ae5c6b,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.9,mg/dL,numeric
+2021-01-07T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,f87f4127-4618-b606-c94a-b54b8bb29302,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.5,mg/dL,numeric
+2021-01-21T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,f96b73d4-b875-6961-90d5-45d3f782f7d2,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.2,mg/dL,numeric
+2021-02-04T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,3afef484-06dd-44f4-849c-65ecae131f23,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.3,mg/dL,numeric
+2021-02-18T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,e9eeaf51-4545-cb15-9cc4-96bc5b2183db,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.1,mg/dL,numeric
+2021-03-04T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d0213dfd-f66c-6425-4253-71aa536e28b1,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.5,mg/dL,numeric
+2021-03-18T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,4fa47784-a66e-a7c5-c671-a47170a4c544,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.4,mg/dL,numeric
+2021-04-01T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,01a7d00c-9bb5-2556-932b-cafe8880e47d,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.3,mg/dL,numeric
+2021-04-15T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,13ff25fa-8324-c752-e506-a9e6ba1c861c,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.9,mg/dL,numeric
+2021-04-29T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,390945d4-82c2-cf95-0883-bfeb4dc1eec0,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.4,mg/dL,numeric
+2021-05-13T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,9f357af4-6811-e292-52e6-4a45595b4680,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.2,mg/dL,numeric
+2021-05-27T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,89922616-f8f3-6934-94da-311d6cb9fd7a,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.0,mg/dL,numeric
+2021-06-10T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,dcb379ea-5115-76e6-0bd2-83c469338571,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.7,mg/dL,numeric
+2021-06-24T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,9a4a69ed-5fcd-3fe2-d289-4740fe861f75,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.0,mg/dL,numeric
+2021-07-08T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,49b07f99-e913-ae24-d77e-3725bc394fbd,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.5,mg/dL,numeric
+2021-07-22T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,a8e67496-adc2-3193-c56c-257f30beff38,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.0,mg/dL,numeric
+2021-08-05T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,b8f74dce-1cc4-53c1-a8c1-a5fe2ff9b4be,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.3,mg/dL,numeric
+2021-08-19T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,db545d84-5796-f391-f750-229cd7e8dbdc,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.5,mg/dL,numeric
+2021-09-02T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,c4f4eb1f-b7c6-f68e-f5b1-2c7ec82a28f0,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.4,mg/dL,numeric
+2021-09-16T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,9b234d79-d59b-86d8-bfff-2895a546afd6,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.8,mg/dL,numeric
+2021-09-30T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,df541a19-f3e8-47b3-75d6-2f0fcc008167,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.6,mg/dL,numeric
+2021-10-14T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,15b1edeb-f2d3-81ff-4543-7cbefb32d9e0,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.9,mg/dL,numeric
+2021-10-28T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,4f9c2422-42bd-a4c8-15d8-378e1687af32,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.5,mg/dL,numeric
+2021-11-11T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,5604964d-cc2f-7592-2ce7-f4992599a021,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.9,mg/dL,numeric
+2021-11-25T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ebda945b-7997-8689-a4ec-482f7613874c,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.3,mg/dL,numeric
+2021-12-09T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,df9d5d50-8a3a-5d9a-7abc-fa05867f9554,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.5,mg/dL,numeric
+2021-12-23T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,3632c97a-a92e-25b6-88ca-2651e1d7286a,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.7,mg/dL,numeric
+2022-01-06T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,35a7612d-22c6-7c97-76b9-bcd84f9d9dcc,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.0,mg/dL,numeric
+2022-01-20T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,5398d9f6-3e3b-0ddb-86d2-03ed3be3c88e,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.6,mg/dL,numeric
+2022-02-03T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ba6e6773-8d6e-73c2-a978-64eeded1c435,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.9,mg/dL,numeric
+2022-02-17T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,79d90c0d-9e05-4ce7-4ffc-fb82a2d18062,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.5,mg/dL,numeric
+2022-03-03T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,b9854470-0642-db82-1972-1a026a9d5441,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.1,mg/dL,numeric
+2022-03-17T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,cf0f0ff9-0644-66bd-ec3b-e872d9c66c49,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.8,mg/dL,numeric
+2022-03-31T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,33682de6-26ea-8bd8-4203-3ac18f139ce3,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.7,mg/dL,numeric
+2022-04-14T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,c20ada75-064b-32a7-098d-5e4f55b81f4a,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.2,mg/dL,numeric
+2022-04-28T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,c2cadc52-e776-b844-e7d9-d73239ef7af2,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.9,mg/dL,numeric
+2022-05-12T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,133c277a-e570-b725-36d0-e9ee9b2ead7d,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.4,mg/dL,numeric
+2022-05-26T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,97fe8f95-5531-6096-463f-f007abaea3f1,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.2,mg/dL,numeric
+2022-06-09T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d28dedfa-a6ab-8f08-5bc2-a6575f9d1e20,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.8,mg/dL,numeric
+2022-06-23T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,c4db77f8-a1e8-f3c1-1e76-0b1f343a601e,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.5,mg/dL,numeric
+2022-07-07T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ed934b6c-9cef-3456-d51f-83661e8bd40f,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.6,mg/dL,numeric
+2022-07-21T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,242c22aa-0797-6818-80a3-09a254763925,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.1,mg/dL,numeric
+2022-08-04T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,04714f47-26ad-25fa-efbd-cc1eac7a5776,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.6,mg/dL,numeric
+2022-08-18T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,40155bb3-732a-27c4-5f93-f4ab5f0777d3,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.4,mg/dL,numeric
+2022-09-01T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d2f3f405-f442-ad61-a19a-a5784c2fa627,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.7,mg/dL,numeric
+2022-09-15T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,ecce819b-8527-8c7a-1c67-8493cfe5da0d,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.0,mg/dL,numeric
+2022-09-29T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,e5de7a36-4fd0-d3b1-72ce-262198e79074,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.2,mg/dL,numeric
+2022-10-13T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,3365ab9b-c518-875d-17c8-9169f2ae6756,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.3,mg/dL,numeric
+2022-10-27T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,1c3632d2-253e-a435-5b76-f2a6a135730c,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.8,mg/dL,numeric
+2022-11-10T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,a5bebf71-c9d9-da8b-d426-338d3ef00cd1,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.7,mg/dL,numeric
+2022-11-24T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,49de9a1e-16b4-9918-6785-2da6fe3e1f78,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.2,mg/dL,numeric
+2022-12-08T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,10874f77-b62d-e132-ba71-e0c0dc5a2b3d,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.3,mg/dL,numeric
+2022-12-22T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,c7c5e131-9f58-8d23-82ff-f7c35af6703f,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.3,mg/dL,numeric
+2023-01-05T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,67638370-a26f-2b40-e8f2-7404c98b1f22,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.4,mg/dL,numeric
+2023-01-19T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,6c96b221-d45b-c0f5-26c0-06fc6d2339dc,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.6,mg/dL,numeric
+2023-02-02T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,722ade5c-99e8-9d99-05d7-990b9a60b1a8,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.7,mg/dL,numeric
+2023-02-16T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,266aaf34-9d0c-c980-3410-5db572b2f6b3,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.7,mg/dL,numeric
+2023-03-02T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,0b0e5b34-5bd8-edda-9271-83a94a6be01b,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.0,mg/dL,numeric
+2023-03-16T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,3c185a4d-41e3-42b0-916f-15067d14ef65,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.7,mg/dL,numeric
+2023-03-30T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,2d6e21fa-76bb-df14-ee28-91cddad41e45,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.3,mg/dL,numeric
+2023-04-13T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,9c21e7a3-25bd-32aa-9890-d38ff5caf23c,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.3,mg/dL,numeric
+2023-04-27T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,830686af-4150-5532-1c56-71a8b2ab9a35,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.2,mg/dL,numeric
+2023-05-11T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d5169d07-2bbe-9c7d-bda7-9e43a0586e94,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.2,mg/dL,numeric
+2023-05-25T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,4c30dcb8-d0d1-aaea-6a42-6c826fd0310d,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.0,mg/dL,numeric
+2023-06-08T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,04b65863-d1fd-c7de-c9a2-c10732cb8aeb,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.6,mg/dL,numeric
+2023-06-22T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,b8f845b2-f058-eb67-e01b-afdce855c583,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.9,mg/dL,numeric
+2023-07-06T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,69646c88-afe5-1969-e13d-ee55083a5d0f,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.8,mg/dL,numeric
+2023-07-20T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,d026718e-395b-1757-4b7c-b5c1a15fdbfd,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.1,mg/dL,numeric
+2023-08-03T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,5180b93d-5173-0611-d86b-9f32d5b408e2,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.4,mg/dL,numeric
+2023-08-17T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,66f1dec2-2ede-caaa-777c-8e00ba21c198,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.7,mg/dL,numeric
+2023-08-31T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,b7d88b32-e42c-ed44-ab23-7f32469ca525,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.1,mg/dL,numeric
+2023-09-14T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,717ad4bc-d879-dd17-c3b1-badf35c0a784,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.9,mg/dL,numeric
+2023-09-28T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,4ceeb399-dbab-b075-0270-5dec5fd01dd5,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.1,mg/dL,numeric
+2023-10-12T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,54228994-40a0-c01f-db09-3479ceca8dcc,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.8,mg/dL,numeric
+2023-10-26T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,5467a70e-97c1-282f-65cb-d5a9bc5e5b9b,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.0,mg/dL,numeric
+2023-11-09T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,fda00e2e-5236-5868-42fc-dfc61cc95fb9,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.6,mg/dL,numeric
+2023-11-23T17:18:46Z,23df7a8c-cbe9-9f51-09c1-d9c6a9c9e111,c56f1c02-9bf6-4f56-f82d-c5e04d8f9501,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.6,mg/dL,numeric

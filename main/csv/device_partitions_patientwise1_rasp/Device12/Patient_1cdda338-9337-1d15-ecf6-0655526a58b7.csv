@@ -1,0 +1,4 @@
+DATE,PATIENT,ENCOUNTER,CATEGORY,CODE,DESCRIPTION,VALUE,UNITS,TYPE
+2017-11-11T03:36:48Z,1cdda338-9337-1d15-ecf6-0655526a58b7,64190035-2a82-4e25-d932-b669f5d74c13,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,12.0,g/dL,numeric
+2018-09-21T05:30:08Z,1cdda338-9337-1d15-ecf6-0655526a58b7,e401e54c-a92b-cfc5-b6c3-ea1f552e1655,laboratory,5794-3,Hemoglobin [Presence] in Urine by Test strip,Urine blood test = + (finding),{nominal},text
+2023-12-02T03:36:48Z,1cdda338-9337-1d15-ecf6-0655526a58b7,fc7314ef-562b-f4c7-a7ad-471e55ec43e9,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,17.1,g/dL,numeric

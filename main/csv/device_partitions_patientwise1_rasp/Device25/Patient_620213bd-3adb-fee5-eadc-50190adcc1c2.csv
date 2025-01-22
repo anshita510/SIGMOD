@@ -1,0 +1,22 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2020-09-15,2020-09-27,620213bd-3adb-fee5-eadc-50190adcc1c2,185764e5-f3cb-1682-10d5-23ffd9290155,http://snomed.info/sct,56018004,Wheezing (finding),,,,,
+2020-09-15,2020-09-27,620213bd-3adb-fee5-eadc-50190adcc1c2,d2f8ee51-1058-805f-56ce-01a44be97d85,http://snomed.info/sct,233604007,Pneumonia (disorder),,,,,
+,,620213bd-3adb-fee5-eadc-50190adcc1c2,954d74ea-7b62-4a0c-a586-6717d384c8fe,,9279-1,Respiratory rate,2015-09-28T08:39:40Z,vital-signs,16.0,/min,numeric
+,,620213bd-3adb-fee5-eadc-50190adcc1c2,1f2715ad-a741-701e-5a16-d4c0335b9eec,,9279-1,Respiratory rate,2018-10-01T08:39:40Z,vital-signs,13.0,/min,numeric
+,,620213bd-3adb-fee5-eadc-50190adcc1c2,185764e5-f3cb-1682-10d5-23ffd9290155,,9279-1,Respiratory rate,2020-09-15T08:39:40Z,vital-signs,35.8,/min,numeric
+,,620213bd-3adb-fee5-eadc-50190adcc1c2,d2f8ee51-1058-805f-56ce-01a44be97d85,,9279-1,Respiratory rate,2020-09-15T09:44:51Z,vital-signs,21.7,/min,numeric
+,,620213bd-3adb-fee5-eadc-50190adcc1c2,d2f8ee51-1058-805f-56ce-01a44be97d85,,9279-1,Respiratory rate,2020-09-16T09:44:51Z,vital-signs,35.2,/min,numeric
+,,620213bd-3adb-fee5-eadc-50190adcc1c2,d2f8ee51-1058-805f-56ce-01a44be97d85,,9279-1,Respiratory rate,2020-09-17T09:44:51Z,vital-signs,12.8,/min,numeric
+,,620213bd-3adb-fee5-eadc-50190adcc1c2,d2f8ee51-1058-805f-56ce-01a44be97d85,,9279-1,Respiratory rate,2020-09-18T09:44:51Z,vital-signs,21.9,/min,numeric
+,,620213bd-3adb-fee5-eadc-50190adcc1c2,d2f8ee51-1058-805f-56ce-01a44be97d85,,9279-1,Respiratory rate,2020-09-19T09:44:51Z,vital-signs,35.4,/min,numeric
+,,620213bd-3adb-fee5-eadc-50190adcc1c2,d2f8ee51-1058-805f-56ce-01a44be97d85,,9279-1,Respiratory rate,2020-09-20T09:44:51Z,vital-signs,21.1,/min,numeric
+,,620213bd-3adb-fee5-eadc-50190adcc1c2,d2f8ee51-1058-805f-56ce-01a44be97d85,,9279-1,Respiratory rate,2020-09-21T09:44:51Z,vital-signs,31.1,/min,numeric
+,,620213bd-3adb-fee5-eadc-50190adcc1c2,d2f8ee51-1058-805f-56ce-01a44be97d85,,9279-1,Respiratory rate,2020-09-22T09:44:51Z,vital-signs,16.2,/min,numeric
+,,620213bd-3adb-fee5-eadc-50190adcc1c2,d2f8ee51-1058-805f-56ce-01a44be97d85,,9279-1,Respiratory rate,2020-09-23T09:44:51Z,vital-signs,15.3,/min,numeric
+,,620213bd-3adb-fee5-eadc-50190adcc1c2,d2f8ee51-1058-805f-56ce-01a44be97d85,,9279-1,Respiratory rate,2020-09-24T09:44:51Z,vital-signs,33.4,/min,numeric
+,,620213bd-3adb-fee5-eadc-50190adcc1c2,d2f8ee51-1058-805f-56ce-01a44be97d85,,9279-1,Respiratory rate,2020-09-25T09:44:51Z,vital-signs,32.9,/min,numeric
+,,620213bd-3adb-fee5-eadc-50190adcc1c2,d2f8ee51-1058-805f-56ce-01a44be97d85,,9279-1,Respiratory rate,2020-09-26T09:44:51Z,vital-signs,21.7,/min,numeric
+,,620213bd-3adb-fee5-eadc-50190adcc1c2,d2f8ee51-1058-805f-56ce-01a44be97d85,,9279-1,Respiratory rate,2020-09-27T09:44:51Z,vital-signs,15.1,/min,numeric
+,,620213bd-3adb-fee5-eadc-50190adcc1c2,4724c348-c440-3439-bc0b-e711b99541d5,,9279-1,Respiratory rate,2021-07-12T08:39:40Z,vital-signs,15.0,/min,numeric
+,,620213bd-3adb-fee5-eadc-50190adcc1c2,aeacd852-a148-cb2f-f07a-0958ee7a1b9f,,9279-1,Respiratory rate,2023-07-17T08:39:40Z,vital-signs,16.0,/min,numeric
+,,620213bd-3adb-fee5-eadc-50190adcc1c2,3bcbaf0f-21e4-ebf6-2079-7a61c29fcf0c,,9279-1,Respiratory rate,2024-07-22T08:39:40Z,vital-signs,12.0,/min,numeric

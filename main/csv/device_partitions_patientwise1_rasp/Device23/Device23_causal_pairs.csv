@@ -1,0 +1,157 @@
+cause,effect,lag_bin,cause_type,effect_type,conditional_probability
+0-60,0-150,0-0,Heart Rate,Body Height,0.0
+0-60,150-170,0-0,Heart Rate,Body Height,0.0
+0-60,170-190,0-0,Heart Rate,Body Height,0.0
+0-60,190-inf,0-0,Heart Rate,Body Height,0.0
+60-100,0-150,0-0,Heart Rate,Body Height,0.0
+60-100,150-170,0-0,Heart Rate,Body Height,0.0
+60-100,170-190,0-0,Heart Rate,Body Height,0.0
+60-100,190-inf,0-0,Heart Rate,Body Height,0.0
+100-inf,0-150,0-0,Heart Rate,Body Height,0.0
+100-inf,150-170,0-0,Heart Rate,Body Height,0.0
+100-inf,170-190,0-0,Heart Rate,Body Height,0.0
+100-inf,190-inf,0-0,Heart Rate,Body Height,0.0
+0-60,0-36.0,0-0,Heart Rate,Body Temperature,0.0
+0-60,36.0-37.5,0-0,Heart Rate,Body Temperature,0.0
+0-60,37.5-inf,0-0,Heart Rate,Body Temperature,0.0
+60-100,0-36.0,0-0,Heart Rate,Body Temperature,0.0
+60-100,36.0-37.5,0-0,Heart Rate,Body Temperature,0.0
+60-100,37.5-inf,0-0,Heart Rate,Body Temperature,0.0
+100-inf,0-36.0,0-0,Heart Rate,Body Temperature,0.0
+100-inf,36.0-37.5,0-0,Heart Rate,Body Temperature,0.0
+100-inf,37.5-inf,0-0,Heart Rate,Body Temperature,0.0
+0-60,0-50,0-0,Heart Rate,Body Weight,0.0
+0-60,50-70,0-0,Heart Rate,Body Weight,0.0
+0-60,70-90,0-0,Heart Rate,Body Weight,0.0
+0-60,90-inf,0-0,Heart Rate,Body Weight,0.0
+60-100,0-50,0-0,Heart Rate,Body Weight,0.0
+60-100,50-70,0-0,Heart Rate,Body Weight,0.0
+60-100,70-90,0-0,Heart Rate,Body Weight,0.0
+60-100,90-inf,0-0,Heart Rate,Body Weight,0.0
+100-inf,0-50,0-0,Heart Rate,Body Weight,0.0
+100-inf,50-70,0-0,Heart Rate,Body Weight,0.0
+100-inf,70-90,0-0,Heart Rate,Body Weight,0.0
+100-inf,90-inf,0-0,Heart Rate,Body Weight,0.0
+0-60,0-18.5,0-0,Heart Rate,BMI (Body Mass Index),0.0
+0-60,18.5-24.9,0-0,Heart Rate,BMI (Body Mass Index),0.0
+0-60,24.9-29.9,0-0,Heart Rate,BMI (Body Mass Index),0.0
+0-60,29.9-34.9,0-0,Heart Rate,BMI (Body Mass Index),0.0
+0-60,34.9-inf,0-0,Heart Rate,BMI (Body Mass Index),0.0
+60-100,0-18.5,0-0,Heart Rate,BMI (Body Mass Index),0.0
+60-100,18.5-24.9,0-0,Heart Rate,BMI (Body Mass Index),0.0
+60-100,24.9-29.9,0-0,Heart Rate,BMI (Body Mass Index),0.0
+60-100,29.9-34.9,0-0,Heart Rate,BMI (Body Mass Index),0.0
+60-100,34.9-inf,0-0,Heart Rate,BMI (Body Mass Index),0.0
+100-inf,0-18.5,0-0,Heart Rate,BMI (Body Mass Index),0.0
+100-inf,18.5-24.9,0-0,Heart Rate,BMI (Body Mass Index),0.0
+100-inf,24.9-29.9,0-0,Heart Rate,BMI (Body Mass Index),0.0
+100-inf,29.9-34.9,0-0,Heart Rate,BMI (Body Mass Index),0.0
+100-inf,34.9-inf,0-0,Heart Rate,BMI (Body Mass Index),0.0
+0-60,0-8.5,0-0,Heart Rate,Calcium,0.0
+0-60,8.5-10.2,0-0,Heart Rate,Calcium,0.0
+0-60,10.2-inf,0-0,Heart Rate,Calcium,0.0
+60-100,0-8.5,0-0,Heart Rate,Calcium,0.0
+60-100,8.5-10.2,0-0,Heart Rate,Calcium,0.0
+60-100,10.2-inf,0-0,Heart Rate,Calcium,0.0
+100-inf,0-8.5,0-0,Heart Rate,Calcium,0.0
+100-inf,8.5-10.2,0-0,Heart Rate,Calcium,0.0
+100-inf,10.2-inf,0-0,Heart Rate,Calcium,0.0
+0-60,0-60,0-0,Heart Rate,Diastolic Blood Pressure,0.0
+0-60,60-80,0-0,Heart Rate,Diastolic Blood Pressure,0.0
+0-60,80-90,0-0,Heart Rate,Diastolic Blood Pressure,0.0
+0-60,90-inf,0-0,Heart Rate,Diastolic Blood Pressure,0.0
+60-100,0-60,0-0,Heart Rate,Diastolic Blood Pressure,0.0
+60-100,60-80,0-0,Heart Rate,Diastolic Blood Pressure,0.0
+60-100,80-90,0-0,Heart Rate,Diastolic Blood Pressure,0.0
+60-100,90-inf,0-0,Heart Rate,Diastolic Blood Pressure,0.0
+100-inf,0-60,0-0,Heart Rate,Diastolic Blood Pressure,0.0
+100-inf,60-80,0-0,Heart Rate,Diastolic Blood Pressure,0.0
+100-inf,80-90,0-0,Heart Rate,Diastolic Blood Pressure,0.0
+100-inf,90-inf,0-0,Heart Rate,Diastolic Blood Pressure,0.0
+0-60,0-70,0-0,Heart Rate,Glucose,0.0
+0-60,70-99,0-0,Heart Rate,Glucose,0.0
+0-60,99-125,0-0,Heart Rate,Glucose,0.0
+0-60,125-inf,0-0,Heart Rate,Glucose,0.0
+60-100,0-70,0-0,Heart Rate,Glucose,0.0
+60-100,70-99,0-0,Heart Rate,Glucose,0.0
+60-100,99-125,0-0,Heart Rate,Glucose,0.0
+60-100,125-inf,0-0,Heart Rate,Glucose,0.0
+100-inf,0-70,0-0,Heart Rate,Glucose,0.0
+100-inf,70-99,0-0,Heart Rate,Glucose,0.0
+100-inf,99-125,0-0,Heart Rate,Glucose,0.0
+100-inf,125-inf,0-0,Heart Rate,Glucose,0.0
+0-60,0-12.0,0-0,Heart Rate,Hemoglobin,0.0
+0-60,12.0-16.0,0-0,Heart Rate,Hemoglobin,0.0
+0-60,16.0-inf,0-0,Heart Rate,Hemoglobin,0.0
+60-100,0-12.0,0-0,Heart Rate,Hemoglobin,0.0
+60-100,12.0-16.0,0-0,Heart Rate,Hemoglobin,0.0
+60-100,16.0-inf,0-0,Heart Rate,Hemoglobin,0.0
+100-inf,0-12.0,0-0,Heart Rate,Hemoglobin,0.0
+100-inf,12.0-16.0,0-0,Heart Rate,Hemoglobin,0.0
+100-inf,16.0-inf,0-0,Heart Rate,Hemoglobin,0.0
+0-60,0-60,0-0,Heart Rate,Heart Rate,0.0
+0-60,60-100,0-0,Heart Rate,Heart Rate,0.0
+0-60,100-inf,0-0,Heart Rate,Heart Rate,0.0
+60-100,0-60,0-0,Heart Rate,Heart Rate,0.0
+60-100,60-100,0-0,Heart Rate,Heart Rate,0.0
+60-100,100-inf,0-0,Heart Rate,Heart Rate,0.0
+100-inf,0-60,0-0,Heart Rate,Heart Rate,0.0
+100-inf,60-100,0-0,Heart Rate,Heart Rate,0.0
+100-inf,100-inf,0-0,Heart Rate,Heart Rate,0.0
+0-60,0-90,0-0,Heart Rate,Oxygen Saturation,0.0
+0-60,90-95,0-0,Heart Rate,Oxygen Saturation,0.0
+0-60,95-inf,0-0,Heart Rate,Oxygen Saturation,0.0
+60-100,0-90,0-0,Heart Rate,Oxygen Saturation,0.0
+60-100,90-95,0-0,Heart Rate,Oxygen Saturation,0.0
+60-100,95-inf,0-0,Heart Rate,Oxygen Saturation,0.0
+100-inf,0-90,0-0,Heart Rate,Oxygen Saturation,0.0
+100-inf,90-95,0-0,Heart Rate,Oxygen Saturation,0.0
+100-inf,95-inf,0-0,Heart Rate,Oxygen Saturation,0.0
+0-60,0-150,0-0,Heart Rate,Platelet Count,0.0
+0-60,150-450,0-0,Heart Rate,Platelet Count,0.0
+0-60,450-inf,0-0,Heart Rate,Platelet Count,0.0
+60-100,0-150,0-0,Heart Rate,Platelet Count,0.0
+60-100,150-450,0-0,Heart Rate,Platelet Count,0.0
+60-100,450-inf,0-0,Heart Rate,Platelet Count,0.0
+100-inf,0-150,0-0,Heart Rate,Platelet Count,0.0
+100-inf,150-450,0-0,Heart Rate,Platelet Count,0.0
+100-inf,450-inf,0-0,Heart Rate,Platelet Count,0.0
+0-60,0-3.5,0-0,Heart Rate,Potassium,0.0
+0-60,3.5-5.0,0-0,Heart Rate,Potassium,0.0
+0-60,5.0-inf,0-0,Heart Rate,Potassium,0.0
+60-100,0-3.5,0-0,Heart Rate,Potassium,0.0
+60-100,3.5-5.0,0-0,Heart Rate,Potassium,0.0
+60-100,5.0-inf,0-0,Heart Rate,Potassium,0.0
+100-inf,0-3.5,0-0,Heart Rate,Potassium,0.0
+100-inf,3.5-5.0,0-0,Heart Rate,Potassium,0.0
+100-inf,5.0-inf,0-0,Heart Rate,Potassium,0.0
+0-60,0-12,0-0,Heart Rate,Respiratory Rate,0.0
+0-60,12-20,0-0,Heart Rate,Respiratory Rate,0.0
+0-60,20-inf,0-0,Heart Rate,Respiratory Rate,0.0
+60-100,0-12,0-0,Heart Rate,Respiratory Rate,0.0
+60-100,12-20,0-0,Heart Rate,Respiratory Rate,0.0
+60-100,20-inf,0-0,Heart Rate,Respiratory Rate,0.0
+100-inf,0-12,0-0,Heart Rate,Respiratory Rate,0.0
+100-inf,12-20,0-0,Heart Rate,Respiratory Rate,0.0
+100-inf,20-inf,0-0,Heart Rate,Respiratory Rate,0.0
+0-60,0-135,0-0,Heart Rate,Sodium,0.0
+0-60,135-145,0-0,Heart Rate,Sodium,0.0
+0-60,145-inf,0-0,Heart Rate,Sodium,0.0
+60-100,0-135,0-0,Heart Rate,Sodium,0.0
+60-100,135-145,0-0,Heart Rate,Sodium,0.0
+60-100,145-inf,0-0,Heart Rate,Sodium,0.0
+100-inf,0-135,0-0,Heart Rate,Sodium,0.0
+100-inf,135-145,0-0,Heart Rate,Sodium,0.0
+100-inf,145-inf,0-0,Heart Rate,Sodium,0.0
+0-60,0-90,0-0,Heart Rate,Systolic Blood Pressure,0.0
+0-60,90-120,0-0,Heart Rate,Systolic Blood Pressure,0.0
+0-60,120-140,0-0,Heart Rate,Systolic Blood Pressure,0.0
+0-60,140-inf,0-0,Heart Rate,Systolic Blood Pressure,0.0
+60-100,0-90,0-0,Heart Rate,Systolic Blood Pressure,0.0
+60-100,90-120,0-0,Heart Rate,Systolic Blood Pressure,0.0
+60-100,120-140,0-0,Heart Rate,Systolic Blood Pressure,0.0
+60-100,140-inf,0-0,Heart Rate,Systolic Blood Pressure,0.0
+100-inf,0-90,0-0,Heart Rate,Systolic Blood Pressure,0.0
+100-inf,90-120,0-0,Heart Rate,Systolic Blood Pressure,0.0
+100-inf,120-140,0-0,Heart Rate,Systolic Blood Pressure,0.0
+100-inf,140-inf,0-0,Heart Rate,Systolic Blood Pressure,0.0

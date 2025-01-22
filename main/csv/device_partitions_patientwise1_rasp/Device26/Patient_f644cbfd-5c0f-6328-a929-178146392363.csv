@@ -1,0 +1,10 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2024-09-28,,f644cbfd-5c0f-6328-a929-178146392363,eba19778-0d15-fe2f-5c6f-42e292568434,http://snomed.info/sct,59621000,Essential hypertension (disorder),,,,,
+,,f644cbfd-5c0f-6328-a929-178146392363,854bca6a-b6ec-4cad-107b-d1d343e21c4d,,8462-4,Diastolic Blood Pressure,2015-09-19T01:53:14Z,vital-signs,89.0,mm[Hg],numeric
+,,f644cbfd-5c0f-6328-a929-178146392363,854bca6a-b6ec-4cad-107b-d1d343e21c4d,,8480-6,Systolic Blood Pressure,2015-09-19T01:53:14Z,vital-signs,121.0,mm[Hg],numeric
+,,f644cbfd-5c0f-6328-a929-178146392363,af7ee8ad-4302-aa02-7699-3bb8abe4a3da,,8462-4,Diastolic Blood Pressure,2018-09-22T01:53:14Z,vital-signs,91.0,mm[Hg],numeric
+,,f644cbfd-5c0f-6328-a929-178146392363,af7ee8ad-4302-aa02-7699-3bb8abe4a3da,,8480-6,Systolic Blood Pressure,2018-09-22T01:53:14Z,vital-signs,126.0,mm[Hg],numeric
+,,f644cbfd-5c0f-6328-a929-178146392363,655c321b-eab7-13be-31a6-c53614887030,,8462-4,Diastolic Blood Pressure,2021-09-25T01:53:14Z,vital-signs,95.0,mm[Hg],numeric
+,,f644cbfd-5c0f-6328-a929-178146392363,655c321b-eab7-13be-31a6-c53614887030,,8480-6,Systolic Blood Pressure,2021-09-25T01:53:14Z,vital-signs,131.0,mm[Hg],numeric
+,,f644cbfd-5c0f-6328-a929-178146392363,eba19778-0d15-fe2f-5c6f-42e292568434,,8462-4,Diastolic Blood Pressure,2024-09-28T01:53:14Z,vital-signs,99.0,mm[Hg],numeric
+,,f644cbfd-5c0f-6328-a929-178146392363,eba19778-0d15-fe2f-5c6f-42e292568434,,8480-6,Systolic Blood Pressure,2024-09-28T01:53:14Z,vital-signs,144.0,mm[Hg],numeric

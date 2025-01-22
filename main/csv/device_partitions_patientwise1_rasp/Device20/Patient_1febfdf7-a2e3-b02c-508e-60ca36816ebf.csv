@@ -1,0 +1,44 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION
+1982-01-25,,1febfdf7-a2e3-b02c-508e-60ca36816ebf,704e1844-44e4-d74b-db95-fd91d5eb1712,http://snomed.info/sct,40055000,Chronic sinusitis (disorder)
+1990-01-31,,1febfdf7-a2e3-b02c-508e-60ca36816ebf,984561cb-8b75-479f-e4a1-4566e19e5c42,http://snomed.info/sct,82423001,Chronic pain
+1990-04-13,,1febfdf7-a2e3-b02c-508e-60ca36816ebf,517847a0-43e7-8548-6b00-3185ab489d19,http://snomed.info/sct,124171000119105,Chronic intractable migraine without aura
+1990-11-05,,1febfdf7-a2e3-b02c-508e-60ca36816ebf,af8bdee4-62da-5224-5563-1900743d9237,http://snomed.info/sct,196416002,Impacted molars
+1993-04-12,,1febfdf7-a2e3-b02c-508e-60ca36816ebf,ee11878f-2e1b-0342-30d2-dc492ee897c3,http://snomed.info/sct,224295006,Only received primary school education (finding)
+1993-05-20,,1febfdf7-a2e3-b02c-508e-60ca36816ebf,1c593dc1-a0db-30e1-e34e-b85dc091e34d,http://snomed.info/sct,6525002,Dependent drug abuse (disorder)
+2000-04-24,,1febfdf7-a2e3-b02c-508e-60ca36816ebf,8acf345e-f906-e088-933d-9fd7dbef8b9c,http://snomed.info/sct,266948004,Has a criminal record (finding)
+2008-02-09,,1febfdf7-a2e3-b02c-508e-60ca36816ebf,392b67dc-973d-62b1-8475-d59c57d5ca48,http://snomed.info/sct,39898005,Sleep disorder (disorder)
+2008-02-26,,1febfdf7-a2e3-b02c-508e-60ca36816ebf,b414d589-7d2e-196b-3e59-aa448f5deee7,http://snomed.info/sct,78275009,Obstructive sleep apnea syndrome (disorder)
+2013-05-27,2015-11-23,1febfdf7-a2e3-b02c-508e-60ca36816ebf,bbc8effd-63b2-bc89-945d-2a2be920cd73,http://snomed.info/sct,314529007,Medication review due (situation)
+2014-06-02,2015-06-08,1febfdf7-a2e3-b02c-508e-60ca36816ebf,5370642f-0d4b-fc17-f13e-9eb0c247fc94,http://snomed.info/sct,741062008,Not in labor force (finding)
+2015-06-08,2017-06-19,1febfdf7-a2e3-b02c-508e-60ca36816ebf,549f997f-44a5-e057-ba87-a5e3c04c879c,http://snomed.info/sct,160903007,Full-time employment (finding)
+2015-11-30,2015-12-09,1febfdf7-a2e3-b02c-508e-60ca36816ebf,f043f362-6f52-8860-b371-2098346ed06b,http://snomed.info/sct,195662009,Acute viral pharyngitis (disorder)
+2015-12-07,2015-12-07,1febfdf7-a2e3-b02c-508e-60ca36816ebf,598c44b5-2663-cc25-5574-b185f7c8588f,http://snomed.info/sct,18718003,Gingival disease (disorder)
+2016-06-13,2016-06-13,1febfdf7-a2e3-b02c-508e-60ca36816ebf,bcb2b946-fc1a-6460-a5f0-915fc509866a,http://snomed.info/sct,314529007,Medication review due (situation)
+2016-06-13,2017-06-19,1febfdf7-a2e3-b02c-508e-60ca36816ebf,bcb2b946-fc1a-6460-a5f0-915fc509866a,http://snomed.info/sct,73595000,Stress (finding)
+2016-06-13,2016-07-04,1febfdf7-a2e3-b02c-508e-60ca36816ebf,bcb2b946-fc1a-6460-a5f0-915fc509866a,http://snomed.info/sct,66383009,Gingivitis (disorder)
+2017-06-19,2018-06-25,1febfdf7-a2e3-b02c-508e-60ca36816ebf,0e16ccd6-ed27-fa9c-ffe6-7c6ae5640577,http://snomed.info/sct,314529007,Medication review due (situation)
+2017-06-19,2018-06-25,1febfdf7-a2e3-b02c-508e-60ca36816ebf,0e16ccd6-ed27-fa9c-ffe6-7c6ae5640577,http://snomed.info/sct,73438004,Unemployed (finding)
+2017-06-19,2017-07-03,1febfdf7-a2e3-b02c-508e-60ca36816ebf,0e16ccd6-ed27-fa9c-ffe6-7c6ae5640577,http://snomed.info/sct,66383009,Gingivitis (disorder)
+2017-07-03,2017-07-03,1febfdf7-a2e3-b02c-508e-60ca36816ebf,8bf3c174-057e-6e36-a03e-6a0a2218b699,http://snomed.info/sct,18718003,Gingival disease (disorder)
+2018-06-25,2019-07-01,1febfdf7-a2e3-b02c-508e-60ca36816ebf,16fd37e7-f969-f23b-36fb-8e4f08c2cf31,http://snomed.info/sct,160904001,Part-time employment (finding)
+2018-06-25,2020-07-06,1febfdf7-a2e3-b02c-508e-60ca36816ebf,16fd37e7-f969-f23b-36fb-8e4f08c2cf31,http://snomed.info/sct,73595000,Stress (finding)
+2019-06-14,2019-06-15,1febfdf7-a2e3-b02c-508e-60ca36816ebf,4039ff25-e74f-7535-979c-ba1617926b91,http://snomed.info/sct,55680006,Drug overdose
+2019-07-01,2019-07-01,1febfdf7-a2e3-b02c-508e-60ca36816ebf,0474b866-3787-abc5-d2a8-68b30c4c0274,http://snomed.info/sct,314529007,Medication review due (situation)
+2019-07-01,2021-07-12,1febfdf7-a2e3-b02c-508e-60ca36816ebf,0474b866-3787-abc5-d2a8-68b30c4c0274,http://snomed.info/sct,160903007,Full-time employment (finding)
+2020-07-06,2020-07-06,1febfdf7-a2e3-b02c-508e-60ca36816ebf,1a6722a7-f810-fce2-c8ff-38759d778cec,http://snomed.info/sct,314529007,Medication review due (situation)
+2020-10-26,2020-10-26,1febfdf7-a2e3-b02c-508e-60ca36816ebf,1a6722a7-f810-fce2-c8ff-38759d778cec,http://snomed.info/sct,840544004,Suspected COVID-19
+2020-10-26,2020-11-07,1febfdf7-a2e3-b02c-508e-60ca36816ebf,c5c613f2-c496-1e4a-9c52-d61311931a4a,http://snomed.info/sct,267036007,Dyspnea (finding)
+2020-10-26,2020-11-07,1febfdf7-a2e3-b02c-508e-60ca36816ebf,c5c613f2-c496-1e4a-9c52-d61311931a4a,http://snomed.info/sct,386661006,Fever (finding)
+2020-10-26,2020-11-07,1febfdf7-a2e3-b02c-508e-60ca36816ebf,c5c613f2-c496-1e4a-9c52-d61311931a4a,http://snomed.info/sct,840539006,COVID-19
+2020-10-26,2020-11-07,1febfdf7-a2e3-b02c-508e-60ca36816ebf,3c5fe7dd-4c79-478a-97e7-dfe5a156290b,http://snomed.info/sct,271825005,Respiratory distress (finding)
+2021-07-12,2021-07-12,1febfdf7-a2e3-b02c-508e-60ca36816ebf,c98901f1-0fe9-148e-9aab-ab03edef91ae,http://snomed.info/sct,314529007,Medication review due (situation)
+2021-07-12,2022-07-18,1febfdf7-a2e3-b02c-508e-60ca36816ebf,c98901f1-0fe9-148e-9aab-ab03edef91ae,http://snomed.info/sct,741062008,Not in labor force (finding)
+2021-07-24,2021-08-12,1febfdf7-a2e3-b02c-508e-60ca36816ebf,2e523cc8-c82d-0ecb-9ab3-5938ee4c0092,http://snomed.info/sct,10509002,Acute bronchitis (disorder)
+2021-07-26,2021-07-26,1febfdf7-a2e3-b02c-508e-60ca36816ebf,ed5de4ff-f276-1265-c612-66bb0f2603f1,http://snomed.info/sct,109570002,Primary dental caries (disorder)
+2021-08-09,2021-08-16,1febfdf7-a2e3-b02c-508e-60ca36816ebf,879eec41-d889-b681-fddf-1185f8d641ff,http://snomed.info/sct,314529007,Medication review due (situation)
+2021-08-09,2022-07-18,1febfdf7-a2e3-b02c-508e-60ca36816ebf,879eec41-d889-b681-fddf-1185f8d641ff,http://snomed.info/sct,73595000,Stress (finding)
+2022-07-18,,1febfdf7-a2e3-b02c-508e-60ca36816ebf,05a43e62-4ee8-1441-d537-2d930eefa461,http://snomed.info/sct,314529007,Medication review due (situation)
+2022-07-18,,1febfdf7-a2e3-b02c-508e-60ca36816ebf,05a43e62-4ee8-1441-d537-2d930eefa461,http://snomed.info/sct,160903007,Full-time employment (finding)
+2022-12-03,2022-12-03,1febfdf7-a2e3-b02c-508e-60ca36816ebf,9531b3c1-a8dc-b089-756b-c1093884d2d3,http://snomed.info/sct,55680006,Drug overdose
+2023-07-24,,1febfdf7-a2e3-b02c-508e-60ca36816ebf,788b2a34-8624-d87f-3a42-dea96197b8a1,http://snomed.info/sct,73595000,Stress (finding)
+2023-07-24,2024-07-29,1febfdf7-a2e3-b02c-508e-60ca36816ebf,788b2a34-8624-d87f-3a42-dea96197b8a1,http://snomed.info/sct,706893006,Victim of intimate partner abuse (finding)

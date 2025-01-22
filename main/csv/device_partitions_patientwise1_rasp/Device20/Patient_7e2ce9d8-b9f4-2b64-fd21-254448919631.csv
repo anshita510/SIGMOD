@@ -1,0 +1,32 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION
+2013-02-04,2018-03-05,7e2ce9d8-b9f4-2b64-fd21-254448919631,b8f013bb-ddbb-00c2-a796-265862a59626,http://snomed.info/sct,314529007,Medication review due (situation)
+2014-10-27,2015-06-08,7e2ce9d8-b9f4-2b64-fd21-254448919631,3160c223-6f1b-0651-25ec-1c5bd40827f4,http://snomed.info/sct,72892002,Normal pregnancy
+2015-01-28,,7e2ce9d8-b9f4-2b64-fd21-254448919631,a7638244-ff77-b802-adb3-87ac6c1d7bfc,http://snomed.info/sct,82423001,Chronic pain (finding)
+2015-01-28,,7e2ce9d8-b9f4-2b64-fd21-254448919631,a7638244-ff77-b802-adb3-87ac6c1d7bfc,http://snomed.info/sct,278860009,Chronic low back pain (finding)
+2015-01-28,,7e2ce9d8-b9f4-2b64-fd21-254448919631,a7638244-ff77-b802-adb3-87ac6c1d7bfc,http://snomed.info/sct,1121000119107,Chronic neck pain (finding)
+2015-02-16,,7e2ce9d8-b9f4-2b64-fd21-254448919631,fee14cf3-9f73-c531-39e2-9cca66efb312,http://snomed.info/sct,224299000,Received higher education (finding)
+2015-02-16,2017-02-27,7e2ce9d8-b9f4-2b64-fd21-254448919631,fee14cf3-9f73-c531-39e2-9cca66efb312,http://snomed.info/sct,160903007,Full-time employment (finding)
+2015-02-16,,7e2ce9d8-b9f4-2b64-fd21-254448919631,fee14cf3-9f73-c531-39e2-9cca66efb312,http://snomed.info/sct,266934004,Transport problem (finding)
+2015-02-16,2018-03-05,7e2ce9d8-b9f4-2b64-fd21-254448919631,fee14cf3-9f73-c531-39e2-9cca66efb312,http://snomed.info/sct,73595000,Stress (finding)
+2015-02-16,2016-02-22,7e2ce9d8-b9f4-2b64-fd21-254448919631,fee14cf3-9f73-c531-39e2-9cca66efb312,http://snomed.info/sct,706893006,Victim of intimate partner abuse (finding)
+2015-02-16,2015-03-02,7e2ce9d8-b9f4-2b64-fd21-254448919631,fee14cf3-9f73-c531-39e2-9cca66efb312,http://snomed.info/sct,66383009,Gingivitis (disorder)
+2016-02-22,2023-04-03,7e2ce9d8-b9f4-2b64-fd21-254448919631,cb354cf4-5d5d-da62-b96d-fc17ac20686d,http://snomed.info/sct,422650009,Social isolation (finding)
+2017-02-27,2018-03-05,7e2ce9d8-b9f4-2b64-fd21-254448919631,2157771f-ed6a-8b4a-fc11-87e09fcd31b6,http://snomed.info/sct,160904001,Part-time employment (finding)
+2017-02-27,,7e2ce9d8-b9f4-2b64-fd21-254448919631,2157771f-ed6a-8b4a-fc11-87e09fcd31b6,http://snomed.info/sct,713458007,Lack of access to transportation (finding)
+2017-02-27,2020-03-16,7e2ce9d8-b9f4-2b64-fd21-254448919631,2157771f-ed6a-8b4a-fc11-87e09fcd31b6,http://snomed.info/sct,423315002,Limited social contact (finding)
+2018-03-05,2019-03-11,7e2ce9d8-b9f4-2b64-fd21-254448919631,d1670925-7e5a-5347-7193-3789bb15cd4f,http://snomed.info/sct,160903007,Full-time employment (finding)
+2018-03-19,2018-03-19,7e2ce9d8-b9f4-2b64-fd21-254448919631,485c09fd-2264-26f7-db3b-755f223c5203,http://snomed.info/sct,109570002,Primary dental caries (disorder)
+2019-03-11,2021-03-22,7e2ce9d8-b9f4-2b64-fd21-254448919631,57f568b4-7433-5636-d1c9-13ffdcbd334b,http://snomed.info/sct,314529007,Medication review due (situation)
+2019-03-11,2020-03-16,7e2ce9d8-b9f4-2b64-fd21-254448919631,57f568b4-7433-5636-d1c9-13ffdcbd334b,http://snomed.info/sct,741062008,Not in labor force (finding)
+2019-03-11,2021-03-22,7e2ce9d8-b9f4-2b64-fd21-254448919631,57f568b4-7433-5636-d1c9-13ffdcbd334b,http://snomed.info/sct,73595000,Stress (finding)
+2019-03-18,2019-10-21,7e2ce9d8-b9f4-2b64-fd21-254448919631,7e94379e-e684-b339-5f40-22abed47d724,http://snomed.info/sct,72892002,Normal pregnancy
+2020-03-16,2021-03-22,7e2ce9d8-b9f4-2b64-fd21-254448919631,e7f40a75-eea3-6586-a3b8-4605f967625b,http://snomed.info/sct,73438004,Unemployed (finding)
+2021-02-15,2021-08-30,7e2ce9d8-b9f4-2b64-fd21-254448919631,dc88944b-69ef-77ef-2323-28f223dc1a29,http://snomed.info/sct,72892002,Normal pregnancy
+2021-03-22,,7e2ce9d8-b9f4-2b64-fd21-254448919631,c8cdf754-11e2-861b-fc98-5bd09d28e9fd,http://snomed.info/sct,160903007,Full-time employment (finding)
+2021-03-22,,7e2ce9d8-b9f4-2b64-fd21-254448919631,c8cdf754-11e2-861b-fc98-5bd09d28e9fd,http://snomed.info/sct,266948004,Has a criminal record (finding)
+2022-03-28,2023-04-03,7e2ce9d8-b9f4-2b64-fd21-254448919631,5a0f0bcc-5c69-6eeb-a628-f5d64d50cd15,http://snomed.info/sct,314529007,Medication review due (situation)
+2023-04-27,2023-04-27,7e2ce9d8-b9f4-2b64-fd21-254448919631,4010185e-a37d-919f-6ac2-b87c6de0299e,http://snomed.info/sct,307426000,Acute infective cystitis (disorder)
+2023-06-26,2024-02-05,7e2ce9d8-b9f4-2b64-fd21-254448919631,c2f14849-03af-8090-7c07-01fb73354134,http://snomed.info/sct,72892002,Normal pregnancy
+2024-04-08,,7e2ce9d8-b9f4-2b64-fd21-254448919631,80c152c8-6b9a-57f2-5923-c6fb1a8ae4e2,http://snomed.info/sct,314529007,Medication review due (situation)
+2024-04-08,,7e2ce9d8-b9f4-2b64-fd21-254448919631,80c152c8-6b9a-57f2-5923-c6fb1a8ae4e2,http://snomed.info/sct,73595000,Stress (finding)
+2024-09-02,,7e2ce9d8-b9f4-2b64-fd21-254448919631,a016f1ef-40b3-1f58-b61b-49d42ffa1a0f,http://snomed.info/sct,72892002,Normal pregnancy

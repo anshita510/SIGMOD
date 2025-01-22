@@ -1,0 +1,4 @@
+DATE,PATIENT,ENCOUNTER,CATEGORY,CODE,DESCRIPTION,VALUE,UNITS,TYPE
+2021-03-14T23:29:04Z,0f9542a0-eda8-59cc-1d21-70f34484f698,604db088-65d1-c122-46d0-307649cdbc12,laboratory,2345-7,Glucose [Mass/volume] in Serum or Plasma,99.6,mg/dL,numeric
+2021-03-14T23:59:04Z,0f9542a0-eda8-59cc-1d21-70f34484f698,604db088-65d1-c122-46d0-307649cdbc12,laboratory,5792-7,Glucose [Mass/volume] in Urine by Test strip,4.6,mg/dL,numeric
+2021-08-12T22:44:40Z,0f9542a0-eda8-59cc-1d21-70f34484f698,4570bd43-df26-33ff-8890-03d9586bf5ac,laboratory,5792-7,Glucose [Mass/volume] in Urine by Test strip,9.5,mg/dL,numeric

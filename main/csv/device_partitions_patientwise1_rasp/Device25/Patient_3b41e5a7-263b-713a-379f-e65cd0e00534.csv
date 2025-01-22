@@ -1,0 +1,10 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2021-08-14,2021-09-15,3b41e5a7-263b-713a-379f-e65cd0e00534,9e8159e4-d0e1-f7b3-d79e-7bfba6f6ec7e,http://snomed.info/sct,56018004,Wheezing (finding),,,,,
+,,3b41e5a7-263b-713a-379f-e65cd0e00534,8b7433d5-300c-8cda-605e-e6c19c82e68b,,9279-1,Respiratory rate,2017-02-08T08:54:31Z,vital-signs,14.0,/min,numeric
+,,3b41e5a7-263b-713a-379f-e65cd0e00534,35be2a36-c6e1-9be7-c915-1aac4d420199,,9279-1,Respiratory rate,2017-04-19T08:54:31Z,vital-signs,14.0,/min,numeric
+,,3b41e5a7-263b-713a-379f-e65cd0e00534,18e134ff-a073-6d63-349c-2907dde0975f,,9279-1,Respiratory rate,2020-02-12T08:54:31Z,vital-signs,12.0,/min,numeric
+,,3b41e5a7-263b-713a-379f-e65cd0e00534,9e8159e4-d0e1-f7b3-d79e-7bfba6f6ec7e,,9279-1,Respiratory rate,2021-08-14T08:54:31Z,vital-signs,17.1,/min,numeric
+,,3b41e5a7-263b-713a-379f-e65cd0e00534,af130136-5ffb-60a2-f67b-8e167ae5c5ba,,9279-1,Respiratory rate,2022-03-16T08:54:31Z,vital-signs,13.0,/min,numeric
+,,3b41e5a7-263b-713a-379f-e65cd0e00534,17c23571-1d9f-667d-18d5-a8e6b65049eb,,9279-1,Respiratory rate,2023-02-15T08:54:31Z,vital-signs,13.0,/min,numeric
+,,3b41e5a7-263b-713a-379f-e65cd0e00534,7bf79120-e170-e8c9-bd65-444cc03e6b94,,9279-1,Respiratory rate,2023-07-26T08:54:31Z,vital-signs,15.0,/min,numeric
+,,3b41e5a7-263b-713a-379f-e65cd0e00534,1b50d911-06ff-75b9-7cb0-bbc8efbb000b,,9279-1,Respiratory rate,2024-08-14T08:54:31Z,vital-signs,15.0,/min,numeric

@@ -1,0 +1,6 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2004-04-01,2004-11-12,6c433398-eec6-bcad-79c5-ff4d0492b2bb,9ee3620f-7c6d-324b-c1c0-ba1390732a5c,http://snomed.info/sct,271737000,Anemia (disorder),,,,,
+,,6c433398-eec6-bcad-79c5-ff4d0492b2bb,79062d02-9d17-7010-f504-20cf64212454,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2003-01-09T21:45:13Z,laboratory,Urine blood test = + (finding),{nominal},text
+,,6c433398-eec6-bcad-79c5-ff4d0492b2bb,bea7f9c0-2f8e-2f61-1b4e-22863f8f0e93,,718-7,Hemoglobin [Mass/volume] in Blood,2004-03-31T20:32:09Z,laboratory,10.8,g/dL,numeric
+,,6c433398-eec6-bcad-79c5-ff4d0492b2bb,51abacbc-22b0-c883-abd6-6d0c66a00341,,718-7,Hemoglobin [Mass/volume] in Blood,2004-04-01T23:15:36Z,laboratory,11.6,g/dL,numeric
+,,6c433398-eec6-bcad-79c5-ff4d0492b2bb,f4bb1c3f-af00-18d9-6db4-85d96c1f4fd8,,718-7,Hemoglobin [Mass/volume] in Blood,2008-02-20T20:32:09Z,laboratory,17.1,g/dL,numeric

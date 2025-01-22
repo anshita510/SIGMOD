@@ -1,0 +1,13 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2006-03-14,,6832f15b-aac8-0fcd-c870-109a1b59f4b3,949b2d77-2421-8d61-7d19-9f48b2484ba4,http://snomed.info/sct,15777000,Prediabetes,,,,,
+2018-01-02,,6832f15b-aac8-0fcd-c870-109a1b59f4b3,b708c832-f706-e905-f483-e5f7b97ab4d5,http://snomed.info/sct,44054006,Diabetes mellitus type 2 (disorder),,,,,
+2023-01-31,,6832f15b-aac8-0fcd-c870-109a1b59f4b3,6451cbc7-b91c-21f9-b0d3-aa57f5f0bdbf,http://snomed.info/sct,368581000119106,Neuropathy due to type 2 diabetes mellitus (disorder),,,,,
+,,6832f15b-aac8-0fcd-c870-109a1b59f4b3,4d42f2a1-9ef2-d2e6-2e25-e860e5f1f709,,2339-0,Glucose [Mass/volume] in Blood,2015-12-29T16:00:31Z,laboratory,73.8,mg/dL,numeric
+,,6832f15b-aac8-0fcd-c870-109a1b59f4b3,b708c832-f706-e905-f483-e5f7b97ab4d5,,2339-0,Glucose [Mass/volume] in Blood,2018-01-02T16:00:31Z,laboratory,67.2,mg/dL,numeric
+,,6832f15b-aac8-0fcd-c870-109a1b59f4b3,b66e486e-c3f0-824a-7744-ae8f16990791,,2339-0,Glucose [Mass/volume] in Blood,2019-01-08T16:00:31Z,laboratory,125.3,mg/dL,numeric
+,,6832f15b-aac8-0fcd-c870-109a1b59f4b3,b15906c1-0787-5e71-4b02-7fc6b107a5b3,,2339-0,Glucose [Mass/volume] in Blood,2020-01-14T16:00:31Z,laboratory,94.8,mg/dL,numeric
+,,6832f15b-aac8-0fcd-c870-109a1b59f4b3,c50a3bc7-38f7-b525-ff55-77a73f9b50ba,,2339-0,Glucose [Mass/volume] in Blood,2021-01-19T16:00:31Z,laboratory,88.0,mg/dL,numeric
+,,6832f15b-aac8-0fcd-c870-109a1b59f4b3,8b3dd115-c549-00b8-c586-e5f9c7388644,,2339-0,Glucose [Mass/volume] in Blood,2022-01-25T16:00:31Z,laboratory,97.2,mg/dL,numeric
+,,6832f15b-aac8-0fcd-c870-109a1b59f4b3,6451cbc7-b91c-21f9-b0d3-aa57f5f0bdbf,,2339-0,Glucose [Mass/volume] in Blood,2023-01-31T16:00:31Z,laboratory,66.9,mg/dL,numeric
+,,6832f15b-aac8-0fcd-c870-109a1b59f4b3,d6b41a3a-9098-8176-5465-a67a4970aa14,,2339-0,Glucose [Mass/volume] in Blood,2023-04-04T16:00:31Z,laboratory,82.5,mg/dL,numeric
+,,6832f15b-aac8-0fcd-c870-109a1b59f4b3,2e6d3194-7f86-fa57-173e-87e817791983,,2339-0,Glucose [Mass/volume] in Blood,2024-02-06T16:00:31Z,laboratory,64.7,mg/dL,numeric

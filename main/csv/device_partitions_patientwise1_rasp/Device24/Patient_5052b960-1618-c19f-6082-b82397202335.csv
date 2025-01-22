@@ -1,0 +1,13 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2021-09-05,2021-09-14,5052b960-1618-c19f-6082-b82397202335,be2f085e-571f-9c66-3336-a62fba0327e4,http://snomed.info/sct,389087006,Hypoxemia (disorder),,,,,
+,,5052b960-1618-c19f-6082-b82397202335,d234b580-db03-21fc-653a-5b6b77a49bfc,,2708-6,Oxygen saturation in Arterial blood,2021-09-05T15:20:41Z,vital-signs,83.6,%,numeric
+,,5052b960-1618-c19f-6082-b82397202335,be2f085e-571f-9c66-3336-a62fba0327e4,,2708-6,Oxygen saturation in Arterial blood,2021-09-05T17:28:41Z,vital-signs,75.6,%,numeric
+,,5052b960-1618-c19f-6082-b82397202335,be2f085e-571f-9c66-3336-a62fba0327e4,,2708-6,Oxygen saturation in Arterial blood,2021-09-06T17:28:41Z,vital-signs,77.4,%,numeric
+,,5052b960-1618-c19f-6082-b82397202335,be2f085e-571f-9c66-3336-a62fba0327e4,,2708-6,Oxygen saturation in Arterial blood,2021-09-07T17:28:41Z,vital-signs,81.0,%,numeric
+,,5052b960-1618-c19f-6082-b82397202335,be2f085e-571f-9c66-3336-a62fba0327e4,,2708-6,Oxygen saturation in Arterial blood,2021-09-08T17:28:41Z,vital-signs,86.9,%,numeric
+,,5052b960-1618-c19f-6082-b82397202335,be2f085e-571f-9c66-3336-a62fba0327e4,,2708-6,Oxygen saturation in Arterial blood,2021-09-09T17:28:41Z,vital-signs,85.5,%,numeric
+,,5052b960-1618-c19f-6082-b82397202335,be2f085e-571f-9c66-3336-a62fba0327e4,,2708-6,Oxygen saturation in Arterial blood,2021-09-10T17:28:41Z,vital-signs,82.4,%,numeric
+,,5052b960-1618-c19f-6082-b82397202335,be2f085e-571f-9c66-3336-a62fba0327e4,,2708-6,Oxygen saturation in Arterial blood,2021-09-11T17:28:41Z,vital-signs,78.5,%,numeric
+,,5052b960-1618-c19f-6082-b82397202335,be2f085e-571f-9c66-3336-a62fba0327e4,,2708-6,Oxygen saturation in Arterial blood,2021-09-12T17:28:41Z,vital-signs,80.0,%,numeric
+,,5052b960-1618-c19f-6082-b82397202335,be2f085e-571f-9c66-3336-a62fba0327e4,,2708-6,Oxygen saturation in Arterial blood,2021-09-13T17:28:41Z,vital-signs,82.0,%,numeric
+,,5052b960-1618-c19f-6082-b82397202335,be2f085e-571f-9c66-3336-a62fba0327e4,,2708-6,Oxygen saturation in Arterial blood,2021-09-14T17:28:41Z,vital-signs,80.1,%,numeric

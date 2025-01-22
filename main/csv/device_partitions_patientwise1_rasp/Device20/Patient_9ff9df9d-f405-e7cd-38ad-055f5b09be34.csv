@@ -1,0 +1,18 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION
+2000-12-21,2015-01-14,9ff9df9d-f405-e7cd-38ad-055f5b09be34,086f729e-398b-f495-bae4-7a1dd7691402,http://snomed.info/sct,367498001,Seasonal allergic rhinitis
+2010-02-10,,9ff9df9d-f405-e7cd-38ad-055f5b09be34,da555282-c1e5-499a-ab20-1fafa87577f3,http://snomed.info/sct,160968000,Risk activity involvement (finding)
+2014-03-05,,9ff9df9d-f405-e7cd-38ad-055f5b09be34,244301fa-1d41-95a5-f1a8-c9db61734dce,http://snomed.info/sct,224299000,Received higher education (finding)
+2014-03-05,2016-03-16,9ff9df9d-f405-e7cd-38ad-055f5b09be34,244301fa-1d41-95a5-f1a8-c9db61734dce,http://snomed.info/sct,160903007,Full-time employment (finding)
+2014-03-05,2019-03-20,9ff9df9d-f405-e7cd-38ad-055f5b09be34,244301fa-1d41-95a5-f1a8-c9db61734dce,http://snomed.info/sct,361055000,Misuses drugs (finding)
+2015-03-11,2019-03-20,9ff9df9d-f405-e7cd-38ad-055f5b09be34,5988e162-63fd-943a-a746-ebc840cf1311,http://snomed.info/sct,314529007,Medication review due (situation)
+2015-03-11,2016-03-16,9ff9df9d-f405-e7cd-38ad-055f5b09be34,5988e162-63fd-943a-a746-ebc840cf1311,http://snomed.info/sct,422650009,Social isolation (finding)
+2015-03-11,2019-03-20,9ff9df9d-f405-e7cd-38ad-055f5b09be34,5988e162-63fd-943a-a746-ebc840cf1311,http://snomed.info/sct,73595000,Stress (finding)
+2016-03-16,2019-03-20,9ff9df9d-f405-e7cd-38ad-055f5b09be34,50d6b87a-ce23-cf47-1646-9d8ddd0e00d1,http://snomed.info/sct,160904001,Part-time employment (finding)
+2016-03-16,2016-03-30,9ff9df9d-f405-e7cd-38ad-055f5b09be34,50d6b87a-ce23-cf47-1646-9d8ddd0e00d1,http://snomed.info/sct,66383009,Gingivitis (disorder)
+2019-03-20,2022-03-23,9ff9df9d-f405-e7cd-38ad-055f5b09be34,9a977eb5-0b94-b415-6df7-7bdefd3488a2,http://snomed.info/sct,160903007,Full-time employment (finding)
+2019-03-20,2019-04-03,9ff9df9d-f405-e7cd-38ad-055f5b09be34,9a977eb5-0b94-b415-6df7-7bdefd3488a2,http://snomed.info/sct,66383009,Gingivitis (disorder)
+2022-03-23,,9ff9df9d-f405-e7cd-38ad-055f5b09be34,a6860f6b-d406-35af-a640-5f4ac90065bf,http://snomed.info/sct,314529007,Medication review due (situation)
+2022-03-23,,9ff9df9d-f405-e7cd-38ad-055f5b09be34,a6860f6b-d406-35af-a640-5f4ac90065bf,http://snomed.info/sct,73438004,Unemployed (finding)
+2022-03-23,,9ff9df9d-f405-e7cd-38ad-055f5b09be34,a6860f6b-d406-35af-a640-5f4ac90065bf,http://snomed.info/sct,73595000,Stress (finding)
+2022-03-23,2022-04-06,9ff9df9d-f405-e7cd-38ad-055f5b09be34,a6860f6b-d406-35af-a640-5f4ac90065bf,http://snomed.info/sct,66383009,Gingivitis (disorder)
+2022-04-06,2022-04-06,9ff9df9d-f405-e7cd-38ad-055f5b09be34,9f383899-0156-a275-5680-864c09b37d69,http://snomed.info/sct,109570002,Primary dental caries (disorder)

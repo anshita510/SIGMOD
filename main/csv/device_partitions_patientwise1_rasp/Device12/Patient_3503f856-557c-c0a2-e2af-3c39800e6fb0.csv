@@ -1,0 +1,13 @@
+DATE,PATIENT,ENCOUNTER,CATEGORY,CODE,DESCRIPTION,VALUE,UNITS,TYPE
+2015-03-28T23:30:02Z,3503f856-557c-c0a2-e2af-3c39800e6fb0,e1c84e1f-46bc-4e88-b3d5-c13b7b4ebff5,laboratory,5794-3,Hemoglobin [Presence] in Urine by Test strip,Urine blood test = + (finding),{nominal},text
+2015-03-29T18:21:09Z,3503f856-557c-c0a2-e2af-3c39800e6fb0,6347b5f4-1413-586c-ffda-77b6b2d16d12,laboratory,5794-3,Hemoglobin [Presence] in Urine by Test strip,Urine blood test = + (finding),{nominal},text
+2015-03-30T00:23:36Z,3503f856-557c-c0a2-e2af-3c39800e6fb0,bf5573e1-3091-2f6d-1a66-a0792d8ab16a,laboratory,5794-3,Hemoglobin [Presence] in Urine by Test strip,Urine blood test = + (finding),{nominal},text
+2016-05-15T22:04:40Z,3503f856-557c-c0a2-e2af-3c39800e6fb0,349b6100-05a4-194d-d0d7-49b114d37414,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,17.4,g/dL,numeric
+2016-06-13T20:59:01Z,3503f856-557c-c0a2-e2af-3c39800e6fb0,66855d41-52e6-a629-20cf-5bcd11515943,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,15.5,g/dL,numeric
+2016-06-13T20:59:01Z,3503f856-557c-c0a2-e2af-3c39800e6fb0,66855d41-52e6-a629-20cf-5bcd11515943,laboratory,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,5.2,%,numeric
+2016-06-13T20:59:01Z,3503f856-557c-c0a2-e2af-3c39800e6fb0,66855d41-52e6-a629-20cf-5bcd11515943,laboratory,5794-3,Hemoglobin [Presence] in Urine by Test strip,0.0,{presence},numeric
+2016-07-02T20:05:17Z,3503f856-557c-c0a2-e2af-3c39800e6fb0,cc90dee4-eb5e-83f3-40c8-d5e84088019a,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,11.6,g/dL,numeric
+2016-07-03T08:46:50Z,3503f856-557c-c0a2-e2af-3c39800e6fb0,cc90dee4-eb5e-83f3-40c8-d5e84088019a,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,11.6,g/dL,numeric
+2016-07-03T20:46:50Z,3503f856-557c-c0a2-e2af-3c39800e6fb0,cc90dee4-eb5e-83f3-40c8-d5e84088019a,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,16.3,g/dL,numeric
+2016-07-04T09:35:36Z,3503f856-557c-c0a2-e2af-3c39800e6fb0,cc90dee4-eb5e-83f3-40c8-d5e84088019a,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,11.2,g/dL,numeric
+2021-06-13T22:04:40Z,3503f856-557c-c0a2-e2af-3c39800e6fb0,c4d30e14-dd5f-69c4-7349-374c8141ec4f,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,12.0,g/dL,numeric

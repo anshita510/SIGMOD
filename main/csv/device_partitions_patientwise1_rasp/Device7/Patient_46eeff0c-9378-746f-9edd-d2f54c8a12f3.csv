@@ -1,0 +1,6 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2011-05-09,,46eeff0c-9378-746f-9edd-d2f54c8a12f3,fe8cc20d-fcdc-5377-f868-8853905ca037,http://snomed.info/sct,15777000,Prediabetes,,,,,
+,,46eeff0c-9378-746f-9edd-d2f54c8a12f3,281ea7eb-63a9-cbb8-0d18-973191594ce1,,2339-0,Glucose [Mass/volume] in Blood,2017-05-14T23:23:36Z,laboratory,91.9,mg/dL,numeric
+,,46eeff0c-9378-746f-9edd-d2f54c8a12f3,01ff346c-5993-55e4-2c14-ad60674f9029,,2339-0,Glucose [Mass/volume] in Blood,2018-06-10T23:23:36Z,laboratory,78.7,mg/dL,numeric
+,,46eeff0c-9378-746f-9edd-d2f54c8a12f3,4ddc3153-f80b-d6d4-87ad-c5b7cd725be5,,2339-0,Glucose [Mass/volume] in Blood,2020-05-17T23:23:36Z,laboratory,69.8,mg/dL,numeric
+,,46eeff0c-9378-746f-9edd-d2f54c8a12f3,00eb8e4f-7fb6-01a2-3b8c-634d279adeee,,2339-0,Glucose [Mass/volume] in Blood,2023-05-21T23:23:36Z,laboratory,77.2,mg/dL,numeric

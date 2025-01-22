@@ -1,0 +1,36 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION
+2010-03-15,,f59567cc-0d8f-dd89-1177-597e1cf641ee,3948d730-2ddc-ff8c-de73-5ea654b20944,http://snomed.info/sct,160968000,Risk activity involvement (finding)
+2011-03-21,2015-03-30,f59567cc-0d8f-dd89-1177-597e1cf641ee,aacc2a8f-f877-6379-52d8-4674c5738687,http://snomed.info/sct,314529007,Medication review due (situation)
+2011-03-21,,f59567cc-0d8f-dd89-1177-597e1cf641ee,aacc2a8f-f877-6379-52d8-4674c5738687,http://snomed.info/sct,224299000,Received higher education (finding)
+2012-03-26,2015-03-30,f59567cc-0d8f-dd89-1177-597e1cf641ee,e6bfb51a-24af-f3af-8fad-a87eaa8baec3,http://snomed.info/sct,160904001,Part-time employment (finding)
+2012-03-26,2018-04-02,f59567cc-0d8f-dd89-1177-597e1cf641ee,e6bfb51a-24af-f3af-8fad-a87eaa8baec3,http://snomed.info/sct,73595000,Stress (finding)
+2015-03-30,2018-04-02,f59567cc-0d8f-dd89-1177-597e1cf641ee,1beb769b-fc3a-7dd2-0114-ec930cc07023,http://snomed.info/sct,160903007,Full-time employment (finding)
+2016-06-22,2016-07-18,f59567cc-0d8f-dd89-1177-597e1cf641ee,8eb86e41-1f2c-04b3-4d76-4cfba9189422,http://snomed.info/sct,444814009,Viral sinusitis (disorder)
+2016-10-15,2017-02-02,f59567cc-0d8f-dd89-1177-597e1cf641ee,b6042a56-0944-e96c-19ab-05415bd4a6ba,http://snomed.info/sct,125605004,Fracture of bone (disorder)
+2016-10-15,2017-02-02,f59567cc-0d8f-dd89-1177-597e1cf641ee,b6042a56-0944-e96c-19ab-05415bd4a6ba,http://snomed.info/sct,359817006,Closed fracture of hip
+2018-04-02,2018-04-02,f59567cc-0d8f-dd89-1177-597e1cf641ee,7e045de3-e863-1320-7189-2b218f68cc69,http://snomed.info/sct,314529007,Medication review due (situation)
+2018-04-02,2020-04-13,f59567cc-0d8f-dd89-1177-597e1cf641ee,7e045de3-e863-1320-7189-2b218f68cc69,http://snomed.info/sct,160904001,Part-time employment (finding)
+2018-04-02,2019-04-08,f59567cc-0d8f-dd89-1177-597e1cf641ee,7e045de3-e863-1320-7189-2b218f68cc69,http://snomed.info/sct,423315002,Limited social contact (finding)
+2019-04-08,2024-05-06,f59567cc-0d8f-dd89-1177-597e1cf641ee,7c579c35-4317-e019-6c0a-906e71502cac,http://snomed.info/sct,314529007,Medication review due (situation)
+2019-04-11,2019-04-11,f59567cc-0d8f-dd89-1177-597e1cf641ee,43c973ba-81b3-5f63-6045-fc173371cbda,http://snomed.info/sct,74400008,Appendicitis
+2019-04-11,,f59567cc-0d8f-dd89-1177-597e1cf641ee,a1d6aea3-abb1-0203-0965-b9e775ab21d3,http://snomed.info/sct,428251008,History of appendectomy
+2020-04-13,,f59567cc-0d8f-dd89-1177-597e1cf641ee,5d9bd770-3904-66de-6f87-03d7360c9cde,http://snomed.info/sct,160903007,Full-time employment (finding)
+2020-04-13,2022-04-25,f59567cc-0d8f-dd89-1177-597e1cf641ee,5d9bd770-3904-66de-6f87-03d7360c9cde,http://snomed.info/sct,73595000,Stress (finding)
+2020-05-24,2020-05-26,f59567cc-0d8f-dd89-1177-597e1cf641ee,5d9bd770-3904-66de-6f87-03d7360c9cde,http://snomed.info/sct,307426000,Acute infective cystitis (disorder)
+2021-04-24,2021-04-24,f59567cc-0d8f-dd89-1177-597e1cf641ee,306c114c-e29f-9cac-0b34-b167cf6898ea,http://snomed.info/sct,840544004,Suspected COVID-19
+2021-04-19,2023-05-01,f59567cc-0d8f-dd89-1177-597e1cf641ee,306c114c-e29f-9cac-0b34-b167cf6898ea,http://snomed.info/sct,422650009,Social isolation (finding)
+2021-04-19,2021-05-04,f59567cc-0d8f-dd89-1177-597e1cf641ee,306c114c-e29f-9cac-0b34-b167cf6898ea,http://snomed.info/sct,66383009,Gingivitis (disorder)
+2021-04-24,2021-05-20,f59567cc-0d8f-dd89-1177-597e1cf641ee,46359114-0d5e-9be9-f348-5cad9eb4a5ed,http://snomed.info/sct,49727002,Cough (finding)
+2021-04-24,2021-05-20,f59567cc-0d8f-dd89-1177-597e1cf641ee,46359114-0d5e-9be9-f348-5cad9eb4a5ed,http://snomed.info/sct,248595008,Sputum finding (finding)
+2021-04-24,2021-05-20,f59567cc-0d8f-dd89-1177-597e1cf641ee,46359114-0d5e-9be9-f348-5cad9eb4a5ed,http://snomed.info/sct,386661006,Fever (finding)
+2021-04-24,2021-05-20,f59567cc-0d8f-dd89-1177-597e1cf641ee,46359114-0d5e-9be9-f348-5cad9eb4a5ed,http://snomed.info/sct,840539006,COVID-19
+2021-05-03,2021-05-03,f59567cc-0d8f-dd89-1177-597e1cf641ee,628eb69d-6933-3ead-3c43-41ea92a22499,http://snomed.info/sct,427898007,Infection of tooth (disorder)
+2021-05-09,2021-05-09,f59567cc-0d8f-dd89-1177-597e1cf641ee,36347914-78b0-5749-c5e6-ad413d107d64,http://snomed.info/sct,61804006,Alveolitis of jaw (disorder)
+2021-05-10,,f59567cc-0d8f-dd89-1177-597e1cf641ee,71b8d4c3-0e91-5188-3869-9c2728450464,http://snomed.info/sct,37320007,Loss of teeth (disorder)
+2021-05-10,2021-05-21,f59567cc-0d8f-dd89-1177-597e1cf641ee,71b8d4c3-0e91-5188-3869-9c2728450464,http://snomed.info/sct,1255252008,Resorption of alveolar process due to dental trauma (disorder)
+2022-04-25,2023-05-01,f59567cc-0d8f-dd89-1177-597e1cf641ee,f6b59ae0-95d8-c78a-72aa-34324a3c65be,http://snomed.info/sct,424393004,Reports of violence in the environment (finding)
+2022-04-25,2022-05-09,f59567cc-0d8f-dd89-1177-597e1cf641ee,f6b59ae0-95d8-c78a-72aa-34324a3c65be,http://snomed.info/sct,66383009,Gingivitis (disorder)
+2022-05-02,2022-05-15,f59567cc-0d8f-dd89-1177-597e1cf641ee,d294e283-e2c2-3481-c9b7-aedfad9fcaa6,http://snomed.info/sct,444814009,Viral sinusitis (disorder)
+2023-05-01,,f59567cc-0d8f-dd89-1177-597e1cf641ee,bfcd5283-0972-9a6e-ecfa-a95efef4b457,http://snomed.info/sct,73595000,Stress (finding)
+2023-05-01,2024-05-06,f59567cc-0d8f-dd89-1177-597e1cf641ee,bfcd5283-0972-9a6e-ecfa-a95efef4b457,http://snomed.info/sct,706893006,Victim of intimate partner abuse (finding)
+2023-05-21,2023-05-29,f59567cc-0d8f-dd89-1177-597e1cf641ee,6e113328-604d-3728-8720-592104aa2105,http://snomed.info/sct,195662009,Acute viral pharyngitis (disorder)

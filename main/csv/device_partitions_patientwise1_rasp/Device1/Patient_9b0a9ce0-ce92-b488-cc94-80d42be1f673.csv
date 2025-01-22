@@ -1,0 +1,10 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2022-09-05,,9b0a9ce0-ce92-b488-cc94-80d42be1f673,1ce0e91f-bc90-c565-81fa-e102076b552e,http://snomed.info/sct,431855005,Chronic kidney disease stage 1 (disorder),,,,,
+,,9b0a9ce0-ce92-b488-cc94-80d42be1f673,1ce0e91f-bc90-c565-81fa-e102076b552e,,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2022-09-05T17:31:30Z,laboratory,1.5,mg/dL,numeric
+,,9b0a9ce0-ce92-b488-cc94-80d42be1f673,1ce0e91f-bc90-c565-81fa-e102076b552e,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2022-09-05T17:31:30Z,laboratory,93.5,mL/min/{1.73_m2},numeric
+,,9b0a9ce0-ce92-b488-cc94-80d42be1f673,1a76aab3-3e31-c77e-abde-84fc36522e4d,,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2023-09-11T17:31:30Z,laboratory,1.7,mg/dL,numeric
+,,9b0a9ce0-ce92-b488-cc94-80d42be1f673,1a76aab3-3e31-c77e-abde-84fc36522e4d,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2023-09-11T17:31:30Z,laboratory,149.0,mL/min/{1.73_m2},numeric
+,,9b0a9ce0-ce92-b488-cc94-80d42be1f673,55ff1730-04f7-c70b-71c8-beff4ef0f545,,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2024-02-19T17:31:30Z,laboratory,1.6,mg/dL,numeric
+,,9b0a9ce0-ce92-b488-cc94-80d42be1f673,55ff1730-04f7-c70b-71c8-beff4ef0f545,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2024-02-19T17:31:30Z,laboratory,94.6,mL/min/{1.73_m2},numeric
+,,9b0a9ce0-ce92-b488-cc94-80d42be1f673,484be4e2-636d-68ab-a028-bae471acb1ef,,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2024-09-16T17:31:30Z,laboratory,1.7,mg/dL,numeric
+,,9b0a9ce0-ce92-b488-cc94-80d42be1f673,484be4e2-636d-68ab-a028-bae471acb1ef,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2024-09-16T17:31:30Z,laboratory,101.5,mL/min/{1.73_m2},numeric

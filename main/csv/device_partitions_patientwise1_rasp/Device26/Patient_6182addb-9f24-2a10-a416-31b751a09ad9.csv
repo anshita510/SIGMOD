@@ -1,0 +1,26 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2016-05-17,,6182addb-9f24-2a10-a416-31b751a09ad9,2a3dba5b-21c0-d0e9-007f-3dbc3d9fb97a,http://snomed.info/sct,59621000,Essential hypertension (disorder),,,,,
+,,6182addb-9f24-2a10-a416-31b751a09ad9,2a3dba5b-21c0-d0e9-007f-3dbc3d9fb97a,,8462-4,Diastolic Blood Pressure,2016-05-17T16:35:45Z,vital-signs,99.0,mm[Hg],numeric
+,,6182addb-9f24-2a10-a416-31b751a09ad9,2a3dba5b-21c0-d0e9-007f-3dbc3d9fb97a,,8480-6,Systolic Blood Pressure,2016-05-17T16:35:45Z,vital-signs,130.0,mm[Hg],numeric
+,,6182addb-9f24-2a10-a416-31b751a09ad9,f7647231-d81b-e4ee-2395-66c59ea9b968,,8462-4,Diastolic Blood Pressure,2016-06-16T16:35:45Z,vital-signs,86.0,mm[Hg],numeric
+,,6182addb-9f24-2a10-a416-31b751a09ad9,f7647231-d81b-e4ee-2395-66c59ea9b968,,8480-6,Systolic Blood Pressure,2016-06-16T16:35:45Z,vital-signs,106.0,mm[Hg],numeric
+,,6182addb-9f24-2a10-a416-31b751a09ad9,3570baff-56f1-e8c6-41e5-76458a9228d7,,8462-4,Diastolic Blood Pressure,2016-08-15T16:35:45Z,vital-signs,75.0,mm[Hg],numeric
+,,6182addb-9f24-2a10-a416-31b751a09ad9,3570baff-56f1-e8c6-41e5-76458a9228d7,,8480-6,Systolic Blood Pressure,2016-08-15T16:35:45Z,vital-signs,101.0,mm[Hg],numeric
+,,6182addb-9f24-2a10-a416-31b751a09ad9,b7ebce91-338b-9fcd-b66b-4cab912370c9,,8462-4,Diastolic Blood Pressure,2016-10-14T16:35:45Z,vital-signs,73.0,mm[Hg],numeric
+,,6182addb-9f24-2a10-a416-31b751a09ad9,b7ebce91-338b-9fcd-b66b-4cab912370c9,,8480-6,Systolic Blood Pressure,2016-10-14T16:35:45Z,vital-signs,101.0,mm[Hg],numeric
+,,6182addb-9f24-2a10-a416-31b751a09ad9,42f4a598-1f60-97f5-1f6f-2fd9f6ea9c01,,8462-4,Diastolic Blood Pressure,2017-05-23T16:35:45Z,vital-signs,65.0,mm[Hg],numeric
+,,6182addb-9f24-2a10-a416-31b751a09ad9,42f4a598-1f60-97f5-1f6f-2fd9f6ea9c01,,8480-6,Systolic Blood Pressure,2017-05-23T16:35:45Z,vital-signs,95.0,mm[Hg],numeric
+,,6182addb-9f24-2a10-a416-31b751a09ad9,a72398ed-55be-31d0-c7ef-8171de81f268,,8462-4,Diastolic Blood Pressure,2018-05-29T16:35:45Z,vital-signs,64.0,mm[Hg],numeric
+,,6182addb-9f24-2a10-a416-31b751a09ad9,a72398ed-55be-31d0-c7ef-8171de81f268,,8480-6,Systolic Blood Pressure,2018-05-29T16:35:45Z,vital-signs,90.0,mm[Hg],numeric
+,,6182addb-9f24-2a10-a416-31b751a09ad9,336669c0-cb95-9aa3-66d1-728d872192bf,,8462-4,Diastolic Blood Pressure,2019-06-04T16:35:45Z,vital-signs,66.0,mm[Hg],numeric
+,,6182addb-9f24-2a10-a416-31b751a09ad9,336669c0-cb95-9aa3-66d1-728d872192bf,,8480-6,Systolic Blood Pressure,2019-06-04T16:35:45Z,vital-signs,90.0,mm[Hg],numeric
+,,6182addb-9f24-2a10-a416-31b751a09ad9,39ed34fd-5175-8581-8797-4e4e4532784d,,8462-4,Diastolic Blood Pressure,2020-06-09T16:35:45Z,vital-signs,67.0,mm[Hg],numeric
+,,6182addb-9f24-2a10-a416-31b751a09ad9,39ed34fd-5175-8581-8797-4e4e4532784d,,8480-6,Systolic Blood Pressure,2020-06-09T16:35:45Z,vital-signs,89.0,mm[Hg],numeric
+,,6182addb-9f24-2a10-a416-31b751a09ad9,ec2fc313-518a-4c61-92af-48b001221489,,8462-4,Diastolic Blood Pressure,2021-06-15T16:35:45Z,vital-signs,68.0,mm[Hg],numeric
+,,6182addb-9f24-2a10-a416-31b751a09ad9,ec2fc313-518a-4c61-92af-48b001221489,,8480-6,Systolic Blood Pressure,2021-06-15T16:35:45Z,vital-signs,95.0,mm[Hg],numeric
+,,6182addb-9f24-2a10-a416-31b751a09ad9,bd24f0f5-adb6-6a4b-b0cc-f54a258c4512,,8462-4,Diastolic Blood Pressure,2022-06-21T16:35:45Z,vital-signs,65.0,mm[Hg],numeric
+,,6182addb-9f24-2a10-a416-31b751a09ad9,bd24f0f5-adb6-6a4b-b0cc-f54a258c4512,,8480-6,Systolic Blood Pressure,2022-06-21T16:35:45Z,vital-signs,93.0,mm[Hg],numeric
+,,6182addb-9f24-2a10-a416-31b751a09ad9,18fa9a80-7eda-9d88-ce9c-45b2077e233a,,8462-4,Diastolic Blood Pressure,2023-06-27T16:35:45Z,vital-signs,69.0,mm[Hg],numeric
+,,6182addb-9f24-2a10-a416-31b751a09ad9,18fa9a80-7eda-9d88-ce9c-45b2077e233a,,8480-6,Systolic Blood Pressure,2023-06-27T16:35:45Z,vital-signs,91.0,mm[Hg],numeric
+,,6182addb-9f24-2a10-a416-31b751a09ad9,06922e6c-66d6-c75f-67f1-5e9dae8c2c4e,,8462-4,Diastolic Blood Pressure,2024-07-02T16:35:45Z,vital-signs,69.0,mm[Hg],numeric
+,,6182addb-9f24-2a10-a416-31b751a09ad9,06922e6c-66d6-c75f-67f1-5e9dae8c2c4e,,8480-6,Systolic Blood Pressure,2024-07-02T16:35:45Z,vital-signs,92.0,mm[Hg],numeric

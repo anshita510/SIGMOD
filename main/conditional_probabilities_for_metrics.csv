@@ -1,0 +1,1930 @@
+metric,condition,conditional_probability
+Heart rate,Medication review due (situation),0.21285914187580643
+Heart rate,Stress (finding),0.08283206425936358
+Heart rate,Gingivitis (disorder),0.07710760172279063
+Heart rate,Full-time employment (finding),0.07336398495284133
+Heart rate,Part-time employment (finding),0.047249532047903754
+Heart rate,Social isolation (finding),0.02791356970214622
+Heart rate,Limited social contact (finding),0.027713667835789702
+Heart rate,Not in labor force (finding),0.026786850091773128
+Heart rate,Gingival disease (disorder),0.023170443600414342
+Heart rate,Viral sinusitis (disorder),0.021080560452141676
+Heart rate,Victim of intimate partner abuse (finding),0.01786395769349592
+Heart rate,Primary dental caries (disorder),0.017191560506660368
+Heart rate,Reports of violence in the environment (finding),0.01599214930852127
+Heart rate,Acute viral pharyngitis (disorder),0.01283006524070002
+Heart rate,Received higher education (finding),0.012230359641630472
+Heart rate,Unemployed (finding),0.011085467134315881
+Heart rate,Acute bronchitis (disorder),0.010013266214767296
+Heart rate,Normal pregnancy,0.009613462482054264
+Heart rate,Body mass index 30+ - obesity (finding),0.009140967161575227
+Heart rate,Essential hypertension (disorder),0.008904719501335707
+Heart rate,Prediabetes,0.0075599251276646014
+Heart rate,Anemia (disorder),0.0071782942918930705
+Heart rate,Risk activity involvement (finding),0.005778981227397459
+Heart rate,Transport problem (finding),0.005251967216093918
+Heart rate,Lack of access to transportation (finding),0.005215621422210915
+Heart rate,Infection of tooth (disorder),0.0051611027313864105
+Heart rate,Has a criminal record (finding),0.0049066821742053904
+Heart rate,Unhealthy alcohol drinking behavior (finding),0.004833990586439385
+Heart rate,Chronic pain (finding),0.0047794718956148795
+Heart rate,Disorder of kidney due to diabetes mellitus (disorder),0.004706780307848874
+Heart rate,Metabolic syndrome X (disorder),0.004452359750667854
+Heart rate,Chronic sinusitis (disorder),0.004416013956784851
+Heart rate,Chronic kidney disease stage 1 (disorder),0.0043978410598433494
+Heart rate,Chronic low back pain (finding),0.004361495265960347
+Heart rate,Microalbuminuria due to type 2 diabetes mellitus (disorder),0.004161593399603831
+Heart rate,Chronic kidney disease stage 2 (disorder),0.0039798644301888165
+Heart rate,Past pregnancy history of miscarriage (situation),0.003925345739364312
+Heart rate,Dental filling lost (finding),0.003834481254656805
+Heart rate,Severe anxiety (panic) (finding),0.003798135460773802
+Heart rate,Housing unsatisfactory (finding),0.003689098079124793
+Heart rate,Loose dental filling (finding),0.0035800606974757845
+Heart rate,Otitis media,0.0035255420066512802
+Heart rate,Loss of teeth (disorder),0.00339833172806077
+Heart rate,Sprain (morphologic abnormality),0.00339833172806077
+Heart rate,Abnormal findings diagnostic imaging heart+coronary circulat (finding),0.0033619859341777673
+Heart rate,Leaking dental filling (finding),0.003307467243353263
+Heart rate,Ischemic heart disease (disorder),0.0032892943464117616
+Heart rate,Fractured dental filling (finding),0.0032529485525287587
+Heart rate,Suspected COVID-19,0.003180256964762753
+Heart rate,Received certificate of high school equivalency (finding),0.0031257382739382487
+Heart rate,Laceration - injury (disorder),0.0031075653769967473
+Heart rate,Proteinuria due to type 2 diabetes mellitus (disorder),0.0030530466861722425
+Heart rate,COVID-19,0.0030530466861722425
+Heart rate,Acute infective cystitis (disorder),0.0029985279953477382
+Heart rate,Streptococcal sore throat (disorder),0.002944009304523234
+Heart rate,Fever (finding),0.0029258364075817325
+Heart rate,Fracture of bone (disorder),0.002871317716757228
+Heart rate,Chronic kidney disease stage 3 (disorder),0.0028531448198157268
+Heart rate,Chronic neck pain (finding),0.0027622803351082196
+Heart rate,Sprain of ankle,0.0024715139840441967
+Heart rate,Misuses drugs (finding),0.0024715139840441967
+Heart rate,Drug overdose,0.002435168190161194
+Heart rate,Cough (finding),0.0019444999727406547
+Heart rate,Refugee (person),0.0019263270757991532
+Heart rate,Hyperlipidemia,0.0019081541788576518
+Heart rate,Awaiting transplantation of kidney (situation),0.0018718083849746487
+Heart rate,Chronic kidney disease stage 4 (disorder),0.0017809439002671415
+Heart rate,History of tubal ligation (situation),0.0017627710033256401
+Heart rate,History of renal transplant (situation),0.0017082523125011358
+Heart rate,Loss of taste (finding),0.0016900794155596344
+Heart rate,Concussion injury of brain (disorder),0.0016900794155596344
+Heart rate,Only received primary school education (finding),0.0015992149308521272
+Heart rate,Polyp of colon,0.001544696240027623
+Heart rate,Sinusitis (disorder),0.001472004652261617
+Heart rate,Acute bacterial sinusitis (disorder),0.001472004652261617
+Heart rate,Diabetes mellitus type 2 (disorder),0.0014174859614371127
+Heart rate,Hypertriglyceridemia (disorder),0.0013811401675541098
+Heart rate,History of coronary artery bypass grafting (situation),0.0013629672706126084
+Heart rate,Miscarriage in first trimester,0.001344794373671107
+Heart rate,Fatigue (finding),0.0013266214767296055
+Heart rate,Served in armed forces (finding),0.0012721027859051012
+Heart rate,History of appendectomy,0.0012721027859051012
+Heart rate,Injury of neck (disorder),0.001217584095080597
+Heart rate,Whiplash injury to neck,0.001217584095080597
+Heart rate,Concussion with no loss of consciousness,0.001144892507314591
+Heart rate,Sleep disorder (disorder),0.0010540280226070838
+Heart rate,Sputum finding (finding),0.0009995093317825795
+Heart rate,Osteoarthritis of knee,0.000981336434841078
+Heart rate,Alveolitis of jaw (disorder),0.000981336434841078
+Heart rate,End-stage renal disease (disorder),0.000981336434841078
+Heart rate,Chronic intractable migraine without aura,0.0009449906409580752
+Heart rate,Dependent drug abuse (disorder),0.0009449906409580752
+Heart rate,History of myocardial infarction (situation),0.0009449906409580752
+Heart rate,Impacted molars,0.0009268177440165736
+Heart rate,Sprain of wrist,0.0009268177440165736
+Heart rate,Chronic pain,0.0009086448470750722
+Heart rate,Burn injury (morphologic abnormality),0.0009086448470750722
+Heart rate,Recurrent urinary tract infection (disorder),0.0008359532593090665
+Heart rate,Dyspnea (finding),0.000817780362367565
+Heart rate,Wheezing (finding),0.000817780362367565
+Heart rate,Complete miscarriage (disorder),0.0007814345684845622
+Heart rate,Pneumonia (disorder),0.0007632616715430606
+Heart rate,Obstructive sleep apnea syndrome (disorder),0.0007632616715430606
+Heart rate,Osteoporosis (disorder),0.0007450887746015592
+Heart rate,Respiratory distress (finding),0.0007450887746015592
+Heart rate,Hypoxemia (disorder),0.0007450887746015592
+Heart rate,Laceration of thigh,0.0007269158776600578
+Heart rate,History of single seizure (situation),0.0006723971868355535
+Heart rate,Fracture of clavicle,0.0006723971868355535
+Heart rate,Seizure disorder,0.0006723971868355535
+Heart rate,Laceration of hand,0.000654224289894052
+Heart rate,Laceration of forearm,0.000654224289894052
+Heart rate,Hyperglycemia (disorder),0.0006360513929525506
+Heart rate,Fracture of ankle,0.0006360513929525506
+Heart rate,Facial laceration,0.0005997055990695476
+Heart rate,Childhood asthma,0.0005815327021280462
+Heart rate,Fracture subluxation of wrist,0.0005633598051865448
+Heart rate,Perennial allergic rhinitis,0.0005451869082450433
+Heart rate,Sepsis (disorder),0.0005451869082450433
+Heart rate,Fracture of forearm,0.0005451869082450433
+Heart rate,Fibromyalgia (disorder),0.0005270140113035419
+Heart rate,Headache (finding),0.0005270140113035419
+Heart rate,Child attention deficit disorder,0.0005088411143620405
+Heart rate,Antepartum eclampsia,0.0005088411143620405
+Heart rate,Preeclampsia,0.0005088411143620405
+Heart rate,Neuropathy due to type 2 diabetes mellitus (disorder),0.0005088411143620405
+Heart rate,Epidermal burn of skin (disorder),0.0005088411143620405
+Heart rate,Chill (finding),0.0005088411143620405
+Heart rate,Joint pain (finding),0.000490668217420539
+Heart rate,Muscle pain (finding),0.000490668217420539
+Heart rate,Osteoarthritis of hip,0.000490668217420539
+Heart rate,Laceration of foot,0.0004724953204790376
+Heart rate,Acute non-ST segment elevation myocardial infarction (disorder),0.0004724953204790376
+Heart rate,Myocardial infarction (disorder),0.0004543224235375361
+Heart rate,Acute ST segment elevation myocardial infarction (disorder),0.0004543224235375361
+Heart rate,Injury of knee (disorder),0.00043614952659603467
+Heart rate,Sore throat symptom (finding),0.00043614952659603467
+Heart rate,Resorption of alveolar process due to dental trauma (disorder),0.00043614952659603467
+Heart rate,Alzheimer's disease (disorder),0.00043614952659603467
+Heart rate,Recurrent rectal polyp,0.00041797662965453324
+Heart rate,Suspected prostate cancer (situation),0.00041797662965453324
+Heart rate,Injury of tendon of the rotator cuff of shoulder,0.00041797662965453324
+Heart rate,Concussion with loss of consciousness,0.00041797662965453324
+Heart rate,Epilepsy,0.0003998037327130318
+Heart rate,Atopic dermatitis,0.0003998037327130318
+Heart rate,Blighted ovum,0.0003816308357715303
+Heart rate,Carcinoma in situ of prostate (disorder),0.0003816308357715303
+Heart rate,Chronic congestive heart failure (disorder),0.0003816308357715303
+Heart rate,Neoplasm of prostate,0.0003816308357715303
+Heart rate,Retinopathy due to type 2 diabetes mellitus (disorder),0.0003816308357715303
+Heart rate,Perennial allergic rhinitis with seasonal variation,0.0003634579388300289
+Heart rate,Sterilization requested (situation),0.00034528504188852745
+Heart rate,Second degree burn,0.000327112144947026
+Heart rate,Fracture of rib,0.000327112144947026
+Heart rate,Localized  primary osteoarthritis of the hand,0.000327112144947026
+Heart rate,Sepsis caused by virus (disorder),0.000327112144947026
+Heart rate,Malignant neoplasm of breast (disorder),0.000327112144947026
+Heart rate,Torus palatinus (disorder),0.0003089392480055246
+Heart rate,Acute respiratory failure (disorder),0.0003089392480055246
+Heart rate,Sleep apnea (disorder),0.0002907663510640231
+Heart rate,Homeless (finding),0.0002907663510640231
+Heart rate,Smokes tobacco daily,0.0002907663510640231
+Heart rate,Miscarriage in second trimester,0.00027259345412252166
+Heart rate,Appendicitis,0.00025442055718102023
+Heart rate,Pulmonary emphysema (disorder),0.00025442055718102023
+Heart rate,Nasal congestion (finding),0.00025442055718102023
+Heart rate,Seasonal allergic rhinitis,0.0002362476602395188
+Heart rate,Chronic obstructive bronchitis (disorder),0.0002362476602395188
+Heart rate,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder),0.0002362476602395188
+Heart rate,Gout,0.0002362476602395188
+Heart rate,Acute deep venous thrombosis (disorder),0.0002362476602395188
+Heart rate,Fetus with chromosomal abnormality,0.00021807476329801733
+Heart rate,Acute pulmonary embolism (disorder),0.00021807476329801733
+Heart rate,Transformed migraine (disorder),0.00021807476329801733
+Heart rate,Alcoholism,0.00021807476329801733
+Heart rate,Acute allergic reaction,0.00021807476329801733
+Heart rate,Bullet wound,0.0001999018663565159
+Heart rate,Acute respiratory distress syndrome (disorder),0.0001999018663565159
+Heart rate,Gunshot wound (disorder),0.0001999018663565159
+Heart rate,Atrial fibrillation (disorder),0.0001999018663565159
+Heart rate,Tubal pregnancy,0.00018172896941501444
+Heart rate,Opioid abuse (disorder),0.00018172896941501444
+Heart rate,Pathological fracture due to osteoporosis (disorder),0.00018172896941501444
+Heart rate,Septic shock (disorder),0.000163556072473513
+Heart rate,Diarrhea symptom (finding),0.000163556072473513
+Heart rate,Brain damage - traumatic,0.000163556072473513
+Heart rate,Suspected lung cancer (situation),0.000163556072473513
+Heart rate,Major depression disorder,0.000163556072473513
+Heart rate,Injury of medial collateral ligament of knee,0.00014538317553201155
+Heart rate,Body mass index 40+ - severely obese (finding),0.00014538317553201155
+Heart rate,Aortic valve regurgitation (disorder),0.00014538317553201155
+Heart rate,Familial Alzheimer's disease of early onset (disorder),0.00014538317553201155
+Heart rate,Non-small cell carcinoma of lung  TNM stage 1 (disorder),0.00014538317553201155
+Heart rate,Mitral valve regurgitation (disorder),0.00014538317553201155
+Heart rate,Non-small cell lung cancer (disorder),0.00014538317553201155
+Heart rate,Closed fracture of hip,0.00012721027859051011
+Heart rate,Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder),0.00012721027859051011
+Heart rate,Vomiting symptom (finding),0.00012721027859051011
+Heart rate,Nausea (finding),0.00012721027859051011
+Heart rate,Malignant tumor of colon,0.00010903738164900867
+Heart rate,Cholelithiasis,0.00010903738164900867
+Heart rate,History of aortic valve replacement (situation),0.00010903738164900867
+Heart rate,Injury of kidney (disorder),0.00010903738164900867
+Heart rate,Rupture of patellar tendon,0.00010903738164900867
+Heart rate,Primary malignant neoplasm of colon,0.00010903738164900867
+Heart rate,Primary fibromyalgia syndrome,0.00010903738164900867
+Heart rate,Acute Cholecystitis,0.00010903738164900867
+Heart rate,Stroke,0.00010903738164900867
+Heart rate,Died in hospice (finding),0.00010903738164900867
+Heart rate,Pyelonephritis,9.086448470750722e-05
+Heart rate,Pulmonic valve stenosis (disorder),9.086448470750722e-05
+Heart rate,Tear of meniscus of knee,9.086448470750722e-05
+Heart rate,Contact dermatitis,9.086448470750722e-05
+Heart rate,Injury of anterior cruciate ligament,9.086448470750722e-05
+Heart rate,Traumatic dislocation of temporomandibular joint (disorder),9.086448470750722e-05
+Heart rate,Bleeding from anus,9.086448470750722e-05
+Heart rate,Fracture of mandible (disorder),9.086448470750722e-05
+Heart rate,Protracted diarrhea,9.086448470750722e-05
+Heart rate,Aortic valve stenosis (disorder),9.086448470750722e-05
+Heart rate,Traumatic injury of spinal cord and/or vertebral column (disorder),7.269158776600577e-05
+Heart rate,Idiopathic atrophic hypothyroidism,7.269158776600577e-05
+Heart rate,Pneumonia,7.269158776600577e-05
+Heart rate,Third degree burn,7.269158776600577e-05
+Heart rate,Cerebral palsy (disorder),7.269158776600577e-05
+Heart rate,Kidney transplant failure and rejection (disorder),7.269158776600577e-05
+Heart rate,Overlapping malignant neoplasm of colon,7.269158776600577e-05
+Heart rate,Passive conjunctival congestion (finding),7.269158776600577e-05
+Heart rate,Infectious mediastinitis (disorder),7.269158776600577e-05
+Heart rate,Renal dysplasia (disorder),7.269158776600577e-05
+Heart rate,Macular edema and retinopathy due to type 2 diabetes mellitus (disorder),7.269158776600577e-05
+Heart rate,Metastasis from malignant tumor of prostate (disorder),7.269158776600577e-05
+Heart rate,Awaiting transplantation of bone marrow (situation),5.4518690824504334e-05
+Heart rate,Fracture of the vertebral column with spinal cord injury,5.4518690824504334e-05
+Heart rate,Leukemia  disease (disorder),5.4518690824504334e-05
+Heart rate,Gastroesophageal reflux disease (disorder),5.4518690824504334e-05
+Heart rate,Spasticity (finding),5.4518690824504334e-05
+Heart rate,Rupture of appendix,5.4518690824504334e-05
+Heart rate,History of autologous bone marrow transplant (situation),5.4518690824504334e-05
+Heart rate,Excessive salivation (disorder),5.4518690824504334e-05
+Heart rate,Intellectual disability (disorder),5.4518690824504334e-05
+Heart rate,Tongue tie (disorder),5.4518690824504334e-05
+Heart rate,Heart failure (disorder),5.4518690824504334e-05
+Heart rate,History of artificial joint (situation),3.634579388300289e-05
+Heart rate,Acquired coagulation disorder (disorder),3.634579388300289e-05
+Heart rate,Hemoptysis (finding),3.634579388300289e-05
+Heart rate,Multiple myeloma (disorder),3.634579388300289e-05
+Heart rate,Injury of heart (disorder),3.634579388300289e-05
+Heart rate,Dribbling from mouth (finding),3.634579388300289e-05
+Heart rate,Unable to swallow saliva (finding),3.634579388300289e-05
+Heart rate,Complication occuring during pregnancy,3.634579388300289e-05
+Heart rate,History of peripheral stem cell transplant (situation),3.634579388300289e-05
+Heart rate,Social migrant (finding),3.634579388300289e-05
+Heart rate,Poor muscle tone (finding),3.634579388300289e-05
+Heart rate,Secondary malignant neoplasm of colon,3.634579388300289e-05
+Heart rate,Human immunodeficiency virus infection (disorder),3.634579388300289e-05
+Heart rate,Chronic paralysis due to lesion of spinal cord,1.8172896941501443e-05
+Heart rate,History of amputation of foot (situation),1.8172896941501443e-05
+Heart rate,Traumatic brain injury (disorder),1.8172896941501443e-05
+Heart rate,Congenital uterine anomaly,1.8172896941501443e-05
+Heart rate,Dislocation of hip joint (disorder),1.8172896941501443e-05
+Heart rate,Constipation (finding),1.8172896941501443e-05
+Heart rate,Small cell carcinoma of lung (disorder),1.8172896941501443e-05
+Heart rate,Asthma,1.8172896941501443e-05
+Heart rate,Preinfarction syndrome (disorder),1.8172896941501443e-05
+Heart rate,Acquired immune deficiency syndrome (disorder),1.8172896941501443e-05
+Heart rate,History of aortic valve repair (situation),1.8172896941501443e-05
+Heart rate,Primary small cell malignant neoplasm of lung  TNM stage 1 (disorder),1.8172896941501443e-05
+Heart rate,Rheumatoid arthritis,1.8172896941501443e-05
+Heart rate,Major depression  single episode,1.8172896941501443e-05
+Heart rate,Fracture of vertebral column without spinal cord injury,1.8172896941501443e-05
+Heart rate,Dystonia (disorder),1.8172896941501443e-05
+Heart rate,Retention of urine (disorder),1.8172896941501443e-05
+Heart rate,At risk for suicide (finding),1.8172896941501443e-05
+Heart rate,Posttraumatic stress disorder,1.8172896941501443e-05
+Heart rate,Pain (finding),1.8172896941501443e-05
+Heart rate,Epilepsy (disorder),1.8172896941501443e-05
+Heart rate,Bacterial infectious disease (disorder),1.8172896941501443e-05
+Heart rate,Toxoplasma gondii antibody positive (finding),1.8172896941501443e-05
+Systolic Blood Pressure,Medication review due (situation),0.18442831927828987
+Systolic Blood Pressure,Stress (finding),0.0782506373798784
+Systolic Blood Pressure,Gingivitis (disorder),0.07330849186114924
+Systolic Blood Pressure,Full-time employment (finding),0.07244557756422829
+Systolic Blood Pressure,Part-time employment (finding),0.04467542655422632
+Systolic Blood Pressure,Social isolation (finding),0.028280054912727986
+Systolic Blood Pressure,Limited social contact (finding),0.02741714061580702
+Systolic Blood Pressure,Viral sinusitis (disorder),0.02671111982741714
+Systolic Blood Pressure,Not in labor force (finding),0.02384781329672485
+Systolic Blood Pressure,Gingival disease (disorder),0.02208276132575015
+Systolic Blood Pressure,Victim of intimate partner abuse (finding),0.017532849578348695
+Systolic Blood Pressure,Normal pregnancy,0.016826828789958816
+Systolic Blood Pressure,Received higher education (finding),0.016669935281427732
+Systolic Blood Pressure,Primary dental caries (disorder),0.015846244361639537
+Systolic Blood Pressure,Acute viral pharyngitis (disorder),0.015454010590311826
+Systolic Blood Pressure,Reports of violence in the environment (finding),0.01455187291625809
+Systolic Blood Pressure,Essential hypertension (disorder),0.01419886252206315
+Systolic Blood Pressure,Unemployed (finding),0.013335948225142185
+Systolic Blood Pressure,Body mass index 30+ - obesity (finding),0.011923906648362424
+Systolic Blood Pressure,Acute bronchitis (disorder),0.011570896254167485
+Systolic Blood Pressure,Prediabetes,0.010119631300254952
+Systolic Blood Pressure,Anemia (disorder),0.00902137674053736
+Systolic Blood Pressure,Risk activity involvement (finding),0.008236909197881937
+Systolic Blood Pressure,Transport problem (finding),0.006471857226907237
+Systolic Blood Pressure,Lack of access to transportation (finding),0.0063541870955089235
+Systolic Blood Pressure,Chronic pain (finding),0.005805059815650128
+Systolic Blood Pressure,Housing unsatisfactory (finding),0.005295155912924103
+Systolic Blood Pressure,Unhealthy alcohol drinking behavior (finding),0.005295155912924103
+Systolic Blood Pressure,Infection of tooth (disorder),0.005255932535791332
+Systolic Blood Pressure,Has a criminal record (finding),0.00521670915865856
+Systolic Blood Pressure,Chronic low back pain (finding),0.005020592272994705
+Systolic Blood Pressure,Metabolic syndrome X (disorder),0.004981368895861934
+Systolic Blood Pressure,Past pregnancy history of miscarriage (situation),0.004902922141596391
+Systolic Blood Pressure,Acute infective cystitis (disorder),0.0048636987644636205
+Systolic Blood Pressure,Chronic sinusitis (disorder),0.004589135124534223
+Systolic Blood Pressure,Received certificate of high school equivalency (finding),0.004353794861737596
+Systolic Blood Pressure,Disorder of kidney due to diabetes mellitus (disorder),0.004236124730339282
+Systolic Blood Pressure,Sprain (morphologic abnormality),0.004196901353206511
+Systolic Blood Pressure,Chronic kidney disease stage 1 (disorder),0.0037654442047460285
+Systolic Blood Pressure,Dental filling lost (finding),0.0036477740733477154
+Systolic Blood Pressure,Loss of teeth (disorder),0.003608550696214944
+Systolic Blood Pressure,Chronic neck pain (finding),0.003530103941949402
+Systolic Blood Pressure,Laceration - injury (disorder),0.0034516571876838597
+Systolic Blood Pressure,Loose dental filling (finding),0.0034124338105510884
+Systolic Blood Pressure,Severe anxiety (panic) (finding),0.0034124338105510884
+Systolic Blood Pressure,Otitis media,0.003333987056285546
+Systolic Blood Pressure,Drug overdose,0.003333987056285546
+Systolic Blood Pressure,Microalbuminuria due to type 2 diabetes mellitus (disorder),0.003294763679152775
+Systolic Blood Pressure,Fracture of bone (disorder),0.0031770935477544618
+Systolic Blood Pressure,Misuses drugs (finding),0.0030594234163561483
+Systolic Blood Pressure,Sprain of ankle,0.0030594234163561483
+Systolic Blood Pressure,Chronic kidney disease stage 2 (disorder),0.002980976662090606
+Systolic Blood Pressure,Streptococcal sore throat (disorder),0.0029417532849578347
+Systolic Blood Pressure,Leaking dental filling (finding),0.002902529907825064
+Systolic Blood Pressure,Fractured dental filling (finding),0.002902529907825064
+Systolic Blood Pressure,Abnormal findings diagnostic imaging heart+coronary circulat (finding),0.002706413022161208
+Systolic Blood Pressure,Ischemic heart disease (disorder),0.002627966267895666
+Systolic Blood Pressure,History of tubal ligation (situation),0.002471072759364581
+Systolic Blood Pressure,Proteinuria due to type 2 diabetes mellitus (disorder),0.0024318493822318103
+Systolic Blood Pressure,Suspected COVID-19,0.0024318493822318103
+Systolic Blood Pressure,Fever (finding),0.0023141792508334967
+Systolic Blood Pressure,COVID-19,0.0023141792508334967
+Systolic Blood Pressure,Chronic kidney disease stage 3 (disorder),0.0022357324965679545
+Systolic Blood Pressure,Concussion injury of brain (disorder),0.0018827221023730142
+Systolic Blood Pressure,Refugee (person),0.0018434987252402431
+Systolic Blood Pressure,Cough (finding),0.001765051970974701
+Systolic Blood Pressure,Only received primary school education (finding),0.001765051970974701
+Systolic Blood Pressure,Miscarriage in first trimester,0.0016866052167091587
+Systolic Blood Pressure,Sinusitis (disorder),0.0015689350853108452
+Systolic Blood Pressure,Diabetes mellitus type 2 (disorder),0.001490488331045303
+Systolic Blood Pressure,Loss of taste (finding),0.0014120415767797608
+Systolic Blood Pressure,Awaiting transplantation of kidney (situation),0.0014120415767797608
+Systolic Blood Pressure,Hypertriglyceridemia (disorder),0.0014120415767797608
+Systolic Blood Pressure,Chronic kidney disease stage 4 (disorder),0.0013728181996469895
+Systolic Blood Pressure,Polyp of colon,0.0013728181996469895
+Systolic Blood Pressure,Sleep disorder (disorder),0.0013335948225142184
+Systolic Blood Pressure,Injury of neck (disorder),0.0013335948225142184
+Systolic Blood Pressure,Acute bacterial sinusitis (disorder),0.0013335948225142184
+Systolic Blood Pressure,Hyperlipidemia,0.0013335948225142184
+Systolic Blood Pressure,Whiplash injury to neck,0.0013335948225142184
+Systolic Blood Pressure,Served in armed forces (finding),0.0012551480682486762
+Systolic Blood Pressure,Concussion with no loss of consciousness,0.0012551480682486762
+Systolic Blood Pressure,History of renal transplant (situation),0.0012551480682486762
+Systolic Blood Pressure,Recurrent urinary tract infection (disorder),0.0012551480682486762
+Systolic Blood Pressure,History of appendectomy,0.0012159246911159051
+Systolic Blood Pressure,Alveolitis of jaw (disorder),0.0012159246911159051
+Systolic Blood Pressure,Sprain of wrist,0.0011374779368503627
+Systolic Blood Pressure,Sterilization requested (situation),0.0010590311825848205
+Systolic Blood Pressure,Complete miscarriage (disorder),0.0010590311825848205
+Systolic Blood Pressure,History of coronary artery bypass grafting (situation),0.0010198078054520494
+Systolic Blood Pressure,Burn injury (morphologic abnormality),0.0010198078054520494
+Systolic Blood Pressure,Obstructive sleep apnea syndrome (disorder),0.0010198078054520494
+Systolic Blood Pressure,Sepsis (disorder),0.0010198078054520494
+Systolic Blood Pressure,Fatigue (finding),0.0009805844283192783
+Systolic Blood Pressure,Dependent drug abuse (disorder),0.0009805844283192783
+Systolic Blood Pressure,Impacted molars,0.0009805844283192783
+Systolic Blood Pressure,Laceration of forearm,0.0009413610511865071
+Systolic Blood Pressure,Chronic intractable migraine without aura,0.0009413610511865071
+Systolic Blood Pressure,Preeclampsia,0.000902137674053736
+Systolic Blood Pressure,Osteoarthritis of knee,0.000902137674053736
+Systolic Blood Pressure,Hypoxemia (disorder),0.000902137674053736
+Systolic Blood Pressure,Antepartum eclampsia,0.000902137674053736
+Systolic Blood Pressure,Respiratory distress (finding),0.000902137674053736
+Systolic Blood Pressure,Pneumonia (disorder),0.000902137674053736
+Systolic Blood Pressure,Chronic pain,0.0008629142969209649
+Systolic Blood Pressure,History of single seizure (situation),0.0008629142969209649
+Systolic Blood Pressure,Seizure disorder,0.0008629142969209649
+Systolic Blood Pressure,History of myocardial infarction (situation),0.0007844675426554226
+Systolic Blood Pressure,Laceration of hand,0.0007452441655226515
+Systolic Blood Pressure,Injury of knee (disorder),0.0007452441655226515
+Systolic Blood Pressure,Wheezing (finding),0.0007452441655226515
+Systolic Blood Pressure,Dyspnea (finding),0.0007452441655226515
+Systolic Blood Pressure,End-stage renal disease (disorder),0.0007452441655226515
+Systolic Blood Pressure,Sputum finding (finding),0.0007452441655226515
+Systolic Blood Pressure,Fracture of clavicle,0.0007452441655226515
+Systolic Blood Pressure,Epidermal burn of skin (disorder),0.0007060207883898804
+Systolic Blood Pressure,Fibromyalgia (disorder),0.0006667974112571092
+Systolic Blood Pressure,Fracture of ankle,0.0006667974112571092
+Systolic Blood Pressure,Fracture subluxation of wrist,0.0006275740341243381
+Systolic Blood Pressure,Laceration of thigh,0.000588350656991567
+Systolic Blood Pressure,Fracture of forearm,0.000588350656991567
+Systolic Blood Pressure,Facial laceration,0.000588350656991567
+Systolic Blood Pressure,Perennial allergic rhinitis,0.000588350656991567
+Systolic Blood Pressure,Concussion with loss of consciousness,0.000588350656991567
+Systolic Blood Pressure,Laceration of foot,0.000588350656991567
+Systolic Blood Pressure,Myocardial infarction (disorder),0.0005491272798587958
+Systolic Blood Pressure,Miscarriage in second trimester,0.0005491272798587958
+Systolic Blood Pressure,Osteoarthritis of hip,0.0005491272798587958
+Systolic Blood Pressure,Hyperglycemia (disorder),0.0005099039027260247
+Systolic Blood Pressure,Childhood asthma,0.0005099039027260247
+Systolic Blood Pressure,Child attention deficit disorder,0.0005099039027260247
+Systolic Blood Pressure,Osteoporosis (disorder),0.0005099039027260247
+Systolic Blood Pressure,Torus palatinus (disorder),0.0005099039027260247
+Systolic Blood Pressure,Chill (finding),0.0005099039027260247
+Systolic Blood Pressure,Septic shock (disorder),0.00047068052559325356
+Systolic Blood Pressure,Acute respiratory failure (disorder),0.00047068052559325356
+Systolic Blood Pressure,Sepsis caused by virus (disorder),0.00047068052559325356
+Systolic Blood Pressure,Blighted ovum,0.00047068052559325356
+Systolic Blood Pressure,Muscle pain (finding),0.00043145714846048246
+Systolic Blood Pressure,Joint pain (finding),0.00043145714846048246
+Systolic Blood Pressure,Resorption of alveolar process due to dental trauma (disorder),0.00043145714846048246
+Systolic Blood Pressure,Epilepsy,0.00043145714846048246
+Systolic Blood Pressure,Chronic congestive heart failure (disorder),0.0003922337713277113
+Systolic Blood Pressure,Perennial allergic rhinitis with seasonal variation,0.0003922337713277113
+Systolic Blood Pressure,Fracture of rib,0.0003922337713277113
+Systolic Blood Pressure,Acute ST segment elevation myocardial infarction (disorder),0.0003922337713277113
+Systolic Blood Pressure,Acute non-ST segment elevation myocardial infarction (disorder),0.0003922337713277113
+Systolic Blood Pressure,Malignant neoplasm of breast (disorder),0.0003922337713277113
+Systolic Blood Pressure,Gunshot wound (disorder),0.0003530103941949402
+Systolic Blood Pressure,Acute respiratory distress syndrome (disorder),0.0003530103941949402
+Systolic Blood Pressure,Homeless (finding),0.0003530103941949402
+Systolic Blood Pressure,Bullet wound,0.0003530103941949402
+Systolic Blood Pressure,Sleep apnea (disorder),0.00031378701706216906
+Systolic Blood Pressure,Second degree burn,0.00031378701706216906
+Systolic Blood Pressure,Localized  primary osteoarthritis of the hand,0.00031378701706216906
+Systolic Blood Pressure,Injury of tendon of the rotator cuff of shoulder,0.00031378701706216906
+Systolic Blood Pressure,Fetus with chromosomal abnormality,0.00031378701706216906
+Systolic Blood Pressure,Atopic dermatitis,0.0002745636399293979
+Systolic Blood Pressure,Acute allergic reaction,0.0002745636399293979
+Systolic Blood Pressure,Recurrent rectal polyp,0.0002745636399293979
+Systolic Blood Pressure,Appendicitis,0.0002745636399293979
+Systolic Blood Pressure,Transformed migraine (disorder),0.0002745636399293979
+Systolic Blood Pressure,Neuropathy due to type 2 diabetes mellitus (disorder),0.0002745636399293979
+Systolic Blood Pressure,Injury of medial collateral ligament of knee,0.0002745636399293979
+Systolic Blood Pressure,Acute pulmonary embolism (disorder),0.0002745636399293979
+Systolic Blood Pressure,Chronic obstructive bronchitis (disorder),0.00023534026279662678
+Systolic Blood Pressure,Carcinoma in situ of prostate (disorder),0.00023534026279662678
+Systolic Blood Pressure,Injury of kidney (disorder),0.00023534026279662678
+Systolic Blood Pressure,Seasonal allergic rhinitis,0.00023534026279662678
+Systolic Blood Pressure,Acute deep venous thrombosis (disorder),0.00023534026279662678
+Systolic Blood Pressure,Opioid abuse (disorder),0.00023534026279662678
+Systolic Blood Pressure,Neoplasm of prostate,0.00023534026279662678
+Systolic Blood Pressure,Mitral valve regurgitation (disorder),0.00023534026279662678
+Systolic Blood Pressure,Sore throat symptom (finding),0.00019611688566385565
+Systolic Blood Pressure,Headache (finding),0.00019611688566385565
+Systolic Blood Pressure,Bleeding from anus,0.00019611688566385565
+Systolic Blood Pressure,Protracted diarrhea,0.00019611688566385565
+Systolic Blood Pressure,Pyelonephritis,0.00019611688566385565
+Systolic Blood Pressure,Pulmonary emphysema (disorder),0.00019611688566385565
+Systolic Blood Pressure,Brain damage - traumatic,0.00015689350853108453
+Systolic Blood Pressure,Tubal pregnancy,0.00015689350853108453
+Systolic Blood Pressure,Smokes tobacco daily,0.00015689350853108453
+Systolic Blood Pressure,Suspected lung cancer (situation),0.00015689350853108453
+Systolic Blood Pressure,Alcoholism,0.00015689350853108453
+Systolic Blood Pressure,Tear of meniscus of knee,0.00015689350853108453
+Systolic Blood Pressure,Retinopathy due to type 2 diabetes mellitus (disorder),0.00015689350853108453
+Systolic Blood Pressure,Closed fracture of hip,0.00015689350853108453
+Systolic Blood Pressure,Injury of anterior cruciate ligament,0.00015689350853108453
+Systolic Blood Pressure,Rupture of patellar tendon,0.00015689350853108453
+Systolic Blood Pressure,Alzheimer's disease (disorder),0.00015689350853108453
+Systolic Blood Pressure,Congenital uterine anomaly,0.00015689350853108453
+Systolic Blood Pressure,Cholelithiasis,0.00011767013139831339
+Systolic Blood Pressure,Aortic valve regurgitation (disorder),0.00011767013139831339
+Systolic Blood Pressure,History of aortic valve replacement (situation),0.00011767013139831339
+Systolic Blood Pressure,Body mass index 40+ - severely obese (finding),0.00011767013139831339
+Systolic Blood Pressure,Contact dermatitis,0.00011767013139831339
+Systolic Blood Pressure,Stroke,0.00011767013139831339
+Systolic Blood Pressure,Gout,0.00011767013139831339
+Systolic Blood Pressure,Pathological fracture due to osteoporosis (disorder),0.00011767013139831339
+Systolic Blood Pressure,Traumatic dislocation of temporomandibular joint (disorder),0.00011767013139831339
+Systolic Blood Pressure,Heart failure (disorder),0.00011767013139831339
+Systolic Blood Pressure,Aortic valve stenosis (disorder),0.00011767013139831339
+Systolic Blood Pressure,Fracture of mandible (disorder),0.00011767013139831339
+Systolic Blood Pressure,Non-small cell lung cancer (disorder),0.00011767013139831339
+Systolic Blood Pressure,Non-small cell carcinoma of lung  TNM stage 1 (disorder),0.00011767013139831339
+Systolic Blood Pressure,Suspected prostate cancer (situation),0.00011767013139831339
+Systolic Blood Pressure,Nasal congestion (finding),0.00011767013139831339
+Systolic Blood Pressure,Died in hospice (finding),0.00011767013139831339
+Systolic Blood Pressure,Primary fibromyalgia syndrome,0.00011767013139831339
+Systolic Blood Pressure,Acute Cholecystitis,0.00011767013139831339
+Systolic Blood Pressure,Nausea (finding),0.00011767013139831339
+Systolic Blood Pressure,Vomiting symptom (finding),0.00011767013139831339
+Systolic Blood Pressure,Human immunodeficiency virus infection (disorder),0.00011767013139831339
+Systolic Blood Pressure,Infectious mediastinitis (disorder),7.844675426554226e-05
+Systolic Blood Pressure,Injury of heart (disorder),7.844675426554226e-05
+Systolic Blood Pressure,Traumatic injury of spinal cord and/or vertebral column (disorder),7.844675426554226e-05
+Systolic Blood Pressure,Atrial fibrillation (disorder),7.844675426554226e-05
+Systolic Blood Pressure,Complication occuring during pregnancy,7.844675426554226e-05
+Systolic Blood Pressure,Rheumatoid arthritis,7.844675426554226e-05
+Systolic Blood Pressure,Pneumonia,7.844675426554226e-05
+Systolic Blood Pressure,Social migrant (finding),7.844675426554226e-05
+Systolic Blood Pressure,Idiopathic atrophic hypothyroidism,7.844675426554226e-05
+Systolic Blood Pressure,Passive conjunctival congestion (finding),7.844675426554226e-05
+Systolic Blood Pressure,Overlapping malignant neoplasm of colon,7.844675426554226e-05
+Systolic Blood Pressure,Kidney transplant failure and rejection (disorder),7.844675426554226e-05
+Systolic Blood Pressure,Fracture of vertebral column without spinal cord injury,7.844675426554226e-05
+Systolic Blood Pressure,Acquired coagulation disorder (disorder),7.844675426554226e-05
+Systolic Blood Pressure,Primary malignant neoplasm of colon,7.844675426554226e-05
+Systolic Blood Pressure,Malignant tumor of colon,7.844675426554226e-05
+Systolic Blood Pressure,Unable to swallow saliva (finding),3.922337713277113e-05
+Systolic Blood Pressure,Intellectual disability (disorder),3.922337713277113e-05
+Systolic Blood Pressure,Spasticity (finding),3.922337713277113e-05
+Systolic Blood Pressure,Poor muscle tone (finding),3.922337713277113e-05
+Systolic Blood Pressure,Gastroesophageal reflux disease (disorder),3.922337713277113e-05
+Systolic Blood Pressure,Constipation (finding),3.922337713277113e-05
+Systolic Blood Pressure,Excessive salivation (disorder),3.922337713277113e-05
+Systolic Blood Pressure,Dislocation of hip joint (disorder),3.922337713277113e-05
+Systolic Blood Pressure,Cerebral palsy (disorder),3.922337713277113e-05
+Systolic Blood Pressure,Secondary malignant neoplasm of colon,3.922337713277113e-05
+Systolic Blood Pressure,Small cell carcinoma of lung (disorder),3.922337713277113e-05
+Systolic Blood Pressure,Primary small cell malignant neoplasm of lung  TNM stage 1 (disorder),3.922337713277113e-05
+Systolic Blood Pressure,Renal dysplasia (disorder),3.922337713277113e-05
+Systolic Blood Pressure,Acquired immune deficiency syndrome (disorder),3.922337713277113e-05
+Systolic Blood Pressure,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder),3.922337713277113e-05
+Systolic Blood Pressure,Asthma,3.922337713277113e-05
+Systolic Blood Pressure,Familial Alzheimer's disease of early onset (disorder),3.922337713277113e-05
+Systolic Blood Pressure,Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder),3.922337713277113e-05
+Systolic Blood Pressure,Metastasis from malignant tumor of prostate (disorder),3.922337713277113e-05
+Systolic Blood Pressure,Major depression disorder,3.922337713277113e-05
+Systolic Blood Pressure,Diarrhea symptom (finding),3.922337713277113e-05
+Systolic Blood Pressure,Bacterial infectious disease (disorder),3.922337713277113e-05
+Systolic Blood Pressure,Rupture of appendix,3.922337713277113e-05
+Systolic Blood Pressure,Hemoptysis (finding),3.922337713277113e-05
+Systolic Blood Pressure,Toxoplasma gondii antibody positive (finding),3.922337713277113e-05
+Diastolic Blood Pressure,Medication review due (situation),0.18592090809227388
+Diastolic Blood Pressure,Stress (finding),0.08421823507872574
+Diastolic Blood Pressure,Full-time employment (finding),0.07675759794946906
+Diastolic Blood Pressure,Gingivitis (disorder),0.0756133284511168
+Diastolic Blood Pressure,Part-time employment (finding),0.04998169168802637
+Diastolic Blood Pressure,Limited social contact (finding),0.029979860856829
+Diastolic Blood Pressure,Social isolation (finding),0.02933906993775174
+Diastolic Blood Pressure,Not in labor force (finding),0.026501281581838156
+Diastolic Blood Pressure,Gingival disease (disorder),0.021649578908824605
+Diastolic Blood Pressure,Viral sinusitis (disorder),0.020734163310142804
+Diastolic Blood Pressure,Victim of intimate partner abuse (finding),0.0184456243134383
+Diastolic Blood Pressure,Essential hypertension (disorder),0.016477480776272427
+Diastolic Blood Pressure,Primary dental caries (disorder),0.015653606737458806
+Diastolic Blood Pressure,Reports of violence in the environment (finding),0.015012815818381545
+Diastolic Blood Pressure,Received higher education (finding),0.014692420358842915
+Diastolic Blood Pressure,Normal pregnancy,0.013914317099963384
+Diastolic Blood Pressure,Acute viral pharyngitis (disorder),0.013273526180886123
+Diastolic Blood Pressure,Unemployed (finding),0.012358110582204321
+Diastolic Blood Pressure,Body mass index 30+ - obesity (finding),0.011305382643720248
+Diastolic Blood Pressure,Acute bronchitis (disorder),0.009932259245697546
+Diastolic Blood Pressure,Anemia (disorder),0.008925302087147565
+Diastolic Blood Pressure,Prediabetes,0.008696448187477114
+Diastolic Blood Pressure,Risk activity involvement (finding),0.006362138410838521
+Diastolic Blood Pressure,Unhealthy alcohol drinking behavior (finding),0.00590443061149762
+Diastolic Blood Pressure,Chronic pain (finding),0.005812889051629439
+Diastolic Blood Pressure,Transport problem (finding),0.005721347491761259
+Diastolic Blood Pressure,Lack of access to transportation (finding),0.005675576711827169
+Diastolic Blood Pressure,Metabolic syndrome X (disorder),0.005492493592090809
+Diastolic Blood Pressure,Has a criminal record (finding),0.005492493592090809
+Diastolic Blood Pressure,Disorder of kidney due to diabetes mellitus (disorder),0.005309410472354449
+Diastolic Blood Pressure,Chronic low back pain (finding),0.005034785792749908
+Diastolic Blood Pressure,Chronic sinusitis (disorder),0.004851702673013548
+Diastolic Blood Pressure,Chronic kidney disease stage 1 (disorder),0.004805931893079458
+Diastolic Blood Pressure,Infection of tooth (disorder),0.004485536433540827
+Diastolic Blood Pressure,Received certificate of high school equivalency (finding),0.004348224093738557
+Diastolic Blood Pressure,Past pregnancy history of miscarriage (situation),0.004302453313804467
+Diastolic Blood Pressure,Microalbuminuria due to type 2 diabetes mellitus (disorder),0.004210911753936287
+Diastolic Blood Pressure,Dental filling lost (finding),0.004073599414134017
+Diastolic Blood Pressure,Chronic kidney disease stage 2 (disorder),0.004027828634199927
+Diastolic Blood Pressure,Loose dental filling (finding),0.0037989747345294764
+Diastolic Blood Pressure,Acute infective cystitis (disorder),0.0037989747345294764
+Diastolic Blood Pressure,Housing unsatisfactory (finding),0.0037532039545953863
+Diastolic Blood Pressure,Severe anxiety (panic) (finding),0.003570120834859026
+Diastolic Blood Pressure,Leaking dental filling (finding),0.003478579274990846
+Diastolic Blood Pressure,Misuses drugs (finding),0.003432808495056756
+Diastolic Blood Pressure,Loss of teeth (disorder),0.003387037715122666
+Diastolic Blood Pressure,Chronic neck pain (finding),0.0032954961552544857
+Diastolic Blood Pressure,Fractured dental filling (finding),0.0031581838154522155
+Diastolic Blood Pressure,Sprain (morphologic abnormality),0.0031581838154522155
+Diastolic Blood Pressure,Drug overdose,0.0031124130355181254
+Diastolic Blood Pressure,Laceration - injury (disorder),0.0030208714756499453
+Diastolic Blood Pressure,Proteinuria due to type 2 diabetes mellitus (disorder),0.002975100695715855
+Diastolic Blood Pressure,Abnormal findings diagnostic imaging heart+coronary circulat (finding),0.0028835591358476746
+Diastolic Blood Pressure,Chronic kidney disease stage 3 (disorder),0.0028377883559135846
+Diastolic Blood Pressure,Ischemic heart disease (disorder),0.0027920175759794945
+Diastolic Blood Pressure,Fracture of bone (disorder),0.0026089344562431342
+Diastolic Blood Pressure,Sprain of ankle,0.002380080556572684
+Diastolic Blood Pressure,Streptococcal sore throat (disorder),0.002334309776638594
+Diastolic Blood Pressure,Refugee (person),0.0022427682167704137
+Diastolic Blood Pressure,Sinusitis (disorder),0.0019223727572317832
+Diastolic Blood Pressure,Suspected COVID-19,0.0019223727572317832
+Diastolic Blood Pressure,COVID-19,0.0018766019772976932
+Diastolic Blood Pressure,History of tubal ligation (situation),0.001830831197363603
+Diastolic Blood Pressure,Awaiting transplantation of kidney (situation),0.001830831197363603
+Diastolic Blood Pressure,Chronic kidney disease stage 4 (disorder),0.001785060417429513
+Diastolic Blood Pressure,Fever (finding),0.001739289637495423
+Diastolic Blood Pressure,Otitis media,0.0016477480776272428
+Diastolic Blood Pressure,Concussion injury of brain (disorder),0.0015562065177590627
+Diastolic Blood Pressure,Polyp of colon,0.0015562065177590627
+Diastolic Blood Pressure,Sleep disorder (disorder),0.0015562065177590627
+Diastolic Blood Pressure,Hyperlipidemia,0.0015104357378249726
+Diastolic Blood Pressure,Miscarriage in first trimester,0.0015104357378249726
+Diastolic Blood Pressure,Acute bacterial sinusitis (disorder),0.0015104357378249726
+Diastolic Blood Pressure,Diabetes mellitus type 2 (disorder),0.0014646649578908824
+Diastolic Blood Pressure,Only received primary school education (finding),0.0014188941779567923
+Diastolic Blood Pressure,Whiplash injury to neck,0.0013731233980227022
+Diastolic Blood Pressure,Injury of neck (disorder),0.0013731233980227022
+Diastolic Blood Pressure,Recurrent urinary tract infection (disorder),0.0013731233980227022
+Diastolic Blood Pressure,History of renal transplant (situation),0.0013273526180886122
+Diastolic Blood Pressure,Hypertriglyceridemia (disorder),0.0013273526180886122
+Diastolic Blood Pressure,Served in armed forces (finding),0.001190040278286342
+Diastolic Blood Pressure,Obstructive sleep apnea syndrome (disorder),0.001190040278286342
+Diastolic Blood Pressure,Cough (finding),0.0011442694983522519
+Diastolic Blood Pressure,Osteoarthritis of knee,0.0010984987184181618
+Diastolic Blood Pressure,Concussion with no loss of consciousness,0.0010527279384840718
+Diastolic Blood Pressure,History of coronary artery bypass grafting (situation),0.0010527279384840718
+Diastolic Blood Pressure,History of appendectomy,0.0010069571585499817
+Diastolic Blood Pressure,History of myocardial infarction (situation),0.0010069571585499817
+Diastolic Blood Pressure,Loss of taste (finding),0.0009611863786158916
+Diastolic Blood Pressure,Dependent drug abuse (disorder),0.0009611863786158916
+Diastolic Blood Pressure,Impacted molars,0.0009611863786158916
+Diastolic Blood Pressure,Laceration of forearm,0.0009611863786158916
+Diastolic Blood Pressure,Burn injury (morphologic abnormality),0.0009611863786158916
+Diastolic Blood Pressure,Fatigue (finding),0.0009154155986818016
+Diastolic Blood Pressure,Chronic pain,0.0008696448187477115
+Diastolic Blood Pressure,Chronic intractable migraine without aura,0.0008696448187477115
+Diastolic Blood Pressure,Complete miscarriage (disorder),0.0008696448187477115
+Diastolic Blood Pressure,Fibromyalgia (disorder),0.0008238740388136214
+Diastolic Blood Pressure,Hypoxemia (disorder),0.0008238740388136214
+Diastolic Blood Pressure,Pneumonia (disorder),0.0008238740388136214
+Diastolic Blood Pressure,Antepartum eclampsia,0.0008238740388136214
+Diastolic Blood Pressure,Respiratory distress (finding),0.0008238740388136214
+Diastolic Blood Pressure,Sepsis (disorder),0.0008238740388136214
+Diastolic Blood Pressure,Seizure disorder,0.0007781032588795314
+Diastolic Blood Pressure,History of single seizure (situation),0.0007781032588795314
+Diastolic Blood Pressure,Osteoporosis (disorder),0.0007781032588795314
+Diastolic Blood Pressure,End-stage renal disease (disorder),0.0007781032588795314
+Diastolic Blood Pressure,Sprain of wrist,0.0007781032588795314
+Diastolic Blood Pressure,Alveolitis of jaw (disorder),0.0007323324789454412
+Diastolic Blood Pressure,Myocardial infarction (disorder),0.0007323324789454412
+Diastolic Blood Pressure,Sterilization requested (situation),0.0006865616990113511
+Diastolic Blood Pressure,Fracture of forearm,0.000640790919077261
+Diastolic Blood Pressure,Epidermal burn of skin (disorder),0.000640790919077261
+Diastolic Blood Pressure,Fracture subluxation of wrist,0.000595020139143171
+Diastolic Blood Pressure,Laceration of thigh,0.000595020139143171
+Diastolic Blood Pressure,Wheezing (finding),0.000595020139143171
+Diastolic Blood Pressure,Dyspnea (finding),0.000595020139143171
+Diastolic Blood Pressure,Preeclampsia,0.0005492493592090809
+Diastolic Blood Pressure,Osteoarthritis of hip,0.0005492493592090809
+Diastolic Blood Pressure,Sputum finding (finding),0.0005492493592090809
+Diastolic Blood Pressure,Hyperglycemia (disorder),0.0005492493592090809
+Diastolic Blood Pressure,Chronic congestive heart failure (disorder),0.0005034785792749908
+Diastolic Blood Pressure,Facial laceration,0.0005034785792749908
+Diastolic Blood Pressure,Acute ST segment elevation myocardial infarction (disorder),0.0005034785792749908
+Diastolic Blood Pressure,Acute non-ST segment elevation myocardial infarction (disorder),0.0005034785792749908
+Diastolic Blood Pressure,Epilepsy,0.0005034785792749908
+Diastolic Blood Pressure,Laceration of hand,0.0005034785792749908
+Diastolic Blood Pressure,Fracture of ankle,0.0004577077993409008
+Diastolic Blood Pressure,Opioid abuse (disorder),0.0004577077993409008
+Diastolic Blood Pressure,Injury of tendon of the rotator cuff of shoulder,0.0004577077993409008
+Diastolic Blood Pressure,Laceration of foot,0.0004577077993409008
+Diastolic Blood Pressure,Concussion with loss of consciousness,0.0004119370194068107
+Diastolic Blood Pressure,Fracture of clavicle,0.0004119370194068107
+Diastolic Blood Pressure,Pathological fracture due to osteoporosis (disorder),0.0004119370194068107
+Diastolic Blood Pressure,Injury of knee (disorder),0.0004119370194068107
+Diastolic Blood Pressure,Torus palatinus (disorder),0.0003661662394727206
+Diastolic Blood Pressure,Neuropathy due to type 2 diabetes mellitus (disorder),0.0003661662394727206
+Diastolic Blood Pressure,Blighted ovum,0.0003661662394727206
+Diastolic Blood Pressure,Child attention deficit disorder,0.0003661662394727206
+Diastolic Blood Pressure,Sleep apnea (disorder),0.0003661662394727206
+Diastolic Blood Pressure,Fracture of rib,0.0003203954595386305
+Diastolic Blood Pressure,Chronic obstructive bronchitis (disorder),0.0003203954595386305
+Diastolic Blood Pressure,Second degree burn,0.0003203954595386305
+Diastolic Blood Pressure,Perennial allergic rhinitis,0.0003203954595386305
+Diastolic Blood Pressure,Acute respiratory failure (disorder),0.0003203954595386305
+Diastolic Blood Pressure,Miscarriage in second trimester,0.0003203954595386305
+Diastolic Blood Pressure,Acute deep venous thrombosis (disorder),0.0003203954595386305
+Diastolic Blood Pressure,Septic shock (disorder),0.0003203954595386305
+Diastolic Blood Pressure,Childhood asthma,0.0003203954595386305
+Diastolic Blood Pressure,Chill (finding),0.0003203954595386305
+Diastolic Blood Pressure,Localized  primary osteoarthritis of the hand,0.0003203954595386305
+Diastolic Blood Pressure,Sepsis caused by virus (disorder),0.0003203954595386305
+Diastolic Blood Pressure,Resorption of alveolar process due to dental trauma (disorder),0.00027462467960454045
+Diastolic Blood Pressure,Muscle pain (finding),0.00027462467960454045
+Diastolic Blood Pressure,Headache (finding),0.00027462467960454045
+Diastolic Blood Pressure,Tubal pregnancy,0.00027462467960454045
+Diastolic Blood Pressure,Pulmonary emphysema (disorder),0.00027462467960454045
+Diastolic Blood Pressure,Smokes tobacco daily,0.00027462467960454045
+Diastolic Blood Pressure,History of aortic valve replacement (situation),0.00027462467960454045
+Diastolic Blood Pressure,Perennial allergic rhinitis with seasonal variation,0.00027462467960454045
+Diastolic Blood Pressure,Acute pulmonary embolism (disorder),0.00027462467960454045
+Diastolic Blood Pressure,Joint pain (finding),0.00027462467960454045
+Diastolic Blood Pressure,Malignant neoplasm of breast (disorder),0.00027462467960454045
+Diastolic Blood Pressure,Suspected prostate cancer (situation),0.0002288538996704504
+Diastolic Blood Pressure,Fetus with chromosomal abnormality,0.0002288538996704504
+Diastolic Blood Pressure,Recurrent rectal polyp,0.0002288538996704504
+Diastolic Blood Pressure,Mitral valve regurgitation (disorder),0.0002288538996704504
+Diastolic Blood Pressure,Neoplasm of prostate,0.0002288538996704504
+Diastolic Blood Pressure,Transformed migraine (disorder),0.0002288538996704504
+Diastolic Blood Pressure,Died in hospice (finding),0.0002288538996704504
+Diastolic Blood Pressure,Alzheimer's disease (disorder),0.0002288538996704504
+Diastolic Blood Pressure,Carcinoma in situ of prostate (disorder),0.0002288538996704504
+Diastolic Blood Pressure,Atopic dermatitis,0.0002288538996704504
+Diastolic Blood Pressure,Fracture of mandible (disorder),0.0001830831197363603
+Diastolic Blood Pressure,Closed fracture of hip,0.0001830831197363603
+Diastolic Blood Pressure,Bullet wound,0.0001830831197363603
+Diastolic Blood Pressure,Gunshot wound (disorder),0.0001830831197363603
+Diastolic Blood Pressure,Contact dermatitis,0.0001830831197363603
+Diastolic Blood Pressure,Acute respiratory distress syndrome (disorder),0.0001830831197363603
+Diastolic Blood Pressure,Rupture of patellar tendon,0.0001830831197363603
+Diastolic Blood Pressure,Acute allergic reaction,0.0001830831197363603
+Diastolic Blood Pressure,Bleeding from anus,0.0001830831197363603
+Diastolic Blood Pressure,Protracted diarrhea,0.0001830831197363603
+Diastolic Blood Pressure,Homeless (finding),0.0001830831197363603
+Diastolic Blood Pressure,Sore throat symptom (finding),0.0001830831197363603
+Diastolic Blood Pressure,Aortic valve stenosis (disorder),0.0001830831197363603
+Diastolic Blood Pressure,Body mass index 40+ - severely obese (finding),0.0001830831197363603
+Diastolic Blood Pressure,Retinopathy due to type 2 diabetes mellitus (disorder),0.0001830831197363603
+Diastolic Blood Pressure,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder),0.0001830831197363603
+Diastolic Blood Pressure,Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder),0.0001830831197363603
+Diastolic Blood Pressure,Infectious mediastinitis (disorder),0.00013731233980227023
+Diastolic Blood Pressure,Diarrhea symptom (finding),0.00013731233980227023
+Diastolic Blood Pressure,Malignant tumor of colon,0.00013731233980227023
+Diastolic Blood Pressure,Aortic valve regurgitation (disorder),0.00013731233980227023
+Diastolic Blood Pressure,Alcoholism,0.00013731233980227023
+Diastolic Blood Pressure,Vomiting symptom (finding),0.00013731233980227023
+Diastolic Blood Pressure,Primary fibromyalgia syndrome,0.00013731233980227023
+Diastolic Blood Pressure,Acute Cholecystitis,0.00013731233980227023
+Diastolic Blood Pressure,Cholelithiasis,0.00013731233980227023
+Diastolic Blood Pressure,Nausea (finding),0.00013731233980227023
+Diastolic Blood Pressure,Primary malignant neoplasm of colon,9.154155986818015e-05
+Diastolic Blood Pressure,Seasonal allergic rhinitis,9.154155986818015e-05
+Diastolic Blood Pressure,Idiopathic atrophic hypothyroidism,9.154155986818015e-05
+Diastolic Blood Pressure,Traumatic dislocation of temporomandibular joint (disorder),9.154155986818015e-05
+Diastolic Blood Pressure,Pneumonia,9.154155986818015e-05
+Diastolic Blood Pressure,Injury of medial collateral ligament of knee,9.154155986818015e-05
+Diastolic Blood Pressure,Metastasis from malignant tumor of prostate (disorder),9.154155986818015e-05
+Diastolic Blood Pressure,Nasal congestion (finding),9.154155986818015e-05
+Diastolic Blood Pressure,Appendicitis,9.154155986818015e-05
+Diastolic Blood Pressure,Brain damage - traumatic,9.154155986818015e-05
+Diastolic Blood Pressure,Tear of meniscus of knee,9.154155986818015e-05
+Diastolic Blood Pressure,Kidney transplant failure and rejection (disorder),9.154155986818015e-05
+Diastolic Blood Pressure,Rupture of appendix,9.154155986818015e-05
+Diastolic Blood Pressure,Human immunodeficiency virus infection (disorder),9.154155986818015e-05
+Diastolic Blood Pressure,Gout,9.154155986818015e-05
+Diastolic Blood Pressure,Familial Alzheimer's disease of early onset (disorder),9.154155986818015e-05
+Diastolic Blood Pressure,Stroke,9.154155986818015e-05
+Diastolic Blood Pressure,Pyelonephritis,9.154155986818015e-05
+Diastolic Blood Pressure,Rheumatoid arthritis,9.154155986818015e-05
+Diastolic Blood Pressure,Social migrant (finding),4.5770779934090074e-05
+Diastolic Blood Pressure,Spasticity (finding),4.5770779934090074e-05
+Diastolic Blood Pressure,Gastroesophageal reflux disease (disorder),4.5770779934090074e-05
+Diastolic Blood Pressure,Dislocation of hip joint (disorder),4.5770779934090074e-05
+Diastolic Blood Pressure,Secondary malignant neoplasm of colon,4.5770779934090074e-05
+Diastolic Blood Pressure,Primary small cell malignant neoplasm of lung  TNM stage 1 (disorder),4.5770779934090074e-05
+Diastolic Blood Pressure,Suspected lung cancer (situation),4.5770779934090074e-05
+Diastolic Blood Pressure,Small cell carcinoma of lung (disorder),4.5770779934090074e-05
+Diastolic Blood Pressure,Renal dysplasia (disorder),4.5770779934090074e-05
+Diastolic Blood Pressure,Excessive salivation (disorder),4.5770779934090074e-05
+Diastolic Blood Pressure,Unable to swallow saliva (finding),4.5770779934090074e-05
+Diastolic Blood Pressure,Constipation (finding),4.5770779934090074e-05
+Diastolic Blood Pressure,Atrial fibrillation (disorder),4.5770779934090074e-05
+Diastolic Blood Pressure,Intellectual disability (disorder),4.5770779934090074e-05
+Diastolic Blood Pressure,Cerebral palsy (disorder),4.5770779934090074e-05
+Diastolic Blood Pressure,Poor muscle tone (finding),4.5770779934090074e-05
+Diastolic Blood Pressure,Acquired immune deficiency syndrome (disorder),4.5770779934090074e-05
+Diastolic Blood Pressure,Overlapping malignant neoplasm of colon,4.5770779934090074e-05
+Diastolic Blood Pressure,Asthma,4.5770779934090074e-05
+Diastolic Blood Pressure,Congenital uterine anomaly,4.5770779934090074e-05
+Diastolic Blood Pressure,Acquired coagulation disorder (disorder),4.5770779934090074e-05
+Diastolic Blood Pressure,Heart failure (disorder),4.5770779934090074e-05
+Diastolic Blood Pressure,Complication occuring during pregnancy,4.5770779934090074e-05
+Diastolic Blood Pressure,Pulmonic valve stenosis (disorder),4.5770779934090074e-05
+Diastolic Blood Pressure,Injury of anterior cruciate ligament,4.5770779934090074e-05
+Diastolic Blood Pressure,History of artificial joint (situation),4.5770779934090074e-05
+Diastolic Blood Pressure,Fracture of vertebral column without spinal cord injury,4.5770779934090074e-05
+Diastolic Blood Pressure,Traumatic injury of spinal cord and/or vertebral column (disorder),4.5770779934090074e-05
+Diastolic Blood Pressure,History of autologous bone marrow transplant (situation),4.5770779934090074e-05
+Diastolic Blood Pressure,Awaiting transplantation of bone marrow (situation),4.5770779934090074e-05
+Diastolic Blood Pressure,Multiple myeloma (disorder),4.5770779934090074e-05
+Diastolic Blood Pressure,Injury of kidney (disorder),4.5770779934090074e-05
+Diastolic Blood Pressure,Major depression disorder,4.5770779934090074e-05
+Diastolic Blood Pressure,Passive conjunctival congestion (finding),4.5770779934090074e-05
+Diastolic Blood Pressure,Chronic paralysis due to lesion of spinal cord,4.5770779934090074e-05
+Diastolic Blood Pressure,Toxoplasma gondii antibody positive (finding),4.5770779934090074e-05
+Respiratory rate,Medication review due (situation),0.15384615384615385
+Respiratory rate,Stress (finding),0.06793478260869565
+Respiratory rate,Gingivitis (disorder),0.06500836120401338
+Respiratory rate,Full-time employment (finding),0.06072324414715719
+Respiratory rate,Part-time employment (finding),0.034803511705685616
+Respiratory rate,Viral sinusitis (disorder),0.023306856187290968
+Respiratory rate,Limited social contact (finding),0.022366220735785952
+Respiratory rate,Social isolation (finding),0.02153010033444816
+Respiratory rate,Gingival disease (disorder),0.021425585284280936
+Respiratory rate,Not in labor force (finding),0.020380434782608696
+Respiratory rate,Normal pregnancy,0.018499163879598664
+Respiratory rate,Suspected COVID-19,0.018290133779264216
+Respiratory rate,COVID-19,0.017663043478260868
+Respiratory rate,Fever (finding),0.0169314381270903
+Respiratory rate,Acute viral pharyngitis (disorder),0.01640886287625418
+Respiratory rate,Primary dental caries (disorder),0.016095317725752508
+Respiratory rate,Received higher education (finding),0.015677257525083612
+Respiratory rate,Victim of intimate partner abuse (finding),0.014423076923076924
+Respiratory rate,Unemployed (finding),0.012646321070234114
+Respiratory rate,Cough (finding),0.0112876254180602
+Respiratory rate,Reports of violence in the environment (finding),0.0112876254180602
+Respiratory rate,Acute bronchitis (disorder),0.010346989966555184
+Respiratory rate,Loss of taste (finding),0.009824414715719064
+Respiratory rate,Body mass index 30+ - obesity (finding),0.009615384615384616
+Respiratory rate,Acute infective cystitis (disorder),0.00898829431438127
+Respiratory rate,Risk activity involvement (finding),0.008883779264214046
+Respiratory rate,Essential hypertension (disorder),0.008570234113712374
+Respiratory rate,Prediabetes,0.00794314381270903
+Respiratory rate,Fatigue (finding),0.007838628762541806
+Respiratory rate,Anemia (disorder),0.007211538461538462
+Respiratory rate,Chronic pain (finding),0.006897993311036789
+Respiratory rate,Transport problem (finding),0.006793478260869565
+Respiratory rate,Lack of access to transportation (finding),0.006479933110367893
+Respiratory rate,Chronic low back pain (finding),0.005957357859531773
+Respiratory rate,Sputum finding (finding),0.005957357859531773
+Respiratory rate,Past pregnancy history of miscarriage (situation),0.005539297658862876
+Respiratory rate,Laceration - injury (disorder),0.00512123745819398
+Respiratory rate,Housing unsatisfactory (finding),0.004912207357859532
+Respiratory rate,Unhealthy alcohol drinking behavior (finding),0.004912207357859532
+Respiratory rate,Wheezing (finding),0.00459866220735786
+Respiratory rate,Dyspnea (finding),0.00459866220735786
+Respiratory rate,Hypoxemia (disorder),0.004285117056856187
+Respiratory rate,Respiratory distress (finding),0.004285117056856187
+Respiratory rate,Pneumonia (disorder),0.004285117056856187
+Respiratory rate,Sprain (morphologic abnormality),0.004285117056856187
+Respiratory rate,Streptococcal sore throat (disorder),0.004180602006688963
+Respiratory rate,Infection of tooth (disorder),0.003971571906354515
+Respiratory rate,Has a criminal record (finding),0.003971571906354515
+Respiratory rate,Disorder of kidney due to diabetes mellitus (disorder),0.003762541806020067
+Respiratory rate,Received certificate of high school equivalency (finding),0.003762541806020067
+Respiratory rate,Chronic neck pain (finding),0.003658026755852843
+Respiratory rate,Fracture of bone (disorder),0.0035535117056856185
+Respiratory rate,Sprain of ankle,0.0034489966555183945
+Respiratory rate,Loss of teeth (disorder),0.0034489966555183945
+Respiratory rate,Dental filling lost (finding),0.0033444816053511705
+Respiratory rate,Chronic kidney disease stage 1 (disorder),0.0033444816053511705
+Respiratory rate,Severe anxiety (panic) (finding),0.0033444816053511705
+Respiratory rate,Metabolic syndrome X (disorder),0.0033444816053511705
+Respiratory rate,Misuses drugs (finding),0.0032399665551839465
+Respiratory rate,Loose dental filling (finding),0.002926421404682274
+Respiratory rate,Joint pain (finding),0.002926421404682274
+Respiratory rate,Muscle pain (finding),0.002926421404682274
+Respiratory rate,Headache (finding),0.002926421404682274
+Respiratory rate,Chronic sinusitis (disorder),0.002926421404682274
+Respiratory rate,Microalbuminuria due to type 2 diabetes mellitus (disorder),0.00282190635451505
+Respiratory rate,Chronic kidney disease stage 2 (disorder),0.002717391304347826
+Respiratory rate,History of tubal ligation (situation),0.002717391304347826
+Respiratory rate,Chill (finding),0.002717391304347826
+Respiratory rate,Sore throat symptom (finding),0.002508361204013378
+Respiratory rate,Otitis media,0.002508361204013378
+Respiratory rate,Miscarriage in first trimester,0.002508361204013378
+Respiratory rate,Leaking dental filling (finding),0.002508361204013378
+Respiratory rate,Fractured dental filling (finding),0.00229933110367893
+Respiratory rate,Proteinuria due to type 2 diabetes mellitus (disorder),0.0020903010033444815
+Respiratory rate,Chronic kidney disease stage 3 (disorder),0.0019857859531772575
+Respiratory rate,Sepsis caused by virus (disorder),0.0018812709030100335
+Respiratory rate,Abnormal findings diagnostic imaging heart+coronary circulat (finding),0.0018812709030100335
+Respiratory rate,Ischemic heart disease (disorder),0.0017767558528428093
+Respiratory rate,Only received primary school education (finding),0.0017767558528428093
+Respiratory rate,Acute respiratory failure (disorder),0.0017767558528428093
+Respiratory rate,Drug overdose,0.0016722408026755853
+Respiratory rate,Chronic kidney disease stage 4 (disorder),0.001463210702341137
+Respiratory rate,History of appendectomy,0.001463210702341137
+Respiratory rate,Awaiting transplantation of kidney (situation),0.001463210702341137
+Respiratory rate,Complete miscarriage (disorder),0.001463210702341137
+Respiratory rate,Concussion injury of brain (disorder),0.001358695652173913
+Respiratory rate,History of renal transplant (situation),0.001358695652173913
+Respiratory rate,Acute deep venous thrombosis (disorder),0.001358695652173913
+Respiratory rate,Refugee (person),0.001358695652173913
+Respiratory rate,Recurrent urinary tract infection (disorder),0.001254180602006689
+Respiratory rate,Laceration of thigh,0.001254180602006689
+Respiratory rate,Acute pulmonary embolism (disorder),0.001254180602006689
+Respiratory rate,Sterilization requested (situation),0.001254180602006689
+Respiratory rate,Sleep disorder (disorder),0.001254180602006689
+Respiratory rate,Hyperlipidemia,0.001254180602006689
+Respiratory rate,Acute bacterial sinusitis (disorder),0.001149665551839465
+Respiratory rate,Diabetes mellitus type 2 (disorder),0.001149665551839465
+Respiratory rate,Sinusitis (disorder),0.001149665551839465
+Respiratory rate,Nasal congestion (finding),0.001149665551839465
+Respiratory rate,Laceration of foot,0.001149665551839465
+Respiratory rate,Chronic pain,0.001149665551839465
+Respiratory rate,Laceration of forearm,0.0010451505016722408
+Respiratory rate,Impacted molars,0.0010451505016722408
+Respiratory rate,Polyp of colon,0.0010451505016722408
+Respiratory rate,Obstructive sleep apnea syndrome (disorder),0.0010451505016722408
+Respiratory rate,Childhood asthma,0.0010451505016722408
+Respiratory rate,Concussion with no loss of consciousness,0.0010451505016722408
+Respiratory rate,Hypertriglyceridemia (disorder),0.0010451505016722408
+Respiratory rate,Whiplash injury to neck,0.0009406354515050167
+Respiratory rate,Injury of neck (disorder),0.0009406354515050167
+Respiratory rate,Chronic intractable migraine without aura,0.0009406354515050167
+Respiratory rate,Burn injury (morphologic abnormality),0.0009406354515050167
+Respiratory rate,Diarrhea symptom (finding),0.0009406354515050167
+Respiratory rate,Facial laceration,0.0009406354515050167
+Respiratory rate,Sprain of wrist,0.0008361204013377926
+Respiratory rate,Fracture of ankle,0.0008361204013377926
+Respiratory rate,History of single seizure (situation),0.0008361204013377926
+Respiratory rate,Seizure disorder,0.0008361204013377926
+Respiratory rate,Fibromyalgia (disorder),0.0007316053511705685
+Respiratory rate,Fracture of clavicle,0.0007316053511705685
+Respiratory rate,Fracture subluxation of wrist,0.0007316053511705685
+Respiratory rate,Laceration of hand,0.0007316053511705685
+Respiratory rate,Nausea (finding),0.0007316053511705685
+Respiratory rate,Acute respiratory distress syndrome (disorder),0.0007316053511705685
+Respiratory rate,Injury of tendon of the rotator cuff of shoulder,0.0007316053511705685
+Respiratory rate,Dependent drug abuse (disorder),0.0007316053511705685
+Respiratory rate,Osteoarthritis of knee,0.0007316053511705685
+Respiratory rate,Vomiting symptom (finding),0.0007316053511705685
+Respiratory rate,History of coronary artery bypass grafting (situation),0.0007316053511705685
+Respiratory rate,Epidermal burn of skin (disorder),0.0006270903010033445
+Respiratory rate,Perennial allergic rhinitis with seasonal variation,0.0006270903010033445
+Respiratory rate,Served in armed forces (finding),0.0006270903010033445
+Respiratory rate,Injury of kidney (disorder),0.0006270903010033445
+Respiratory rate,Perennial allergic rhinitis,0.0006270903010033445
+Respiratory rate,Fracture of rib,0.0006270903010033445
+Respiratory rate,Child attention deficit disorder,0.0006270903010033445
+Respiratory rate,History of myocardial infarction (situation),0.0006270903010033445
+Respiratory rate,Blighted ovum,0.0006270903010033445
+Respiratory rate,Preeclampsia,0.0006270903010033445
+Respiratory rate,Injury of knee (disorder),0.0006270903010033445
+Respiratory rate,Osteoporosis (disorder),0.0005225752508361204
+Respiratory rate,Resorption of alveolar process due to dental trauma (disorder),0.0005225752508361204
+Respiratory rate,Torus palatinus (disorder),0.0005225752508361204
+Respiratory rate,Septic shock (disorder),0.0005225752508361204
+Respiratory rate,Appendicitis,0.0005225752508361204
+Respiratory rate,Atopic dermatitis,0.0005225752508361204
+Respiratory rate,Myocardial infarction (disorder),0.0005225752508361204
+Respiratory rate,Osteoarthritis of hip,0.0005225752508361204
+Respiratory rate,Miscarriage in second trimester,0.0004180602006688963
+Respiratory rate,Antepartum eclampsia,0.0004180602006688963
+Respiratory rate,End-stage renal disease (disorder),0.0004180602006688963
+Respiratory rate,Injury of medial collateral ligament of knee,0.0004180602006688963
+Respiratory rate,Transformed migraine (disorder),0.0004180602006688963
+Respiratory rate,Acute allergic reaction,0.0004180602006688963
+Respiratory rate,Epilepsy,0.0004180602006688963
+Respiratory rate,Tubal pregnancy,0.0004180602006688963
+Respiratory rate,Alveolitis of jaw (disorder),0.0004180602006688963
+Respiratory rate,Localized  primary osteoarthritis of the hand,0.0004180602006688963
+Respiratory rate,Passive conjunctival congestion (finding),0.0004180602006688963
+Respiratory rate,Hyperglycemia (disorder),0.00031354515050167225
+Respiratory rate,Second degree burn,0.00031354515050167225
+Respiratory rate,Primary fibromyalgia syndrome,0.00031354515050167225
+Respiratory rate,Seasonal allergic rhinitis,0.00031354515050167225
+Respiratory rate,Alzheimer's disease (disorder),0.00031354515050167225
+Respiratory rate,Fracture of forearm,0.00031354515050167225
+Respiratory rate,Bullet wound,0.00031354515050167225
+Respiratory rate,Gunshot wound (disorder),0.00031354515050167225
+Respiratory rate,Aortic valve stenosis (disorder),0.00031354515050167225
+Respiratory rate,Heart failure (disorder),0.00031354515050167225
+Respiratory rate,Pyelonephritis,0.00031354515050167225
+Respiratory rate,Concussion with loss of consciousness,0.00031354515050167225
+Respiratory rate,Opioid abuse (disorder),0.00031354515050167225
+Respiratory rate,Pathological fracture due to osteoporosis (disorder),0.00031354515050167225
+Respiratory rate,Pulmonary emphysema (disorder),0.00031354515050167225
+Respiratory rate,Closed fracture of hip,0.00031354515050167225
+Respiratory rate,Acute ST segment elevation myocardial infarction (disorder),0.00031354515050167225
+Respiratory rate,Acute non-ST segment elevation myocardial infarction (disorder),0.00031354515050167225
+Respiratory rate,Fetus with chromosomal abnormality,0.00020903010033444816
+Respiratory rate,Recurrent rectal polyp,0.00020903010033444816
+Respiratory rate,Acquired coagulation disorder (disorder),0.00020903010033444816
+Respiratory rate,Homeless (finding),0.00020903010033444816
+Respiratory rate,Injury of anterior cruciate ligament,0.00020903010033444816
+Respiratory rate,Congenital uterine anomaly,0.00020903010033444816
+Respiratory rate,Mitral valve regurgitation (disorder),0.00020903010033444816
+Respiratory rate,Traumatic dislocation of temporomandibular joint (disorder),0.00020903010033444816
+Respiratory rate,Injury of heart (disorder),0.00020903010033444816
+Respiratory rate,Neuropathy due to type 2 diabetes mellitus (disorder),0.00020903010033444816
+Respiratory rate,History of aortic valve replacement (situation),0.00020903010033444816
+Respiratory rate,Spasticity (finding),0.00020903010033444816
+Respiratory rate,Hemoptysis (finding),0.00020903010033444816
+Respiratory rate,Cerebral palsy (disorder),0.00020903010033444816
+Respiratory rate,Poor muscle tone (finding),0.00020903010033444816
+Respiratory rate,Sleep apnea (disorder),0.00020903010033444816
+Respiratory rate,Sepsis (disorder),0.00020903010033444816
+Respiratory rate,Protracted diarrhea,0.00010451505016722408
+Respiratory rate,Secondary malignant neoplasm of colon,0.00010451505016722408
+Respiratory rate,Unable to swallow saliva (finding),0.00010451505016722408
+Respiratory rate,Intellectual disability (disorder),0.00010451505016722408
+Respiratory rate,Gastroesophageal reflux disease (disorder),0.00010451505016722408
+Respiratory rate,Excessive salivation (disorder),0.00010451505016722408
+Respiratory rate,Dislocation of hip joint (disorder),0.00010451505016722408
+Respiratory rate,Constipation (finding),0.00010451505016722408
+Respiratory rate,Body mass index 40+ - severely obese (finding),0.00010451505016722408
+Respiratory rate,Bleeding from anus,0.00010451505016722408
+Respiratory rate,Chronic obstructive bronchitis (disorder),0.00010451505016722408
+Respiratory rate,Died in hospice (finding),0.00010451505016722408
+Respiratory rate,Primary malignant neoplasm of colon,0.00010451505016722408
+Respiratory rate,Atrial fibrillation (disorder),0.00010451505016722408
+Respiratory rate,Chronic congestive heart failure (disorder),0.00010451505016722408
+Respiratory rate,Fracture of mandible (disorder),0.00010451505016722408
+Respiratory rate,Retinopathy due to type 2 diabetes mellitus (disorder),0.00010451505016722408
+Respiratory rate,Kidney transplant failure and rejection (disorder),0.00010451505016722408
+Respiratory rate,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder),0.00010451505016722408
+Respiratory rate,Awaiting transplantation of bone marrow (situation),0.00010451505016722408
+Respiratory rate,History of autologous bone marrow transplant (situation),0.00010451505016722408
+Respiratory rate,Suspected prostate cancer (situation),0.00010451505016722408
+Respiratory rate,Leukemia  disease (disorder),0.00010451505016722408
+Respiratory rate,Neoplasm of prostate,0.00010451505016722408
+Respiratory rate,Carcinoma in situ of prostate (disorder),0.00010451505016722408
+Respiratory rate,Brain damage - traumatic,0.00010451505016722408
+Respiratory rate,Pulmonic valve stenosis (disorder),0.00010451505016722408
+Respiratory rate,Malignant neoplasm of breast (disorder),0.00010451505016722408
+Respiratory rate,Bacterial infectious disease (disorder),0.00010451505016722408
+Respiratory rate,Aortic valve regurgitation (disorder),0.00010451505016722408
+Respiratory rate,Gout,0.00010451505016722408
+Glucose [Mass/volume] in Blood,Medication review due (situation),0.21514754098360656
+Glucose [Mass/volume] in Blood,Stress (finding),0.09311475409836066
+Glucose [Mass/volume] in Blood,Full-time employment (finding),0.08065573770491803
+Glucose [Mass/volume] in Blood,Gingivitis (disorder),0.07842622950819672
+Glucose [Mass/volume] in Blood,Part-time employment (finding),0.054819672131147544
+Glucose [Mass/volume] in Blood,Limited social contact (finding),0.033114754098360656
+Glucose [Mass/volume] in Blood,Not in labor force (finding),0.032
+Glucose [Mass/volume] in Blood,Social isolation (finding),0.031672131147540986
+Glucose [Mass/volume] in Blood,Gingival disease (disorder),0.023409836065573772
+Glucose [Mass/volume] in Blood,Victim of intimate partner abuse (finding),0.022557377049180326
+Glucose [Mass/volume] in Blood,Reports of violence in the environment (finding),0.01921311475409836
+Glucose [Mass/volume] in Blood,Primary dental caries (disorder),0.015147540983606557
+Glucose [Mass/volume] in Blood,Viral sinusitis (disorder),0.013704918032786886
+Glucose [Mass/volume] in Blood,Essential hypertension (disorder),0.009639344262295083
+Glucose [Mass/volume] in Blood,Prediabetes,0.009180327868852459
+Glucose [Mass/volume] in Blood,Unemployed (finding),0.009114754098360656
+Glucose [Mass/volume] in Blood,Body mass index 30+ - obesity (finding),0.008918032786885246
+Glucose [Mass/volume] in Blood,Received higher education (finding),0.008918032786885246
+Glucose [Mass/volume] in Blood,Metabolic syndrome X (disorder),0.008852459016393442
+Glucose [Mass/volume] in Blood,Anemia (disorder),0.008655737704918032
+Glucose [Mass/volume] in Blood,Acute viral pharyngitis (disorder),0.006688524590163935
+Glucose [Mass/volume] in Blood,Disorder of kidney due to diabetes mellitus (disorder),0.005770491803278688
+Glucose [Mass/volume] in Blood,Microalbuminuria due to type 2 diabetes mellitus (disorder),0.005508196721311476
+Glucose [Mass/volume] in Blood,Chronic kidney disease stage 1 (disorder),0.005508196721311476
+Glucose [Mass/volume] in Blood,Acute bronchitis (disorder),0.005442622950819672
+Glucose [Mass/volume] in Blood,Chronic kidney disease stage 2 (disorder),0.005377049180327869
+Glucose [Mass/volume] in Blood,Diabetes mellitus type 2 (disorder),0.005245901639344262
+Glucose [Mass/volume] in Blood,Has a criminal record (finding),0.005180327868852459
+Glucose [Mass/volume] in Blood,Hypertriglyceridemia (disorder),0.005180327868852459
+Glucose [Mass/volume] in Blood,Infection of tooth (disorder),0.004983606557377049
+Glucose [Mass/volume] in Blood,Proteinuria due to type 2 diabetes mellitus (disorder),0.004721311475409836
+Glucose [Mass/volume] in Blood,Chronic kidney disease stage 3 (disorder),0.0045901639344262295
+Glucose [Mass/volume] in Blood,Ischemic heart disease (disorder),0.004524590163934426
+Glucose [Mass/volume] in Blood,Abnormal findings diagnostic imaging heart+coronary circulat (finding),0.004524590163934426
+Glucose [Mass/volume] in Blood,Dental filling lost (finding),0.004327868852459016
+Glucose [Mass/volume] in Blood,Unhealthy alcohol drinking behavior (finding),0.0042622950819672135
+Glucose [Mass/volume] in Blood,Severe anxiety (panic) (finding),0.0038688524590163934
+Glucose [Mass/volume] in Blood,Loss of teeth (disorder),0.003737704918032787
+Glucose [Mass/volume] in Blood,Chronic sinusitis (disorder),0.0036721311475409837
+Glucose [Mass/volume] in Blood,Leaking dental filling (finding),0.0036065573770491803
+Glucose [Mass/volume] in Blood,Fractured dental filling (finding),0.0036065573770491803
+Glucose [Mass/volume] in Blood,Transport problem (finding),0.003540983606557377
+Glucose [Mass/volume] in Blood,Loose dental filling (finding),0.003540983606557377
+Glucose [Mass/volume] in Blood,Lack of access to transportation (finding),0.003540983606557377
+Glucose [Mass/volume] in Blood,Chronic kidney disease stage 4 (disorder),0.0034098360655737707
+Glucose [Mass/volume] in Blood,Past pregnancy history of miscarriage (situation),0.0033442622950819673
+Glucose [Mass/volume] in Blood,Awaiting transplantation of kidney (situation),0.0033442622950819673
+Glucose [Mass/volume] in Blood,Normal pregnancy,0.003147540983606557
+Glucose [Mass/volume] in Blood,Housing unsatisfactory (finding),0.0030819672131147543
+Glucose [Mass/volume] in Blood,Risk activity involvement (finding),0.0030819672131147543
+Glucose [Mass/volume] in Blood,History of renal transplant (situation),0.0029508196721311475
+Glucose [Mass/volume] in Blood,Hyperlipidemia,0.002885245901639344
+Glucose [Mass/volume] in Blood,Chronic pain (finding),0.002885245901639344
+Glucose [Mass/volume] in Blood,Chronic low back pain (finding),0.0025573770491803278
+Glucose [Mass/volume] in Blood,Received certificate of high school equivalency (finding),0.0024262295081967215
+Glucose [Mass/volume] in Blood,Misuses drugs (finding),0.0019672131147540984
+Glucose [Mass/volume] in Blood,History of coronary artery bypass grafting (situation),0.0018360655737704918
+Glucose [Mass/volume] in Blood,Refugee (person),0.0017704918032786885
+Glucose [Mass/volume] in Blood,Polyp of colon,0.0017704918032786885
+Glucose [Mass/volume] in Blood,Fracture of bone (disorder),0.0017049180327868853
+Glucose [Mass/volume] in Blood,Drug overdose,0.001639344262295082
+Glucose [Mass/volume] in Blood,History of tubal ligation (situation),0.0015737704918032786
+Glucose [Mass/volume] in Blood,Hyperglycemia (disorder),0.0015737704918032786
+Glucose [Mass/volume] in Blood,Neuropathy due to type 2 diabetes mellitus (disorder),0.0015737704918032786
+Glucose [Mass/volume] in Blood,End-stage renal disease (disorder),0.0015081967213114755
+Glucose [Mass/volume] in Blood,Sprain (morphologic abnormality),0.0015081967213114755
+Glucose [Mass/volume] in Blood,History of myocardial infarction (situation),0.001442622950819672
+Glucose [Mass/volume] in Blood,Chronic neck pain (finding),0.001377049180327869
+Glucose [Mass/volume] in Blood,Retinopathy due to type 2 diabetes mellitus (disorder),0.001377049180327869
+Glucose [Mass/volume] in Blood,Sinusitis (disorder),0.0012459016393442622
+Glucose [Mass/volume] in Blood,Laceration - injury (disorder),0.0012459016393442622
+Glucose [Mass/volume] in Blood,Osteoporosis (disorder),0.0012459016393442622
+Glucose [Mass/volume] in Blood,Sleep disorder (disorder),0.001180327868852459
+Glucose [Mass/volume] in Blood,History of appendectomy,0.0011147540983606557
+Glucose [Mass/volume] in Blood,Served in armed forces (finding),0.0011147540983606557
+Glucose [Mass/volume] in Blood,COVID-19,0.0011147540983606557
+Glucose [Mass/volume] in Blood,Suspected COVID-19,0.0011147540983606557
+Glucose [Mass/volume] in Blood,Streptococcal sore throat (disorder),0.0010491803278688525
+Glucose [Mass/volume] in Blood,Acute infective cystitis (disorder),0.0010491803278688525
+Glucose [Mass/volume] in Blood,Acute bacterial sinusitis (disorder),0.0010491803278688525
+Glucose [Mass/volume] in Blood,Sprain of ankle,0.0010491803278688525
+Glucose [Mass/volume] in Blood,Recurrent urinary tract infection (disorder),0.0009836065573770492
+Glucose [Mass/volume] in Blood,Fever (finding),0.0009836065573770492
+Glucose [Mass/volume] in Blood,Sepsis (disorder),0.0009180327868852459
+Glucose [Mass/volume] in Blood,Osteoarthritis of knee,0.0009180327868852459
+Glucose [Mass/volume] in Blood,Alveolitis of jaw (disorder),0.0008524590163934427
+Glucose [Mass/volume] in Blood,Acute non-ST segment elevation myocardial infarction (disorder),0.0008524590163934427
+Glucose [Mass/volume] in Blood,Concussion injury of brain (disorder),0.0008524590163934427
+Glucose [Mass/volume] in Blood,Alzheimer's disease (disorder),0.0007868852459016393
+Glucose [Mass/volume] in Blood,Injury of neck (disorder),0.0007868852459016393
+Glucose [Mass/volume] in Blood,Only received primary school education (finding),0.0007868852459016393
+Glucose [Mass/volume] in Blood,Whiplash injury to neck,0.0007868852459016393
+Glucose [Mass/volume] in Blood,Chronic congestive heart failure (disorder),0.000721311475409836
+Glucose [Mass/volume] in Blood,Fracture of ankle,0.000721311475409836
+Glucose [Mass/volume] in Blood,Fatigue (finding),0.0006557377049180328
+Glucose [Mass/volume] in Blood,Miscarriage in first trimester,0.0006557377049180328
+Glucose [Mass/volume] in Blood,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder),0.0006557377049180328
+Glucose [Mass/volume] in Blood,Concussion with no loss of consciousness,0.0006557377049180328
+Glucose [Mass/volume] in Blood,Cough (finding),0.0005901639344262295
+Glucose [Mass/volume] in Blood,Obstructive sleep apnea syndrome (disorder),0.0005901639344262295
+Glucose [Mass/volume] in Blood,Acute ST segment elevation myocardial infarction (disorder),0.0005901639344262295
+Glucose [Mass/volume] in Blood,Osteoarthritis of hip,0.0005901639344262295
+Glucose [Mass/volume] in Blood,Sleep apnea (disorder),0.0005901639344262295
+Glucose [Mass/volume] in Blood,History of single seizure (situation),0.0005245901639344263
+Glucose [Mass/volume] in Blood,Fibromyalgia (disorder),0.0005245901639344263
+Glucose [Mass/volume] in Blood,Chronic intractable migraine without aura,0.0005245901639344263
+Glucose [Mass/volume] in Blood,Seizure disorder,0.0005245901639344263
+Glucose [Mass/volume] in Blood,Myocardial infarction (disorder),0.0005245901639344263
+Glucose [Mass/volume] in Blood,Carcinoma in situ of prostate (disorder),0.00045901639344262296
+Glucose [Mass/volume] in Blood,Loss of taste (finding),0.00045901639344262296
+Glucose [Mass/volume] in Blood,Sprain of wrist,0.00045901639344262296
+Glucose [Mass/volume] in Blood,Burn injury (morphologic abnormality),0.00045901639344262296
+Glucose [Mass/volume] in Blood,Recurrent rectal polyp,0.00045901639344262296
+Glucose [Mass/volume] in Blood,Resorption of alveolar process due to dental trauma (disorder),0.00045901639344262296
+Glucose [Mass/volume] in Blood,Fracture of forearm,0.00045901639344262296
+Glucose [Mass/volume] in Blood,Dependent drug abuse (disorder),0.00045901639344262296
+Glucose [Mass/volume] in Blood,Impacted molars,0.00045901639344262296
+Glucose [Mass/volume] in Blood,Neoplasm of prostate,0.00045901639344262296
+Glucose [Mass/volume] in Blood,Suspected prostate cancer (situation),0.00039344262295081965
+Glucose [Mass/volume] in Blood,Torus palatinus (disorder),0.00039344262295081965
+Glucose [Mass/volume] in Blood,Blighted ovum,0.00039344262295081965
+Glucose [Mass/volume] in Blood,Injury of knee (disorder),0.00039344262295081965
+Glucose [Mass/volume] in Blood,Chronic pain,0.00039344262295081965
+Glucose [Mass/volume] in Blood,Otitis media,0.00039344262295081965
+Glucose [Mass/volume] in Blood,Facial laceration,0.00039344262295081965
+Glucose [Mass/volume] in Blood,Atrial fibrillation (disorder),0.00039344262295081965
+Glucose [Mass/volume] in Blood,Localized  primary osteoarthritis of the hand,0.0003278688524590164
+Glucose [Mass/volume] in Blood,Non-small cell carcinoma of lung  TNM stage 1 (disorder),0.0003278688524590164
+Glucose [Mass/volume] in Blood,Suspected lung cancer (situation),0.0003278688524590164
+Glucose [Mass/volume] in Blood,Mitral valve regurgitation (disorder),0.0003278688524590164
+Glucose [Mass/volume] in Blood,Non-small cell lung cancer (disorder),0.0003278688524590164
+Glucose [Mass/volume] in Blood,Sputum finding (finding),0.0003278688524590164
+Glucose [Mass/volume] in Blood,Wheezing (finding),0.0003278688524590164
+Glucose [Mass/volume] in Blood,Dyspnea (finding),0.0003278688524590164
+Glucose [Mass/volume] in Blood,Epilepsy,0.00026229508196721314
+Glucose [Mass/volume] in Blood,Malignant neoplasm of breast (disorder),0.00026229508196721314
+Glucose [Mass/volume] in Blood,Second degree burn,0.00026229508196721314
+Glucose [Mass/volume] in Blood,Major depression disorder,0.00026229508196721314
+Glucose [Mass/volume] in Blood,Aortic valve stenosis (disorder),0.00026229508196721314
+Glucose [Mass/volume] in Blood,Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder),0.00026229508196721314
+Glucose [Mass/volume] in Blood,Laceration of hand,0.00026229508196721314
+Glucose [Mass/volume] in Blood,Brain damage - traumatic,0.00026229508196721314
+Glucose [Mass/volume] in Blood,Fracture of clavicle,0.00026229508196721314
+Glucose [Mass/volume] in Blood,Laceration of thigh,0.00026229508196721314
+Glucose [Mass/volume] in Blood,Pneumonia (disorder),0.00026229508196721314
+Glucose [Mass/volume] in Blood,Chronic obstructive bronchitis (disorder),0.00019672131147540983
+Glucose [Mass/volume] in Blood,Hypoxemia (disorder),0.00019672131147540983
+Glucose [Mass/volume] in Blood,Miscarriage in second trimester,0.00019672131147540983
+Glucose [Mass/volume] in Blood,Idiopathic atrophic hypothyroidism,0.00019672131147540983
+Glucose [Mass/volume] in Blood,Sterilization requested (situation),0.00019672131147540983
+Glucose [Mass/volume] in Blood,Respiratory distress (finding),0.00019672131147540983
+Glucose [Mass/volume] in Blood,Antepartum eclampsia,0.00019672131147540983
+Glucose [Mass/volume] in Blood,Muscle pain (finding),0.00019672131147540983
+Glucose [Mass/volume] in Blood,Appendicitis,0.00019672131147540983
+Glucose [Mass/volume] in Blood,Joint pain (finding),0.00019672131147540983
+Glucose [Mass/volume] in Blood,Body mass index 40+ - severely obese (finding),0.00019672131147540983
+Glucose [Mass/volume] in Blood,Died in hospice (finding),0.00019672131147540983
+Glucose [Mass/volume] in Blood,Laceration of forearm,0.00019672131147540983
+Glucose [Mass/volume] in Blood,Tongue tie (disorder),0.00019672131147540983
+Glucose [Mass/volume] in Blood,Headache (finding),0.00019672131147540983
+Glucose [Mass/volume] in Blood,Acute Cholecystitis,0.00019672131147540983
+Glucose [Mass/volume] in Blood,Stroke,0.00019672131147540983
+Glucose [Mass/volume] in Blood,Awaiting transplantation of bone marrow (situation),0.00019672131147540983
+Glucose [Mass/volume] in Blood,Cholelithiasis,0.00019672131147540983
+Glucose [Mass/volume] in Blood,Pathological fracture due to osteoporosis (disorder),0.00019672131147540983
+Glucose [Mass/volume] in Blood,Malignant tumor of colon,0.00019672131147540983
+Glucose [Mass/volume] in Blood,Septic shock (disorder),0.00019672131147540983
+Glucose [Mass/volume] in Blood,Smokes tobacco daily,0.00019672131147540983
+Glucose [Mass/volume] in Blood,History of aortic valve replacement (situation),0.00019672131147540983
+Glucose [Mass/volume] in Blood,Gastroesophageal reflux disease (disorder),0.00013114754098360657
+Glucose [Mass/volume] in Blood,Homeless (finding),0.00013114754098360657
+Glucose [Mass/volume] in Blood,Primary malignant neoplasm of colon,0.00013114754098360657
+Glucose [Mass/volume] in Blood,Fetus with chromosomal abnormality,0.00013114754098360657
+Glucose [Mass/volume] in Blood,Laceration of foot,0.00013114754098360657
+Glucose [Mass/volume] in Blood,Sepsis caused by virus (disorder),0.00013114754098360657
+Glucose [Mass/volume] in Blood,Multiple myeloma (disorder),0.00013114754098360657
+Glucose [Mass/volume] in Blood,Complete miscarriage (disorder),0.00013114754098360657
+Glucose [Mass/volume] in Blood,Acute respiratory distress syndrome (disorder),0.00013114754098360657
+Glucose [Mass/volume] in Blood,History of peripheral stem cell transplant (situation),0.00013114754098360657
+Glucose [Mass/volume] in Blood,Primary fibromyalgia syndrome,0.00013114754098360657
+Glucose [Mass/volume] in Blood,Bleeding from anus,0.00013114754098360657
+Glucose [Mass/volume] in Blood,Protracted diarrhea,0.00013114754098360657
+Glucose [Mass/volume] in Blood,Pulmonary emphysema (disorder),0.00013114754098360657
+Glucose [Mass/volume] in Blood,Cerebral palsy (disorder),0.00013114754098360657
+Glucose [Mass/volume] in Blood,Dribbling from mouth (finding),0.00013114754098360657
+Glucose [Mass/volume] in Blood,Injury of tendon of the rotator cuff of shoulder,0.00013114754098360657
+Glucose [Mass/volume] in Blood,Chill (finding),0.00013114754098360657
+Glucose [Mass/volume] in Blood,Epidermal burn of skin (disorder),0.00013114754098360657
+Glucose [Mass/volume] in Blood,Bullet wound,0.00013114754098360657
+Glucose [Mass/volume] in Blood,Fracture of rib,0.00013114754098360657
+Glucose [Mass/volume] in Blood,Sore throat symptom (finding),0.00013114754098360657
+Glucose [Mass/volume] in Blood,Tear of meniscus of knee,0.00013114754098360657
+Glucose [Mass/volume] in Blood,Gout,0.00013114754098360657
+Glucose [Mass/volume] in Blood,Macular edema and retinopathy due to type 2 diabetes mellitus (disorder),0.00013114754098360657
+Glucose [Mass/volume] in Blood,Concussion with loss of consciousness,0.00013114754098360657
+Glucose [Mass/volume] in Blood,Fracture subluxation of wrist,0.00013114754098360657
+Glucose [Mass/volume] in Blood,Injury of anterior cruciate ligament,0.00013114754098360657
+Glucose [Mass/volume] in Blood,Gunshot wound (disorder),0.00013114754098360657
+Glucose [Mass/volume] in Blood,Tubal pregnancy,0.00013114754098360657
+Glucose [Mass/volume] in Blood,Excessive salivation (disorder),0.00013114754098360657
+Glucose [Mass/volume] in Blood,Leukemia  disease (disorder),0.00013114754098360657
+Glucose [Mass/volume] in Blood,Intellectual disability (disorder),0.00013114754098360657
+Glucose [Mass/volume] in Blood,Kidney transplant failure and rejection (disorder),0.00013114754098360657
+Glucose [Mass/volume] in Blood,History of autologous bone marrow transplant (situation),0.00013114754098360657
+Glucose [Mass/volume] in Blood,Contact dermatitis,6.557377049180328e-05
+Glucose [Mass/volume] in Blood,Chronic paralysis due to lesion of spinal cord,6.557377049180328e-05
+Glucose [Mass/volume] in Blood,Secondary malignant neoplasm of colon,6.557377049180328e-05
+Glucose [Mass/volume] in Blood,Injury of medial collateral ligament of knee,6.557377049180328e-05
+Glucose [Mass/volume] in Blood,History of aortic valve repair (situation),6.557377049180328e-05
+Glucose [Mass/volume] in Blood,Third degree burn,6.557377049180328e-05
+Glucose [Mass/volume] in Blood,Fracture of mandible (disorder),6.557377049180328e-05
+Glucose [Mass/volume] in Blood,History of amputation of foot (situation),6.557377049180328e-05
+Glucose [Mass/volume] in Blood,Aortic valve regurgitation (disorder),6.557377049180328e-05
+Glucose [Mass/volume] in Blood,Familial Alzheimer's disease of early onset (disorder),6.557377049180328e-05
+Glucose [Mass/volume] in Blood,Pneumonia,6.557377049180328e-05
+Glucose [Mass/volume] in Blood,Acute deep venous thrombosis (disorder),6.557377049180328e-05
+Glucose [Mass/volume] in Blood,Passive conjunctival congestion (finding),6.557377049180328e-05
+Glucose [Mass/volume] in Blood,Preeclampsia,6.557377049180328e-05
+Glucose [Mass/volume] in Blood,Overlapping malignant neoplasm of colon,6.557377049180328e-05
+Glucose [Mass/volume] in Blood,Alcoholism,6.557377049180328e-05
+Glucose [Mass/volume] in Blood,Dystonia (disorder),6.557377049180328e-05
+Glucose [Mass/volume] in Blood,Retention of urine (disorder),6.557377049180328e-05
+Glucose [Mass/volume] in Blood,Spasticity (finding),6.557377049180328e-05
+Glucose [Mass/volume] in Blood,Rupture of patellar tendon,6.557377049180328e-05
+Glucose [Mass/volume] in Blood,Complication occuring during pregnancy,6.557377049180328e-05
+Glucose [Mass/volume] in Blood,Epilepsy (disorder),6.557377049180328e-05
+Glucose [Mass/volume] in Blood,Pain (finding),6.557377049180328e-05
+Glucose [Mass/volume] in Blood,Unable to swallow saliva (finding),6.557377049180328e-05
+Glucose [Mass/volume] in Blood,Rupture of appendix,6.557377049180328e-05
+Glucose [Mass/volume] in Blood,Pulmonic valve stenosis (disorder),6.557377049180328e-05
+Glucose [Mass/volume] in Blood,Transformed migraine (disorder),6.557377049180328e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Medication review due (situation),0.19287777917347068
+Cholesterol [Mass/volume] in Serum or Plasma,Stress (finding),0.08956161286270568
+Cholesterol [Mass/volume] in Serum or Plasma,Full-time employment (finding),0.07838211279989951
+Cholesterol [Mass/volume] in Serum or Plasma,Gingivitis (disorder),0.07153623916593393
+Cholesterol [Mass/volume] in Serum or Plasma,Part-time employment (finding),0.05212912950634342
+Cholesterol [Mass/volume] in Serum or Plasma,Limited social contact (finding),0.03196834568521543
+Cholesterol [Mass/volume] in Serum or Plasma,Social isolation (finding),0.030649415902524808
+Cholesterol [Mass/volume] in Serum or Plasma,Not in labor force (finding),0.02876523049868107
+Cholesterol [Mass/volume] in Serum or Plasma,Victim of intimate partner abuse (finding),0.020663233262152997
+Cholesterol [Mass/volume] in Serum or Plasma,Gingival disease (disorder),0.020537620901896748
+Cholesterol [Mass/volume] in Serum or Plasma,Viral sinusitis (disorder),0.019407109659590503
+Cholesterol [Mass/volume] in Serum or Plasma,Reports of violence in the environment (finding),0.016266800653184272
+Cholesterol [Mass/volume] in Serum or Plasma,Primary dental caries (disorder),0.013817359628187413
+Cholesterol [Mass/volume] in Serum or Plasma,Received higher education (finding),0.013314910187162417
+Cholesterol [Mass/volume] in Serum or Plasma,Body mass index 30+ - obesity (finding),0.012498429845496798
+Cholesterol [Mass/volume] in Serum or Plasma,Unemployed (finding),0.012058786584599924
+Cholesterol [Mass/volume] in Serum or Plasma,Essential hypertension (disorder),0.010111795000628062
+Cholesterol [Mass/volume] in Serum or Plasma,Anemia (disorder),0.010048988820499937
+Cholesterol [Mass/volume] in Serum or Plasma,Prediabetes,0.009734957919859314
+Cholesterol [Mass/volume] in Serum or Plasma,Acute viral pharyngitis (disorder),0.00954653937947494
+Cholesterol [Mass/volume] in Serum or Plasma,Acute bronchitis (disorder),0.008416028137168697
+Cholesterol [Mass/volume] in Serum or Plasma,Normal pregnancy,0.0077251601557593265
+Cholesterol [Mass/volume] in Serum or Plasma,Metabolic syndrome X (disorder),0.007097098354478081
+Cholesterol [Mass/volume] in Serum or Plasma,Lack of access to transportation (finding),0.006343424192940586
+Cholesterol [Mass/volume] in Serum or Plasma,Transport problem (finding),0.006343424192940586
+Cholesterol [Mass/volume] in Serum or Plasma,Ischemic heart disease (disorder),0.005401331491018717
+Cholesterol [Mass/volume] in Serum or Plasma,Abnormal findings diagnostic imaging heart+coronary circulat (finding),0.005401331491018717
+Cholesterol [Mass/volume] in Serum or Plasma,Infection of tooth (disorder),0.005338525310890591
+Cholesterol [Mass/volume] in Serum or Plasma,Has a criminal record (finding),0.005338525310890591
+Cholesterol [Mass/volume] in Serum or Plasma,Past pregnancy history of miscarriage (situation),0.004961688230121844
+Cholesterol [Mass/volume] in Serum or Plasma,Unhealthy alcohol drinking behavior (finding),0.00477326968973747
+Cholesterol [Mass/volume] in Serum or Plasma,Hyperlipidemia,0.004710463509609346
+Cholesterol [Mass/volume] in Serum or Plasma,Chronic pain (finding),0.004522044969224971
+Cholesterol [Mass/volume] in Serum or Plasma,Disorder of kidney due to diabetes mellitus (disorder),0.004522044969224971
+Cholesterol [Mass/volume] in Serum or Plasma,Diabetes mellitus type 2 (disorder),0.004459238789096847
+Cholesterol [Mass/volume] in Serum or Plasma,Chronic low back pain (finding),0.004333626428840598
+Cholesterol [Mass/volume] in Serum or Plasma,Hypertriglyceridemia (disorder),0.004333626428840598
+Cholesterol [Mass/volume] in Serum or Plasma,Chronic sinusitis (disorder),0.004333626428840598
+Cholesterol [Mass/volume] in Serum or Plasma,Severe anxiety (panic) (finding),0.004270820248712473
+Cholesterol [Mass/volume] in Serum or Plasma,Chronic kidney disease stage 1 (disorder),0.004145207888456224
+Cholesterol [Mass/volume] in Serum or Plasma,Microalbuminuria due to type 2 diabetes mellitus (disorder),0.0040824017083280996
+Cholesterol [Mass/volume] in Serum or Plasma,Risk activity involvement (finding),0.004019595528199975
+Cholesterol [Mass/volume] in Serum or Plasma,Loss of teeth (disorder),0.0039567893480718505
+Cholesterol [Mass/volume] in Serum or Plasma,Chronic kidney disease stage 2 (disorder),0.0038939831679437255
+Cholesterol [Mass/volume] in Serum or Plasma,Loose dental filling (finding),0.003517146087174978
+Cholesterol [Mass/volume] in Serum or Plasma,Leaking dental filling (finding),0.0034543399070468533
+Cholesterol [Mass/volume] in Serum or Plasma,Dental filling lost (finding),0.0034543399070468533
+Cholesterol [Mass/volume] in Serum or Plasma,Fractured dental filling (finding),0.0033915337269187287
+Cholesterol [Mass/volume] in Serum or Plasma,Housing unsatisfactory (finding),0.003328727546790604
+Cholesterol [Mass/volume] in Serum or Plasma,Proteinuria due to type 2 diabetes mellitus (disorder),0.003203115186534355
+Cholesterol [Mass/volume] in Serum or Plasma,Chronic kidney disease stage 3 (disorder),0.0029518904660218565
+Cholesterol [Mass/volume] in Serum or Plasma,History of coronary artery bypass grafting (situation),0.0028262781057656074
+Cholesterol [Mass/volume] in Serum or Plasma,Refugee (person),0.0027006657455093583
+Cholesterol [Mass/volume] in Serum or Plasma,Received certificate of high school equivalency (finding),0.0027006657455093583
+Cholesterol [Mass/volume] in Serum or Plasma,Chronic neck pain (finding),0.0024494410249968597
+Cholesterol [Mass/volume] in Serum or Plasma,Drug overdose,0.0024494410249968597
+Cholesterol [Mass/volume] in Serum or Plasma,Laceration - injury (disorder),0.0024494410249968597
+Cholesterol [Mass/volume] in Serum or Plasma,Sprain (morphologic abnormality),0.002386634844868735
+Cholesterol [Mass/volume] in Serum or Plasma,History of tubal ligation (situation),0.002198216304484361
+Cholesterol [Mass/volume] in Serum or Plasma,Hyperglycemia (disorder),0.0021354101243562366
+Cholesterol [Mass/volume] in Serum or Plasma,Misuses drugs (finding),0.0021354101243562366
+Cholesterol [Mass/volume] in Serum or Plasma,History of myocardial infarction (situation),0.0021354101243562366
+Cholesterol [Mass/volume] in Serum or Plasma,Polyp of colon,0.002072603944228112
+Cholesterol [Mass/volume] in Serum or Plasma,Fracture of bone (disorder),0.0020097977640999875
+Cholesterol [Mass/volume] in Serum or Plasma,Chronic kidney disease stage 4 (disorder),0.0019469915839718627
+Cholesterol [Mass/volume] in Serum or Plasma,History of renal transplant (situation),0.0019469915839718627
+Cholesterol [Mass/volume] in Serum or Plasma,Awaiting transplantation of kidney (situation),0.0018841854038437382
+Cholesterol [Mass/volume] in Serum or Plasma,Streptococcal sore throat (disorder),0.0018213792237156137
+Cholesterol [Mass/volume] in Serum or Plasma,Sleep disorder (disorder),0.0018213792237156137
+Cholesterol [Mass/volume] in Serum or Plasma,Miscarriage in first trimester,0.0016329606833312398
+Cholesterol [Mass/volume] in Serum or Plasma,Acute infective cystitis (disorder),0.0015701545032031153
+Cholesterol [Mass/volume] in Serum or Plasma,Sprain of ankle,0.0015073483230749905
+Cholesterol [Mass/volume] in Serum or Plasma,Myocardial infarction (disorder),0.0015073483230749905
+Cholesterol [Mass/volume] in Serum or Plasma,Concussion injury of brain (disorder),0.001444542142946866
+Cholesterol [Mass/volume] in Serum or Plasma,Served in armed forces (finding),0.001444542142946866
+Cholesterol [Mass/volume] in Serum or Plasma,Neuropathy due to type 2 diabetes mellitus (disorder),0.0013817359628187414
+Cholesterol [Mass/volume] in Serum or Plasma,Sinusitis (disorder),0.0013817359628187414
+Cholesterol [Mass/volume] in Serum or Plasma,Acute non-ST segment elevation myocardial infarction (disorder),0.0013189297826906167
+Cholesterol [Mass/volume] in Serum or Plasma,Alveolitis of jaw (disorder),0.0012561236025624921
+Cholesterol [Mass/volume] in Serum or Plasma,History of appendectomy,0.0011933174224343676
+Cholesterol [Mass/volume] in Serum or Plasma,Osteoarthritis of knee,0.0011933174224343676
+Cholesterol [Mass/volume] in Serum or Plasma,Recurrent urinary tract infection (disorder),0.0011933174224343676
+Cholesterol [Mass/volume] in Serum or Plasma,Retinopathy due to type 2 diabetes mellitus (disorder),0.0011305112423062428
+Cholesterol [Mass/volume] in Serum or Plasma,Suspected COVID-19,0.0010677050621781183
+Cholesterol [Mass/volume] in Serum or Plasma,Obstructive sleep apnea syndrome (disorder),0.0010677050621781183
+Cholesterol [Mass/volume] in Serum or Plasma,End-stage renal disease (disorder),0.0010677050621781183
+Cholesterol [Mass/volume] in Serum or Plasma,COVID-19,0.0010677050621781183
+Cholesterol [Mass/volume] in Serum or Plasma,Acute bacterial sinusitis (disorder),0.0010048988820499938
+Cholesterol [Mass/volume] in Serum or Plasma,Only received primary school education (finding),0.0010048988820499938
+Cholesterol [Mass/volume] in Serum or Plasma,Burn injury (morphologic abnormality),0.0009420927019218691
+Cholesterol [Mass/volume] in Serum or Plasma,Fever (finding),0.0009420927019218691
+Cholesterol [Mass/volume] in Serum or Plasma,Complete miscarriage (disorder),0.0009420927019218691
+Cholesterol [Mass/volume] in Serum or Plasma,Dependent drug abuse (disorder),0.0009420927019218691
+Cholesterol [Mass/volume] in Serum or Plasma,Sprain of wrist,0.0008792865217937445
+Cholesterol [Mass/volume] in Serum or Plasma,Osteoporosis (disorder),0.0008792865217937445
+Cholesterol [Mass/volume] in Serum or Plasma,Concussion with no loss of consciousness,0.0008792865217937445
+Cholesterol [Mass/volume] in Serum or Plasma,Injury of neck (disorder),0.0008792865217937445
+Cholesterol [Mass/volume] in Serum or Plasma,Whiplash injury to neck,0.0008792865217937445
+Cholesterol [Mass/volume] in Serum or Plasma,Chronic congestive heart failure (disorder),0.0008164803416656199
+Cholesterol [Mass/volume] in Serum or Plasma,Acute ST segment elevation myocardial infarction (disorder),0.0008164803416656199
+Cholesterol [Mass/volume] in Serum or Plasma,Sepsis (disorder),0.0007536741615374953
+Cholesterol [Mass/volume] in Serum or Plasma,Chronic intractable migraine without aura,0.0007536741615374953
+Cholesterol [Mass/volume] in Serum or Plasma,Sleep apnea (disorder),0.0007536741615374953
+Cholesterol [Mass/volume] in Serum or Plasma,Chronic pain,0.0007536741615374953
+Cholesterol [Mass/volume] in Serum or Plasma,Impacted molars,0.0007536741615374953
+Cholesterol [Mass/volume] in Serum or Plasma,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder),0.0006908679814093707
+Cholesterol [Mass/volume] in Serum or Plasma,Laceration of thigh,0.0006280618012812461
+Cholesterol [Mass/volume] in Serum or Plasma,Epidermal burn of skin (disorder),0.0006280618012812461
+Cholesterol [Mass/volume] in Serum or Plasma,Fracture of ankle,0.0006280618012812461
+Cholesterol [Mass/volume] in Serum or Plasma,Osteoarthritis of hip,0.0006280618012812461
+Cholesterol [Mass/volume] in Serum or Plasma,Laceration of forearm,0.0006280618012812461
+Cholesterol [Mass/volume] in Serum or Plasma,Suspected prostate cancer (situation),0.0005652556211531214
+Cholesterol [Mass/volume] in Serum or Plasma,Otitis media,0.0005652556211531214
+Cholesterol [Mass/volume] in Serum or Plasma,Pulmonary emphysema (disorder),0.0005652556211531214
+Cholesterol [Mass/volume] in Serum or Plasma,Malignant neoplasm of breast (disorder),0.0005024494410249969
+Cholesterol [Mass/volume] in Serum or Plasma,Fracture of forearm,0.0005024494410249969
+Cholesterol [Mass/volume] in Serum or Plasma,Fibromyalgia (disorder),0.0005024494410249969
+Cholesterol [Mass/volume] in Serum or Plasma,Cough (finding),0.0005024494410249969
+Cholesterol [Mass/volume] in Serum or Plasma,Facial laceration,0.0005024494410249969
+Cholesterol [Mass/volume] in Serum or Plasma,Resorption of alveolar process due to dental trauma (disorder),0.0005024494410249969
+Cholesterol [Mass/volume] in Serum or Plasma,Torus palatinus (disorder),0.0005024494410249969
+Cholesterol [Mass/volume] in Serum or Plasma,Recurrent rectal polyp,0.0005024494410249969
+Cholesterol [Mass/volume] in Serum or Plasma,Chronic obstructive bronchitis (disorder),0.0004396432608968722
+Cholesterol [Mass/volume] in Serum or Plasma,Alcoholism,0.0004396432608968722
+Cholesterol [Mass/volume] in Serum or Plasma,Fatigue (finding),0.0004396432608968722
+Cholesterol [Mass/volume] in Serum or Plasma,Carcinoma in situ of prostate (disorder),0.0004396432608968722
+Cholesterol [Mass/volume] in Serum or Plasma,Neoplasm of prostate,0.0004396432608968722
+Cholesterol [Mass/volume] in Serum or Plasma,Localized  primary osteoarthritis of the hand,0.0004396432608968722
+Cholesterol [Mass/volume] in Serum or Plasma,Injury of knee (disorder),0.0004396432608968722
+Cholesterol [Mass/volume] in Serum or Plasma,History of aortic valve replacement (situation),0.0004396432608968722
+Cholesterol [Mass/volume] in Serum or Plasma,Laceration of foot,0.0004396432608968722
+Cholesterol [Mass/volume] in Serum or Plasma,Loss of taste (finding),0.0004396432608968722
+Cholesterol [Mass/volume] in Serum or Plasma,Aortic valve regurgitation (disorder),0.00037683708076874763
+Cholesterol [Mass/volume] in Serum or Plasma,Alzheimer's disease (disorder),0.00037683708076874763
+Cholesterol [Mass/volume] in Serum or Plasma,History of single seizure (situation),0.00037683708076874763
+Cholesterol [Mass/volume] in Serum or Plasma,Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder),0.00037683708076874763
+Cholesterol [Mass/volume] in Serum or Plasma,Seizure disorder,0.00037683708076874763
+Cholesterol [Mass/volume] in Serum or Plasma,Antepartum eclampsia,0.00037683708076874763
+Cholesterol [Mass/volume] in Serum or Plasma,Sterilization requested (situation),0.00037683708076874763
+Cholesterol [Mass/volume] in Serum or Plasma,Concussion with loss of consciousness,0.00037683708076874763
+Cholesterol [Mass/volume] in Serum or Plasma,Blighted ovum,0.00037683708076874763
+Cholesterol [Mass/volume] in Serum or Plasma,Sputum finding (finding),0.00031403090064062303
+Cholesterol [Mass/volume] in Serum or Plasma,Miscarriage in second trimester,0.00031403090064062303
+Cholesterol [Mass/volume] in Serum or Plasma,Smokes tobacco daily,0.00031403090064062303
+Cholesterol [Mass/volume] in Serum or Plasma,Wheezing (finding),0.00031403090064062303
+Cholesterol [Mass/volume] in Serum or Plasma,Second degree burn,0.00031403090064062303
+Cholesterol [Mass/volume] in Serum or Plasma,Tubal pregnancy,0.00031403090064062303
+Cholesterol [Mass/volume] in Serum or Plasma,Infectious mediastinitis (disorder),0.00031403090064062303
+Cholesterol [Mass/volume] in Serum or Plasma,Fracture of clavicle,0.00031403090064062303
+Cholesterol [Mass/volume] in Serum or Plasma,Fracture of rib,0.00031403090064062303
+Cholesterol [Mass/volume] in Serum or Plasma,Dyspnea (finding),0.00031403090064062303
+Cholesterol [Mass/volume] in Serum or Plasma,Injury of tendon of the rotator cuff of shoulder,0.00025122472051249844
+Cholesterol [Mass/volume] in Serum or Plasma,Preeclampsia,0.00025122472051249844
+Cholesterol [Mass/volume] in Serum or Plasma,Pneumonia (disorder),0.00025122472051249844
+Cholesterol [Mass/volume] in Serum or Plasma,Homeless (finding),0.00025122472051249844
+Cholesterol [Mass/volume] in Serum or Plasma,Brain damage - traumatic,0.00025122472051249844
+Cholesterol [Mass/volume] in Serum or Plasma,Aortic valve stenosis (disorder),0.00025122472051249844
+Cholesterol [Mass/volume] in Serum or Plasma,Laceration of hand,0.00025122472051249844
+Cholesterol [Mass/volume] in Serum or Plasma,Atrial fibrillation (disorder),0.00025122472051249844
+Cholesterol [Mass/volume] in Serum or Plasma,Hypoxemia (disorder),0.00025122472051249844
+Cholesterol [Mass/volume] in Serum or Plasma,Respiratory distress (finding),0.00025122472051249844
+Cholesterol [Mass/volume] in Serum or Plasma,Primary fibromyalgia syndrome,0.00018841854038437382
+Cholesterol [Mass/volume] in Serum or Plasma,Malignant tumor of colon,0.00018841854038437382
+Cholesterol [Mass/volume] in Serum or Plasma,Fetus with chromosomal abnormality,0.00018841854038437382
+Cholesterol [Mass/volume] in Serum or Plasma,Epilepsy,0.00018841854038437382
+Cholesterol [Mass/volume] in Serum or Plasma,Pathological fracture due to osteoporosis (disorder),0.00018841854038437382
+Cholesterol [Mass/volume] in Serum or Plasma,Multiple myeloma (disorder),0.00018841854038437382
+Cholesterol [Mass/volume] in Serum or Plasma,Suspected lung cancer (situation),0.00018841854038437382
+Cholesterol [Mass/volume] in Serum or Plasma,Gout,0.00018841854038437382
+Cholesterol [Mass/volume] in Serum or Plasma,Injury of anterior cruciate ligament,0.00018841854038437382
+Cholesterol [Mass/volume] in Serum or Plasma,Non-small cell carcinoma of lung  TNM stage 1 (disorder),0.00018841854038437382
+Cholesterol [Mass/volume] in Serum or Plasma,Opioid abuse (disorder),0.00018841854038437382
+Cholesterol [Mass/volume] in Serum or Plasma,Body mass index 40+ - severely obese (finding),0.00018841854038437382
+Cholesterol [Mass/volume] in Serum or Plasma,Non-small cell lung cancer (disorder),0.00018841854038437382
+Cholesterol [Mass/volume] in Serum or Plasma,Chill (finding),0.00018841854038437382
+Cholesterol [Mass/volume] in Serum or Plasma,Cholelithiasis,0.00018841854038437382
+Cholesterol [Mass/volume] in Serum or Plasma,History of autologous bone marrow transplant (situation),0.00018841854038437382
+Cholesterol [Mass/volume] in Serum or Plasma,Acute Cholecystitis,0.00018841854038437382
+Cholesterol [Mass/volume] in Serum or Plasma,Fracture subluxation of wrist,0.00018841854038437382
+Cholesterol [Mass/volume] in Serum or Plasma,Primary malignant neoplasm of colon,0.00018841854038437382
+Cholesterol [Mass/volume] in Serum or Plasma,Septic shock (disorder),0.00012561236025624922
+Cholesterol [Mass/volume] in Serum or Plasma,History of peripheral stem cell transplant (situation),0.00012561236025624922
+Cholesterol [Mass/volume] in Serum or Plasma,Fracture of mandible (disorder),0.00012561236025624922
+Cholesterol [Mass/volume] in Serum or Plasma,Macular edema and retinopathy due to type 2 diabetes mellitus (disorder),0.00012561236025624922
+Cholesterol [Mass/volume] in Serum or Plasma,Atopic dermatitis,0.00012561236025624922
+Cholesterol [Mass/volume] in Serum or Plasma,Major depression disorder,0.00012561236025624922
+Cholesterol [Mass/volume] in Serum or Plasma,Pneumonia,0.00012561236025624922
+Cholesterol [Mass/volume] in Serum or Plasma,Mitral valve regurgitation (disorder),0.00012561236025624922
+Cholesterol [Mass/volume] in Serum or Plasma,Rupture of patellar tendon,0.00012561236025624922
+Cholesterol [Mass/volume] in Serum or Plasma,Sore throat symptom (finding),0.00012561236025624922
+Cholesterol [Mass/volume] in Serum or Plasma,Transformed migraine (disorder),0.00012561236025624922
+Cholesterol [Mass/volume] in Serum or Plasma,Stroke,0.00012561236025624922
+Cholesterol [Mass/volume] in Serum or Plasma,Gunshot wound (disorder),0.00012561236025624922
+Cholesterol [Mass/volume] in Serum or Plasma,Bullet wound,0.00012561236025624922
+Cholesterol [Mass/volume] in Serum or Plasma,Appendicitis,0.00012561236025624922
+Cholesterol [Mass/volume] in Serum or Plasma,Awaiting transplantation of bone marrow (situation),0.00012561236025624922
+Cholesterol [Mass/volume] in Serum or Plasma,Leukemia  disease (disorder),0.00012561236025624922
+Cholesterol [Mass/volume] in Serum or Plasma,Muscle pain (finding),0.00012561236025624922
+Cholesterol [Mass/volume] in Serum or Plasma,Joint pain (finding),0.00012561236025624922
+Cholesterol [Mass/volume] in Serum or Plasma,Acute respiratory failure (disorder),0.00012561236025624922
+Cholesterol [Mass/volume] in Serum or Plasma,Pyelonephritis,6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Acute deep venous thrombosis (disorder),6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Acquired immune deficiency syndrome (disorder),6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Poor muscle tone (finding),6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Spasticity (finding),6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Died in hospice (finding),6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Headache (finding),6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Acute respiratory distress syndrome (disorder),6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Perennial allergic rhinitis,6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Intellectual disability (disorder),6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Gastroesophageal reflux disease (disorder),6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Cerebral palsy (disorder),6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Congenital uterine anomaly,6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Contact dermatitis,6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,History of aortic valve repair (situation),6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Familial Alzheimer's disease of early onset (disorder),6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Overlapping malignant neoplasm of colon,6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Tear of meniscus of knee,6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Metastasis from malignant tumor of prostate (disorder),6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Vomiting symptom (finding),6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Kidney transplant failure and rejection (disorder),6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Acute pulmonary embolism (disorder),6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Nausea (finding),6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Sepsis caused by virus (disorder),6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Closed fracture of hip,6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Tongue tie (disorder),6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Complication occuring during pregnancy,6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Pulmonic valve stenosis (disorder),6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Injury of medial collateral ligament of knee,6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Human immunodeficiency virus infection (disorder),6.280618012812461e-05
+Cholesterol [Mass/volume] in Serum or Plasma,Toxoplasma gondii antibody positive (finding),6.280618012812461e-05
+Triglycerides,Medication review due (situation),0.2064564099386579
+Triglycerides,Stress (finding),0.09226098271268356
+Triglycerides,Full-time employment (finding),0.07937294751843361
+Triglycerides,Gingivitis (disorder),0.0758411301815478
+Triglycerides,Part-time employment (finding),0.05316314517628106
+Triglycerides,Limited social contact (finding),0.03383109238490613
+Triglycerides,Social isolation (finding),0.03283970506227152
+Triglycerides,Not in labor force (finding),0.0306710452940083
+Triglycerides,Gingival disease (disorder),0.02007559328335089
+Triglycerides,Victim of intimate partner abuse (finding),0.019951669868021563
+Triglycerides,Reports of violence in the environment (finding),0.01759712497676436
+Triglycerides,Primary dental caries (disorder),0.01511865667017783
+Triglycerides,Viral sinusitis (disorder),0.014065307639878556
+Triglycerides,Received higher education (finding),0.01090526054898073
+Triglycerides,Unemployed (finding),0.010657413718322076
+Triglycerides,Body mass index 30+ - obesity (finding),0.01034760517999876
+Triglycerides,Essential hypertension (disorder),0.009913873226346117
+Triglycerides,Hyperlipidemia,0.00879856248838218
+Triglycerides,Prediabetes,0.008178945411735547
+Triglycerides,Anemia (disorder),0.007993060288741558
+Triglycerides,Acute viral pharyngitis (disorder),0.007559328335088915
+Triglycerides,Metabolic syndrome X (disorder),0.007373443212094925
+Triglycerides,Abnormal findings diagnostic imaging heart+coronary circulat (finding),0.00650597930478964
+Triglycerides,Acute bronchitis (disorder),0.006444017597124977
+Triglycerides,Ischemic heart disease (disorder),0.006258132474130987
+Triglycerides,Has a criminal record (finding),0.0055765536898196915
+Triglycerides,Disorder of kidney due to diabetes mellitus (disorder),0.005080860028502386
+Triglycerides,Infection of tooth (disorder),0.005018898320837723
+Triglycerides,Diabetes mellitus type 2 (disorder),0.004771051490179069
+Triglycerides,Hypertriglyceridemia (disorder),0.004709089782514406
+Triglycerides,Chronic kidney disease stage 1 (disorder),0.004709089782514406
+Triglycerides,Microalbuminuria due to type 2 diabetes mellitus (disorder),0.004709089782514406
+Triglycerides,Chronic kidney disease stage 2 (disorder),0.00439928124419109
+Triglycerides,Transport problem (finding),0.004337319536526427
+Triglycerides,Lack of access to transportation (finding),0.004337319536526427
+Triglycerides,Dental filling lost (finding),0.0042133961211971
+Triglycerides,Chronic sinusitis (disorder),0.004151434413532437
+Triglycerides,Loss of teeth (disorder),0.004089472705867773
+Triglycerides,Past pregnancy history of miscarriage (situation),0.00402751099820311
+Triglycerides,Chronic pain (finding),0.003841625875209121
+Triglycerides,Severe anxiety (panic) (finding),0.003717702459879794
+Triglycerides,Proteinuria due to type 2 diabetes mellitus (disorder),0.003655740752215131
+Triglycerides,Chronic low back pain (finding),0.0035318173368858044
+Triglycerides,Loose dental filling (finding),0.0035318173368858044
+Triglycerides,Unhealthy alcohol drinking behavior (finding),0.0033459322138918147
+Triglycerides,History of myocardial infarction (situation),0.0032839705062271515
+Triglycerides,Chronic kidney disease stage 3 (disorder),0.0032839705062271515
+Triglycerides,Fractured dental filling (finding),0.0032220087985624884
+Triglycerides,Risk activity involvement (finding),0.0031600470908978253
+Triglycerides,Housing unsatisfactory (finding),0.0031600470908978253
+Triglycerides,Leaking dental filling (finding),0.0030980853832331618
+Triglycerides,History of coronary artery bypass grafting (situation),0.0027263151372451827
+Triglycerides,Fracture of bone (disorder),0.0024784683065865293
+Triglycerides,Refugee (person),0.0024165065989218662
+Triglycerides,Polyp of colon,0.002354544891257203
+Triglycerides,History of renal transplant (situation),0.002354544891257203
+Triglycerides,Chronic kidney disease stage 4 (disorder),0.0022306214759278764
+Triglycerides,Awaiting transplantation of kidney (situation),0.0021686597682632133
+Triglycerides,Drug overdose,0.0021686597682632133
+Triglycerides,Sprain (morphologic abnormality),0.00210669806059855
+Triglycerides,Myocardial infarction (disorder),0.0020447363529338867
+Triglycerides,Normal pregnancy,0.0020447363529338867
+Triglycerides,Laceration - injury (disorder),0.0019827746452692236
+Triglycerides,History of tubal ligation (situation),0.0019208129376045604
+Triglycerides,Chronic neck pain (finding),0.0019208129376045604
+Triglycerides,Hyperglycemia (disorder),0.001858851229939897
+Triglycerides,Acute non-ST segment elevation myocardial infarction (disorder),0.001796889522275234
+Triglycerides,Received certificate of high school equivalency (finding),0.0017349278146105707
+Triglycerides,Sleep disorder (disorder),0.0016729661069459073
+Triglycerides,Osteoporosis (disorder),0.0016729661069459073
+Triglycerides,Served in armed forces (finding),0.0016110043992812442
+Triglycerides,Streptococcal sore throat (disorder),0.0016110043992812442
+Triglycerides,Sprain of ankle,0.0014251192762872544
+Triglycerides,Acute ST segment elevation myocardial infarction (disorder),0.0014251192762872544
+Triglycerides,Neuropathy due to type 2 diabetes mellitus (disorder),0.0014251192762872544
+Triglycerides,Osteoarthritis of knee,0.0014251192762872544
+Triglycerides,History of appendectomy,0.001301195860957928
+Triglycerides,Concussion injury of brain (disorder),0.0012392341532932647
+Triglycerides,Acute bacterial sinusitis (disorder),0.0012392341532932647
+Triglycerides,Misuses drugs (finding),0.0011772724456286016
+Triglycerides,Alzheimer's disease (disorder),0.0011153107379639382
+Triglycerides,End-stage renal disease (disorder),0.0011153107379639382
+Triglycerides,COVID-19,0.001053349030299275
+Triglycerides,Suspected COVID-19,0.001053349030299275
+Triglycerides,Retinopathy due to type 2 diabetes mellitus (disorder),0.001053349030299275
+Triglycerides,Alveolitis of jaw (disorder),0.0009913873226346118
+Triglycerides,Fever (finding),0.0009913873226346118
+Triglycerides,Acute infective cystitis (disorder),0.0009913873226346118
+Triglycerides,Obstructive sleep apnea syndrome (disorder),0.0009294256149699486
+Triglycerides,Concussion with no loss of consciousness,0.0008674639073052853
+Triglycerides,Recurrent urinary tract infection (disorder),0.0008674639073052853
+Triglycerides,Sepsis (disorder),0.0008055021996406221
+Triglycerides,Sinusitis (disorder),0.0008055021996406221
+Triglycerides,Fracture of ankle,0.0008055021996406221
+Triglycerides,Burn injury (morphologic abnormality),0.0007435404919759589
+Triglycerides,Dependent drug abuse (disorder),0.0007435404919759589
+Triglycerides,Osteoarthritis of hip,0.0007435404919759589
+Triglycerides,Sleep apnea (disorder),0.0007435404919759589
+Triglycerides,Fracture of forearm,0.0007435404919759589
+Triglycerides,Neoplasm of prostate,0.0006815787843112957
+Triglycerides,Injury of neck (disorder),0.0006815787843112957
+Triglycerides,Whiplash injury to neck,0.0006815787843112957
+Triglycerides,Chronic congestive heart failure (disorder),0.0006815787843112957
+Triglycerides,Cough (finding),0.0006815787843112957
+Triglycerides,Only received primary school education (finding),0.0006815787843112957
+Triglycerides,Suspected prostate cancer (situation),0.0006815787843112957
+Triglycerides,Sprain of wrist,0.0006815787843112957
+Triglycerides,Carcinoma in situ of prostate (disorder),0.0006196170766466323
+Triglycerides,Chronic intractable migraine without aura,0.0006196170766466323
+Triglycerides,Impacted molars,0.0006196170766466323
+Triglycerides,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder),0.0006196170766466323
+Triglycerides,Chronic pain,0.0006196170766466323
+Triglycerides,Atrial fibrillation (disorder),0.0005576553689819691
+Triglycerides,Fatigue (finding),0.0005576553689819691
+Triglycerides,History of aortic valve replacement (situation),0.0005576553689819691
+Triglycerides,Loss of taste (finding),0.0004956936613173059
+Triglycerides,Laceration of foot,0.0004956936613173059
+Triglycerides,Miscarriage in first trimester,0.0004956936613173059
+Triglycerides,Fibromyalgia (disorder),0.0004956936613173059
+Triglycerides,Resorption of alveolar process due to dental trauma (disorder),0.0004956936613173059
+Triglycerides,Recurrent rectal polyp,0.0004956936613173059
+Triglycerides,Chronic obstructive bronchitis (disorder),0.0004956936613173059
+Triglycerides,Pathological fracture due to osteoporosis (disorder),0.00043373195365264267
+Triglycerides,Second degree burn,0.00043373195365264267
+Triglycerides,Laceration of forearm,0.00043373195365264267
+Triglycerides,Fracture subluxation of wrist,0.00043373195365264267
+Triglycerides,Aortic valve regurgitation (disorder),0.00043373195365264267
+Triglycerides,Sputum finding (finding),0.00043373195365264267
+Triglycerides,Malignant neoplasm of breast (disorder),0.00037177024598797944
+Triglycerides,Epilepsy,0.00037177024598797944
+Triglycerides,Facial laceration,0.00037177024598797944
+Triglycerides,Seizure disorder,0.00037177024598797944
+Triglycerides,History of single seizure (situation),0.00037177024598797944
+Triglycerides,Infectious mediastinitis (disorder),0.00037177024598797944
+Triglycerides,Brain damage - traumatic,0.00037177024598797944
+Triglycerides,Localized  primary osteoarthritis of the hand,0.00037177024598797944
+Triglycerides,Laceration of thigh,0.00037177024598797944
+Triglycerides,Smokes tobacco daily,0.00030980853832331617
+Triglycerides,Multiple myeloma (disorder),0.00030980853832331617
+Triglycerides,Laceration of hand,0.00030980853832331617
+Triglycerides,Torus palatinus (disorder),0.00030980853832331617
+Triglycerides,Injury of knee (disorder),0.00030980853832331617
+Triglycerides,Awaiting transplantation of bone marrow (situation),0.00024784683065865294
+Triglycerides,Familial Alzheimer's disease of early onset (disorder),0.00024784683065865294
+Triglycerides,Alcoholism,0.00024784683065865294
+Triglycerides,Cholelithiasis,0.00024784683065865294
+Triglycerides,Complete miscarriage (disorder),0.00024784683065865294
+Triglycerides,Stroke,0.00024784683065865294
+Triglycerides,Acute Cholecystitis,0.00024784683065865294
+Triglycerides,Fracture of rib,0.00024784683065865294
+Triglycerides,Aortic valve stenosis (disorder),0.00024784683065865294
+Triglycerides,History of peripheral stem cell transplant (situation),0.00024784683065865294
+Triglycerides,Mitral valve regurgitation (disorder),0.00024784683065865294
+Triglycerides,Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder),0.00024784683065865294
+Triglycerides,Body mass index 40+ - severely obese (finding),0.00024784683065865294
+Triglycerides,Otitis media,0.00024784683065865294
+Triglycerides,Malignant tumor of colon,0.00018588512299398972
+Triglycerides,Blighted ovum,0.00018588512299398972
+Triglycerides,Joint pain (finding),0.00018588512299398972
+Triglycerides,Muscle pain (finding),0.00018588512299398972
+Triglycerides,Major depression disorder,0.00018588512299398972
+Triglycerides,History of autologous bone marrow transplant (situation),0.00018588512299398972
+Triglycerides,Epidermal burn of skin (disorder),0.00018588512299398972
+Triglycerides,Metastasis from malignant tumor of prostate (disorder),0.00018588512299398972
+Triglycerides,Homeless (finding),0.00018588512299398972
+Triglycerides,Sore throat symptom (finding),0.00018588512299398972
+Triglycerides,Pneumonia (disorder),0.00018588512299398972
+Triglycerides,Pneumonia,0.00018588512299398972
+Triglycerides,Fracture of clavicle,0.00012392341532932647
+Triglycerides,Excessive salivation (disorder),0.00012392341532932647
+Triglycerides,Cerebral palsy (disorder),0.00012392341532932647
+Triglycerides,Appendicitis,0.00012392341532932647
+Triglycerides,Third degree burn,0.00012392341532932647
+Triglycerides,Died in hospice (finding),0.00012392341532932647
+Triglycerides,Septic shock (disorder),0.00012392341532932647
+Triglycerides,Chill (finding),0.00012392341532932647
+Triglycerides,Injury of anterior cruciate ligament,0.00012392341532932647
+Triglycerides,Idiopathic atrophic hypothyroidism,0.00012392341532932647
+Triglycerides,Injury of tendon of the rotator cuff of shoulder,0.00012392341532932647
+Triglycerides,Primary malignant neoplasm of colon,0.00012392341532932647
+Triglycerides,Nasal congestion (finding),0.00012392341532932647
+Triglycerides,Macular edema and retinopathy due to type 2 diabetes mellitus (disorder),0.00012392341532932647
+Triglycerides,Leukemia  disease (disorder),0.00012392341532932647
+Triglycerides,Pulmonary emphysema (disorder),0.00012392341532932647
+Triglycerides,Concussion with loss of consciousness,0.00012392341532932647
+Triglycerides,Respiratory distress (finding),0.00012392341532932647
+Triglycerides,Hypoxemia (disorder),0.00012392341532932647
+Triglycerides,Dribbling from mouth (finding),0.00012392341532932647
+Triglycerides,Gastroesophageal reflux disease (disorder),0.00012392341532932647
+Triglycerides,Intellectual disability (disorder),0.00012392341532932647
+Triglycerides,Closed fracture of hip,0.00012392341532932647
+Triglycerides,Miscarriage in second trimester,6.196170766466324e-05
+Triglycerides,Fetus with chromosomal abnormality,6.196170766466324e-05
+Triglycerides,Chronic paralysis due to lesion of spinal cord,6.196170766466324e-05
+Triglycerides,Protracted diarrhea,6.196170766466324e-05
+Triglycerides,Secondary malignant neoplasm of colon,6.196170766466324e-05
+Triglycerides,Bleeding from anus,6.196170766466324e-05
+Triglycerides,Non-small cell carcinoma of lung  TNM stage 1 (disorder),6.196170766466324e-05
+Triglycerides,Injury of medial collateral ligament of knee,6.196170766466324e-05
+Triglycerides,Opioid abuse (disorder),6.196170766466324e-05
+Triglycerides,Rupture of patellar tendon,6.196170766466324e-05
+Triglycerides,Tear of meniscus of knee,6.196170766466324e-05
+Triglycerides,Preinfarction syndrome (disorder),6.196170766466324e-05
+Triglycerides,Tubal pregnancy,6.196170766466324e-05
+Triglycerides,Fracture of mandible (disorder),6.196170766466324e-05
+Triglycerides,History of aortic valve repair (situation),6.196170766466324e-05
+Triglycerides,Acute respiratory distress syndrome (disorder),6.196170766466324e-05
+Triglycerides,Suspected lung cancer (situation),6.196170766466324e-05
+Triglycerides,Non-small cell lung cancer (disorder),6.196170766466324e-05
+Triglycerides,Acute respiratory failure (disorder),6.196170766466324e-05
+Triglycerides,Gunshot wound (disorder),6.196170766466324e-05
+Triglycerides,Sterilization requested (situation),6.196170766466324e-05
+Triglycerides,Dyspnea (finding),6.196170766466324e-05
+Triglycerides,Wheezing (finding),6.196170766466324e-05
+Triglycerides,Acute deep venous thrombosis (disorder),6.196170766466324e-05
+Triglycerides,Passive conjunctival congestion (finding),6.196170766466324e-05
+Triglycerides,Rheumatoid arthritis,6.196170766466324e-05
+Triglycerides,History of artificial joint (situation),6.196170766466324e-05
+Triglycerides,Bullet wound,6.196170766466324e-05
+Triglycerides,Dystonia (disorder),6.196170766466324e-05
+Triglycerides,Transformed migraine (disorder),6.196170766466324e-05
+Triglycerides,Antepartum eclampsia,6.196170766466324e-05
+Triglycerides,Spasticity (finding),6.196170766466324e-05
+Triglycerides,Retention of urine (disorder),6.196170766466324e-05
+Triglycerides,Tongue tie (disorder),6.196170766466324e-05
+Triglycerides,Pain (finding),6.196170766466324e-05
+Triglycerides,Epilepsy (disorder),6.196170766466324e-05
+Triglycerides,Unable to swallow saliva (finding),6.196170766466324e-05
+Triglycerides,Pulmonic valve stenosis (disorder),6.196170766466324e-05
+Triglycerides,Gout,6.196170766466324e-05
+Body mass index (BMI) [Ratio],Medication review due (situation),0.1792821444797819
+Body mass index (BMI) [Ratio],Gingivitis (disorder),0.08050885960926851
+Body mass index (BMI) [Ratio],Stress (finding),0.08005452067242162
+Body mass index (BMI) [Ratio],Full-time employment (finding),0.07505679236710586
+Body mass index (BMI) [Ratio],Part-time employment (finding),0.0469786460699682
+Body mass index (BMI) [Ratio],Social isolation (finding),0.029532030895047707
+Body mass index (BMI) [Ratio],Limited social contact (finding),0.027987278509768287
+Body mass index (BMI) [Ratio],Viral sinusitis (disorder),0.02744207178555202
+Body mass index (BMI) [Ratio],Not in labor force (finding),0.02562471603816447
+Body mass index (BMI) [Ratio],Gingival disease (disorder),0.022444343480236256
+Body mass index (BMI) [Ratio],Body mass index 30+ - obesity (finding),0.01935483870967742
+Body mass index (BMI) [Ratio],Victim of intimate partner abuse (finding),0.017719218537028625
+Body mass index (BMI) [Ratio],Primary dental caries (disorder),0.01753748296228987
+Body mass index (BMI) [Ratio],Received higher education (finding),0.01708314402544298
+Body mass index (BMI) [Ratio],Reports of violence in the environment (finding),0.01626533393911858
+Body mass index (BMI) [Ratio],Normal pregnancy,0.015538391640163561
+Body mass index (BMI) [Ratio],Unemployed (finding),0.013993639254884144
+Body mass index (BMI) [Ratio],Acute viral pharyngitis (disorder),0.012358019082235348
+Body mass index (BMI) [Ratio],Acute bronchitis (disorder),0.011085870059064062
+Body mass index (BMI) [Ratio],Essential hypertension (disorder),0.010449795547478418
+Body mass index (BMI) [Ratio],Prediabetes,0.009995456610631531
+Body mass index (BMI) [Ratio],Anemia (disorder),0.008723307587460245
+Body mass index (BMI) [Ratio],Risk activity involvement (finding),0.007178555202180827
+Body mass index (BMI) [Ratio],Chronic pain (finding),0.005906406179009541
+Body mass index (BMI) [Ratio],Has a criminal record (finding),0.005906406179009541
+Body mass index (BMI) [Ratio],Housing unsatisfactory (finding),0.005724670604270786
+Body mass index (BMI) [Ratio],Metabolic syndrome X (disorder),0.005633802816901409
+Body mass index (BMI) [Ratio],Infection of tooth (disorder),0.005542935029532031
+Body mass index (BMI) [Ratio],Lack of access to transportation (finding),0.005542935029532031
+Body mass index (BMI) [Ratio],Past pregnancy history of miscarriage (situation),0.005542935029532031
+Body mass index (BMI) [Ratio],Transport problem (finding),0.005361199454793276
+Body mass index (BMI) [Ratio],Chronic sinusitis (disorder),0.005179463880054521
+Body mass index (BMI) [Ratio],Chronic low back pain (finding),0.005179463880054521
+Body mass index (BMI) [Ratio],Severe anxiety (panic) (finding),0.004906860517946388
+Body mass index (BMI) [Ratio],Chronic kidney disease stage 1 (disorder),0.004270786006360745
+Body mass index (BMI) [Ratio],Unhealthy alcohol drinking behavior (finding),0.004270786006360745
+Body mass index (BMI) [Ratio],Acute infective cystitis (disorder),0.004270786006360745
+Body mass index (BMI) [Ratio],Disorder of kidney due to diabetes mellitus (disorder),0.004179918218991368
+Body mass index (BMI) [Ratio],Chronic neck pain (finding),0.004179918218991368
+Body mass index (BMI) [Ratio],Fractured dental filling (finding),0.0039981826442526125
+Body mass index (BMI) [Ratio],Leaking dental filling (finding),0.003907314856883235
+Body mass index (BMI) [Ratio],Misuses drugs (finding),0.003907314856883235
+Body mass index (BMI) [Ratio],Received certificate of high school equivalency (finding),0.003634711494775102
+Body mass index (BMI) [Ratio],Microalbuminuria due to type 2 diabetes mellitus (disorder),0.003452975920036347
+Body mass index (BMI) [Ratio],Chronic kidney disease stage 2 (disorder),0.0031803725579282144
+Body mass index (BMI) [Ratio],Loss of teeth (disorder),0.0031803725579282144
+Body mass index (BMI) [Ratio],Loose dental filling (finding),0.003089504770558837
+Body mass index (BMI) [Ratio],Ischemic heart disease (disorder),0.003089504770558837
+Body mass index (BMI) [Ratio],Abnormal findings diagnostic imaging heart+coronary circulat (finding),0.003089504770558837
+Body mass index (BMI) [Ratio],Dental filling lost (finding),0.0029077691958200817
+Body mass index (BMI) [Ratio],History of tubal ligation (situation),0.0028169014084507044
+Body mass index (BMI) [Ratio],Laceration - injury (disorder),0.0028169014084507044
+Body mass index (BMI) [Ratio],Fracture of bone (disorder),0.002635165833711949
+Body mass index (BMI) [Ratio],Hyperlipidemia,0.002635165833711949
+Body mass index (BMI) [Ratio],Sprain (morphologic abnormality),0.002635165833711949
+Body mass index (BMI) [Ratio],Streptococcal sore throat (disorder),0.0025442980463425717
+Body mass index (BMI) [Ratio],Proteinuria due to type 2 diabetes mellitus (disorder),0.002453430258973194
+Body mass index (BMI) [Ratio],Refugee (person),0.0023625624716038162
+Body mass index (BMI) [Ratio],Drug overdose,0.002271694684234439
+Body mass index (BMI) [Ratio],Chronic kidney disease stage 3 (disorder),0.0021808268968650612
+Body mass index (BMI) [Ratio],Acute bacterial sinusitis (disorder),0.0019082235347569287
+Body mass index (BMI) [Ratio],Suspected COVID-19,0.0019082235347569287
+Body mass index (BMI) [Ratio],Only received primary school education (finding),0.0019082235347569287
+Body mass index (BMI) [Ratio],COVID-19,0.0019082235347569287
+Body mass index (BMI) [Ratio],Fever (finding),0.001817355747387551
+Body mass index (BMI) [Ratio],Sprain of ankle,0.0017264879600181735
+Body mass index (BMI) [Ratio],Miscarriage in first trimester,0.0017264879600181735
+Body mass index (BMI) [Ratio],Otitis media,0.001635620172648796
+Body mass index (BMI) [Ratio],Recurrent urinary tract infection (disorder),0.001635620172648796
+Body mass index (BMI) [Ratio],Sinusitis (disorder),0.0014538845979100408
+Body mass index (BMI) [Ratio],Body mass index 40+ - severely obese (finding),0.0014538845979100408
+Body mass index (BMI) [Ratio],Complete miscarriage (disorder),0.0013630168105406633
+Body mass index (BMI) [Ratio],Cough (finding),0.0013630168105406633
+Body mass index (BMI) [Ratio],Fatigue (finding),0.0013630168105406633
+Body mass index (BMI) [Ratio],History of renal transplant (situation),0.0013630168105406633
+Body mass index (BMI) [Ratio],Polyp of colon,0.0012721490231712858
+Body mass index (BMI) [Ratio],Awaiting transplantation of kidney (situation),0.0012721490231712858
+Body mass index (BMI) [Ratio],Chronic kidney disease stage 4 (disorder),0.0012721490231712858
+Body mass index (BMI) [Ratio],History of appendectomy,0.0012721490231712858
+Body mass index (BMI) [Ratio],Loss of taste (finding),0.0011812812358019081
+Body mass index (BMI) [Ratio],Osteoarthritis of knee,0.0011812812358019081
+Body mass index (BMI) [Ratio],Diabetes mellitus type 2 (disorder),0.0011812812358019081
+Body mass index (BMI) [Ratio],Antepartum eclampsia,0.0011812812358019081
+Body mass index (BMI) [Ratio],Injury of neck (disorder),0.0010904134484325306
+Body mass index (BMI) [Ratio],Hypertriglyceridemia (disorder),0.0010904134484325306
+Body mass index (BMI) [Ratio],Whiplash injury to neck,0.0010904134484325306
+Body mass index (BMI) [Ratio],Chronic pain,0.0009995456610631531
+Body mass index (BMI) [Ratio],Burn injury (morphologic abnormality),0.0009995456610631531
+Body mass index (BMI) [Ratio],Chronic intractable migraine without aura,0.0009086778736937755
+Body mass index (BMI) [Ratio],Sprain of wrist,0.0009086778736937755
+Body mass index (BMI) [Ratio],Dependent drug abuse (disorder),0.0009086778736937755
+Body mass index (BMI) [Ratio],Concussion injury of brain (disorder),0.0009086778736937755
+Body mass index (BMI) [Ratio],Sterilization requested (situation),0.000817810086324398
+Body mass index (BMI) [Ratio],Concussion with no loss of consciousness,0.000817810086324398
+Body mass index (BMI) [Ratio],Hyperglycemia (disorder),0.000817810086324398
+Body mass index (BMI) [Ratio],Sleep disorder (disorder),0.000817810086324398
+Body mass index (BMI) [Ratio],Obstructive sleep apnea syndrome (disorder),0.000817810086324398
+Body mass index (BMI) [Ratio],Sepsis (disorder),0.000817810086324398
+Body mass index (BMI) [Ratio],Osteoarthritis of hip,0.000817810086324398
+Body mass index (BMI) [Ratio],Impacted molars,0.000817810086324398
+Body mass index (BMI) [Ratio],Osteoporosis (disorder),0.0007269422989550204
+Body mass index (BMI) [Ratio],Facial laceration,0.0007269422989550204
+Body mass index (BMI) [Ratio],History of single seizure (situation),0.0007269422989550204
+Body mass index (BMI) [Ratio],Seizure disorder,0.0007269422989550204
+Body mass index (BMI) [Ratio],Chronic obstructive bronchitis (disorder),0.0006360745115856429
+Body mass index (BMI) [Ratio],Fracture subluxation of wrist,0.0006360745115856429
+Body mass index (BMI) [Ratio],Served in armed forces (finding),0.0006360745115856429
+Body mass index (BMI) [Ratio],Fracture of clavicle,0.0006360745115856429
+Body mass index (BMI) [Ratio],Chronic congestive heart failure (disorder),0.0006360745115856429
+Body mass index (BMI) [Ratio],Fracture of forearm,0.0006360745115856429
+Body mass index (BMI) [Ratio],Child attention deficit disorder,0.0006360745115856429
+Body mass index (BMI) [Ratio],Preeclampsia,0.0006360745115856429
+Body mass index (BMI) [Ratio],History of coronary artery bypass grafting (situation),0.0006360745115856429
+Body mass index (BMI) [Ratio],Laceration of hand,0.0006360745115856429
+Body mass index (BMI) [Ratio],Laceration of thigh,0.0005452067242162653
+Body mass index (BMI) [Ratio],Alveolitis of jaw (disorder),0.0005452067242162653
+Body mass index (BMI) [Ratio],Torus palatinus (disorder),0.0005452067242162653
+Body mass index (BMI) [Ratio],Laceration of foot,0.0005452067242162653
+Body mass index (BMI) [Ratio],End-stage renal disease (disorder),0.0005452067242162653
+Body mass index (BMI) [Ratio],Epidermal burn of skin (disorder),0.0005452067242162653
+Body mass index (BMI) [Ratio],Resorption of alveolar process due to dental trauma (disorder),0.0005452067242162653
+Body mass index (BMI) [Ratio],Fracture of ankle,0.00045433893684688776
+Body mass index (BMI) [Ratio],Joint pain (finding),0.00045433893684688776
+Body mass index (BMI) [Ratio],History of myocardial infarction (situation),0.00045433893684688776
+Body mass index (BMI) [Ratio],Epilepsy,0.00045433893684688776
+Body mass index (BMI) [Ratio],Muscle pain (finding),0.00045433893684688776
+Body mass index (BMI) [Ratio],Pneumonia (disorder),0.0003634711494775102
+Body mass index (BMI) [Ratio],Respiratory distress (finding),0.0003634711494775102
+Body mass index (BMI) [Ratio],Hypoxemia (disorder),0.0003634711494775102
+Body mass index (BMI) [Ratio],Homeless (finding),0.0003634711494775102
+Body mass index (BMI) [Ratio],Perennial allergic rhinitis,0.0003634711494775102
+Body mass index (BMI) [Ratio],Localized  primary osteoarthritis of the hand,0.0003634711494775102
+Body mass index (BMI) [Ratio],Smokes tobacco daily,0.0003634711494775102
+Body mass index (BMI) [Ratio],Familial Alzheimer's disease of early onset (disorder),0.0003634711494775102
+Body mass index (BMI) [Ratio],Atopic dermatitis,0.0003634711494775102
+Body mass index (BMI) [Ratio],Laceration of forearm,0.0003634711494775102
+Body mass index (BMI) [Ratio],Recurrent rectal polyp,0.0003634711494775102
+Body mass index (BMI) [Ratio],Second degree burn,0.0003634711494775102
+Body mass index (BMI) [Ratio],Fibromyalgia (disorder),0.0003634711494775102
+Body mass index (BMI) [Ratio],Acute non-ST segment elevation myocardial infarction (disorder),0.0003634711494775102
+Body mass index (BMI) [Ratio],Wheezing (finding),0.00027260336210813266
+Body mass index (BMI) [Ratio],Primary fibromyalgia syndrome,0.00027260336210813266
+Body mass index (BMI) [Ratio],Retinopathy due to type 2 diabetes mellitus (disorder),0.00027260336210813266
+Body mass index (BMI) [Ratio],Dyspnea (finding),0.00027260336210813266
+Body mass index (BMI) [Ratio],Blighted ovum,0.00027260336210813266
+Body mass index (BMI) [Ratio],Childhood asthma,0.00027260336210813266
+Body mass index (BMI) [Ratio],Neuropathy due to type 2 diabetes mellitus (disorder),0.00027260336210813266
+Body mass index (BMI) [Ratio],Appendicitis,0.00027260336210813266
+Body mass index (BMI) [Ratio],Brain damage - traumatic,0.00027260336210813266
+Body mass index (BMI) [Ratio],Malignant neoplasm of breast (disorder),0.00027260336210813266
+Body mass index (BMI) [Ratio],Pulmonary emphysema (disorder),0.00027260336210813266
+Body mass index (BMI) [Ratio],Protracted diarrhea,0.00027260336210813266
+Body mass index (BMI) [Ratio],Perennial allergic rhinitis with seasonal variation,0.00027260336210813266
+Body mass index (BMI) [Ratio],Chill (finding),0.00027260336210813266
+Body mass index (BMI) [Ratio],Headache (finding),0.00027260336210813266
+Body mass index (BMI) [Ratio],Aortic valve regurgitation (disorder),0.00027260336210813266
+Body mass index (BMI) [Ratio],Alzheimer's disease (disorder),0.00027260336210813266
+Body mass index (BMI) [Ratio],Sputum finding (finding),0.00027260336210813266
+Body mass index (BMI) [Ratio],Bleeding from anus,0.00027260336210813266
+Body mass index (BMI) [Ratio],Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder),0.0001817355747387551
+Body mass index (BMI) [Ratio],Acute deep venous thrombosis (disorder),0.0001817355747387551
+Body mass index (BMI) [Ratio],Acute respiratory failure (disorder),0.0001817355747387551
+Body mass index (BMI) [Ratio],Died in hospice (finding),0.0001817355747387551
+Body mass index (BMI) [Ratio],Injury of knee (disorder),0.0001817355747387551
+Body mass index (BMI) [Ratio],Miscarriage in second trimester,0.0001817355747387551
+Body mass index (BMI) [Ratio],Fracture of rib,0.0001817355747387551
+Body mass index (BMI) [Ratio],Secondary malignant neoplasm of colon,0.0001817355747387551
+Body mass index (BMI) [Ratio],Contact dermatitis,0.0001817355747387551
+Body mass index (BMI) [Ratio],Gout,0.0001817355747387551
+Body mass index (BMI) [Ratio],Neoplasm of prostate,0.0001817355747387551
+Body mass index (BMI) [Ratio],Carcinoma in situ of prostate (disorder),0.0001817355747387551
+Body mass index (BMI) [Ratio],History of aortic valve replacement (situation),0.0001817355747387551
+Body mass index (BMI) [Ratio],Infectious mediastinitis (disorder),0.0001817355747387551
+Body mass index (BMI) [Ratio],Acute pulmonary embolism (disorder),0.0001817355747387551
+Body mass index (BMI) [Ratio],Acute Cholecystitis,0.0001817355747387551
+Body mass index (BMI) [Ratio],Cholelithiasis,0.0001817355747387551
+Body mass index (BMI) [Ratio],Acquired immune deficiency syndrome (disorder),0.0001817355747387551
+Body mass index (BMI) [Ratio],Opioid abuse (disorder),0.0001817355747387551
+Body mass index (BMI) [Ratio],Injury of tendon of the rotator cuff of shoulder,0.0001817355747387551
+Body mass index (BMI) [Ratio],Alcoholism,0.0001817355747387551
+Body mass index (BMI) [Ratio],Atrial fibrillation (disorder),0.0001817355747387551
+Body mass index (BMI) [Ratio],Congenital uterine anomaly,9.086778736937755e-05
+Body mass index (BMI) [Ratio],Social migrant (finding),9.086778736937755e-05
+Body mass index (BMI) [Ratio],Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder),9.086778736937755e-05
+Body mass index (BMI) [Ratio],Hemoptysis (finding),9.086778736937755e-05
+Body mass index (BMI) [Ratio],Closed fracture of hip,9.086778736937755e-05
+Body mass index (BMI) [Ratio],Nasal congestion (finding),9.086778736937755e-05
+Body mass index (BMI) [Ratio],Primary malignant neoplasm of colon,9.086778736937755e-05
+Body mass index (BMI) [Ratio],Multiple myeloma (disorder),9.086778736937755e-05
+Body mass index (BMI) [Ratio],Fetus with chromosomal abnormality,9.086778736937755e-05
+Body mass index (BMI) [Ratio],Overlapping malignant neoplasm of colon,9.086778736937755e-05
+Body mass index (BMI) [Ratio],Pathological fracture due to osteoporosis (disorder),9.086778736937755e-05
+Body mass index (BMI) [Ratio],Suspected prostate cancer (situation),9.086778736937755e-05
+Body mass index (BMI) [Ratio],Major depression disorder,9.086778736937755e-05
+Body mass index (BMI) [Ratio],Torus mandibularis (disorder),9.086778736937755e-05
+Body mass index (BMI) [Ratio],Mitral valve regurgitation (disorder),9.086778736937755e-05
+Body mass index (BMI) [Ratio],Malignant tumor of colon,9.086778736937755e-05
+Body mass index (BMI) [Ratio],Myocardial infarction (disorder),9.086778736937755e-05
+Body mass index (BMI) [Ratio],History of autologous bone marrow transplant (situation),9.086778736937755e-05
+Body mass index (BMI) [Ratio],Tubal pregnancy,9.086778736937755e-05
+Body mass index (BMI) [Ratio],Awaiting transplantation of bone marrow (situation),9.086778736937755e-05
+Body mass index (BMI) [Ratio],Sepsis caused by virus (disorder),9.086778736937755e-05
+Body mass index (BMI) [Ratio],Seasonal allergic rhinitis,9.086778736937755e-05
+Body mass index (BMI) [Ratio],Septic shock (disorder),9.086778736937755e-05
+Body mass index (BMI) [Ratio],Injury of kidney (disorder),9.086778736937755e-05
+Body mass index (BMI) [Ratio],Nausea (finding),9.086778736937755e-05
+Body mass index (BMI) [Ratio],Acute respiratory distress syndrome (disorder),9.086778736937755e-05
+Body mass index (BMI) [Ratio],Rupture of appendix,9.086778736937755e-05
+Body mass index (BMI) [Ratio],Third degree burn,9.086778736937755e-05
+Body mass index (BMI) [Ratio],Injury of anterior cruciate ligament,9.086778736937755e-05
+Body mass index (BMI) [Ratio],Vomiting symptom (finding),9.086778736937755e-05
+Body mass index (BMI) [Ratio],Rupture of patellar tendon,9.086778736937755e-05
+Body mass index (BMI) [Ratio],Pyelonephritis,9.086778736937755e-05
+Body mass index (BMI) [Ratio],History of artificial joint (situation),9.086778736937755e-05
+Body mass index (BMI) [Ratio],Rheumatoid arthritis,9.086778736937755e-05
+Body mass index (BMI) [Ratio],Pneumonia,9.086778736937755e-05
+Body mass index (BMI) [Ratio],Gunshot wound (disorder),9.086778736937755e-05
+Body mass index (BMI) [Ratio],Bullet wound,9.086778736937755e-05
+Body mass index (BMI) [Ratio],Acute ST segment elevation myocardial infarction (disorder),9.086778736937755e-05
+Body mass index (BMI) [Ratio],Tongue tie (disorder),9.086778736937755e-05
+Body mass index (BMI) [Ratio],Diarrhea symptom (finding),9.086778736937755e-05
+Body mass index (BMI) [Ratio],Pulmonic valve stenosis (disorder),9.086778736937755e-05
+Body mass index (BMI) [Ratio],Idiopathic atrophic hypothyroidism,9.086778736937755e-05
+Body mass index (BMI) [Ratio],Traumatic injury of spinal cord and/or vertebral column (disorder),9.086778736937755e-05
+Body mass index (BMI) [Ratio],Fracture of the vertebral column with spinal cord injury,9.086778736937755e-05

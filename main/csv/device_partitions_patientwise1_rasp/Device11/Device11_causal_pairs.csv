@@ -1,0 +1,1400 @@
+cause,effect,lag_bin,cause_type,effect_type,conditional_probability
+107-inf,0-1,0-7,Chloride,Creatinine,0.0081329729217053
+107-inf,0-1,7-14,Chloride,Creatinine,0.0036515388628064
+107-inf,0-1,14-30,Chloride,Creatinine,0.006330914781619
+107-inf,0-1,30-60,Chloride,Creatinine,0.0076350358040498
+107-inf,0-1,60-90,Chloride,Creatinine,0.0038649404846587
+107-inf,0-1,90-180,Chloride,Creatinine,0.0014938113529662
+107-inf,0-1,730-inf,Chloride,Creatinine,0.0038649404846587
+107-inf,0-150,14-30,Chloride,Body Height,2.371129131692512e-05
+107-inf,0-150,30-60,Chloride,Body Height,2.371129131692512e-05
+107-inf,0-150,60-90,Chloride,Body Height,2.371129131692512e-05
+107-inf,0-150,90-180,Chloride,Body Height,7.113387395077535e-05
+107-inf,0-150,180-365,Chloride,Body Height,0.00030824678712
+107-inf,0-150,365-730,Chloride,Body Height,0.0002608242044861
+107-inf,0-150,730-inf,Chloride,Body Height,0.0003319580784369
+107-inf,0-35,0-7,Chloride,Carbon Dioxide,0.0150803812775643
+107-inf,0-35,7-14,Chloride,Carbon Dioxide,0.0048371034286527
+107-inf,0-35,14-30,Chloride,Carbon Dioxide,0.0087968890785792
+107-inf,0-35,30-60,Chloride,Carbon Dioxide,0.0106700810926163
+107-inf,0-35,60-90,Chloride,Carbon Dioxide,0.0045999905154834
+107-inf,0-35,90-180,Chloride,Carbon Dioxide,0.001564945226917
+107-inf,0-35,730-inf,Chloride,Carbon Dioxide,0.0078247261345852
+107-inf,0-50,14-30,Chloride,Body Weight,2.371129131692512e-05
+107-inf,0-50,30-60,Chloride,Body Weight,2.371129131692512e-05
+107-inf,0-50,60-90,Chloride,Body Weight,2.371129131692512e-05
+107-inf,0-50,90-180,Chloride,Body Weight,7.113387395077535e-05
+107-inf,0-50,180-365,Chloride,Body Weight,0.00030824678712
+107-inf,0-50,365-730,Chloride,Body Weight,0.0002608242044861
+107-inf,0-50,730-inf,Chloride,Body Weight,0.0003319580784369
+107-inf,0-60,7-14,Chloride,Diastolic Blood Pressure,0.0001185564565846
+107-inf,0-60,14-30,Chloride,Diastolic Blood Pressure,0.0002845354958031
+107-inf,0-60,30-60,Chloride,Diastolic Blood Pressure,0.0009721629439939
+107-inf,0-60,60-90,Chloride,Diastolic Blood Pressure,0.00030824678712
+107-inf,0-60,90-180,Chloride,Diastolic Blood Pressure,0.0005927822829231
+107-inf,0-60,180-365,Chloride,Diastolic Blood Pressure,0.0005690709916062
+107-inf,0-60,365-730,Chloride,Diastolic Blood Pressure,0.0015886565182339
+107-inf,0-60,730-inf,Chloride,Diastolic Blood Pressure,0.0046237018068003
+107-inf,0-70,0-7,Chloride,Glucose,0.0023237065490586
+107-inf,0-70,7-14,Chloride,Glucose,0.0004030919523877
+107-inf,0-70,14-30,Chloride,Glucose,0.0008298951960923
+107-inf,0-70,30-60,Chloride,Glucose,0.0018020581400863
+107-inf,0-70,60-90,Chloride,Glucose,0.0006639161568739
+107-inf,0-70,90-180,Chloride,Glucose,7.113387395077535e-05
+107-inf,0-70,730-inf,Chloride,Glucose,0.0008061839047754
+107-inf,0-8,0-7,Chloride,Calcium,0.0004030919523877
+107-inf,0-8,7-14,Chloride,Calcium,7.113387395077535e-05
+107-inf,0-8,14-30,Chloride,Calcium,0.00030824678712
+107-inf,0-8,30-60,Chloride,Calcium,0.0005690709916062
+107-inf,0-8,730-inf,Chloride,Calcium,0.0003319580784369
+107-inf,0-90,7-14,Chloride,Systolic Blood Pressure,4.742258263385024e-05
+107-inf,0-90,30-60,Chloride,Systolic Blood Pressure,4.742258263385024e-05
+107-inf,0-90,60-90,Chloride,Systolic Blood Pressure,7.113387395077535e-05
+107-inf,0-90,90-180,Chloride,Systolic Blood Pressure,9.484516526770048e-05
+107-inf,0-90,180-365,Chloride,Systolic Blood Pressure,0.0002134016218523
+107-inf,0-90,365-730,Chloride,Systolic Blood Pressure,0.0004979371176554
+107-inf,0-90,730-inf,Chloride,Systolic Blood Pressure,0.0011855645658462
+107-inf,1-1,0-7,Chloride,Creatinine,0.0030113339972494
+107-inf,1-1,7-14,Chloride,Creatinine,0.0011618532745293
+107-inf,1-1,14-30,Chloride,Creatinine,0.0023948404230094
+107-inf,1-1,30-60,Chloride,Creatinine,0.0027030872101294
+107-inf,1-1,60-90,Chloride,Creatinine,0.0007350500308246
+107-inf,1-1,90-180,Chloride,Creatinine,7.113387395077535e-05
+107-inf,1-1,730-inf,Chloride,Creatinine,0.001873192014037
+107-inf,1-inf,0-7,Chloride,Creatinine,0.0039360743586095
+107-inf,1-inf,7-14,Chloride,Creatinine,2.371129131692512e-05
+107-inf,1-inf,14-30,Chloride,Creatinine,7.113387395077535e-05
+107-inf,1-inf,30-60,Chloride,Creatinine,0.0003319580784369
+107-inf,1-inf,730-inf,Chloride,Creatinine,0.0020865936358894
+107-inf,107-inf,0-7,Chloride,Chloride,0.0099824536444254
+107-inf,107-inf,7-14,Chloride,Chloride,0.0030350452885664
+107-inf,107-inf,14-30,Chloride,Chloride,0.004102053397828
+107-inf,107-inf,30-60,Chloride,Chloride,0.0043391663109972
+107-inf,107-inf,60-90,Chloride,Chloride,0.0016123678095509
+107-inf,107-inf,90-180,Chloride,Chloride,0.00092474036136
+107-inf,107-inf,730-inf,Chloride,Chloride,0.0025371081709109
+107-inf,120-140,0-7,Chloride,Systolic Blood Pressure,2.371129131692512e-05
+107-inf,120-140,7-14,Chloride,Systolic Blood Pressure,0.0005927822829231
+107-inf,120-140,14-30,Chloride,Systolic Blood Pressure,9.484516526770048e-05
+107-inf,120-140,30-60,Chloride,Systolic Blood Pressure,0.0005690709916062
+107-inf,120-140,60-90,Chloride,Systolic Blood Pressure,0.0007113387395077
+107-inf,120-140,90-180,Chloride,Systolic Blood Pressure,0.0011855645658462
+107-inf,120-140,180-365,Chloride,Systolic Blood Pressure,0.0023237065490586
+107-inf,120-140,365-730,Chloride,Systolic Blood Pressure,0.0043391663109972
+107-inf,120-140,730-inf,Chloride,Systolic Blood Pressure,0.014866979655712
+107-inf,135-145,0-7,Chloride,Sodium,0.0150803812775643
+107-inf,135-145,7-14,Chloride,Sodium,0.0048371034286527
+107-inf,135-145,14-30,Chloride,Sodium,0.0087968890785792
+107-inf,135-145,30-60,Chloride,Sodium,0.0106700810926163
+107-inf,135-145,60-90,Chloride,Sodium,0.0045999905154834
+107-inf,135-145,90-180,Chloride,Sodium,0.001564945226917
+107-inf,135-145,730-inf,Chloride,Sodium,0.0078247261345852
+107-inf,140-inf,7-14,Chloride,Systolic Blood Pressure,4.742258263385024e-05
+107-inf,140-inf,30-60,Chloride,Systolic Blood Pressure,2.371129131692512e-05
+107-inf,140-inf,60-90,Chloride,Systolic Blood Pressure,0.0001422677479015
+107-inf,140-inf,90-180,Chloride,Systolic Blood Pressure,0.0003556693697538
+107-inf,140-inf,180-365,Chloride,Systolic Blood Pressure,0.0004742258263385
+107-inf,140-inf,365-730,Chloride,Systolic Blood Pressure,0.0005690709916062
+107-inf,140-inf,730-inf,Chloride,Systolic Blood Pressure,0.0041494759804618
+107-inf,150-170,0-7,Chloride,Body Height,2.371129131692512e-05
+107-inf,150-170,7-14,Chloride,Body Height,0.0011618532745293
+107-inf,150-170,14-30,Chloride,Body Height,0.00030824678712
+107-inf,150-170,30-60,Chloride,Body Height,0.0007824726134585
+107-inf,150-170,60-90,Chloride,Body Height,0.0012092758571631
+107-inf,150-170,90-180,Chloride,Body Height,0.0017072129748186
+107-inf,150-170,180-365,Chloride,Body Height,0.0033907146583202
+107-inf,150-170,365-730,Chloride,Body Height,0.0065680276947882
+107-inf,150-170,730-inf,Chloride,Body Height,0.0207473799023094
+107-inf,170-190,7-14,Chloride,Body Height,0.0008298951960923
+107-inf,170-190,14-30,Chloride,Body Height,0.0005690709916062
+107-inf,170-190,30-60,Chloride,Body Height,0.0016835016835016
+107-inf,170-190,60-90,Chloride,Body Height,0.0010195855266277
+107-inf,170-190,90-180,Chloride,Body Height,0.0025608194622279
+107-inf,170-190,180-365,Chloride,Body Height,0.0043628776023142
+107-inf,170-190,365-730,Chloride,Body Height,0.0074927680561483
+107-inf,170-190,730-inf,Chloride,Body Height,0.0251102575046237
+107-inf,190-inf,180-365,Chloride,Body Height,0.0002845354958031
+107-inf,3-5,0-7,Chloride,Potassium,0.0127329634371887
+107-inf,3-5,7-14,Chloride,Potassium,0.0039834969412434
+107-inf,3-5,14-30,Chloride,Potassium,0.0067814293166405
+107-inf,3-5,30-60,Chloride,Potassium,0.0093659600701854
+107-inf,3-5,60-90,Chloride,Potassium,0.0045051453502157
+107-inf,3-5,90-180,Chloride,Potassium,0.001564945226917
+107-inf,3-5,730-inf,Chloride,Potassium,0.0068999857732252
+107-inf,5-inf,0-7,Chloride,Potassium,0.0023474178403755
+107-inf,5-inf,7-14,Chloride,Potassium,0.0008536064874093
+107-inf,5-inf,14-30,Chloride,Potassium,0.0020154597619386
+107-inf,5-inf,30-60,Chloride,Potassium,0.0013041210224308
+107-inf,5-inf,60-90,Chloride,Potassium,9.484516526770048e-05
+107-inf,5-inf,730-inf,Chloride,Potassium,0.00092474036136
+107-inf,50-70,7-14,Chloride,Body Weight,9.484516526770048e-05
+107-inf,50-70,14-30,Chloride,Body Weight,4.742258263385024e-05
+107-inf,50-70,30-60,Chloride,Body Weight,9.484516526770048e-05
+107-inf,50-70,60-90,Chloride,Body Weight,0.0002134016218523
+107-inf,50-70,90-180,Chloride,Body Weight,0.0001422677479015
+107-inf,50-70,180-365,Chloride,Body Weight,0.0001185564565846
+107-inf,50-70,365-730,Chloride,Body Weight,0.0007824726134585
+107-inf,50-70,730-inf,Chloride,Body Weight,0.0004268032437046
+107-inf,60-80,7-14,Chloride,Diastolic Blood Pressure,0.0010432968179447
+107-inf,60-80,14-30,Chloride,Diastolic Blood Pressure,0.00030824678712
+107-inf,60-80,30-60,Chloride,Diastolic Blood Pressure,0.0004268032437046
+107-inf,60-80,60-90,Chloride,Diastolic Blood Pressure,0.00092474036136
+107-inf,60-80,90-180,Chloride,Diastolic Blood Pressure,0.0021577275098401
+107-inf,60-80,180-365,Chloride,Diastolic Blood Pressure,0.0035804049888556
+107-inf,60-80,365-730,Chloride,Diastolic Blood Pressure,0.0055247308768435
+107-inf,60-80,730-inf,Chloride,Diastolic Blood Pressure,0.0187319201403708
+107-inf,70-90,0-7,Chloride,Body Weight,2.371129131692512e-05
+107-inf,70-90,7-14,Chloride,Body Weight,0.0015886565182339
+107-inf,70-90,14-30,Chloride,Body Weight,0.0004268032437046
+107-inf,70-90,30-60,Chloride,Body Weight,0.0009721629439939
+107-inf,70-90,60-90,Chloride,Body Weight,0.0013278323137478
+107-inf,70-90,90-180,Chloride,Body Weight,0.0023474178403755
+107-inf,70-90,180-365,Chloride,Body Weight,0.0055721534594774
+107-inf,70-90,365-730,Chloride,Body Weight,0.0090340019917484
+107-inf,70-90,730-inf,Chloride,Body Weight,0.0342865272442737
+107-inf,70-99,0-7,Chloride,Glucose,0.0122113150282164
+107-inf,70-99,7-14,Chloride,Glucose,0.0042917437283634
+107-inf,70-99,14-30,Chloride,Glucose,0.0073267890169298
+107-inf,70-99,30-60,Chloride,Glucose,0.008227818086973
+107-inf,70-99,60-90,Chloride,Glucose,0.0036041162801726
+107-inf,70-99,90-180,Chloride,Glucose,0.0014938113529662
+107-inf,70-99,730-inf,Chloride,Glucose,0.0061886470337174
+107-inf,8-10,0-7,Chloride,Calcium,0.0146772893251766
+107-inf,8-10,7-14,Chloride,Calcium,0.0047659695547019
+107-inf,8-10,14-30,Chloride,Calcium,0.0084886422914591
+107-inf,8-10,30-60,Chloride,Calcium,0.0101010101010101
+107-inf,8-10,60-90,Chloride,Calcium,0.0045999905154834
+107-inf,8-10,90-180,Chloride,Calcium,0.001564945226917
+107-inf,8-10,730-inf,Chloride,Calcium,0.0074927680561483
+107-inf,80-90,7-14,Chloride,Diastolic Blood Pressure,0.0005927822829231
+107-inf,80-90,14-30,Chloride,Diastolic Blood Pressure,0.0002608242044861
+107-inf,80-90,30-60,Chloride,Diastolic Blood Pressure,0.0008061839047754
+107-inf,80-90,60-90,Chloride,Diastolic Blood Pressure,0.0004979371176554
+107-inf,80-90,90-180,Chloride,Diastolic Blood Pressure,0.0004742258263385
+107-inf,80-90,180-365,Chloride,Diastolic Blood Pressure,0.0021814388011571
+107-inf,80-90,365-730,Chloride,Diastolic Blood Pressure,0.0038412291933418
+107-inf,80-90,730-inf,Chloride,Diastolic Blood Pressure,0.0120690472803148
+107-inf,90-120,7-14,Chloride,Systolic Blood Pressure,0.0013041210224308
+107-inf,90-120,14-30,Chloride,Systolic Blood Pressure,0.0008061839047754
+107-inf,90-120,30-60,Chloride,Systolic Blood Pressure,0.0018494807227201
+107-inf,90-120,60-90,Chloride,Systolic Blood Pressure,0.0013515436050647
+107-inf,90-120,90-180,Chloride,Systolic Blood Pressure,0.0027030872101294
+107-inf,90-120,180-365,Chloride,Systolic Blood Pressure,0.0054061744202589
+107-inf,90-120,365-730,Chloride,Systolic Blood Pressure,0.0090102907004315
+107-inf,90-120,730-inf,Chloride,Systolic Blood Pressure,0.0290700431545501
+107-inf,90-inf,0-7,Chloride,Diastolic Blood Pressure,2.371129131692512e-05
+107-inf,90-inf,7-14,Chloride,Body Weight,0.00030824678712
+107-inf,90-inf,7-14,Chloride,Diastolic Blood Pressure,0.0002371129131692
+107-inf,90-inf,14-30,Chloride,Body Weight,0.0004030919523877
+107-inf,90-inf,14-30,Chloride,Diastolic Blood Pressure,4.742258263385024e-05
+107-inf,90-inf,30-60,Chloride,Body Weight,0.0013989661876985
+107-inf,90-inf,30-60,Chloride,Diastolic Blood Pressure,0.0002845354958031
+107-inf,90-inf,60-90,Chloride,Body Weight,0.0007113387395077
+107-inf,90-inf,60-90,Chloride,Diastolic Blood Pressure,0.0005453597002892
+107-inf,90-inf,90-180,Chloride,Body Weight,0.0017783468487693
+107-inf,90-inf,90-180,Chloride,Diastolic Blood Pressure,0.0011144306918954
+107-inf,90-inf,180-365,Chloride,Body Weight,0.0023948404230094
+107-inf,90-inf,180-365,Chloride,Diastolic Blood Pressure,0.0020865936358894
+107-inf,90-inf,365-730,Chloride,Body Weight,0.0043391663109972
+107-inf,90-inf,365-730,Chloride,Diastolic Blood Pressure,0.003461848532271
+107-inf,90-inf,730-inf,Chloride,Body Weight,0.0144875989946412
+107-inf,90-inf,730-inf,Chloride,Diastolic Blood Pressure,0.0138473941290842
+107-inf,98-107,0-7,Chloride,Chloride,0.0050979276331389
+107-inf,98-107,7-14,Chloride,Chloride,0.0018020581400863
+107-inf,98-107,14-30,Chloride,Chloride,0.0046948356807511
+107-inf,98-107,30-60,Chloride,Chloride,0.006330914781619
+107-inf,98-107,60-90,Chloride,Chloride,0.0029876227059325
+107-inf,98-107,90-180,Chloride,Chloride,0.0006402048655569
+107-inf,98-107,730-inf,Chloride,Chloride,0.0052876179636743
+107-inf,99-125,0-7,Chloride,Glucose,0.0005453597002892
+107-inf,99-125,7-14,Chloride,Glucose,0.0001422677479015
+107-inf,99-125,14-30,Chloride,Glucose,0.0006402048655569
+107-inf,99-125,30-60,Chloride,Glucose,0.0006402048655569
+107-inf,99-125,60-90,Chloride,Glucose,0.0003319580784369
+107-inf,99-125,730-inf,Chloride,Glucose,0.0008298951960923
+107-inf,Abnormal findings diagnostic imaging heart+coronary circulat (finding),90-180,Chloride,condition,2.371129131692512e-05
+107-inf,Abnormal findings diagnostic imaging heart+coronary circulat (finding),180-365,Chloride,condition,7.113387395077535e-05
+107-inf,Abnormal findings diagnostic imaging heart+coronary circulat (finding),365-730,Chloride,condition,7.113387395077535e-05
+107-inf,Abnormal findings diagnostic imaging heart+coronary circulat (finding),730-inf,Chloride,condition,0.0002134016218523
+107-inf,Acute ST segment elevation myocardial infarction (disorder),90-180,Chloride,condition,2.371129131692512e-05
+107-inf,Acute ST segment elevation myocardial infarction (disorder),180-365,Chloride,condition,7.113387395077535e-05
+107-inf,Acute ST segment elevation myocardial infarction (disorder),730-inf,Chloride,condition,4.742258263385024e-05
+107-inf,Acute bacterial sinusitis (disorder),30-60,Chloride,condition,2.371129131692512e-05
+107-inf,Acute bacterial sinusitis (disorder),60-90,Chloride,condition,2.371129131692512e-05
+107-inf,Acute bacterial sinusitis (disorder),90-180,Chloride,condition,4.742258263385024e-05
+107-inf,Acute bacterial sinusitis (disorder),365-730,Chloride,condition,0.0002608242044861
+107-inf,Acute bacterial sinusitis (disorder),730-inf,Chloride,condition,0.0001659790392184
+107-inf,Acute bronchitis (disorder),60-90,Chloride,condition,0.0001185564565846
+107-inf,Acute bronchitis (disorder),180-365,Chloride,condition,0.0002371129131692
+107-inf,Acute bronchitis (disorder),365-730,Chloride,condition,0.0004505145350215
+107-inf,Acute bronchitis (disorder),730-inf,Chloride,condition,0.0011381419832124
+107-inf,Acute deep venous thrombosis (disorder),730-inf,Chloride,condition,4.742258263385024e-05
+107-inf,Acute infective cystitis (disorder),180-365,Chloride,condition,2.371129131692512e-05
+107-inf,Acute infective cystitis (disorder),365-730,Chloride,condition,4.742258263385024e-05
+107-inf,Acute infective cystitis (disorder),730-inf,Chloride,condition,0.0001659790392184
+107-inf,Acute non-ST segment elevation myocardial infarction (disorder),90-180,Chloride,condition,2.371129131692512e-05
+107-inf,Acute non-ST segment elevation myocardial infarction (disorder),180-365,Chloride,condition,4.742258263385024e-05
+107-inf,Acute non-ST segment elevation myocardial infarction (disorder),730-inf,Chloride,condition,7.113387395077535e-05
+107-inf,Acute pulmonary embolism (disorder),730-inf,Chloride,condition,0.0001185564565846
+107-inf,Acute respiratory distress syndrome (disorder),365-730,Chloride,condition,4.742258263385024e-05
+107-inf,Acute respiratory distress syndrome (disorder),730-inf,Chloride,condition,0.0001422677479015
+107-inf,Acute respiratory failure (disorder),730-inf,Chloride,condition,0.0001185564565846
+107-inf,Acute viral pharyngitis (disorder),0-7,Chloride,condition,9.484516526770048e-05
+107-inf,Acute viral pharyngitis (disorder),30-60,Chloride,condition,4.742258263385024e-05
+107-inf,Acute viral pharyngitis (disorder),60-90,Chloride,condition,2.371129131692512e-05
+107-inf,Acute viral pharyngitis (disorder),90-180,Chloride,condition,0.0001422677479015
+107-inf,Acute viral pharyngitis (disorder),180-365,Chloride,condition,0.0001659790392184
+107-inf,Acute viral pharyngitis (disorder),365-730,Chloride,condition,0.0003319580784369
+107-inf,Acute viral pharyngitis (disorder),730-inf,Chloride,condition,0.0009958742353108
+107-inf,Alcoholism,365-730,Chloride,condition,7.113387395077535e-05
+107-inf,Alcoholism,730-inf,Chloride,condition,2.371129131692512e-05
+107-inf,Alveolitis of jaw (disorder),730-inf,Chloride,condition,4.742258263385024e-05
+107-inf,Alzheimer's disease (disorder),730-inf,Chloride,condition,4.742258263385024e-05
+107-inf,Anemia (disorder),365-730,Chloride,condition,2.371129131692512e-05
+107-inf,Anemia (disorder),730-inf,Chloride,condition,2.371129131692512e-05
+107-inf,Antepartum eclampsia,730-inf,Chloride,condition,9.484516526770048e-05
+107-inf,Aortic valve stenosis (disorder),90-180,Chloride,condition,4.742258263385024e-05
+107-inf,Aortic valve stenosis (disorder),180-365,Chloride,condition,2.371129131692512e-05
+107-inf,Awaiting transplantation of kidney (situation),0-7,Chloride,condition,0.0001659790392184
+107-inf,Bleeding from anus,365-730,Chloride,condition,2.371129131692512e-05
+107-inf,Bleeding from anus,730-inf,Chloride,condition,0.0001422677479015
+107-inf,Body mass index 30+ - obesity (finding),90-180,Chloride,condition,2.371129131692512e-05
+107-inf,Body mass index 30+ - obesity (finding),365-730,Chloride,condition,2.371129131692512e-05
+107-inf,Body mass index 30+ - obesity (finding),730-inf,Chloride,condition,9.484516526770048e-05
+107-inf,Burn injury (morphologic abnormality),180-365,Chloride,condition,7.113387395077535e-05
+107-inf,Burn injury (morphologic abnormality),365-730,Chloride,condition,9.484516526770048e-05
+107-inf,COVID-19,60-90,Chloride,condition,2.371129131692512e-05
+107-inf,COVID-19,180-365,Chloride,condition,4.742258263385024e-05
+107-inf,COVID-19,365-730,Chloride,condition,2.371129131692512e-05
+107-inf,COVID-19,730-inf,Chloride,condition,0.0003556693697538
+107-inf,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,90-180,Chloride,immunization,0.0001422677479015
+107-inf,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,180-365,Chloride,immunization,9.484516526770048e-05
+107-inf,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,365-730,Chloride,immunization,0.0004742258263385
+107-inf,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,730-inf,Chloride,immunization,0.0016123678095509
+107-inf,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,14-30,Chloride,immunization,2.371129131692512e-05
+107-inf,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,90-180,Chloride,immunization,0.0001896903305354
+107-inf,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,180-365,Chloride,immunization,0.0001422677479015
+107-inf,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,365-730,Chloride,immunization,0.0004979371176554
+107-inf,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,730-inf,Chloride,immunization,0.0005453597002892
+107-inf,COVID-19 vaccine  vector-nr  rS-Ad26  PF  0.5 mL,180-365,Chloride,immunization,2.371129131692512e-05
+107-inf,COVID-19 vaccine  vector-nr  rS-Ad26  PF  0.5 mL,365-730,Chloride,immunization,7.113387395077535e-05
+107-inf,COVID-19 vaccine  vector-nr  rS-Ad26  PF  0.5 mL,730-inf,Chloride,immunization,9.484516526770048e-05
+107-inf,Carcinoma in situ of prostate (disorder),365-730,Chloride,condition,2.371129131692512e-05
+107-inf,Chronic congestive heart failure (disorder),365-730,Chloride,condition,7.113387395077535e-05
+107-inf,Chronic congestive heart failure (disorder),730-inf,Chloride,condition,9.484516526770048e-05
+107-inf,Chronic kidney disease stage 1 (disorder),180-365,Chloride,condition,0.0002134016218523
+107-inf,Chronic kidney disease stage 1 (disorder),365-730,Chloride,condition,0.00030824678712
+107-inf,Chronic kidney disease stage 1 (disorder),730-inf,Chloride,condition,0.0008773177787262
+107-inf,Chronic kidney disease stage 2 (disorder),730-inf,Chloride,condition,0.0004742258263385
+107-inf,Chronic kidney disease stage 4 (disorder),14-30,Chloride,condition,2.371129131692512e-05
+107-inf,Chronic kidney disease stage 4 (disorder),30-60,Chloride,condition,7.113387395077535e-05
+107-inf,Chronic kidney disease stage 4 (disorder),60-90,Chloride,condition,0.0001185564565846
+107-inf,Chronic kidney disease stage 4 (disorder),90-180,Chloride,condition,0.0002134016218523
+107-inf,Chronic kidney disease stage 4 (disorder),180-365,Chloride,condition,0.0001185564565846
+107-inf,Chronic low back pain (finding),730-inf,Chloride,condition,0.0001659790392184
+107-inf,Chronic neck pain (finding),730-inf,Chloride,condition,0.0001659790392184
+107-inf,Chronic pain (finding),90-180,Chloride,condition,7.113387395077535e-05
+107-inf,Chronic pain (finding),730-inf,Chloride,condition,0.0002845354958031
+107-inf,Chronic sinusitis (disorder),365-730,Chloride,condition,0.0001422677479015
+107-inf,Chronic sinusitis (disorder),730-inf,Chloride,condition,0.0002371129131692
+107-inf,Complete miscarriage (disorder),30-60,Chloride,condition,2.371129131692512e-05
+107-inf,Complete miscarriage (disorder),90-180,Chloride,condition,0.0001659790392184
+107-inf,Complete miscarriage (disorder),180-365,Chloride,condition,4.742258263385024e-05
+107-inf,Complete miscarriage (disorder),730-inf,Chloride,condition,4.742258263385024e-05
+107-inf,Complication occuring during pregnancy,730-inf,Chloride,condition,2.371129131692512e-05
+107-inf,Concussion injury of brain (disorder),7-14,Chloride,condition,2.371129131692512e-05
+107-inf,Concussion injury of brain (disorder),30-60,Chloride,condition,2.371129131692512e-05
+107-inf,Concussion injury of brain (disorder),365-730,Chloride,condition,0.0001422677479015
+107-inf,Concussion injury of brain (disorder),730-inf,Chloride,condition,0.0001659790392184
+107-inf,Concussion with no loss of consciousness,7-14,Chloride,condition,2.371129131692512e-05
+107-inf,Concussion with no loss of consciousness,30-60,Chloride,condition,2.371129131692512e-05
+107-inf,Concussion with no loss of consciousness,365-730,Chloride,condition,0.0001422677479015
+107-inf,Concussion with no loss of consciousness,730-inf,Chloride,condition,0.0001659790392184
+107-inf,Cough (finding),60-90,Chloride,condition,2.371129131692512e-05
+107-inf,Cough (finding),730-inf,Chloride,condition,0.0002371129131692
+107-inf,DTaP,14-30,Chloride,immunization,2.371129131692512e-05
+107-inf,DTaP,60-90,Chloride,immunization,2.371129131692512e-05
+107-inf,DTaP,90-180,Chloride,immunization,2.371129131692512e-05
+107-inf,DTaP,365-730,Chloride,immunization,2.371129131692512e-05
+107-inf,Dental filling lost (finding),60-90,Chloride,condition,0.0001185564565846
+107-inf,Dental filling lost (finding),180-365,Chloride,condition,0.0001896903305354
+107-inf,Dental filling lost (finding),365-730,Chloride,condition,0.0001422677479015
+107-inf,Dental filling lost (finding),730-inf,Chloride,condition,0.0007350500308246
+107-inf,Died in hospice (finding),365-730,Chloride,condition,2.371129131692512e-05
+107-inf,Died in hospice (finding),730-inf,Chloride,condition,2.371129131692512e-05
+107-inf,Drug overdose,0-7,Chloride,condition,9.484516526770048e-05
+107-inf,Drug overdose,7-14,Chloride,condition,0.0001659790392184
+107-inf,Drug overdose,14-30,Chloride,condition,0.0003793806610708
+107-inf,Drug overdose,30-60,Chloride,condition,2.371129131692512e-05
+107-inf,Drug overdose,60-90,Chloride,condition,4.742258263385024e-05
+107-inf,Drug overdose,90-180,Chloride,condition,0.0005927822829231
+107-inf,Drug overdose,180-365,Chloride,condition,0.0002134016218523
+107-inf,Drug overdose,365-730,Chloride,condition,7.113387395077535e-05
+107-inf,Drug overdose,730-inf,Chloride,condition,0.0008536064874093
+107-inf,Dyspnea (finding),60-90,Chloride,condition,2.371129131692512e-05
+107-inf,Dyspnea (finding),180-365,Chloride,condition,4.742258263385024e-05
+107-inf,Dyspnea (finding),365-730,Chloride,condition,2.371129131692512e-05
+107-inf,Dyspnea (finding),730-inf,Chloride,condition,4.742258263385024e-05
+107-inf,End-stage renal disease (disorder),30-60,Chloride,condition,2.371129131692512e-05
+107-inf,End-stage renal disease (disorder),60-90,Chloride,condition,2.371129131692512e-05
+107-inf,End-stage renal disease (disorder),90-180,Chloride,condition,2.371129131692512e-05
+107-inf,End-stage renal disease (disorder),365-730,Chloride,condition,0.0001422677479015
+107-inf,End-stage renal disease (disorder),730-inf,Chloride,condition,0.0002371129131692
+107-inf,Epidermal burn of skin (disorder),180-365,Chloride,condition,7.113387395077535e-05
+107-inf,Facial laceration,730-inf,Chloride,condition,7.113387395077535e-05
+107-inf,Fatigue (finding),180-365,Chloride,condition,4.742258263385024e-05
+107-inf,Fatigue (finding),365-730,Chloride,condition,2.371129131692512e-05
+107-inf,Fatigue (finding),730-inf,Chloride,condition,0.0002134016218523
+107-inf,Fetus with chromosomal abnormality,365-730,Chloride,condition,2.371129131692512e-05
+107-inf,Fever (finding),180-365,Chloride,condition,4.742258263385024e-05
+107-inf,Fever (finding),365-730,Chloride,condition,2.371129131692512e-05
+107-inf,Fever (finding),730-inf,Chloride,condition,0.0003556693697538
+107-inf,Fracture of ankle,730-inf,Chloride,condition,2.371129131692512e-05
+107-inf,Fracture of bone (disorder),180-365,Chloride,condition,2.371129131692512e-05
+107-inf,Fracture of bone (disorder),365-730,Chloride,condition,0.0001896903305354
+107-inf,Fracture of bone (disorder),730-inf,Chloride,condition,0.0001659790392184
+107-inf,Fracture of clavicle,365-730,Chloride,condition,0.0001422677479015
+107-inf,Fracture of forearm,730-inf,Chloride,condition,4.742258263385024e-05
+107-inf,Fracture of rib,180-365,Chloride,condition,2.371129131692512e-05
+107-inf,Fracture of rib,365-730,Chloride,condition,2.371129131692512e-05
+107-inf,Fracture subluxation of wrist,365-730,Chloride,condition,2.371129131692512e-05
+107-inf,Fracture subluxation of wrist,730-inf,Chloride,condition,9.484516526770048e-05
+107-inf,Fractured dental filling (finding),180-365,Chloride,condition,0.0002134016218523
+107-inf,Fractured dental filling (finding),365-730,Chloride,condition,0.00030824678712
+107-inf,Fractured dental filling (finding),730-inf,Chloride,condition,0.0004268032437046
+107-inf,Full-time employment (finding),7-14,Chloride,condition,0.0005690709916062
+107-inf,Full-time employment (finding),14-30,Chloride,condition,4.742258263385024e-05
+107-inf,Full-time employment (finding),30-60,Chloride,condition,0.0001659790392184
+107-inf,Full-time employment (finding),60-90,Chloride,condition,0.0002608242044861
+107-inf,Full-time employment (finding),90-180,Chloride,condition,0.0006639161568739
+107-inf,Full-time employment (finding),180-365,Chloride,condition,0.0012329871484801
+107-inf,Full-time employment (finding),365-730,Chloride,condition,0.0029402001232987
+107-inf,Full-time employment (finding),730-inf,Chloride,condition,0.0095082278180869
+107-inf,Gingival disease (disorder),14-30,Chloride,condition,2.371129131692512e-05
+107-inf,Gingival disease (disorder),30-60,Chloride,condition,9.484516526770048e-05
+107-inf,Gingival disease (disorder),60-90,Chloride,condition,0.0001659790392184
+107-inf,Gingival disease (disorder),90-180,Chloride,condition,0.0002134016218523
+107-inf,Gingival disease (disorder),180-365,Chloride,condition,0.0004505145350215
+107-inf,Gingival disease (disorder),365-730,Chloride,condition,0.0004742258263385
+107-inf,Gingival disease (disorder),730-inf,Chloride,condition,0.0029164888319817
+107-inf,Gingivitis (disorder),7-14,Chloride,condition,0.0005453597002892
+107-inf,Gingivitis (disorder),14-30,Chloride,condition,0.0001422677479015
+107-inf,Gingivitis (disorder),30-60,Chloride,condition,0.0003793806610708
+107-inf,Gingivitis (disorder),60-90,Chloride,condition,0.0003556693697538
+107-inf,Gingivitis (disorder),90-180,Chloride,condition,0.0011144306918954
+107-inf,Gingivitis (disorder),180-365,Chloride,condition,0.0021814388011571
+107-inf,Gingivitis (disorder),365-730,Chloride,condition,0.0026082420448617
+107-inf,Gingivitis (disorder),730-inf,Chloride,condition,0.0104803907620809
+107-inf,Has a criminal record (finding),730-inf,Chloride,condition,0.0002371129131692
+107-inf,Headache (finding),180-365,Chloride,condition,4.742258263385024e-05
+107-inf,Headache (finding),365-730,Chloride,condition,2.371129131692512e-05
+107-inf,Hep A  adult,90-180,Chloride,immunization,2.371129131692512e-05
+107-inf,Hep A  adult,365-730,Chloride,immunization,2.371129131692512e-05
+107-inf,Hep A  ped/adol  2 dose,365-730,Chloride,immunization,4.742258263385024e-05
+107-inf,Hep B  adolescent or pediatric,90-180,Chloride,immunization,2.371129131692512e-05
+107-inf,Hib (PRP-OMP),14-30,Chloride,immunization,2.371129131692512e-05
+107-inf,Hib (PRP-OMP),60-90,Chloride,immunization,2.371129131692512e-05
+107-inf,Hib (PRP-OMP),180-365,Chloride,immunization,9.484516526770048e-05
+107-inf,Hib (PRP-OMP),365-730,Chloride,immunization,2.371129131692512e-05
+107-inf,History of aortic valve replacement (situation),730-inf,Chloride,condition,0.0001896903305354
+107-inf,History of coronary artery bypass grafting (situation),7-14,Chloride,condition,2.371129131692512e-05
+107-inf,History of coronary artery bypass grafting (situation),180-365,Chloride,condition,9.484516526770048e-05
+107-inf,History of myocardial infarction (situation),90-180,Chloride,condition,2.371129131692512e-05
+107-inf,History of myocardial infarction (situation),180-365,Chloride,condition,0.0001422677479015
+107-inf,History of myocardial infarction (situation),730-inf,Chloride,condition,0.0001185564565846
+107-inf,History of renal transplant (situation),0-7,Chloride,condition,0.0001422677479015
+107-inf,History of renal transplant (situation),730-inf,Chloride,condition,0.0006876274481908
+107-inf,Homeless (finding),365-730,Chloride,condition,2.371129131692512e-05
+107-inf,Homeless (finding),730-inf,Chloride,condition,0.0001896903305354
+107-inf,Hyperlipidemia,365-730,Chloride,condition,4.742258263385024e-05
+107-inf,Hyperlipidemia,730-inf,Chloride,condition,0.0001422677479015
+107-inf,Hypoxemia (disorder),730-inf,Chloride,condition,0.0001659790392184
+107-inf,IPV,14-30,Chloride,immunization,2.371129131692512e-05
+107-inf,IPV,60-90,Chloride,immunization,2.371129131692512e-05
+107-inf,IPV,90-180,Chloride,immunization,2.371129131692512e-05
+107-inf,Infection of tooth (disorder),14-30,Chloride,condition,7.113387395077535e-05
+107-inf,Infection of tooth (disorder),365-730,Chloride,condition,0.0001422677479015
+107-inf,Infection of tooth (disorder),730-inf,Chloride,condition,0.0006402048655569
+107-inf,Infectious mediastinitis (disorder),730-inf,Chloride,condition,0.0001185564565846
+107-inf,Influenza  seasonal  injectable  preservative free,7-14,Chloride,immunization,0.0004505145350215
+107-inf,Influenza  seasonal  injectable  preservative free,14-30,Chloride,immunization,0.0002371129131692
+107-inf,Influenza  seasonal  injectable  preservative free,30-60,Chloride,immunization,0.000948451652677
+107-inf,Influenza  seasonal  injectable  preservative free,60-90,Chloride,immunization,0.0008061839047754
+107-inf,Influenza  seasonal  injectable  preservative free,90-180,Chloride,immunization,0.0013515436050647
+107-inf,Influenza  seasonal  injectable  preservative free,180-365,Chloride,immunization,0.0043154550196803
+107-inf,Influenza  seasonal  injectable  preservative free,365-730,Chloride,immunization,0.0075401906387821
+107-inf,Influenza  seasonal  injectable  preservative free,730-inf,Chloride,immunization,0.0218618105942049
+107-inf,Injury of anterior cruciate ligament,365-730,Chloride,condition,9.484516526770048e-05
+107-inf,Injury of anterior cruciate ligament,730-inf,Chloride,condition,2.371129131692512e-05
+107-inf,Injury of kidney (disorder),730-inf,Chloride,condition,0.0001185564565846
+107-inf,Injury of knee (disorder),365-730,Chloride,condition,0.0002134016218523
+107-inf,Injury of knee (disorder),730-inf,Chloride,condition,9.484516526770048e-05
+107-inf,Injury of neck (disorder),30-60,Chloride,condition,2.371129131692512e-05
+107-inf,Injury of neck (disorder),60-90,Chloride,condition,7.113387395077535e-05
+107-inf,Ischemic heart disease (disorder),365-730,Chloride,condition,0.0001659790392184
+107-inf,Ischemic heart disease (disorder),730-inf,Chloride,condition,0.0001896903305354
+107-inf,Joint pain (finding),60-90,Chloride,condition,2.371129131692512e-05
+107-inf,Joint pain (finding),730-inf,Chloride,condition,7.113387395077535e-05
+107-inf,Kidney transplant failure and rejection (disorder),14-30,Chloride,condition,0.0002134016218523
+107-inf,Kidney transplant failure and rejection (disorder),730-inf,Chloride,condition,2.371129131692512e-05
+107-inf,Laceration - injury (disorder),30-60,Chloride,condition,2.371129131692512e-05
+107-inf,Laceration - injury (disorder),365-730,Chloride,condition,9.484516526770048e-05
+107-inf,Laceration - injury (disorder),730-inf,Chloride,condition,0.0003793806610708
+107-inf,Laceration of forearm,30-60,Chloride,condition,2.371129131692512e-05
+107-inf,Laceration of forearm,730-inf,Chloride,condition,2.371129131692512e-05
+107-inf,Laceration of hand,365-730,Chloride,condition,9.484516526770048e-05
+107-inf,Laceration of hand,730-inf,Chloride,condition,0.0002845354958031
+107-inf,Leaking dental filling (finding),90-180,Chloride,condition,2.371129131692512e-05
+107-inf,Leaking dental filling (finding),180-365,Chloride,condition,0.0001896903305354
+107-inf,Leaking dental filling (finding),365-730,Chloride,condition,2.371129131692512e-05
+107-inf,Leaking dental filling (finding),730-inf,Chloride,condition,0.0001185564565846
+107-inf,Limited social contact (finding),7-14,Chloride,condition,0.0001422677479015
+107-inf,Limited social contact (finding),14-30,Chloride,condition,2.371129131692512e-05
+107-inf,Limited social contact (finding),30-60,Chloride,condition,9.484516526770048e-05
+107-inf,Limited social contact (finding),60-90,Chloride,condition,4.742258263385024e-05
+107-inf,Limited social contact (finding),90-180,Chloride,condition,0.0001659790392184
+107-inf,Limited social contact (finding),180-365,Chloride,condition,0.00092474036136
+107-inf,Limited social contact (finding),365-730,Chloride,condition,0.0008061839047754
+107-inf,Limited social contact (finding),730-inf,Chloride,condition,0.0025608194622279
+107-inf,Loose dental filling (finding),90-180,Chloride,condition,2.371129131692512e-05
+107-inf,Loose dental filling (finding),180-365,Chloride,condition,4.742258263385024e-05
+107-inf,Loose dental filling (finding),365-730,Chloride,condition,0.0003319580784369
+107-inf,Loose dental filling (finding),730-inf,Chloride,condition,0.0004030919523877
+107-inf,Loss of taste (finding),60-90,Chloride,condition,2.371129131692512e-05
+107-inf,Loss of taste (finding),180-365,Chloride,condition,4.742258263385024e-05
+107-inf,Loss of taste (finding),365-730,Chloride,condition,2.371129131692512e-05
+107-inf,Loss of taste (finding),730-inf,Chloride,condition,2.371129131692512e-05
+107-inf,Loss of teeth (disorder),730-inf,Chloride,condition,0.0002371129131692
+107-inf,MMR,365-730,Chloride,immunization,2.371129131692512e-05
+107-inf,Medication review due (situation),7-14,Chloride,condition,0.00092474036136
+107-inf,Medication review due (situation),14-30,Chloride,condition,0.0011618532745293
+107-inf,Medication review due (situation),30-60,Chloride,condition,0.0016835016835016
+107-inf,Medication review due (situation),60-90,Chloride,condition,0.0011618532745293
+107-inf,Medication review due (situation),90-180,Chloride,condition,0.0023948404230094
+107-inf,Medication review due (situation),180-365,Chloride,condition,0.0045288566415326
+107-inf,Medication review due (situation),365-730,Chloride,condition,0.0074927680561483
+107-inf,Medication review due (situation),730-inf,Chloride,condition,0.0244937639303836
+107-inf,Metabolic syndrome X (disorder),7-14,Chloride,condition,9.484516526770048e-05
+107-inf,Metabolic syndrome X (disorder),365-730,Chloride,condition,4.742258263385024e-05
+107-inf,Metabolic syndrome X (disorder),730-inf,Chloride,condition,0.0001659790392184
+107-inf,Metastasis from malignant tumor of prostate (disorder),730-inf,Chloride,condition,2.371129131692512e-05
+107-inf,Miscarriage in first trimester,30-60,Chloride,condition,2.371129131692512e-05
+107-inf,Miscarriage in first trimester,90-180,Chloride,condition,0.0001659790392184
+107-inf,Miscarriage in first trimester,180-365,Chloride,condition,4.742258263385024e-05
+107-inf,Miscarriage in first trimester,730-inf,Chloride,condition,4.742258263385024e-05
+107-inf,Miscarriage in second trimester,365-730,Chloride,condition,2.371129131692512e-05
+107-inf,Miscarriage in second trimester,730-inf,Chloride,condition,2.371129131692512e-05
+107-inf,Misuses drugs (finding),90-180,Chloride,condition,2.371129131692512e-05
+107-inf,Misuses drugs (finding),180-365,Chloride,condition,9.484516526770048e-05
+107-inf,Misuses drugs (finding),730-inf,Chloride,condition,0.0003793806610708
+107-inf,Muscle pain (finding),60-90,Chloride,condition,2.371129131692512e-05
+107-inf,Muscle pain (finding),730-inf,Chloride,condition,7.113387395077535e-05
+107-inf,Myocardial infarction (disorder),90-180,Chloride,condition,4.742258263385024e-05
+107-inf,Myocardial infarction (disorder),180-365,Chloride,condition,0.0001185564565846
+107-inf,Myocardial infarction (disorder),730-inf,Chloride,condition,0.0001185564565846
+107-inf,Neoplasm of prostate,365-730,Chloride,condition,2.371129131692512e-05
+107-inf,Non-small cell carcinoma of lung  TNM stage 1 (disorder),365-730,Chloride,condition,4.742258263385024e-05
+107-inf,Non-small cell carcinoma of lung  TNM stage 1 (disorder),730-inf,Chloride,condition,2.371129131692512e-05
+107-inf,Non-small cell lung cancer (disorder),365-730,Chloride,condition,4.742258263385024e-05
+107-inf,Non-small cell lung cancer (disorder),730-inf,Chloride,condition,2.371129131692512e-05
+107-inf,Normal pregnancy,30-60,Chloride,condition,2.371129131692512e-05
+107-inf,Normal pregnancy,90-180,Chloride,condition,0.0001896903305354
+107-inf,Normal pregnancy,180-365,Chloride,condition,7.113387395077535e-05
+107-inf,Normal pregnancy,365-730,Chloride,condition,0.0003556693697538
+107-inf,Normal pregnancy,730-inf,Chloride,condition,0.0001422677479015
+107-inf,Not in labor force (finding),7-14,Chloride,condition,0.0002134016218523
+107-inf,Not in labor force (finding),14-30,Chloride,condition,4.742258263385024e-05
+107-inf,Not in labor force (finding),30-60,Chloride,condition,0.0002134016218523
+107-inf,Not in labor force (finding),60-90,Chloride,condition,0.0004505145350215
+107-inf,Not in labor force (finding),90-180,Chloride,condition,0.0006639161568739
+107-inf,Not in labor force (finding),180-365,Chloride,condition,0.00061649357424
+107-inf,Not in labor force (finding),365-730,Chloride,condition,0.0010195855266277
+107-inf,Not in labor force (finding),730-inf,Chloride,condition,0.0040309195238772
+107-inf,Osteoarthritis of hip,730-inf,Chloride,condition,0.0001185564565846
+107-inf,Osteoarthritis of knee,180-365,Chloride,condition,4.742258263385024e-05
+107-inf,Osteoarthritis of knee,365-730,Chloride,condition,4.742258263385024e-05
+107-inf,Osteoarthritis of knee,730-inf,Chloride,condition,2.371129131692512e-05
+107-inf,Osteoporosis (disorder),180-365,Chloride,condition,2.371129131692512e-05
+107-inf,Osteoporosis (disorder),365-730,Chloride,condition,7.113387395077535e-05
+107-inf,Osteoporosis (disorder),730-inf,Chloride,condition,2.371129131692512e-05
+107-inf,Part-time employment (finding),7-14,Chloride,condition,0.0001659790392184
+107-inf,Part-time employment (finding),14-30,Chloride,condition,2.371129131692512e-05
+107-inf,Part-time employment (finding),30-60,Chloride,condition,0.0001185564565846
+107-inf,Part-time employment (finding),60-90,Chloride,condition,0.0004979371176554
+107-inf,Part-time employment (finding),90-180,Chloride,condition,0.0008536064874093
+107-inf,Part-time employment (finding),180-365,Chloride,condition,0.0013515436050647
+107-inf,Part-time employment (finding),365-730,Chloride,condition,0.0011618532745293
+107-inf,Part-time employment (finding),730-inf,Chloride,condition,0.0069948309384929
+107-inf,Pathological fracture due to osteoporosis (disorder),365-730,Chloride,condition,0.0001422677479015
+107-inf,Pathological fracture due to osteoporosis (disorder),730-inf,Chloride,condition,7.113387395077535e-05
+107-inf,Pneumococcal conjugate PCV 13,60-90,Chloride,immunization,7.113387395077535e-05
+107-inf,Pneumococcal conjugate PCV 13,90-180,Chloride,immunization,2.371129131692512e-05
+107-inf,Pneumococcal conjugate PCV 13,180-365,Chloride,immunization,7.113387395077535e-05
+107-inf,Pneumococcal conjugate PCV 13,365-730,Chloride,immunization,0.0002134016218523
+107-inf,Pneumococcal conjugate PCV 13,730-inf,Chloride,immunization,4.742258263385024e-05
+107-inf,Pneumonia (disorder),730-inf,Chloride,condition,0.0001659790392184
+107-inf,Polyp of colon,180-365,Chloride,condition,0.0001185564565846
+107-inf,Polyp of colon,365-730,Chloride,condition,0.00030824678712
+107-inf,Polyp of colon,730-inf,Chloride,condition,0.0001896903305354
+107-inf,Posttraumatic stress disorder,365-730,Chloride,condition,2.371129131692512e-05
+107-inf,Prediabetes,90-180,Chloride,condition,4.742258263385024e-05
+107-inf,Prediabetes,365-730,Chloride,condition,2.371129131692512e-05
+107-inf,Prediabetes,730-inf,Chloride,condition,4.742258263385024e-05
+107-inf,Primary dental caries (disorder),14-30,Chloride,condition,4.742258263385024e-05
+107-inf,Primary dental caries (disorder),30-60,Chloride,condition,7.113387395077535e-05
+107-inf,Primary dental caries (disorder),60-90,Chloride,condition,2.371129131692512e-05
+107-inf,Primary dental caries (disorder),90-180,Chloride,condition,7.113387395077535e-05
+107-inf,Primary dental caries (disorder),180-365,Chloride,condition,0.0002134016218523
+107-inf,Primary dental caries (disorder),365-730,Chloride,condition,0.0001422677479015
+107-inf,Primary dental caries (disorder),730-inf,Chloride,condition,0.0022525726751078
+107-inf,Primary malignant neoplasm of colon,365-730,Chloride,condition,2.371129131692512e-05
+107-inf,Protracted diarrhea,365-730,Chloride,condition,2.371129131692512e-05
+107-inf,Protracted diarrhea,730-inf,Chloride,condition,0.0001422677479015
+107-inf,Recurrent rectal polyp,730-inf,Chloride,condition,2.371129131692512e-05
+107-inf,Refugee (person),30-60,Chloride,condition,2.371129131692512e-05
+107-inf,Refugee (person),90-180,Chloride,condition,9.484516526770048e-05
+107-inf,Reports of violence in the environment (finding),7-14,Chloride,condition,4.742258263385024e-05
+107-inf,Reports of violence in the environment (finding),14-30,Chloride,condition,9.484516526770048e-05
+107-inf,Reports of violence in the environment (finding),30-60,Chloride,condition,4.742258263385024e-05
+107-inf,Reports of violence in the environment (finding),60-90,Chloride,condition,0.0002371129131692
+107-inf,Reports of violence in the environment (finding),90-180,Chloride,condition,0.0003319580784369
+107-inf,Reports of violence in the environment (finding),180-365,Chloride,condition,0.0005453597002892
+107-inf,Reports of violence in the environment (finding),365-730,Chloride,condition,0.0011381419832124
+107-inf,Reports of violence in the environment (finding),730-inf,Chloride,condition,0.0027505097927633
+107-inf,Resorption of alveolar process due to dental trauma (disorder),730-inf,Chloride,condition,7.113387395077535e-05
+107-inf,Respiratory distress (finding),730-inf,Chloride,condition,0.0001659790392184
+107-inf,Rupture of patellar tendon,730-inf,Chloride,condition,4.742258263385024e-05
+107-inf,Secondary malignant neoplasm of colon,365-730,Chloride,condition,2.371129131692512e-05
+107-inf,Secondary malignant neoplasm of colon,730-inf,Chloride,condition,0.0001422677479015
+107-inf,Sepsis (disorder),365-730,Chloride,condition,4.742258263385024e-05
+107-inf,Sepsis (disorder),730-inf,Chloride,condition,2.371129131692512e-05
+107-inf,Sepsis caused by virus (disorder),730-inf,Chloride,condition,0.0001185564565846
+107-inf,Septic shock (disorder),365-730,Chloride,condition,4.742258263385024e-05
+107-inf,Septic shock (disorder),730-inf,Chloride,condition,2.371129131692512e-05
+107-inf,Severe anxiety (panic) (finding),30-60,Chloride,condition,2.371129131692512e-05
+107-inf,Severe anxiety (panic) (finding),180-365,Chloride,condition,9.484516526770048e-05
+107-inf,Severe anxiety (panic) (finding),365-730,Chloride,condition,0.0001185564565846
+107-inf,Severe anxiety (panic) (finding),730-inf,Chloride,condition,0.0002845354958031
+107-inf,Sinusitis (disorder),0-7,Chloride,condition,2.371129131692512e-05
+107-inf,Sinusitis (disorder),7-14,Chloride,condition,2.371129131692512e-05
+107-inf,Sinusitis (disorder),30-60,Chloride,condition,2.371129131692512e-05
+107-inf,Sinusitis (disorder),60-90,Chloride,condition,2.371129131692512e-05
+107-inf,Sinusitis (disorder),90-180,Chloride,condition,0.00030824678712
+107-inf,Sinusitis (disorder),730-inf,Chloride,condition,0.0001422677479015
+107-inf,Smokes tobacco daily,365-730,Chloride,condition,7.113387395077535e-05
+107-inf,Smokes tobacco daily,730-inf,Chloride,condition,2.371129131692512e-05
+107-inf,Social isolation (finding),7-14,Chloride,condition,0.0003319580784369
+107-inf,Social isolation (finding),14-30,Chloride,condition,2.371129131692512e-05
+107-inf,Social isolation (finding),30-60,Chloride,condition,0.0001896903305354
+107-inf,Social isolation (finding),60-90,Chloride,condition,2.371129131692512e-05
+107-inf,Social isolation (finding),90-180,Chloride,condition,0.00030824678712
+107-inf,Social isolation (finding),180-365,Chloride,condition,0.0006876274481908
+107-inf,Social isolation (finding),365-730,Chloride,condition,0.0010432968179447
+107-inf,Social isolation (finding),730-inf,Chloride,condition,0.0041257646891449
+107-inf,Sore throat symptom (finding),730-inf,Chloride,condition,7.113387395077535e-05
+107-inf,Sprain (morphologic abnormality),90-180,Chloride,condition,2.371129131692512e-05
+107-inf,Sprain (morphologic abnormality),180-365,Chloride,condition,4.742258263385024e-05
+107-inf,Sprain (morphologic abnormality),730-inf,Chloride,condition,0.0004268032437046
+107-inf,Sprain of ankle,90-180,Chloride,condition,2.371129131692512e-05
+107-inf,Sprain of ankle,180-365,Chloride,condition,4.742258263385024e-05
+107-inf,Sprain of ankle,730-inf,Chloride,condition,0.0004268032437046
+107-inf,Sputum finding (finding),730-inf,Chloride,condition,0.0001422677479015
+107-inf,Streptococcal sore throat (disorder),0-7,Chloride,condition,7.113387395077535e-05
+107-inf,Streptococcal sore throat (disorder),365-730,Chloride,condition,7.113387395077535e-05
+107-inf,Streptococcal sore throat (disorder),730-inf,Chloride,condition,0.0002134016218523
+107-inf,Stress (finding),7-14,Chloride,condition,0.00030824678712
+107-inf,Stress (finding),14-30,Chloride,condition,0.0001422677479015
+107-inf,Stress (finding),30-60,Chloride,condition,0.0004030919523877
+107-inf,Stress (finding),60-90,Chloride,condition,0.0008536064874093
+107-inf,Stress (finding),90-180,Chloride,condition,0.0013989661876985
+107-inf,Stress (finding),180-365,Chloride,condition,0.001896903305354
+107-inf,Stress (finding),365-730,Chloride,condition,0.0039834969412434
+107-inf,Stress (finding),730-inf,Chloride,condition,0.0115948214539763
+107-inf,Stroke,730-inf,Chloride,condition,7.113387395077535e-05
+107-inf,Suspected COVID-19,60-90,Chloride,condition,2.371129131692512e-05
+107-inf,Suspected COVID-19,180-365,Chloride,condition,4.742258263385024e-05
+107-inf,Suspected COVID-19,365-730,Chloride,condition,2.371129131692512e-05
+107-inf,Suspected COVID-19,730-inf,Chloride,condition,0.0003556693697538
+107-inf,Suspected lung cancer (situation),365-730,Chloride,condition,4.742258263385024e-05
+107-inf,Suspected lung cancer (situation),730-inf,Chloride,condition,2.371129131692512e-05
+107-inf,Suspected prostate cancer (situation),90-180,Chloride,condition,2.371129131692512e-05
+107-inf,Suspected prostate cancer (situation),365-730,Chloride,condition,2.371129131692512e-05
+107-inf,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,90-180,Chloride,immunization,4.742258263385024e-05
+107-inf,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,180-365,Chloride,immunization,0.0003556693697538
+107-inf,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,365-730,Chloride,immunization,0.0004979371176554
+107-inf,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,730-inf,Chloride,immunization,0.0024185517143263
+107-inf,Tear of meniscus of knee,365-730,Chloride,condition,0.0001185564565846
+107-inf,Tear of meniscus of knee,730-inf,Chloride,condition,2.371129131692512e-05
+107-inf,Third degree burn,365-730,Chloride,condition,9.484516526770048e-05
+107-inf,Tongue tie (disorder),730-inf,Chloride,condition,0.0001659790392184
+107-inf,Transformed migraine (disorder),90-180,Chloride,condition,7.113387395077535e-05
+107-inf,Transformed migraine (disorder),730-inf,Chloride,condition,0.0001185564565846
+107-inf,Unemployed (finding),7-14,Chloride,condition,2.371129131692512e-05
+107-inf,Unemployed (finding),90-180,Chloride,condition,2.371129131692512e-05
+107-inf,Unemployed (finding),180-365,Chloride,condition,0.0001896903305354
+107-inf,Unemployed (finding),365-730,Chloride,condition,0.0004742258263385
+107-inf,Unemployed (finding),730-inf,Chloride,condition,0.0011855645658462
+107-inf,Unhealthy alcohol drinking behavior (finding),14-30,Chloride,condition,2.371129131692512e-05
+107-inf,Unhealthy alcohol drinking behavior (finding),90-180,Chloride,condition,7.113387395077535e-05
+107-inf,Unhealthy alcohol drinking behavior (finding),180-365,Chloride,condition,9.484516526770048e-05
+107-inf,Unhealthy alcohol drinking behavior (finding),365-730,Chloride,condition,7.113387395077535e-05
+107-inf,Unhealthy alcohol drinking behavior (finding),730-inf,Chloride,condition,0.00030824678712
+107-inf,Victim of intimate partner abuse (finding),7-14,Chloride,condition,0.0001185564565846
+107-inf,Victim of intimate partner abuse (finding),14-30,Chloride,condition,2.371129131692512e-05
+107-inf,Victim of intimate partner abuse (finding),30-60,Chloride,condition,9.484516526770048e-05
+107-inf,Victim of intimate partner abuse (finding),60-90,Chloride,condition,0.0001185564565846
+107-inf,Victim of intimate partner abuse (finding),90-180,Chloride,condition,0.0002608242044861
+107-inf,Victim of intimate partner abuse (finding),180-365,Chloride,condition,0.00061649357424
+107-inf,Victim of intimate partner abuse (finding),365-730,Chloride,condition,0.0004979371176554
+107-inf,Victim of intimate partner abuse (finding),730-inf,Chloride,condition,0.0030824678712002
+107-inf,Viral sinusitis (disorder),0-7,Chloride,condition,0.0001659790392184
+107-inf,Viral sinusitis (disorder),7-14,Chloride,condition,0.0001185564565846
+107-inf,Viral sinusitis (disorder),14-30,Chloride,condition,0.0003793806610708
+107-inf,Viral sinusitis (disorder),30-60,Chloride,condition,0.0001422677479015
+107-inf,Viral sinusitis (disorder),90-180,Chloride,condition,0.0001659790392184
+107-inf,Viral sinusitis (disorder),180-365,Chloride,condition,0.0007587613221416
+107-inf,Viral sinusitis (disorder),365-730,Chloride,condition,0.0005453597002892
+107-inf,Viral sinusitis (disorder),730-inf,Chloride,condition,0.0019206145966709
+107-inf,Wheezing (finding),60-90,Chloride,condition,2.371129131692512e-05
+107-inf,Wheezing (finding),180-365,Chloride,condition,4.742258263385024e-05
+107-inf,Wheezing (finding),365-730,Chloride,condition,2.371129131692512e-05
+107-inf,Wheezing (finding),730-inf,Chloride,condition,4.742258263385024e-05
+107-inf,Whiplash injury to neck,30-60,Chloride,condition,2.371129131692512e-05
+107-inf,Whiplash injury to neck,60-90,Chloride,condition,7.113387395077535e-05
+107-inf,pneumococcal polysaccharide vaccine  23 valent,60-90,Chloride,immunization,4.742258263385024e-05
+107-inf,pneumococcal polysaccharide vaccine  23 valent,90-180,Chloride,immunization,2.371129131692512e-05
+107-inf,pneumococcal polysaccharide vaccine  23 valent,180-365,Chloride,immunization,0.0001185564565846
+107-inf,pneumococcal polysaccharide vaccine  23 valent,365-730,Chloride,immunization,0.0001659790392184
+107-inf,pneumococcal polysaccharide vaccine  23 valent,730-inf,Chloride,immunization,0.0002608242044861
+107-inf,varicella,365-730,Chloride,immunization,2.371129131692512e-05
+107-inf,zoster vaccine  live,90-180,Chloride,immunization,2.371129131692512e-05
+107-inf,zoster vaccine  live,180-365,Chloride,immunization,4.742258263385024e-05
+107-inf,zoster vaccine  live,365-730,Chloride,immunization,4.742258263385024e-05
+107-inf,zoster vaccine  live,730-inf,Chloride,immunization,0.0007350500308246
+98-107,0-1,0-7,Chloride,Creatinine,0.0094361088431732
+98-107,0-1,7-14,Chloride,Creatinine,0.0022352201089502
+98-107,0-1,14-30,Chloride,Creatinine,0.0039885963620788
+98-107,0-1,30-60,Chloride,Creatinine,0.0082582683067203
+98-107,0-1,60-90,Chloride,Creatinine,0.0033059842329982
+98-107,0-1,90-180,Chloride,Creatinine,0.0007093812321818
+98-107,0-1,730-inf,Chloride,Creatinine,0.0032256769236946
+98-107,0-100,730-inf,Chloride,Alkaline Phosphatase,1.3384551550600298e-05
+98-107,0-150,7-14,Chloride,Body Height,1.3384551550600298e-05
+98-107,0-150,30-60,Chloride,Body Height,5.353820620240119e-05
+98-107,0-150,60-90,Chloride,Body Height,2.6769103101200595e-05
+98-107,0-150,90-180,Chloride,Body Height,9.369186085420209e-05
+98-107,0-150,180-365,Chloride,Body Height,0.0002810755825626
+98-107,0-150,365-730,Chloride,Body Height,0.0002944601341132
+98-107,0-150,730-inf,Chloride,Body Height,0.0007227657837324
+98-107,0-35,0-7,Chloride,Carbon Dioxide,0.0173865324642297
+98-107,0-35,7-14,Chloride,Carbon Dioxide,0.0031721387174922
+98-107,0-35,14-30,Chloride,Carbon Dioxide,0.0074551952136843
+98-107,0-35,30-60,Chloride,Carbon Dioxide,0.0138530108548713
+98-107,0-35,60-90,Chloride,Carbon Dioxide,0.0044436711147992
+98-107,0-35,90-180,Chloride,Carbon Dioxide,0.0008833804023396
+98-107,0-35,730-inf,Chloride,Carbon Dioxide,0.0055679734450497
+98-107,0-50,7-14,Chloride,Body Weight,1.3384551550600298e-05
+98-107,0-50,30-60,Chloride,Body Weight,6.692275775300148e-05
+98-107,0-50,60-90,Chloride,Body Weight,2.6769103101200595e-05
+98-107,0-50,90-180,Chloride,Body Weight,9.369186085420209e-05
+98-107,0-50,180-365,Chloride,Body Weight,0.0002944601341132
+98-107,0-50,365-730,Chloride,Body Weight,0.0003613828918662
+98-107,0-50,730-inf,Chloride,Body Weight,0.0007896885414854
+98-107,0-60,7-14,Chloride,Diastolic Blood Pressure,9.369186085420209e-05
+98-107,0-60,14-30,Chloride,Diastolic Blood Pressure,0.0001739991701578
+98-107,0-60,30-60,Chloride,Diastolic Blood Pressure,0.0001204609639554
+98-107,0-60,60-90,Chloride,Diastolic Blood Pressure,8.030730930360179e-05
+98-107,0-60,90-180,Chloride,Diastolic Blood Pressure,0.0004818438558216
+98-107,0-60,180-365,Chloride,Diastolic Blood Pressure,0.0008967649538902
+98-107,0-60,365-730,Chloride,Diastolic Blood Pressure,0.001539223428319
+98-107,0-60,730-inf,Chloride,Diastolic Blood Pressure,0.0042696719446414
+98-107,0-70,0-7,Chloride,Glucose,0.002208451005849
+98-107,0-70,7-14,Chloride,Glucose,0.000267691031012
+98-107,0-70,14-30,Chloride,Glucose,0.0018470681139828
+98-107,0-70,30-60,Chloride,Glucose,0.0031186005112898
+98-107,0-70,60-90,Chloride,Glucose,0.0007227657837324
+98-107,0-70,90-180,Chloride,Glucose,0.000334613788765
+98-107,0-70,730-inf,Chloride,Glucose,0.001070764124048
+98-107,0-8,0-7,Chloride,Calcium,0.0007629194383842
+98-107,0-8,7-14,Chloride,Calcium,0.0003212292372144
+98-107,0-8,14-30,Chloride,Calcium,0.0003479983403156
+98-107,0-8,30-60,Chloride,Calcium,0.0004818438558216
+98-107,0-8,60-90,Chloride,Calcium,0.0001873837217084
+98-107,0-8,90-180,Chloride,Calcium,0.0001739991701578
+98-107,0-8,730-inf,Chloride,Calcium,0.000267691031012
+98-107,0-90,7-14,Chloride,Systolic Blood Pressure,1.3384551550600298e-05
+98-107,0-90,14-30,Chloride,Systolic Blood Pressure,4.0153654651800895e-05
+98-107,0-90,30-60,Chloride,Systolic Blood Pressure,0.0001873837217084
+98-107,0-90,60-90,Chloride,Systolic Blood Pressure,4.0153654651800895e-05
+98-107,0-90,90-180,Chloride,Systolic Blood Pressure,0.0002409219279108
+98-107,0-90,180-365,Chloride,Systolic Blood Pressure,0.0003212292372144
+98-107,0-90,365-730,Chloride,Systolic Blood Pressure,0.0007227657837324
+98-107,0-90,730-inf,Chloride,Systolic Blood Pressure,0.0007896885414854
+98-107,1-1,0-7,Chloride,Creatinine,0.003613828918662
+98-107,1-1,7-14,Chloride,Creatinine,0.0008967649538902
+98-107,1-1,14-30,Chloride,Creatinine,0.0033729069907512
+98-107,1-1,30-60,Chloride,Creatinine,0.0054742815841955
+98-107,1-1,60-90,Chloride,Creatinine,0.001137686881801
+98-107,1-1,90-180,Chloride,Creatinine,0.0001739991701578
+98-107,1-1,730-inf,Chloride,Creatinine,0.0011644559849022
+98-107,1-inf,0-7,Chloride,Creatinine,0.0043365947023944
+98-107,1-inf,7-14,Chloride,Creatinine,4.0153654651800895e-05
+98-107,1-inf,14-30,Chloride,Creatinine,9.369186085420209e-05
+98-107,1-inf,30-60,Chloride,Creatinine,0.0001204609639554
+98-107,1-inf,730-inf,Chloride,Creatinine,0.0011778405364528
+98-107,107-inf,0-7,Chloride,Chloride,0.0029847549957838
+98-107,107-inf,7-14,Chloride,Chloride,0.0010306104693962
+98-107,107-inf,14-30,Chloride,Chloride,0.0027839867225248
+98-107,107-inf,30-60,Chloride,Chloride,0.0061033555070737
+98-107,107-inf,60-90,Chloride,Chloride,0.0018872217686346
+98-107,107-inf,90-180,Chloride,Chloride,0.0006424584744288
+98-107,107-inf,730-inf,Chloride,Chloride,0.0022352201089502
+98-107,120-140,7-14,Chloride,Systolic Blood Pressure,0.000535382062024
+98-107,120-140,14-30,Chloride,Systolic Blood Pressure,0.0003881519949674
+98-107,120-140,30-60,Chloride,Systolic Blood Pressure,0.0004149210980686
+98-107,120-140,60-90,Chloride,Systolic Blood Pressure,0.0005755357166758
+98-107,120-140,90-180,Chloride,Systolic Blood Pressure,0.0010306104693962
+98-107,120-140,180-365,Chloride,Systolic Blood Pressure,0.0028375249287272
+98-107,120-140,365-730,Chloride,Systolic Blood Pressure,0.0047381312489125
+98-107,120-140,730-inf,Chloride,Systolic Blood Pressure,0.0160480773091697
+98-107,120-180,730-inf,Chloride,ALT (Elevated),1.3384551550600298e-05
+98-107,135-145,0-7,Chloride,Sodium,0.0173865324642297
+98-107,135-145,7-14,Chloride,Sodium,0.0031721387174922
+98-107,135-145,14-30,Chloride,Sodium,0.0074551952136843
+98-107,135-145,30-60,Chloride,Sodium,0.0138530108548713
+98-107,135-145,60-90,Chloride,Sodium,0.0044436711147992
+98-107,135-145,90-180,Chloride,Sodium,0.0008833804023396
+98-107,135-145,730-inf,Chloride,Sodium,0.0055679734450497
+98-107,140-inf,7-14,Chloride,Systolic Blood Pressure,5.353820620240119e-05
+98-107,140-inf,14-30,Chloride,Systolic Blood Pressure,1.3384551550600298e-05
+98-107,140-inf,30-60,Chloride,Systolic Blood Pressure,9.369186085420209e-05
+98-107,140-inf,90-180,Chloride,Systolic Blood Pressure,0.0001472300670566
+98-107,140-inf,180-365,Chloride,Systolic Blood Pressure,0.0007495348868336
+98-107,140-inf,365-730,Chloride,Systolic Blood Pressure,0.0003212292372144
+98-107,140-inf,730-inf,Chloride,Systolic Blood Pressure,0.0027304485163224
+98-107,150-170,7-14,Chloride,Body Height,0.0008298421961372
+98-107,150-170,14-30,Chloride,Body Height,0.0009101495054408
+98-107,150-170,30-60,Chloride,Body Height,0.0009101495054408
+98-107,150-170,60-90,Chloride,Body Height,0.000803073093036
+98-107,150-170,90-180,Chloride,Body Height,0.0016195307376226
+98-107,150-170,180-365,Chloride,Body Height,0.0040287500167306
+98-107,150-170,365-730,Chloride,Body Height,0.0067458139815025
+98-107,150-170,730-inf,Chloride,Body Height,0.0213215906201062
+98-107,150-450,730-inf,Chloride,Platelet Count,1.3384551550600298e-05
+98-107,16-inf,730-inf,Chloride,Hemoglobin,1.3384551550600298e-05
+98-107,170-190,7-14,Chloride,Body Height,0.0006959966806312
+98-107,170-190,14-30,Chloride,Body Height,0.0004818438558216
+98-107,170-190,30-60,Chloride,Body Height,0.0008566112992384
+98-107,170-190,60-90,Chloride,Body Height,0.0006424584744288
+98-107,170-190,90-180,Chloride,Body Height,0.0016864534953756
+98-107,170-190,180-365,Chloride,Body Height,0.0045507475272041
+98-107,170-190,365-730,Chloride,Body Height,0.0076291943838421
+98-107,170-190,730-inf,Chloride,Body Height,0.0250826496058249
+98-107,190-inf,90-180,Chloride,Body Height,1.3384551550600298e-05
+98-107,190-inf,180-365,Chloride,Body Height,0.0005219975104734
+98-107,190-inf,365-730,Chloride,Body Height,4.0153654651800895e-05
+98-107,190-inf,730-inf,Chloride,Body Height,0.0001472300670566
+98-107,3-5,0-7,Chloride,Potassium,0.0151245432521783
+98-107,3-5,7-14,Chloride,Potassium,0.002944601341132
+98-107,3-5,14-30,Chloride,Potassium,0.0064379692958387
+98-107,3-5,30-60,Chloride,Potassium,0.0127153239730702
+98-107,3-5,60-90,Chloride,Potassium,0.0040019809136294
+98-107,3-5,90-180,Chloride,Potassium,0.0008833804023396
+98-107,3-5,730-inf,Chloride,Albumin,1.3384551550600298e-05
+98-107,3-5,730-inf,Chloride,Potassium,0.0048719767644185
+98-107,5-inf,0-7,Chloride,Potassium,0.0022619892120514
+98-107,5-inf,7-14,Chloride,Potassium,0.0002275373763602
+98-107,5-inf,14-30,Chloride,Potassium,0.0010172259178456
+98-107,5-inf,30-60,Chloride,Potassium,0.001137686881801
+98-107,5-inf,60-90,Chloride,Potassium,0.0004416902011698
+98-107,5-inf,730-inf,Chloride,Potassium,0.0006959966806312
+98-107,50-70,7-14,Chloride,Body Weight,9.369186085420209e-05
+98-107,50-70,14-30,Chloride,Body Weight,0.0001204609639554
+98-107,50-70,30-60,Chloride,Body Weight,0.0001070764124048
+98-107,50-70,60-90,Chloride,Body Weight,5.353820620240119e-05
+98-107,50-70,90-180,Chloride,Body Weight,9.369186085420209e-05
+98-107,50-70,180-365,Chloride,Body Weight,0.0002543064794614
+98-107,50-70,365-730,Chloride,Body Weight,0.000736150335283
+98-107,50-70,730-inf,Chloride,Body Weight,0.0008967649538902
+98-107,60-80,7-14,Chloride,Diastolic Blood Pressure,0.000602304819777
+98-107,60-80,14-30,Chloride,Diastolic Blood Pressure,0.000602304819777
+98-107,60-80,30-60,Chloride,Diastolic Blood Pressure,0.0010439950209468
+98-107,60-80,60-90,Chloride,Diastolic Blood Pressure,0.0007495348868336
+98-107,60-80,90-180,Chloride,Diastolic Blood Pressure,0.0015927616345214
+98-107,60-80,180-365,Chloride,Diastolic Blood Pressure,0.003479983403156
+98-107,60-80,365-730,Chloride,Diastolic Blood Pressure,0.0055679734450497
+98-107,60-80,730-inf,Chloride,Diastolic Blood Pressure,0.0174133015673309
+98-107,70-90,7-14,Chloride,Body Weight,0.0010306104693962
+98-107,70-90,14-30,Chloride,Body Weight,0.001003841366295
+98-107,70-90,30-60,Chloride,Body Weight,0.0011644559849022
+98-107,70-90,60-90,Chloride,Body Weight,0.0009503031600926
+98-107,70-90,90-180,Chloride,Body Weight,0.0023824501760068
+98-107,70-90,180-365,Chloride,Body Weight,0.0054475124810943
+98-107,70-90,365-730,Chloride,Body Weight,0.0091148796059588
+98-107,70-90,730-inf,Chloride,Body Weight,0.0335952243920067
+98-107,70-99,0-7,Chloride,Glucose,0.0140403945765797
+98-107,70-99,7-14,Chloride,Glucose,0.0027572176194236
+98-107,70-99,14-30,Chloride,Glucose,0.0050861295892281
+98-107,70-99,30-60,Chloride,Glucose,0.0102525664877598
+98-107,70-99,60-90,Chloride,Glucose,0.0035602907124596
+98-107,70-99,90-180,Chloride,Glucose,0.0005487666135746
+98-107,70-99,730-inf,Chloride,Glucose,0.004416902011698
+98-107,8-10,0-7,Chloride,Calcium,0.0166236130258455
+98-107,8-10,7-14,Chloride,Calcium,0.0028509094802778
+98-107,8-10,14-30,Chloride,Calcium,0.0071071968733687
+98-107,8-10,30-60,Chloride,Calcium,0.0133711669990496
+98-107,8-10,60-90,Chloride,Calcium,0.0042562873930908
+98-107,8-10,90-180,Chloride,Calcium,0.0007093812321818
+98-107,8-10,730-inf,Chloride,Calcium,0.0053002824140377
+98-107,8-16,730-inf,Chloride,Anion Gap,1.3384551550600298e-05
+98-107,80-150,730-inf,Chloride,AST (Elevated),1.3384551550600298e-05
+98-107,80-90,7-14,Chloride,Diastolic Blood Pressure,0.0006156893713276
+98-107,80-90,14-30,Chloride,Diastolic Blood Pressure,0.000468459304271
+98-107,80-90,30-60,Chloride,Diastolic Blood Pressure,0.000468459304271
+98-107,80-90,60-90,Chloride,Diastolic Blood Pressure,0.0003078446856638
+98-107,80-90,90-180,Chloride,Diastolic Blood Pressure,0.0005219975104734
+98-107,80-90,180-365,Chloride,Diastolic Blood Pressure,0.0023155274182538
+98-107,80-90,365-730,Chloride,Diastolic Blood Pressure,0.0039082890527752
+98-107,80-90,730-inf,Chloride,Diastolic Blood Pressure,0.013223936931993
+98-107,90-120,7-14,Chloride,Systolic Blood Pressure,0.000936918608542
+98-107,90-120,14-30,Chloride,Systolic Blood Pressure,0.0009503031600926
+98-107,90-120,30-60,Chloride,Systolic Blood Pressure,0.0011243023302504
+98-107,90-120,60-90,Chloride,Systolic Blood Pressure,0.0008566112992384
+98-107,90-120,90-180,Chloride,Systolic Blood Pressure,0.0019942981810394
+98-107,90-120,180-365,Chloride,Systolic Blood Pressure,0.0055010506872967
+98-107,90-120,365-730,Chloride,Systolic Blood Pressure,0.009476262497825
+98-107,90-120,730-inf,Chloride,Systolic Blood Pressure,0.0305167775353686
+98-107,90-inf,7-14,Chloride,Body Weight,0.000401536546518
+98-107,90-inf,7-14,Chloride,Diastolic Blood Pressure,0.0002275373763602
+98-107,90-inf,14-30,Chloride,Body Weight,0.000267691031012
+98-107,90-inf,14-30,Chloride,Diastolic Blood Pressure,0.0001472300670566
+98-107,90-inf,30-60,Chloride,Body Weight,0.0004818438558216
+98-107,90-inf,30-60,Chloride,Diastolic Blood Pressure,0.0001873837217084
+98-107,90-inf,60-90,Chloride,Body Weight,0.0004416902011698
+98-107,90-inf,60-90,Chloride,Diastolic Blood Pressure,0.000334613788765
+98-107,90-inf,90-180,Chloride,Body Weight,0.0008432267476878
+98-107,90-inf,90-180,Chloride,Diastolic Blood Pressure,0.0008164576445866
+98-107,90-inf,180-365,Chloride,Body Weight,0.003413060645403
+98-107,90-inf,180-365,Chloride,Diastolic Blood Pressure,0.0027170639647718
+98-107,90-inf,365-730,Chloride,Body Weight,0.0047113621458113
+98-107,90-inf,365-730,Chloride,Diastolic Blood Pressure,0.0042429028415402
+98-107,90-inf,730-inf,Chloride,Body Weight,0.0150710050459759
+98-107,90-inf,730-inf,Chloride,Diastolic Blood Pressure,0.0151780814583807
+98-107,98-107,0-7,Chloride,Chloride,0.0144017774684459
+98-107,98-107,7-14,Chloride,Chloride,0.002141528248096
+98-107,98-107,14-30,Chloride,Chloride,0.0046712084911595
+98-107,98-107,30-60,Chloride,Chloride,0.0077496553477975
+98-107,98-107,60-90,Chloride,Chloride,0.0025564493461646
+98-107,98-107,90-180,Chloride,Chloride,0.0002409219279108
+98-107,98-107,730-inf,Chloride,Chloride,0.0033327533360994
+98-107,99-125,0-7,Chloride,Glucose,0.001137686881801
+98-107,99-125,7-14,Chloride,Glucose,0.0001472300670566
+98-107,99-125,14-30,Chloride,Glucose,0.0005219975104734
+98-107,99-125,30-60,Chloride,Glucose,0.0004818438558216
+98-107,99-125,60-90,Chloride,Glucose,0.0001606146186072
+98-107,99-125,730-inf,Chloride,Glucose,8.030730930360179e-05
+98-107,Abnormal findings diagnostic imaging heart+coronary circulat (finding),180-365,Chloride,condition,0.0001070764124048
+98-107,Abnormal findings diagnostic imaging heart+coronary circulat (finding),730-inf,Chloride,condition,0.0001739991701578
+98-107,Acute Cholecystitis,730-inf,Chloride,condition,1.3384551550600298e-05
+98-107,Acute ST segment elevation myocardial infarction (disorder),180-365,Chloride,condition,6.692275775300148e-05
+98-107,Acute ST segment elevation myocardial infarction (disorder),730-inf,Chloride,condition,1.3384551550600298e-05
+98-107,Acute bacterial sinusitis (disorder),30-60,Chloride,condition,1.3384551550600298e-05
+98-107,Acute bacterial sinusitis (disorder),60-90,Chloride,condition,2.6769103101200595e-05
+98-107,Acute bacterial sinusitis (disorder),90-180,Chloride,condition,1.3384551550600298e-05
+98-107,Acute bacterial sinusitis (disorder),365-730,Chloride,condition,0.0001873837217084
+98-107,Acute bacterial sinusitis (disorder),730-inf,Chloride,condition,0.0001204609639554
+98-107,Acute bronchitis (disorder),30-60,Chloride,condition,1.3384551550600298e-05
+98-107,Acute bronchitis (disorder),60-90,Chloride,condition,1.3384551550600298e-05
+98-107,Acute bronchitis (disorder),90-180,Chloride,condition,1.3384551550600298e-05
+98-107,Acute bronchitis (disorder),180-365,Chloride,condition,0.0002543064794614
+98-107,Acute bronchitis (disorder),365-730,Chloride,condition,0.0005755357166758
+98-107,Acute bronchitis (disorder),730-inf,Chloride,condition,0.0013116860519588
+98-107,Acute deep venous thrombosis (disorder),730-inf,Chloride,condition,0.0001204609639554
+98-107,Acute infective cystitis (disorder),365-730,Chloride,condition,0.0002810755825626
+98-107,Acute infective cystitis (disorder),730-inf,Chloride,condition,0.0005755357166758
+98-107,Acute non-ST segment elevation myocardial infarction (disorder),90-180,Chloride,condition,1.3384551550600298e-05
+98-107,Acute non-ST segment elevation myocardial infarction (disorder),180-365,Chloride,condition,6.692275775300148e-05
+98-107,Acute non-ST segment elevation myocardial infarction (disorder),730-inf,Chloride,condition,0.000133845515506
+98-107,Acute pulmonary embolism (disorder),730-inf,Chloride,condition,4.0153654651800895e-05
+98-107,Acute respiratory distress syndrome (disorder),365-730,Chloride,condition,9.369186085420209e-05
+98-107,Acute respiratory distress syndrome (disorder),730-inf,Chloride,condition,4.0153654651800895e-05
+98-107,Acute respiratory failure (disorder),730-inf,Chloride,condition,4.0153654651800895e-05
+98-107,Acute viral pharyngitis (disorder),0-7,Chloride,condition,2.6769103101200595e-05
+98-107,Acute viral pharyngitis (disorder),14-30,Chloride,condition,1.3384551550600298e-05
+98-107,Acute viral pharyngitis (disorder),30-60,Chloride,condition,4.0153654651800895e-05
+98-107,Acute viral pharyngitis (disorder),60-90,Chloride,condition,1.3384551550600298e-05
+98-107,Acute viral pharyngitis (disorder),90-180,Chloride,condition,0.000133845515506
+98-107,Acute viral pharyngitis (disorder),180-365,Chloride,condition,0.0002543064794614
+98-107,Acute viral pharyngitis (disorder),365-730,Chloride,condition,0.0005086129589228
+98-107,Acute viral pharyngitis (disorder),730-inf,Chloride,condition,0.0008566112992384
+98-107,Alcoholism,365-730,Chloride,condition,8.030730930360179e-05
+98-107,Alveolitis of jaw (disorder),30-60,Chloride,condition,1.3384551550600298e-05
+98-107,Alveolitis of jaw (disorder),180-365,Chloride,condition,1.3384551550600298e-05
+98-107,Alveolitis of jaw (disorder),365-730,Chloride,condition,1.3384551550600298e-05
+98-107,Alveolitis of jaw (disorder),730-inf,Chloride,condition,2.6769103101200595e-05
+98-107,Alzheimer's disease (disorder),730-inf,Chloride,condition,0.0001204609639554
+98-107,Antepartum eclampsia,730-inf,Chloride,condition,6.692275775300148e-05
+98-107,Aortic valve stenosis (disorder),90-180,Chloride,condition,8.030730930360179e-05
+98-107,Aortic valve stenosis (disorder),180-365,Chloride,condition,0.0001070764124048
+98-107,Awaiting transplantation of kidney (situation),0-7,Chloride,condition,0.0002409219279108
+98-107,Bleeding from anus,365-730,Chloride,condition,5.353820620240119e-05
+98-107,Body mass index 30+ - obesity (finding),730-inf,Chloride,condition,0.0001606146186072
+98-107,Burn injury (morphologic abnormality),180-365,Chloride,condition,1.3384551550600298e-05
+98-107,Burn injury (morphologic abnormality),365-730,Chloride,condition,0.000267691031012
+98-107,Burn injury (morphologic abnormality),730-inf,Chloride,condition,2.6769103101200595e-05
+98-107,COVID-19,180-365,Chloride,condition,2.6769103101200595e-05
+98-107,COVID-19,365-730,Chloride,condition,0.0001204609639554
+98-107,COVID-19,730-inf,Chloride,condition,0.0004283056496192
+98-107,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,90-180,Chloride,immunization,0.0001472300670566
+98-107,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,180-365,Chloride,immunization,0.0001739991701578
+98-107,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,365-730,Chloride,immunization,0.0003212292372144
+98-107,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,730-inf,Chloride,immunization,0.0015659925314202
+98-107,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,90-180,Chloride,immunization,8.030730930360179e-05
+98-107,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,180-365,Chloride,immunization,0.0003747674434168
+98-107,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,365-730,Chloride,immunization,0.0004416902011698
+98-107,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,730-inf,Chloride,immunization,0.000869995850789
+98-107,COVID-19 vaccine  vector-nr  rS-Ad26  PF  0.5 mL,365-730,Chloride,immunization,2.6769103101200595e-05
+98-107,COVID-19 vaccine  vector-nr  rS-Ad26  PF  0.5 mL,730-inf,Chloride,immunization,2.6769103101200595e-05
+98-107,Carcinoma in situ of prostate (disorder),365-730,Chloride,condition,2.6769103101200595e-05
+98-107,Carcinoma in situ of prostate (disorder),730-inf,Chloride,condition,0.000133845515506
+98-107,Cholelithiasis,730-inf,Chloride,condition,1.3384551550600298e-05
+98-107,Chronic congestive heart failure (disorder),365-730,Chloride,condition,9.369186085420209e-05
+98-107,Chronic congestive heart failure (disorder),730-inf,Chloride,condition,8.030730930360179e-05
+98-107,Chronic kidney disease stage 1 (disorder),180-365,Chloride,condition,0.0003881519949674
+98-107,Chronic kidney disease stage 1 (disorder),365-730,Chloride,condition,0.0003613828918662
+98-107,Chronic kidney disease stage 1 (disorder),730-inf,Chloride,condition,0.0009770722631938
+98-107,Chronic kidney disease stage 2 (disorder),730-inf,Chloride,condition,0.000535382062024
+98-107,Chronic kidney disease stage 4 (disorder),7-14,Chloride,condition,4.0153654651800895e-05
+98-107,Chronic kidney disease stage 4 (disorder),14-30,Chloride,condition,1.3384551550600298e-05
+98-107,Chronic kidney disease stage 4 (disorder),30-60,Chloride,condition,4.0153654651800895e-05
+98-107,Chronic kidney disease stage 4 (disorder),60-90,Chloride,condition,5.353820620240119e-05
+98-107,Chronic kidney disease stage 4 (disorder),90-180,Chloride,condition,6.692275775300148e-05
+98-107,Chronic kidney disease stage 4 (disorder),180-365,Chloride,condition,0.0001472300670566
+98-107,Chronic low back pain (finding),730-inf,Chloride,condition,8.030730930360179e-05
+98-107,Chronic neck pain (finding),365-730,Chloride,condition,1.3384551550600298e-05
+98-107,Chronic neck pain (finding),730-inf,Chloride,condition,6.692275775300148e-05
+98-107,Chronic obstructive bronchitis (disorder),730-inf,Chloride,condition,1.3384551550600298e-05
+98-107,Chronic pain (finding),90-180,Chloride,condition,9.369186085420209e-05
+98-107,Chronic pain (finding),365-730,Chloride,condition,1.3384551550600298e-05
+98-107,Chronic pain (finding),730-inf,Chloride,condition,0.0002275373763602
+98-107,Chronic sinusitis (disorder),365-730,Chloride,condition,0.0001472300670566
+98-107,Chronic sinusitis (disorder),730-inf,Chloride,condition,0.0002409219279108
+98-107,Complete miscarriage (disorder),30-60,Chloride,condition,2.6769103101200595e-05
+98-107,Complete miscarriage (disorder),60-90,Chloride,condition,2.6769103101200595e-05
+98-107,Complete miscarriage (disorder),90-180,Chloride,condition,6.692275775300148e-05
+98-107,Complete miscarriage (disorder),180-365,Chloride,condition,6.692275775300148e-05
+98-107,Concussion injury of brain (disorder),14-30,Chloride,condition,1.3384551550600298e-05
+98-107,Concussion injury of brain (disorder),30-60,Chloride,condition,1.3384551550600298e-05
+98-107,Concussion injury of brain (disorder),60-90,Chloride,condition,5.353820620240119e-05
+98-107,Concussion injury of brain (disorder),180-365,Chloride,condition,1.3384551550600298e-05
+98-107,Concussion injury of brain (disorder),365-730,Chloride,condition,4.0153654651800895e-05
+98-107,Concussion injury of brain (disorder),730-inf,Chloride,condition,9.369186085420209e-05
+98-107,Concussion with loss of consciousness,180-365,Chloride,condition,1.3384551550600298e-05
+98-107,Concussion with no loss of consciousness,14-30,Chloride,condition,1.3384551550600298e-05
+98-107,Concussion with no loss of consciousness,30-60,Chloride,condition,1.3384551550600298e-05
+98-107,Concussion with no loss of consciousness,60-90,Chloride,condition,5.353820620240119e-05
+98-107,Concussion with no loss of consciousness,365-730,Chloride,condition,4.0153654651800895e-05
+98-107,Concussion with no loss of consciousness,730-inf,Chloride,condition,9.369186085420209e-05
+98-107,Cough (finding),365-730,Chloride,condition,1.3384551550600298e-05
+98-107,Cough (finding),730-inf,Chloride,condition,0.0002275373763602
+98-107,DTaP,30-60,Chloride,immunization,2.6769103101200595e-05
+98-107,DTaP,90-180,Chloride,immunization,4.0153654651800895e-05
+98-107,DTaP,365-730,Chloride,immunization,2.6769103101200595e-05
+98-107,DTaP,730-inf,Chloride,immunization,1.3384551550600298e-05
+98-107,Dental filling lost (finding),30-60,Chloride,condition,1.3384551550600298e-05
+98-107,Dental filling lost (finding),60-90,Chloride,condition,1.3384551550600298e-05
+98-107,Dental filling lost (finding),90-180,Chloride,condition,2.6769103101200595e-05
+98-107,Dental filling lost (finding),180-365,Chloride,condition,0.0001070764124048
+98-107,Dental filling lost (finding),365-730,Chloride,condition,4.0153654651800895e-05
+98-107,Dental filling lost (finding),730-inf,Chloride,condition,0.0006826121290806
+98-107,Died in hospice (finding),365-730,Chloride,condition,9.369186085420209e-05
+98-107,Died in hospice (finding),730-inf,Chloride,condition,0.0001739991701578
+98-107,Drug overdose,0-7,Chloride,condition,1.3384551550600298e-05
+98-107,Drug overdose,30-60,Chloride,condition,0.0001070764124048
+98-107,Drug overdose,60-90,Chloride,condition,2.6769103101200595e-05
+98-107,Drug overdose,90-180,Chloride,condition,4.0153654651800895e-05
+98-107,Drug overdose,180-365,Chloride,condition,0.0001606146186072
+98-107,Drug overdose,365-730,Chloride,condition,0.0001606146186072
+98-107,Drug overdose,730-inf,Chloride,condition,0.0003078446856638
+98-107,Dyspnea (finding),180-365,Chloride,condition,2.6769103101200595e-05
+98-107,Dyspnea (finding),365-730,Chloride,condition,0.0001204609639554
+98-107,Dyspnea (finding),730-inf,Chloride,condition,0.000133845515506
+98-107,End-stage renal disease (disorder),7-14,Chloride,condition,1.3384551550600298e-05
+98-107,End-stage renal disease (disorder),30-60,Chloride,condition,1.3384551550600298e-05
+98-107,End-stage renal disease (disorder),90-180,Chloride,condition,2.6769103101200595e-05
+98-107,End-stage renal disease (disorder),180-365,Chloride,condition,6.692275775300148e-05
+98-107,End-stage renal disease (disorder),365-730,Chloride,condition,8.030730930360179e-05
+98-107,End-stage renal disease (disorder),730-inf,Chloride,condition,0.0002409219279108
+98-107,Epidermal burn of skin (disorder),180-365,Chloride,condition,1.3384551550600298e-05
+98-107,Epidermal burn of skin (disorder),365-730,Chloride,condition,0.000133845515506
+98-107,Epidermal burn of skin (disorder),730-inf,Chloride,condition,1.3384551550600298e-05
+98-107,Facial laceration,730-inf,Chloride,condition,0.0001873837217084
+98-107,Fatigue (finding),180-365,Chloride,condition,2.6769103101200595e-05
+98-107,Fatigue (finding),365-730,Chloride,condition,0.0001204609639554
+98-107,Fatigue (finding),730-inf,Chloride,condition,0.0001873837217084
+98-107,Fever (finding),180-365,Chloride,condition,2.6769103101200595e-05
+98-107,Fever (finding),365-730,Chloride,condition,0.0001204609639554
+98-107,Fever (finding),730-inf,Chloride,condition,0.0004283056496192
+98-107,Fracture of ankle,60-90,Chloride,condition,1.3384551550600298e-05
+98-107,Fracture of bone (disorder),60-90,Chloride,condition,1.3384551550600298e-05
+98-107,Fracture of bone (disorder),180-365,Chloride,condition,4.0153654651800895e-05
+98-107,Fracture of bone (disorder),365-730,Chloride,condition,0.0003078446856638
+98-107,Fracture of bone (disorder),730-inf,Chloride,condition,0.0002409219279108
+98-107,Fracture of clavicle,365-730,Chloride,condition,0.0001472300670566
+98-107,Fracture of clavicle,730-inf,Chloride,condition,2.6769103101200595e-05
+98-107,Fracture of forearm,730-inf,Chloride,condition,9.369186085420209e-05
+98-107,Fracture of rib,180-365,Chloride,condition,4.0153654651800895e-05
+98-107,Fracture of rib,365-730,Chloride,condition,8.030730930360179e-05
+98-107,Fracture subluxation of wrist,365-730,Chloride,condition,8.030730930360179e-05
+98-107,Fracture subluxation of wrist,730-inf,Chloride,condition,0.0001204609639554
+98-107,Fractured dental filling (finding),90-180,Chloride,condition,1.3384551550600298e-05
+98-107,Fractured dental filling (finding),180-365,Chloride,condition,9.369186085420209e-05
+98-107,Fractured dental filling (finding),365-730,Chloride,condition,0.0002275373763602
+98-107,Fractured dental filling (finding),730-inf,Chloride,condition,0.0008566112992384
+98-107,Full-time employment (finding),7-14,Chloride,condition,0.0003881519949674
+98-107,Full-time employment (finding),14-30,Chloride,condition,0.0001739991701578
+98-107,Full-time employment (finding),30-60,Chloride,condition,0.0002944601341132
+98-107,Full-time employment (finding),60-90,Chloride,condition,6.692275775300148e-05
+98-107,Full-time employment (finding),90-180,Chloride,condition,0.0006959966806312
+98-107,Full-time employment (finding),180-365,Chloride,condition,0.001739991701578
+98-107,Full-time employment (finding),365-730,Chloride,condition,0.0026902948616706
+98-107,Full-time employment (finding),730-inf,Chloride,condition,0.0097573380803876
+98-107,Gingival disease (disorder),7-14,Chloride,condition,4.0153654651800895e-05
+98-107,Gingival disease (disorder),14-30,Chloride,condition,2.6769103101200595e-05
+98-107,Gingival disease (disorder),30-60,Chloride,condition,0.0003747674434168
+98-107,Gingival disease (disorder),60-90,Chloride,condition,2.6769103101200595e-05
+98-107,Gingival disease (disorder),90-180,Chloride,condition,0.000334613788765
+98-107,Gingival disease (disorder),180-365,Chloride,condition,0.000468459304271
+98-107,Gingival disease (disorder),365-730,Chloride,condition,0.0003479983403156
+98-107,Gingival disease (disorder),730-inf,Chloride,condition,0.003212292372144
+98-107,Gingivitis (disorder),7-14,Chloride,condition,0.0002944601341132
+98-107,Gingivitis (disorder),14-30,Chloride,condition,0.0003479983403156
+98-107,Gingivitis (disorder),30-60,Chloride,condition,0.000267691031012
+98-107,Gingivitis (disorder),60-90,Chloride,condition,0.0003613828918662
+98-107,Gingivitis (disorder),90-180,Chloride,condition,0.0007629194383842
+98-107,Gingivitis (disorder),180-365,Chloride,condition,0.0029847549957838
+98-107,Gingivitis (disorder),365-730,Chloride,condition,0.002208451005849
+98-107,Gingivitis (disorder),730-inf,Chloride,condition,0.0122334801172486
+98-107,Has a criminal record (finding),365-730,Chloride,condition,1.3384551550600298e-05
+98-107,Has a criminal record (finding),730-inf,Chloride,condition,0.000401536546518
+98-107,Headache (finding),180-365,Chloride,condition,2.6769103101200595e-05
+98-107,Headache (finding),365-730,Chloride,condition,0.0001204609639554
+98-107,Headache (finding),730-inf,Chloride,condition,1.3384551550600298e-05
+98-107,Hep A  adult,180-365,Chloride,immunization,1.3384551550600298e-05
+98-107,Hep A  adult,365-730,Chloride,immunization,2.6769103101200595e-05
+98-107,Hep A  adult,730-inf,Chloride,immunization,8.030730930360179e-05
+98-107,Hep A  ped/adol  2 dose,180-365,Chloride,immunization,1.3384551550600298e-05
+98-107,Hep A  ped/adol  2 dose,365-730,Chloride,immunization,1.3384551550600298e-05
+98-107,Hep A  ped/adol  2 dose,730-inf,Chloride,immunization,2.6769103101200595e-05
+98-107,Hep B  adolescent or pediatric,90-180,Chloride,immunization,2.6769103101200595e-05
+98-107,Hib (PRP-OMP),30-60,Chloride,immunization,2.6769103101200595e-05
+98-107,Hib (PRP-OMP),90-180,Chloride,immunization,1.3384551550600298e-05
+98-107,Hib (PRP-OMP),180-365,Chloride,immunization,0.0001204609639554
+98-107,Hib (PRP-OMP),365-730,Chloride,immunization,1.3384551550600298e-05
+98-107,Hib (PRP-OMP),730-inf,Chloride,immunization,1.3384551550600298e-05
+98-107,History of aortic valve replacement (situation),730-inf,Chloride,condition,0.0002409219279108
+98-107,History of artificial joint (situation),730-inf,Chloride,condition,1.3384551550600298e-05
+98-107,History of coronary artery bypass grafting (situation),30-60,Chloride,condition,0.0001070764124048
+98-107,History of coronary artery bypass grafting (situation),180-365,Chloride,condition,9.369186085420209e-05
+98-107,History of coronary artery bypass grafting (situation),730-inf,Chloride,condition,5.353820620240119e-05
+98-107,History of myocardial infarction (situation),90-180,Chloride,condition,1.3384551550600298e-05
+98-107,History of myocardial infarction (situation),180-365,Chloride,condition,0.000133845515506
+98-107,History of myocardial infarction (situation),730-inf,Chloride,condition,0.0001472300670566
+98-107,History of renal transplant (situation),0-7,Chloride,condition,0.0002275373763602
+98-107,History of renal transplant (situation),730-inf,Chloride,condition,0.0005219975104734
+98-107,Homeless (finding),730-inf,Chloride,condition,0.0001739991701578
+98-107,Hyperlipidemia,365-730,Chloride,condition,1.3384551550600298e-05
+98-107,Hyperlipidemia,730-inf,Chloride,condition,5.353820620240119e-05
+98-107,Hypoxemia (disorder),730-inf,Chloride,condition,0.0001606146186072
+98-107,IPV,30-60,Chloride,immunization,4.0153654651800895e-05
+98-107,IPV,60-90,Chloride,immunization,1.3384551550600298e-05
+98-107,IPV,90-180,Chloride,immunization,5.353820620240119e-05
+98-107,IPV,730-inf,Chloride,immunization,2.6769103101200595e-05
+98-107,Infection of tooth (disorder),14-30,Chloride,condition,1.3384551550600298e-05
+98-107,Infection of tooth (disorder),30-60,Chloride,condition,4.0153654651800895e-05
+98-107,Infection of tooth (disorder),180-365,Chloride,condition,5.353820620240119e-05
+98-107,Infection of tooth (disorder),365-730,Chloride,condition,0.000133845515506
+98-107,Infection of tooth (disorder),730-inf,Chloride,condition,0.0010172259178456
+98-107,Infectious mediastinitis (disorder),730-inf,Chloride,condition,5.353820620240119e-05
+98-107,Influenza  seasonal  injectable  preservative free,7-14,Chloride,immunization,0.0002944601341132
+98-107,Influenza  seasonal  injectable  preservative free,14-30,Chloride,immunization,9.369186085420209e-05
+98-107,Influenza  seasonal  injectable  preservative free,30-60,Chloride,immunization,0.0006558430259794
+98-107,Influenza  seasonal  injectable  preservative free,60-90,Chloride,immunization,0.000602304819777
+98-107,Influenza  seasonal  injectable  preservative free,90-180,Chloride,immunization,0.00133845515506
+98-107,Influenza  seasonal  injectable  preservative free,180-365,Chloride,immunization,0.0046444393880583
+98-107,Influenza  seasonal  injectable  preservative free,365-730,Chloride,immunization,0.0071741196311217
+98-107,Influenza  seasonal  injectable  preservative free,730-inf,Chloride,immunization,0.0203980565631148
+98-107,Injury of anterior cruciate ligament,365-730,Chloride,condition,9.369186085420209e-05
+98-107,Injury of anterior cruciate ligament,730-inf,Chloride,condition,1.3384551550600298e-05
+98-107,Injury of kidney (disorder),730-inf,Chloride,condition,4.0153654651800895e-05
+98-107,Injury of knee (disorder),365-730,Chloride,condition,0.0001472300670566
+98-107,Injury of knee (disorder),730-inf,Chloride,condition,0.000200768273259
+98-107,Injury of neck (disorder),30-60,Chloride,condition,4.0153654651800895e-05
+98-107,Injury of neck (disorder),60-90,Chloride,condition,1.3384551550600298e-05
+98-107,Injury of neck (disorder),730-inf,Chloride,condition,2.6769103101200595e-05
+98-107,Ischemic heart disease (disorder),180-365,Chloride,condition,4.0153654651800895e-05
+98-107,Ischemic heart disease (disorder),365-730,Chloride,condition,6.692275775300148e-05
+98-107,Ischemic heart disease (disorder),730-inf,Chloride,condition,0.0001739991701578
+98-107,Joint pain (finding),730-inf,Chloride,condition,0.0001873837217084
+98-107,Kidney transplant failure and rejection (disorder),0-7,Chloride,condition,1.3384551550600298e-05
+98-107,Kidney transplant failure and rejection (disorder),14-30,Chloride,condition,0.0001739991701578
+98-107,Kidney transplant failure and rejection (disorder),30-60,Chloride,condition,6.692275775300148e-05
+98-107,Kidney transplant failure and rejection (disorder),730-inf,Chloride,condition,4.0153654651800895e-05
+98-107,Laceration - injury (disorder),30-60,Chloride,condition,1.3384551550600298e-05
+98-107,Laceration - injury (disorder),60-90,Chloride,condition,2.6769103101200595e-05
+98-107,Laceration - injury (disorder),90-180,Chloride,condition,6.692275775300148e-05
+98-107,Laceration - injury (disorder),365-730,Chloride,condition,6.692275775300148e-05
+98-107,Laceration - injury (disorder),730-inf,Chloride,condition,0.000535382062024
+98-107,Laceration of foot,90-180,Chloride,condition,1.3384551550600298e-05
+98-107,Laceration of foot,730-inf,Chloride,condition,1.3384551550600298e-05
+98-107,Laceration of forearm,30-60,Chloride,condition,1.3384551550600298e-05
+98-107,Laceration of forearm,60-90,Chloride,condition,2.6769103101200595e-05
+98-107,Laceration of forearm,90-180,Chloride,condition,5.353820620240119e-05
+98-107,Laceration of forearm,730-inf,Chloride,condition,2.6769103101200595e-05
+98-107,Laceration of hand,365-730,Chloride,condition,5.353820620240119e-05
+98-107,Laceration of hand,730-inf,Chloride,condition,0.0003078446856638
+98-107,Laceration of thigh,365-730,Chloride,condition,1.3384551550600298e-05
+98-107,Leaking dental filling (finding),180-365,Chloride,condition,8.030730930360179e-05
+98-107,Leaking dental filling (finding),365-730,Chloride,condition,0.0001070764124048
+98-107,Leaking dental filling (finding),730-inf,Chloride,condition,0.0001606146186072
+98-107,Limited social contact (finding),7-14,Chloride,condition,0.0001472300670566
+98-107,Limited social contact (finding),14-30,Chloride,condition,0.0001070764124048
+98-107,Limited social contact (finding),30-60,Chloride,condition,0.000133845515506
+98-107,Limited social contact (finding),60-90,Chloride,condition,0.0001472300670566
+98-107,Limited social contact (finding),90-180,Chloride,condition,0.0003212292372144
+98-107,Limited social contact (finding),180-365,Chloride,condition,0.0009101495054408
+98-107,Limited social contact (finding),365-730,Chloride,condition,0.0012849169488576
+98-107,Limited social contact (finding),730-inf,Chloride,condition,0.0024359883822092
+98-107,Loose dental filling (finding),14-30,Chloride,condition,1.3384551550600298e-05
+98-107,Loose dental filling (finding),30-60,Chloride,condition,5.353820620240119e-05
+98-107,Loose dental filling (finding),60-90,Chloride,condition,1.3384551550600298e-05
+98-107,Loose dental filling (finding),365-730,Chloride,condition,0.0003613828918662
+98-107,Loose dental filling (finding),730-inf,Chloride,condition,0.0002543064794614
+98-107,Loss of taste (finding),180-365,Chloride,condition,2.6769103101200595e-05
+98-107,Loss of taste (finding),365-730,Chloride,condition,0.0001070764124048
+98-107,Loss of taste (finding),730-inf,Chloride,condition,1.3384551550600298e-05
+98-107,Loss of teeth (disorder),180-365,Chloride,condition,2.6769103101200595e-05
+98-107,Loss of teeth (disorder),730-inf,Chloride,condition,0.000401536546518
+98-107,MMR,180-365,Chloride,immunization,2.6769103101200595e-05
+98-107,MMR,365-730,Chloride,immunization,1.3384551550600298e-05
+98-107,MMR,730-inf,Chloride,immunization,2.6769103101200595e-05
+98-107,Medication review due (situation),7-14,Chloride,condition,0.0007495348868336
+98-107,Medication review due (situation),14-30,Chloride,condition,0.0006959966806312
+98-107,Medication review due (situation),30-60,Chloride,condition,0.0010439950209468
+98-107,Medication review due (situation),60-90,Chloride,condition,0.0011109177786998
+98-107,Medication review due (situation),90-180,Chloride,condition,0.001940759974837
+98-107,Medication review due (situation),180-365,Chloride,condition,0.0055679734450497
+98-107,Medication review due (situation),365-730,Chloride,condition,0.009342416982319
+98-107,Medication review due (situation),730-inf,Chloride,condition,0.0262337210391765
+98-107,Metabolic syndrome X (disorder),7-14,Chloride,condition,1.3384551550600298e-05
+98-107,Metabolic syndrome X (disorder),180-365,Chloride,condition,1.3384551550600298e-05
+98-107,Metabolic syndrome X (disorder),365-730,Chloride,condition,1.3384551550600298e-05
+98-107,Metabolic syndrome X (disorder),730-inf,Chloride,condition,0.0003078446856638
+98-107,Metastasis from malignant tumor of prostate (disorder),730-inf,Chloride,condition,0.0001606146186072
+98-107,Miscarriage in first trimester,30-60,Chloride,condition,2.6769103101200595e-05
+98-107,Miscarriage in first trimester,60-90,Chloride,condition,2.6769103101200595e-05
+98-107,Miscarriage in first trimester,90-180,Chloride,condition,6.692275775300148e-05
+98-107,Miscarriage in first trimester,180-365,Chloride,condition,6.692275775300148e-05
+98-107,Misuses drugs (finding),7-14,Chloride,condition,1.3384551550600298e-05
+98-107,Misuses drugs (finding),90-180,Chloride,condition,1.3384551550600298e-05
+98-107,Misuses drugs (finding),180-365,Chloride,condition,5.353820620240119e-05
+98-107,Misuses drugs (finding),730-inf,Chloride,condition,0.000267691031012
+98-107,Muscle pain (finding),730-inf,Chloride,condition,0.0001873837217084
+98-107,Myocardial infarction (disorder),90-180,Chloride,condition,1.3384551550600298e-05
+98-107,Myocardial infarction (disorder),180-365,Chloride,condition,0.000133845515506
+98-107,Myocardial infarction (disorder),730-inf,Chloride,condition,0.0001472300670566
+98-107,Neoplasm of prostate,365-730,Chloride,condition,2.6769103101200595e-05
+98-107,Neoplasm of prostate,730-inf,Chloride,condition,0.000133845515506
+98-107,Non-small cell carcinoma of lung  TNM stage 1 (disorder),365-730,Chloride,condition,0.0001472300670566
+98-107,Non-small cell carcinoma of lung  TNM stage 1 (disorder),730-inf,Chloride,condition,1.3384551550600298e-05
+98-107,Non-small cell lung cancer (disorder),365-730,Chloride,condition,0.0001472300670566
+98-107,Non-small cell lung cancer (disorder),730-inf,Chloride,condition,1.3384551550600298e-05
+98-107,Normal pregnancy,30-60,Chloride,condition,2.6769103101200595e-05
+98-107,Normal pregnancy,60-90,Chloride,condition,2.6769103101200595e-05
+98-107,Normal pregnancy,90-180,Chloride,condition,6.692275775300148e-05
+98-107,Normal pregnancy,180-365,Chloride,condition,6.692275775300148e-05
+98-107,Normal pregnancy,365-730,Chloride,condition,0.0001472300670566
+98-107,Normal pregnancy,730-inf,Chloride,condition,8.030730930360179e-05
+98-107,Not in labor force (finding),7-14,Chloride,condition,8.030730930360179e-05
+98-107,Not in labor force (finding),14-30,Chloride,condition,0.0001606146186072
+98-107,Not in labor force (finding),30-60,Chloride,condition,0.000200768273259
+98-107,Not in labor force (finding),60-90,Chloride,condition,0.0001873837217084
+98-107,Not in labor force (finding),90-180,Chloride,condition,0.0004818438558216
+98-107,Not in labor force (finding),180-365,Chloride,condition,0.000468459304271
+98-107,Not in labor force (finding),365-730,Chloride,condition,0.0016329152891732
+98-107,Not in labor force (finding),730-inf,Chloride,condition,0.00401536546518
+98-107,Obstructive sleep apnea syndrome (disorder),180-365,Chloride,condition,1.3384551550600298e-05
+98-107,Obstructive sleep apnea syndrome (disorder),730-inf,Chloride,condition,1.3384551550600298e-05
+98-107,Osteoarthritis of hip,30-60,Chloride,condition,1.3384551550600298e-05
+98-107,Osteoarthritis of hip,730-inf,Chloride,condition,0.000133845515506
+98-107,Osteoarthritis of knee,180-365,Chloride,condition,4.0153654651800895e-05
+98-107,Osteoarthritis of knee,365-730,Chloride,condition,4.0153654651800895e-05
+98-107,Osteoarthritis of knee,730-inf,Chloride,condition,4.0153654651800895e-05
+98-107,Osteoporosis (disorder),180-365,Chloride,condition,0.0001606146186072
+98-107,Osteoporosis (disorder),365-730,Chloride,condition,0.0001472300670566
+98-107,Osteoporosis (disorder),730-inf,Chloride,condition,2.6769103101200595e-05
+98-107,Otitis media,90-180,Chloride,condition,1.3384551550600298e-05
+98-107,Otitis media,365-730,Chloride,condition,1.3384551550600298e-05
+98-107,Otitis media,730-inf,Chloride,condition,2.6769103101200595e-05
+98-107,Part-time employment (finding),7-14,Chloride,condition,0.0001873837217084
+98-107,Part-time employment (finding),14-30,Chloride,condition,0.0001739991701578
+98-107,Part-time employment (finding),30-60,Chloride,condition,0.000133845515506
+98-107,Part-time employment (finding),60-90,Chloride,condition,9.369186085420209e-05
+98-107,Part-time employment (finding),90-180,Chloride,condition,0.0004550747527204
+98-107,Part-time employment (finding),180-365,Chloride,condition,0.001539223428319
+98-107,Part-time employment (finding),365-730,Chloride,condition,0.0017266071500274
+98-107,Part-time employment (finding),730-inf,Chloride,condition,0.0070402741156157
+98-107,Pathological fracture due to osteoporosis (disorder),365-730,Chloride,condition,0.0001472300670566
+98-107,Pathological fracture due to osteoporosis (disorder),730-inf,Chloride,condition,0.0001204609639554
+98-107,Pneumococcal conjugate PCV 13,30-60,Chloride,immunization,2.6769103101200595e-05
+98-107,Pneumococcal conjugate PCV 13,90-180,Chloride,immunization,1.3384551550600298e-05
+98-107,Pneumococcal conjugate PCV 13,180-365,Chloride,immunization,4.0153654651800895e-05
+98-107,Pneumococcal conjugate PCV 13,365-730,Chloride,immunization,0.0001606146186072
+98-107,Pneumococcal conjugate PCV 13,730-inf,Chloride,immunization,1.3384551550600298e-05
+98-107,Pneumonia (disorder),730-inf,Chloride,condition,0.0001606146186072
+98-107,Polyp of colon,90-180,Chloride,condition,1.3384551550600298e-05
+98-107,Polyp of colon,180-365,Chloride,condition,0.000133845515506
+98-107,Polyp of colon,365-730,Chloride,condition,0.0002944601341132
+98-107,Polyp of colon,730-inf,Chloride,condition,0.0002543064794614
+98-107,Prediabetes,90-180,Chloride,condition,0.0001204609639554
+98-107,Prediabetes,180-365,Chloride,condition,2.6769103101200595e-05
+98-107,Prediabetes,365-730,Chloride,condition,1.3384551550600298e-05
+98-107,Prediabetes,730-inf,Chloride,condition,1.3384551550600298e-05
+98-107,Preeclampsia,365-730,Chloride,condition,1.3384551550600298e-05
+98-107,Preeclampsia,730-inf,Chloride,condition,1.3384551550600298e-05
+98-107,Primary dental caries (disorder),7-14,Chloride,condition,1.3384551550600298e-05
+98-107,Primary dental caries (disorder),14-30,Chloride,condition,1.3384551550600298e-05
+98-107,Primary dental caries (disorder),30-60,Chloride,condition,2.6769103101200595e-05
+98-107,Primary dental caries (disorder),90-180,Chloride,condition,0.0002409219279108
+98-107,Primary dental caries (disorder),180-365,Chloride,condition,0.000267691031012
+98-107,Primary dental caries (disorder),365-730,Chloride,condition,0.000133845515506
+98-107,Primary dental caries (disorder),730-inf,Chloride,condition,0.0018202990108816
+98-107,Protracted diarrhea,365-730,Chloride,condition,5.353820620240119e-05
+98-107,Pulmonary emphysema (disorder),730-inf,Chloride,condition,1.3384551550600298e-05
+98-107,Recurrent urinary tract infection (disorder),730-inf,Chloride,condition,0.0002543064794614
+98-107,Refugee (person),7-14,Chloride,condition,1.3384551550600298e-05
+98-107,Refugee (person),14-30,Chloride,condition,2.6769103101200595e-05
+98-107,Refugee (person),30-60,Chloride,condition,1.3384551550600298e-05
+98-107,Refugee (person),365-730,Chloride,condition,1.3384551550600298e-05
+98-107,Refugee (person),730-inf,Chloride,condition,1.3384551550600298e-05
+98-107,Reports of violence in the environment (finding),7-14,Chloride,condition,8.030730930360179e-05
+98-107,Reports of violence in the environment (finding),14-30,Chloride,condition,4.0153654651800895e-05
+98-107,Reports of violence in the environment (finding),30-60,Chloride,condition,0.0002275373763602
+98-107,Reports of violence in the environment (finding),60-90,Chloride,condition,0.0001472300670566
+98-107,Reports of violence in the environment (finding),90-180,Chloride,condition,0.000200768273259
+98-107,Reports of violence in the environment (finding),180-365,Chloride,condition,0.0008298421961372
+98-107,Reports of violence in the environment (finding),365-730,Chloride,condition,0.0008432267476878
+98-107,Reports of violence in the environment (finding),730-inf,Chloride,condition,0.0024359883822092
+98-107,Resorption of alveolar process due to dental trauma (disorder),730-inf,Chloride,condition,8.030730930360179e-05
+98-107,Respiratory distress (finding),730-inf,Chloride,condition,0.0001606146186072
+98-107,Rupture of patellar tendon,730-inf,Chloride,condition,0.0001873837217084
+98-107,Secondary malignant neoplasm of colon,730-inf,Chloride,condition,5.353820620240119e-05
+98-107,Sepsis (disorder),365-730,Chloride,condition,0.0001070764124048
+98-107,Sepsis caused by virus (disorder),730-inf,Chloride,condition,4.0153654651800895e-05
+98-107,Septic shock (disorder),365-730,Chloride,condition,0.0001070764124048
+98-107,Severe anxiety (panic) (finding),7-14,Chloride,condition,4.0153654651800895e-05
+98-107,Severe anxiety (panic) (finding),180-365,Chloride,condition,1.3384551550600298e-05
+98-107,Severe anxiety (panic) (finding),365-730,Chloride,condition,8.030730930360179e-05
+98-107,Severe anxiety (panic) (finding),730-inf,Chloride,condition,0.0002543064794614
+98-107,Sinusitis (disorder),30-60,Chloride,condition,1.3384551550600298e-05
+98-107,Sinusitis (disorder),90-180,Chloride,condition,0.0001472300670566
+98-107,Sinusitis (disorder),730-inf,Chloride,condition,0.0003078446856638
+98-107,Sleep disorder (disorder),90-180,Chloride,condition,1.3384551550600298e-05
+98-107,Sleep disorder (disorder),730-inf,Chloride,condition,1.3384551550600298e-05
+98-107,Smokes tobacco daily,365-730,Chloride,condition,8.030730930360179e-05
+98-107,Social isolation (finding),7-14,Chloride,condition,2.6769103101200595e-05
+98-107,Social isolation (finding),14-30,Chloride,condition,0.0001606146186072
+98-107,Social isolation (finding),30-60,Chloride,condition,0.0001070764124048
+98-107,Social isolation (finding),60-90,Chloride,condition,9.369186085420209e-05
+98-107,Social isolation (finding),90-180,Chloride,condition,0.000267691031012
+98-107,Social isolation (finding),180-365,Chloride,condition,0.0004550747527204
+98-107,Social isolation (finding),365-730,Chloride,condition,0.0014455315674648
+98-107,Social isolation (finding),730-inf,Chloride,condition,0.003680751676415
+98-107,Sore throat symptom (finding),730-inf,Chloride,condition,5.353820620240119e-05
+98-107,Sprain (morphologic abnormality),60-90,Chloride,condition,1.3384551550600298e-05
+98-107,Sprain (morphologic abnormality),180-365,Chloride,condition,8.030730930360179e-05
+98-107,Sprain (morphologic abnormality),730-inf,Chloride,condition,0.0003212292372144
+98-107,Sprain of ankle,60-90,Chloride,condition,1.3384551550600298e-05
+98-107,Sprain of ankle,180-365,Chloride,condition,8.030730930360179e-05
+98-107,Sprain of ankle,730-inf,Chloride,condition,0.0003078446856638
+98-107,Sprain of wrist,730-inf,Chloride,condition,1.3384551550600298e-05
+98-107,Sputum finding (finding),730-inf,Chloride,condition,4.0153654651800895e-05
+98-107,Streptococcal sore throat (disorder),7-14,Chloride,condition,9.369186085420209e-05
+98-107,Streptococcal sore throat (disorder),60-90,Chloride,condition,1.3384551550600298e-05
+98-107,Streptococcal sore throat (disorder),365-730,Chloride,condition,8.030730930360179e-05
+98-107,Streptococcal sore throat (disorder),730-inf,Chloride,condition,0.0002141528248096
+98-107,Stress (finding),7-14,Chloride,condition,0.0003479983403156
+98-107,Stress (finding),14-30,Chloride,condition,0.0003881519949674
+98-107,Stress (finding),30-60,Chloride,condition,0.000535382062024
+98-107,Stress (finding),60-90,Chloride,condition,0.0006424584744288
+98-107,Stress (finding),90-180,Chloride,condition,0.0006959966806312
+98-107,Stress (finding),180-365,Chloride,condition,0.002208451005849
+98-107,Stress (finding),365-730,Chloride,condition,0.0036272134702126
+98-107,Stress (finding),730-inf,Chloride,condition,0.0118988663284836
+98-107,Stroke,730-inf,Chloride,condition,8.030730930360179e-05
+98-107,Suspected COVID-19,180-365,Chloride,condition,2.6769103101200595e-05
+98-107,Suspected COVID-19,365-730,Chloride,condition,0.0001204609639554
+98-107,Suspected COVID-19,730-inf,Chloride,condition,0.0004283056496192
+98-107,Suspected lung cancer (situation),365-730,Chloride,condition,0.0001606146186072
+98-107,Suspected prostate cancer (situation),365-730,Chloride,condition,4.0153654651800895e-05
+98-107,Suspected prostate cancer (situation),730-inf,Chloride,condition,0.000133845515506
+98-107,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,7-14,Chloride,immunization,1.3384551550600298e-05
+98-107,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,90-180,Chloride,immunization,1.3384551550600298e-05
+98-107,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,180-365,Chloride,immunization,0.0004550747527204
+98-107,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,365-730,Chloride,immunization,0.0005889202682264
+98-107,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,730-inf,Chloride,immunization,0.0021950664542984
+98-107,Tear of meniscus of knee,365-730,Chloride,condition,5.353820620240119e-05
+98-107,Third degree burn,365-730,Chloride,condition,0.000133845515506
+98-107,Third degree burn,730-inf,Chloride,condition,1.3384551550600298e-05
+98-107,Tongue tie (disorder),730-inf,Chloride,condition,5.353820620240119e-05
+98-107,Torus palatinus (disorder),730-inf,Chloride,condition,0.0002409219279108
+98-107,Transformed migraine (disorder),90-180,Chloride,condition,9.369186085420209e-05
+98-107,Transformed migraine (disorder),730-inf,Chloride,condition,0.0001472300670566
+98-107,Traumatic dislocation of temporomandibular joint (disorder),365-730,Chloride,condition,1.3384551550600298e-05
+98-107,Unemployed (finding),7-14,Chloride,condition,4.0153654651800895e-05
+98-107,Unemployed (finding),90-180,Chloride,condition,5.353820620240119e-05
+98-107,Unemployed (finding),180-365,Chloride,condition,0.0005219975104734
+98-107,Unemployed (finding),365-730,Chloride,condition,0.0004149210980686
+98-107,Unemployed (finding),730-inf,Chloride,condition,0.0016596843922744
+98-107,Unhealthy alcohol drinking behavior (finding),30-60,Chloride,condition,1.3384551550600298e-05
+98-107,Unhealthy alcohol drinking behavior (finding),90-180,Chloride,condition,2.6769103101200595e-05
+98-107,Unhealthy alcohol drinking behavior (finding),180-365,Chloride,condition,0.0003212292372144
+98-107,Unhealthy alcohol drinking behavior (finding),365-730,Chloride,condition,5.353820620240119e-05
+98-107,Unhealthy alcohol drinking behavior (finding),730-inf,Chloride,condition,0.000401536546518
+98-107,Victim of intimate partner abuse (finding),14-30,Chloride,condition,0.0001204609639554
+98-107,Victim of intimate partner abuse (finding),30-60,Chloride,condition,5.353820620240119e-05
+98-107,Victim of intimate partner abuse (finding),60-90,Chloride,condition,6.692275775300148e-05
+98-107,Victim of intimate partner abuse (finding),90-180,Chloride,condition,0.0003078446856638
+98-107,Victim of intimate partner abuse (finding),180-365,Chloride,condition,0.0005755357166758
+98-107,Victim of intimate partner abuse (finding),365-730,Chloride,condition,0.0008298421961372
+98-107,Victim of intimate partner abuse (finding),730-inf,Chloride,condition,0.003279215129897
+98-107,Viral sinusitis (disorder),0-7,Chloride,condition,1.3384551550600298e-05
+98-107,Viral sinusitis (disorder),7-14,Chloride,condition,1.3384551550600298e-05
+98-107,Viral sinusitis (disorder),14-30,Chloride,condition,4.0153654651800895e-05
+98-107,Viral sinusitis (disorder),30-60,Chloride,condition,8.030730930360179e-05
+98-107,Viral sinusitis (disorder),60-90,Chloride,condition,1.3384551550600298e-05
+98-107,Viral sinusitis (disorder),90-180,Chloride,condition,4.0153654651800895e-05
+98-107,Viral sinusitis (disorder),180-365,Chloride,condition,0.001204609639554
+98-107,Viral sinusitis (disorder),365-730,Chloride,condition,0.0007629194383842
+98-107,Viral sinusitis (disorder),730-inf,Chloride,condition,0.0021816819027478
+98-107,Wheezing (finding),180-365,Chloride,condition,2.6769103101200595e-05
+98-107,Wheezing (finding),365-730,Chloride,condition,0.0001204609639554
+98-107,Wheezing (finding),730-inf,Chloride,condition,0.000133845515506
+98-107,Whiplash injury to neck,30-60,Chloride,condition,4.0153654651800895e-05
+98-107,Whiplash injury to neck,60-90,Chloride,condition,1.3384551550600298e-05
+98-107,Whiplash injury to neck,730-inf,Chloride,condition,2.6769103101200595e-05
+98-107,pneumococcal polysaccharide vaccine  23 valent,30-60,Chloride,immunization,1.3384551550600298e-05
+98-107,pneumococcal polysaccharide vaccine  23 valent,60-90,Chloride,immunization,2.6769103101200595e-05
+98-107,pneumococcal polysaccharide vaccine  23 valent,90-180,Chloride,immunization,6.692275775300148e-05
+98-107,pneumococcal polysaccharide vaccine  23 valent,180-365,Chloride,immunization,6.692275775300148e-05
+98-107,pneumococcal polysaccharide vaccine  23 valent,365-730,Chloride,immunization,0.0001739991701578
+98-107,pneumococcal polysaccharide vaccine  23 valent,730-inf,Chloride,immunization,8.030730930360179e-05
+98-107,rotavirus  monovalent,30-60,Chloride,immunization,1.3384551550600298e-05
+98-107,rotavirus  monovalent,90-180,Chloride,immunization,1.3384551550600298e-05
+98-107,varicella,180-365,Chloride,immunization,1.3384551550600298e-05
+98-107,varicella,365-730,Chloride,immunization,1.3384551550600298e-05
+98-107,varicella,730-inf,Chloride,immunization,1.3384551550600298e-05
+98-107,zoster vaccine  live,90-180,Chloride,immunization,4.0153654651800895e-05
+98-107,zoster vaccine  live,180-365,Chloride,immunization,0.0001070764124048
+98-107,zoster vaccine  live,365-730,Chloride,immunization,0.0002810755825626
+98-107,zoster vaccine  live,730-inf,Chloride,immunization,0.0009904568147444

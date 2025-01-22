@@ -1,0 +1,16 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2018-03-07,,4572ed6f-80de-f9fa-4c22-1dc30e66f03a,610193f0-67f2-a0d9-0515-478cba670763,http://snomed.info/sct,271737000,Anemia (disorder),,,,,
+,,4572ed6f-80de-f9fa-4c22-1dc30e66f03a,2cda64cb-01db-8bfb-36b8-042032ce73d1,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2016-02-24T00:47:33Z,laboratory,6.1,%,numeric
+,,4572ed6f-80de-f9fa-4c22-1dc30e66f03a,2c070a4c-df10-a04b-3d64-2184ba172e93,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2017-03-01T00:47:33Z,laboratory,6.3,%,numeric
+,,4572ed6f-80de-f9fa-4c22-1dc30e66f03a,610193f0-67f2-a0d9-0515-478cba670763,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2018-03-07T00:47:33Z,laboratory,6.0,%,numeric
+,,4572ed6f-80de-f9fa-4c22-1dc30e66f03a,4f02b528-af17-08de-f74b-ae11a636e7cf,,718-7,Hemoglobin [Mass/volume] in Blood,2018-03-14T00:47:33Z,laboratory,11.1,g/dL,numeric
+,,4572ed6f-80de-f9fa-4c22-1dc30e66f03a,bf78ff2b-dd14-ffa7-6528-ca9ce3b3a515,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2019-03-13T00:47:33Z,laboratory,6.1,%,numeric
+,,4572ed6f-80de-f9fa-4c22-1dc30e66f03a,bf78ff2b-dd14-ffa7-6528-ca9ce3b3a515,,718-7,Hemoglobin [Mass/volume] in Blood,2019-03-13T00:47:33Z,laboratory,16.9,g/dL,numeric
+,,4572ed6f-80de-f9fa-4c22-1dc30e66f03a,bdc14c6b-9c1e-2def-1056-b17db76503c7,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2020-03-18T00:47:33Z,laboratory,6.3,%,numeric
+,,4572ed6f-80de-f9fa-4c22-1dc30e66f03a,0b74453b-3775-b34e-7506-ef1b79b12874,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2021-03-03T00:47:33Z,laboratory,6.2,%,numeric
+,,4572ed6f-80de-f9fa-4c22-1dc30e66f03a,aecc94ee-dcf1-28ac-7c58-3e76e42cf06b,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2021-03-31T00:47:33Z,laboratory,6.3,%,numeric
+,,4572ed6f-80de-f9fa-4c22-1dc30e66f03a,e7ba8f10-0e0c-deb6-6281-0ca5127b4b91,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2022-04-06T00:47:33Z,laboratory,5.9,%,numeric
+,,4572ed6f-80de-f9fa-4c22-1dc30e66f03a,8c033f1d-d37a-dfb1-a99f-3bab08327b9d,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2023-04-12T00:47:33Z,laboratory,6.1,%,numeric
+,,4572ed6f-80de-f9fa-4c22-1dc30e66f03a,dabd24c3-1827-2bdc-98f8-ea3023c7fd9d,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2024-04-17T00:47:33Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,4572ed6f-80de-f9fa-4c22-1dc30e66f03a,dabd24c3-1827-2bdc-98f8-ea3023c7fd9d,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2024-04-17T00:47:33Z,laboratory,6.2,%,numeric
+,,4572ed6f-80de-f9fa-4c22-1dc30e66f03a,dabd24c3-1827-2bdc-98f8-ea3023c7fd9d,,718-7,Hemoglobin [Mass/volume] in Blood,2024-04-17T00:47:33Z,laboratory,13.3,g/dL,numeric

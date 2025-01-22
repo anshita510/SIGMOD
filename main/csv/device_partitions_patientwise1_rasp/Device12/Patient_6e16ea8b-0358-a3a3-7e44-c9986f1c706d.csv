@@ -1,0 +1,8 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2019-01-12,2019-08-10,6e16ea8b-0358-a3a3-7e44-c9986f1c706d,f05f6758-270e-d328-374d-2972e1280e63,http://snomed.info/sct,271737000,Anemia (disorder),,,,,
+,,6e16ea8b-0358-a3a3-7e44-c9986f1c706d,b20676a4-c328-6fcf-03dc-467363fd18b9,,718-7,Hemoglobin [Mass/volume] in Blood,2015-10-10T03:29:30Z,laboratory,12.5,g/dL,numeric
+,,6e16ea8b-0358-a3a3-7e44-c9986f1c706d,8e5c4def-ffe7-c014-e94e-8d1e29e5cfc6,,718-7,Hemoglobin [Mass/volume] in Blood,2019-01-12T03:29:30Z,laboratory,11.0,g/dL,numeric
+,,6e16ea8b-0358-a3a3-7e44-c9986f1c706d,4f8481db-0b15-6cb4-6a28-89c92f4781a0,,718-7,Hemoglobin [Mass/volume] in Blood,2021-10-16T03:29:30Z,laboratory,12.8,g/dL,numeric
+,,6e16ea8b-0358-a3a3-7e44-c9986f1c706d,5655278e-47af-7c2e-5f05-a6b13c8d2765,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2023-08-19T03:29:30Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,6e16ea8b-0358-a3a3-7e44-c9986f1c706d,88718f9e-ec0e-1f5f-cf37-2b00016ddbb1,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2023-10-28T03:29:30Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,6e16ea8b-0358-a3a3-7e44-c9986f1c706d,c8582c0d-7c5c-33a7-78a2-ff1419c6809c,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2024-07-13T03:29:30Z,laboratory,Urine blood test = negative (finding),{nominal},text

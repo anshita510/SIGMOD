@@ -1,0 +1,150 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+1963-09-04,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,2990caf0-a4d9-a50e-5282-25ce1f8bfb8d,http://snomed.info/sct,271737000,Anemia (disorder),,,,,
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,2048d833-d6ad-b188-d4e0-53000dfe9486,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2000-08-22T22:59:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,2048d833-d6ad-b188-d4e0-53000dfe9486,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2000-08-22T22:59:09Z,laboratory,2.9,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,5d1a2f0b-d483-0de6-405f-d1de400931e7,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2001-05-01T22:59:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,5d1a2f0b-d483-0de6-405f-d1de400931e7,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2001-05-01T22:59:09Z,laboratory,3.1,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,5d1a2f0b-d483-0de6-405f-d1de400931e7,,718-7,Hemoglobin [Mass/volume] in Blood,2001-05-01T22:59:09Z,laboratory,12.8,g/dL,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,aa2b4523-b922-704c-261e-46293ebcf2c9,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2001-12-18T22:59:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,aa2b4523-b922-704c-261e-46293ebcf2c9,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2001-12-18T22:59:09Z,laboratory,2.9,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,99d4290b-ea19-9d71-ae04-1296c76593c3,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2002-02-12T22:59:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,99d4290b-ea19-9d71-ae04-1296c76593c3,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2002-02-12T22:59:09Z,laboratory,3.0,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,edf3b3e4-2d86-0a2d-e866-ac92ced9c155,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2002-05-07T22:59:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,edf3b3e4-2d86-0a2d-e866-ac92ced9c155,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2002-05-07T22:59:09Z,laboratory,3.1,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,603576ce-6f89-57b2-09d6-55cda2347b25,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2002-05-14T22:59:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,603576ce-6f89-57b2-09d6-55cda2347b25,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2002-05-14T22:59:09Z,laboratory,2.9,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,f21e56bf-81d1-66b1-1ea0-0336ceb28f7e,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2002-08-13T22:59:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,f21e56bf-81d1-66b1-1ea0-0336ceb28f7e,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2002-08-13T22:59:09Z,laboratory,3.0,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,776abc8c-6f1e-1aed-67de-dfe04b338f78,,718-7,Hemoglobin [Mass/volume] in Blood,2002-10-05T22:29:04Z,laboratory,14.4,g/dL,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,776abc8c-6f1e-1aed-67de-dfe04b338f78,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2002-10-05T22:29:04Z,laboratory,3.2,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,776abc8c-6f1e-1aed-67de-dfe04b338f78,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2002-10-05T22:29:04Z,laboratory,0.0,{presence},numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,cdfeba29-9ba2-aae9-5465-a2455875182e,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2002-11-12T22:59:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,cdfeba29-9ba2-aae9-5465-a2455875182e,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2002-11-12T22:59:09Z,laboratory,2.9,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,5368169f-0a30-1135-8853-1de61258529f,,718-7,Hemoglobin [Mass/volume] in Blood,2002-11-20T05:45:58Z,laboratory,17.0,g/dL,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,5368169f-0a30-1135-8853-1de61258529f,,718-7,Hemoglobin [Mass/volume] in Blood,2002-11-20T18:27:13Z,laboratory,15.7,g/dL,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,92706235-bb4f-292e-627a-9739d9d56628,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2003-03-11T22:59:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,92706235-bb4f-292e-627a-9739d9d56628,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2003-03-11T22:59:09Z,laboratory,3.3,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,321277be-130c-b19d-efeb-38bd45cfcff2,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2003-05-13T22:59:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,321277be-130c-b19d-efeb-38bd45cfcff2,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2003-05-13T22:59:09Z,laboratory,3.4,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,e87983de-2bb6-1207-d86e-051b3114839b,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2004-02-28T01:44:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,15b2a75f-b8eb-9155-b425-314ee7134311,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2004-03-30T06:14:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,139c904d-485d-ac69-5916-b1e34748581d,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2004-04-30T11:34:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,b5cca6a7-e412-c7dc-caaa-1b2cfb2661f3,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2004-05-18T22:59:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,b5cca6a7-e412-c7dc-caaa-1b2cfb2661f3,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2004-05-18T22:59:09Z,laboratory,3.0,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,4b5fe3ed-59d5-0e25-e642-108d3a84acec,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2004-06-01T08:15:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,6a161dea-01e6-d2ff-016d-9e2da83d0857,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2004-06-01T22:59:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,97bb586a-626d-0303-9a16-c26e123a0819,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2004-07-02T09:47:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,3465d175-69bd-01b0-3aab-1ae378d0d3ec,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2004-08-02T14:17:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,2849e87d-92ed-a551-9635-314cbd6b59f3,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2004-09-02T17:32:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,71be43fb-651a-6fca-266a-6530c53d24fd,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2004-10-04T00:23:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,6cc965be-e52e-5ae5-c136-0ad79fb726dd,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2004-11-04T04:07:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,555eab0e-2d48-8a2f-0b21-2d6ec733f036,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2004-12-05T10:55:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,72d303a5-fe53-4d39-f707-308b84ef807d,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2005-01-05T18:36:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,a810fd42-a603-7991-2c40-c0b17099c75a,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2005-01-25T22:59:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,a810fd42-a603-7991-2c40-c0b17099c75a,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2005-01-25T22:59:09Z,laboratory,2.9,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,60987e89-dab7-0dd5-2cac-0ce5d7ce6909,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2005-02-01T22:59:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,60987e89-dab7-0dd5-2cac-0ce5d7ce6909,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2005-02-01T22:59:09Z,laboratory,3.3,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,4a15c6a1-2f20-7759-ab31-d59fa2d2bc77,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2005-02-08T22:59:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,4a15c6a1-2f20-7759-ab31-d59fa2d2bc77,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2005-02-08T22:59:09Z,laboratory,2.9,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,96c90b9f-0aa6-07d9-8a54-9368d6c871b5,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2005-02-15T22:59:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,96c90b9f-0aa6-07d9-8a54-9368d6c871b5,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2005-02-15T22:59:09Z,laboratory,3.0,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,ad6ee31d-0f16-d17b-c246-c91212d1bdff,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2005-02-23T02:54:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,7c34c36b-1113-0051-ed34-d0379128ae56,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2005-03-08T22:59:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,7c34c36b-1113-0051-ed34-d0379128ae56,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2005-03-08T22:59:09Z,laboratory,2.9,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,964ade39-0456-5105-2cf2-d2e44bb57f30,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2005-03-15T22:59:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,964ade39-0456-5105-2cf2-d2e44bb57f30,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2005-03-15T22:59:09Z,laboratory,3.1,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,2b2953ee-31c6-ec57-3879-838eb1f20c22,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2005-03-30T01:12:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,9e60cbbd-307f-21e7-d812-a13187d2c2f4,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2005-04-30T05:04:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,670fc2e1-ab14-f4fd-aadd-000ff42883e4,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2005-05-24T22:59:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,670fc2e1-ab14-f4fd-aadd-000ff42883e4,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2005-05-24T22:59:09Z,laboratory,3.2,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,3449f6a0-1dcf-dc55-a060-beb31f950a71,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2005-06-01T02:03:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,2e2e8782-2ae2-d488-5ec7-9c0c2638b389,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2005-07-01T10:23:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,a9190b36-1a0b-d92a-f44a-6606e034b003,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2005-07-26T22:59:09Z,laboratory,3.1,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,b3941e0b-d23d-4a59-b5c8-fd573e264f80,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2005-08-03T01:58:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,27a72947-51ad-4ab0-a6d8-25706f3b4a50,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2005-08-23T22:59:09Z,laboratory,3.1,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,dd1cc5b1-eb39-abcc-49c2-072382c436f1,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2005-09-03T04:47:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,72694030-4710-6451-b88e-ffdfefd7dccb,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2005-09-27T22:59:09Z,laboratory,2.9,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,a86929ea-181f-3e92-37ee-1029072a10ab,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2005-10-05T01:16:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,1d74c256-9ac7-1c61-6db9-4b2c11453745,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2005-11-08T22:59:09Z,laboratory,3.3,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,da3b0ab8-cdc5-96c1-f592-3f4ea199dc68,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2005-11-16T02:45:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,1cdaa822-af39-b910-100a-48035630cd72,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2005-11-29T22:59:09Z,laboratory,3.1,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,f3930a47-8de5-f4ec-7f1e-65c8aabe2975,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2005-12-17T04:47:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,4ae2f7f9-1d1b-512f-647f-a91d6b013e92,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2006-01-17T11:38:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,346486ef-280a-0af4-e5e3-29d6698d8feb,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2006-01-24T22:59:09Z,laboratory,3.2,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,dbb3c8c6-4b11-059b-e555-3eacb605aabb,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2006-02-21T22:59:09Z,laboratory,2.9,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,e5934c8f-4044-62b9-7083-38e1581fec53,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2006-03-01T02:53:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,fe216510-2587-8195-d70b-a241226a0e2d,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2006-03-31T11:03:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,eb76503c-c8eb-c7af-901a-083813718b6c,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2006-05-01T15:57:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,a29bfca1-1887-b84d-cf60-068023c76ef6,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2006-05-30T22:59:09Z,laboratory,3.1,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,a29bfca1-1887-b84d-cf60-068023c76ef6,,718-7,Hemoglobin [Mass/volume] in Blood,2006-05-30T22:59:09Z,laboratory,13.0,g/dL,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,28579667-7cb7-5c58-7311-6b0341308617,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2006-06-07T01:30:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,1bc819d2-8480-463d-574a-aa83e0a944f1,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2006-07-07T12:22:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,4692b36a-767f-7046-5017-eb4399628e4b,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2006-07-25T22:59:09Z,laboratory,3.0,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,9586c077-66a9-ee64-782f-856ee2c7b9a7,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2006-08-08T09:34:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,5dde473c-4278-3b7d-cf3b-b9a2ff24049b,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2006-09-07T16:37:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,b0d45447-98e9-de3d-bc7c-a599e50fb8d9,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2006-10-08T20:00:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,30674d42-00a3-ef19-8133-760aa929b616,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2006-10-17T22:59:09Z,laboratory,3.2,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,9b1f7c81-5089-ddee-e064-e2eac31cf4e0,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2006-11-09T14:52:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,208b7844-3860-2513-9121-443b37c71920,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2006-12-10T20:31:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,426f5e49-41ae-8c56-7863-4d149e53ea06,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2007-01-11T01:23:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,f628d209-ea9f-858c-6b11-9ae074c9ca4c,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2007-02-11T07:47:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,23631c67-07ea-1fc0-34e8-fe2119a28f41,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2007-02-20T22:59:09Z,laboratory,3.1,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,84330aca-d212-c2bb-ae9e-da531c723dde,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2007-03-21T02:20:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,729184e6-30d6-15d0-0589-359ea61a0fe0,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2007-04-03T22:59:09Z,laboratory,3.0,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,f0511491-5973-d68f-96de-be0be53d0f28,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2007-05-02T01:31:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,e5c537c7-1880-98f4-04d3-f1b10b4ee51a,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2007-05-15T22:59:09Z,laboratory,3.2,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,22602c5d-e65c-5e48-5100-853af2741b17,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2007-06-05T22:59:09Z,laboratory,2.9,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,ade8b7f5-fae5-cc44-115d-d1a69aad3b49,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2007-06-13T02:16:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,957da095-528d-db9a-6bca-d8fea8de8027,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2007-07-13T08:36:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,8310355e-d4a0-e311-e455-f2002a1adea9,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2007-08-13T11:08:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,0d67a47c-8d93-811c-6994-aff33125f3b1,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2007-09-18T22:59:09Z,laboratory,3.1,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,224e6acc-ca73-1fdd-9f82-f7f6bcf84af0,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2007-09-26T01:05:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,e231b12c-8fa4-6015-415c-414ad18f376d,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2007-10-16T22:59:09Z,laboratory,2.9,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,2660c59f-399c-f94d-e0e7-6d3dfb24523b,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2007-10-27T04:19:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,3b1495f4-8172-83ce-cdbd-b2cd1e03520c,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2007-11-13T22:59:09Z,laboratory,3.1,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,fc2cbc03-132b-35d7-f11f-ec72ef45c25d,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2007-11-27T08:44:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,3fb7adac-b605-eb7e-4069-add64e81cfc7,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2007-12-28T14:08:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,2b345a52-32d7-f112-6bb3-8ce7cc1071c1,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2008-01-15T22:59:09Z,laboratory,2.9,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,6e17d56c-a0cc-9868-8401-e430ac0e362c,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2008-01-29T08:48:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,21f13251-20e5-f8e2-491d-c2a518c52a6a,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2008-02-26T22:59:09Z,laboratory,3.3,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,eb40418d-3009-d11b-88a3-138c2e68fc69,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2008-03-05T02:13:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,9a53d328-bc3f-fd1f-2601-385f938d0154,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2008-03-18T22:59:09Z,laboratory,3.1,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,28757f75-f8b1-55c5-1eb8-f15dbd7a0cc7,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2008-04-05T04:04:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,6877f47b-34e7-2e93-ed56-54748fd16381,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2008-08-12T22:59:09Z,laboratory,2.8,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,bb87fb1d-ff81-5c35-6a67-274d45470e38,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2008-08-20T02:12:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,71007181-94b1-de6b-ab8a-b9206ee8dbb1,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2008-09-23T22:59:09Z,laboratory,3.4,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,e7fc81a2-87d2-9eeb-0015-aa0882a4c3f7,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2008-10-01T01:19:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,801b2302-d511-0cd4-e0b2-cd80cff5bdec,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2008-10-14T22:59:09Z,laboratory,3.2,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,43b37e00-44e2-e8e9-2bde-4c63b8608be9,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2008-11-01T04:19:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,31193f30-681c-e288-dcbd-2ad57534b10b,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2008-12-02T09:41:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,d50e57a5-35f6-b3a9-e207-475c3a933a63,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2008-12-09T22:59:09Z,laboratory,3.4,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,91292796-08f9-bd7e-0421-24a770db0670,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2009-01-06T22:59:09Z,laboratory,3.3,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,dc815d0f-3cad-3dfd-f8b8-35da994c81f7,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2009-01-14T01:50:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,0d2b80ad-41a0-43a0-2099-215b6bed6bef,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2009-02-03T22:59:09Z,laboratory,3.0,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,805be89e-fede-8611-04b2-0a17258dce94,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2009-02-14T06:09:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,fc65b38a-7723-101d-90f3-fd6f896295b6,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2009-03-10T22:59:09Z,laboratory,2.9,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,dd2a0e75-0e9d-7ce2-3a7e-cee01dff27e8,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2009-03-18T01:08:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,0859a011-2b43-95d5-bf3c-07243cc70065,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2009-04-18T06:55:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,bee790e8-3e1c-edb7-7998-0f1fe33f947d,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2009-05-05T22:59:09Z,laboratory,3.4,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,d787be66-93a9-983c-5dd1-1c33f0bd663f,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2009-05-19T07:31:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,8083c837-381a-2dce-f71b-7b7553b54f71,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2009-06-09T22:59:09Z,laboratory,3.0,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,ff164906-abd3-8db1-44e0-d182b33d1a17,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2009-06-24T01:53:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,fa14c045-ad4d-03d6-f334-dea4817c7c77,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2009-06-30T22:59:09Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,fa14c045-ad4d-03d6-f334-dea4817c7c77,,718-7,Hemoglobin [Mass/volume] in Blood,2009-07-02T01:40:21Z,laboratory,12.8,g/dL,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,fa14c045-ad4d-03d6-f334-dea4817c7c77,,718-7,Hemoglobin [Mass/volume] in Blood,2009-07-03T02:22:10Z,laboratory,14.9,g/dL,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,fa14c045-ad4d-03d6-f334-dea4817c7c77,,718-7,Hemoglobin [Mass/volume] in Blood,2009-07-04T03:05:53Z,laboratory,15.0,g/dL,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,fa14c045-ad4d-03d6-f334-dea4817c7c77,,718-7,Hemoglobin [Mass/volume] in Blood,2009-07-05T03:48:40Z,laboratory,14.6,g/dL,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,fa14c045-ad4d-03d6-f334-dea4817c7c77,,718-7,Hemoglobin [Mass/volume] in Blood,2009-07-06T04:30:03Z,laboratory,16.6,g/dL,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,fa14c045-ad4d-03d6-f334-dea4817c7c77,,718-7,Hemoglobin [Mass/volume] in Blood,2009-07-07T05:18:31Z,laboratory,15.8,g/dL,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,fa14c045-ad4d-03d6-f334-dea4817c7c77,,718-7,Hemoglobin [Mass/volume] in Blood,2009-07-08T06:14:06Z,laboratory,16.6,g/dL,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,757e56db-fb8c-21e1-b27e-0928b8e1722a,,718-7,Hemoglobin [Mass/volume] in Blood,2009-07-28T22:59:09Z,laboratory,13.6,g/dL,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,757e56db-fb8c-21e1-b27e-0928b8e1722a,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2009-07-28T22:59:09Z,laboratory,0.0,{presence},numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,1a54ca5f-ccc2-fcf2-4a16-a538f3e6bf6a,,718-7,Hemoglobin [Mass/volume] in Blood,2009-08-05T00:28:17Z,laboratory,13.1,g/dL,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,1a54ca5f-ccc2-fcf2-4a16-a538f3e6bf6a,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2009-08-05T00:28:17Z,laboratory,0.0,{presence},numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,9e0dcc42-fff2-fc38-b51c-58d901dfd540,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2009-08-18T22:59:09Z,laboratory,2.9,%,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,f91dfef0-e019-f6eb-ad4d-f5ea1321fbd2,,718-7,Hemoglobin [Mass/volume] in Blood,2009-08-25T22:59:09Z,laboratory,14.9,g/dL,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,f91dfef0-e019-f6eb-ad4d-f5ea1321fbd2,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2009-08-25T22:59:09Z,laboratory,0.0,{presence},numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,b1643d0d-fba3-90e3-0ef5-faf513e43725,,718-7,Hemoglobin [Mass/volume] in Blood,2009-09-02T00:51:05Z,laboratory,13.5,g/dL,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,b1643d0d-fba3-90e3-0ef5-faf513e43725,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2009-09-02T00:51:05Z,laboratory,0.0,{presence},numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,3a8d1aa9-4c9e-b59f-8f66-3cb76b3bfc3f,,718-7,Hemoglobin [Mass/volume] in Blood,2009-09-09T02:32:39Z,laboratory,17.2,g/dL,numeric
+,,eb9c96b1-e1bf-3c0a-3fac-66fb8bdd1cda,3a8d1aa9-4c9e-b59f-8f66-3cb76b3bfc3f,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2009-09-09T02:32:39Z,laboratory,0.0,{presence},numeric

@@ -1,0 +1,81 @@
+DATE,PATIENT,ENCOUNTER,CATEGORY,CODE,DESCRIPTION,VALUE,UNITS,TYPE
+2015-08-17T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,dc4f125e-4f68-43cd-97b2-6b416ec84ffb,laboratory,2069-3,Chloride [Moles/volume] in Blood,102.4,mmol/L,numeric
+2016-08-22T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,c9795975-2ef1-0134-ac00-cc8641463fe5,laboratory,2069-3,Chloride [Moles/volume] in Blood,102.1,mmol/L,numeric
+2017-08-28T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,3013f580-74c9-bf73-3b4d-c43864f028f1,laboratory,2069-3,Chloride [Moles/volume] in Blood,102.4,mmol/L,numeric
+2018-09-03T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,09445d13-9041-8332-a8c0-db16fc769c9d,laboratory,2069-3,Chloride [Moles/volume] in Blood,108.3,mmol/L,numeric
+2019-09-09T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,e75402c3-345f-f8a8-4663-b32940982561,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,110.1,mmol/L,numeric
+2019-09-09T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,e75402c3-345f-f8a8-4663-b32940982561,laboratory,2069-3,Chloride [Moles/volume] in Blood,110.1,mmol/L,numeric
+2020-03-02T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,122d5101-906c-71cb-d4ac-21ba602888f2,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,103.1,mmol/L,numeric
+2020-03-02T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,122d5101-906c-71cb-d4ac-21ba602888f2,laboratory,2069-3,Chloride [Moles/volume] in Blood,103.1,mmol/L,numeric
+2020-03-09T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,169d7417-5771-344f-d89c-b3bafe9ee017,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,110.1,mmol/L,numeric
+2020-03-16T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,c8c02559-eb2f-8ff7-ae73-1dab8f543b60,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,105.4,mmol/L,numeric
+2020-03-16T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,c8c02559-eb2f-8ff7-ae73-1dab8f543b60,laboratory,2069-3,Chloride [Moles/volume] in Blood,105.4,mmol/L,numeric
+2020-03-23T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,08aa5452-b8fb-d166-401b-c98dccb22bbf,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,102.0,mmol/L,numeric
+2020-04-20T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,0d3096d1-19ac-cbbf-ea91-21c7ac76cac2,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,109.4,mmol/L,numeric
+2020-04-20T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,0d3096d1-19ac-cbbf-ea91-21c7ac76cac2,laboratory,2069-3,Chloride [Moles/volume] in Blood,109.4,mmol/L,numeric
+2020-04-27T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,76867120-b69d-3b97-4d98-a43c938a6af5,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,104.7,mmol/L,numeric
+2020-05-04T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,f5e518fc-092d-6565-e118-fc5623505120,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,104.4,mmol/L,numeric
+2020-05-04T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,f5e518fc-092d-6565-e118-fc5623505120,laboratory,2069-3,Chloride [Moles/volume] in Blood,104.4,mmol/L,numeric
+2020-06-01T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,1fa69e3a-60d9-e9fc-3e60-668a9269ec02,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,102.6,mmol/L,numeric
+2020-06-01T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,1fa69e3a-60d9-e9fc-3e60-668a9269ec02,laboratory,2069-3,Chloride [Moles/volume] in Blood,102.6,mmol/L,numeric
+2020-09-14T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,72b7b981-e8cf-9208-51a4-b696b4e4814e,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,105.2,mmol/L,numeric
+2020-09-14T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,72b7b981-e8cf-9208-51a4-b696b4e4814e,laboratory,2069-3,Chloride [Moles/volume] in Blood,105.2,mmol/L,numeric
+2020-09-28T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,ad2f7006-2d5d-2ffa-ce03-fd9cf3a4e1c0,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,101.1,mmol/L,numeric
+2020-09-28T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,ad2f7006-2d5d-2ffa-ce03-fd9cf3a4e1c0,laboratory,2069-3,Chloride [Moles/volume] in Blood,101.1,mmol/L,numeric
+2021-03-01T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,5743d831-32fd-a823-1101-6444247a610b,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,102.4,mmol/L,numeric
+2021-03-01T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,5743d831-32fd-a823-1101-6444247a610b,laboratory,2069-3,Chloride [Moles/volume] in Blood,102.4,mmol/L,numeric
+2021-03-29T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,edb359f9-8005-eaf8-ad2b-d2fe5e854e6d,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,105.8,mmol/L,numeric
+2021-03-29T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,edb359f9-8005-eaf8-ad2b-d2fe5e854e6d,laboratory,2069-3,Chloride [Moles/volume] in Blood,105.8,mmol/L,numeric
+2021-07-26T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,7ed18757-e361-1711-9ec4-6dafa245e8c1,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,107.9,mmol/L,numeric
+2021-07-26T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,7ed18757-e361-1711-9ec4-6dafa245e8c1,laboratory,2069-3,Chloride [Moles/volume] in Blood,107.9,mmol/L,numeric
+2021-08-30T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,da1fc9ab-2ac9-6f3d-ae7d-44eddb0e6291,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,107.0,mmol/L,numeric
+2021-08-30T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,da1fc9ab-2ac9-6f3d-ae7d-44eddb0e6291,laboratory,2069-3,Chloride [Moles/volume] in Blood,107.0,mmol/L,numeric
+2021-09-20T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,ed665871-ce4c-6f8f-98d2-0061e25c34b1,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,104.0,mmol/L,numeric
+2021-09-20T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,ed665871-ce4c-6f8f-98d2-0061e25c34b1,laboratory,2069-3,Chloride [Moles/volume] in Blood,104.0,mmol/L,numeric
+2021-10-25T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,c07bc0b8-ae5c-ec1a-d5f1-027dbb7092b9,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,105.0,mmol/L,numeric
+2021-10-25T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,c07bc0b8-ae5c-ec1a-d5f1-027dbb7092b9,laboratory,2069-3,Chloride [Moles/volume] in Blood,105.0,mmol/L,numeric
+2021-11-22T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,f4e94d2f-149d-0ccc-cd0b-ce34c27bcdb6,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,109.4,mmol/L,numeric
+2021-11-22T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,f4e94d2f-149d-0ccc-cd0b-ce34c27bcdb6,laboratory,2069-3,Chloride [Moles/volume] in Blood,109.4,mmol/L,numeric
+2021-12-27T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,f186ca23-c0a4-ebe2-086c-7f025a041726,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,108.5,mmol/L,numeric
+2021-12-27T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,f186ca23-c0a4-ebe2-086c-7f025a041726,laboratory,2069-3,Chloride [Moles/volume] in Blood,108.5,mmol/L,numeric
+2022-02-21T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,025de77a-1809-ec68-2294-f365eab1e722,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,104.4,mmol/L,numeric
+2022-02-21T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,025de77a-1809-ec68-2294-f365eab1e722,laboratory,2069-3,Chloride [Moles/volume] in Blood,104.4,mmol/L,numeric
+2022-06-20T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,b524efee-d1a4-0708-572d-2cd48ad5e766,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,105.5,mmol/L,numeric
+2022-06-20T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,b524efee-d1a4-0708-572d-2cd48ad5e766,laboratory,2069-3,Chloride [Moles/volume] in Blood,105.5,mmol/L,numeric
+2022-08-01T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,dcdb56b1-2994-682c-956e-7a870d390041,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,101.1,mmol/L,numeric
+2022-08-01T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,dcdb56b1-2994-682c-956e-7a870d390041,laboratory,2069-3,Chloride [Moles/volume] in Blood,101.1,mmol/L,numeric
+2022-09-19T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,57292273-9401-d419-64fe-713ed8f6de35,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,103.2,mmol/L,numeric
+2022-09-19T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,57292273-9401-d419-64fe-713ed8f6de35,laboratory,2069-3,Chloride [Moles/volume] in Blood,103.2,mmol/L,numeric
+2022-09-26T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,36a55024-fa16-4176-fb21-3255388362ab,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,110.1,mmol/L,numeric
+2022-11-28T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,f6c4ed5e-72d1-5bc6-bc9b-02dae5b2452e,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,109.2,mmol/L,numeric
+2022-11-28T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,f6c4ed5e-72d1-5bc6-bc9b-02dae5b2452e,laboratory,2069-3,Chloride [Moles/volume] in Blood,109.2,mmol/L,numeric
+2022-12-05T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,d55f9121-b88e-9ef2-dd86-94371cac39b5,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,101.7,mmol/L,numeric
+2022-12-12T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,f8e41caf-bcb4-af02-dd3f-59dd44ee2239,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,107.4,mmol/L,numeric
+2022-12-12T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,f8e41caf-bcb4-af02-dd3f-59dd44ee2239,laboratory,2069-3,Chloride [Moles/volume] in Blood,107.4,mmol/L,numeric
+2022-12-19T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,dd2e5cf3-b1ae-01ef-c2b1-cd4f449390bf,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,107.3,mmol/L,numeric
+2022-12-26T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,867dabe0-f71e-6a24-9fe4-6a48d847cc77,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,107.7,mmol/L,numeric
+2022-12-26T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,867dabe0-f71e-6a24-9fe4-6a48d847cc77,laboratory,2069-3,Chloride [Moles/volume] in Blood,107.7,mmol/L,numeric
+2023-01-02T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,54e9d047-0108-b587-b5ef-4c7ba256583a,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,106.7,mmol/L,numeric
+2023-01-09T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,753f5a8d-93a8-704c-5f53-a156cbbc91ea,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,105.2,mmol/L,numeric
+2023-01-09T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,753f5a8d-93a8-704c-5f53-a156cbbc91ea,laboratory,2069-3,Chloride [Moles/volume] in Blood,105.2,mmol/L,numeric
+2023-01-16T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,576d1f4a-ede3-6418-d6fc-0e17e0b38b38,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,103.3,mmol/L,numeric
+2023-01-23T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,7380ebbd-f6a6-4efa-4bb4-3521f0870f49,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,107.7,mmol/L,numeric
+2023-01-23T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,7380ebbd-f6a6-4efa-4bb4-3521f0870f49,laboratory,2069-3,Chloride [Moles/volume] in Blood,107.7,mmol/L,numeric
+2023-01-30T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,09488885-fe23-9b8c-81fa-96a640a92b60,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,108.6,mmol/L,numeric
+2023-02-27T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,7cfc0b2b-2035-d5fe-bf24-a6f198553980,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,103.4,mmol/L,numeric
+2023-02-27T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,7cfc0b2b-2035-d5fe-bf24-a6f198553980,laboratory,2069-3,Chloride [Moles/volume] in Blood,103.4,mmol/L,numeric
+2023-03-06T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,2cee2150-6cca-1205-9bac-b5a093fa4c34,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,104.4,mmol/L,numeric
+2023-03-13T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,5667f7d6-9d5c-95e5-dc59-b23bf93192d6,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,106.5,mmol/L,numeric
+2023-03-13T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,5667f7d6-9d5c-95e5-dc59-b23bf93192d6,laboratory,2069-3,Chloride [Moles/volume] in Blood,106.5,mmol/L,numeric
+2023-06-19T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,f524a908-4bef-f89c-e7de-5d971dd48aa7,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,105.5,mmol/L,numeric
+2023-06-19T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,f524a908-4bef-f89c-e7de-5d971dd48aa7,laboratory,2069-3,Chloride [Moles/volume] in Blood,105.5,mmol/L,numeric
+2023-07-17T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,84138270-1e98-1478-e16c-9c01952a2e00,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,105.3,mmol/L,numeric
+2023-07-17T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,84138270-1e98-1478-e16c-9c01952a2e00,laboratory,2069-3,Chloride [Moles/volume] in Blood,105.3,mmol/L,numeric
+2023-08-14T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,ee088a89-722e-0966-edd5-63ff3987e7de,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,103.5,mmol/L,numeric
+2023-08-14T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,ee088a89-722e-0966-edd5-63ff3987e7de,laboratory,2069-3,Chloride [Moles/volume] in Blood,103.5,mmol/L,numeric
+2023-10-02T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,2d3a0b54-cc8b-1053-226f-9a20acb5541c,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,109.3,mmol/L,numeric
+2023-10-02T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,2d3a0b54-cc8b-1053-226f-9a20acb5541c,laboratory,2069-3,Chloride [Moles/volume] in Blood,109.3,mmol/L,numeric
+2023-12-18T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,80eb18f1-3ca8-4340-b8f7-7123f3aa7080,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,109.0,mmol/L,numeric
+2023-12-18T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,80eb18f1-3ca8-4340-b8f7-7123f3aa7080,laboratory,2069-3,Chloride [Moles/volume] in Blood,109.0,mmol/L,numeric
+2024-06-10T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,6425164d-304c-cb2c-d2a0-91f9547bacae,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,101.9,mmol/L,numeric
+2024-06-10T11:57:08Z,25094141-ace3-b7e3-4a87-b9f96bef518d,6425164d-304c-cb2c-d2a0-91f9547bacae,laboratory,2069-3,Chloride [Moles/volume] in Blood,101.9,mmol/L,numeric

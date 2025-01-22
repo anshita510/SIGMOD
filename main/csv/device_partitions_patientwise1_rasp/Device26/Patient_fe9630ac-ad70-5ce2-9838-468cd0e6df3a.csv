@@ -1,0 +1,13 @@
+DATE,PATIENT,ENCOUNTER,CATEGORY,CODE,DESCRIPTION,VALUE,UNITS,TYPE
+2016-09-03T01:50:36Z,fe9630ac-ad70-5ce2-9838-468cd0e6df3a,7140bfa6-37fa-fdeb-d497-6414199c73fe,laboratory,8462-4,Diastolic Blood Pressure,112.0,mm[Hg],numeric
+2016-09-03T01:50:36Z,fe9630ac-ad70-5ce2-9838-468cd0e6df3a,7140bfa6-37fa-fdeb-d497-6414199c73fe,vital-signs,8480-6,Systolic Blood Pressure,72.0,mm[Hg],numeric
+2016-09-04T22:50:36Z,fe9630ac-ad70-5ce2-9838-468cd0e6df3a,7140bfa6-37fa-fdeb-d497-6414199c73fe,laboratory,8462-4,Diastolic Blood Pressure,82.0,mm[Hg],numeric
+2016-09-04T22:50:36Z,fe9630ac-ad70-5ce2-9838-468cd0e6df3a,7140bfa6-37fa-fdeb-d497-6414199c73fe,vital-signs,8480-6,Systolic Blood Pressure,100.0,mm[Hg],numeric
+2017-02-15T14:50:36Z,fe9630ac-ad70-5ce2-9838-468cd0e6df3a,0c3fd317-2e3b-b80f-d4d9-cd206ceec1a0,vital-signs,8462-4,Diastolic Blood Pressure,83.0,mm[Hg],numeric
+2017-02-15T14:50:36Z,fe9630ac-ad70-5ce2-9838-468cd0e6df3a,0c3fd317-2e3b-b80f-d4d9-cd206ceec1a0,vital-signs,8480-6,Systolic Blood Pressure,101.0,mm[Hg],numeric
+2019-10-16T14:50:36Z,fe9630ac-ad70-5ce2-9838-468cd0e6df3a,df865951-1366-d8ad-4f10-cda569658376,vital-signs,8462-4,Diastolic Blood Pressure,83.0,mm[Hg],numeric
+2019-10-16T14:50:36Z,fe9630ac-ad70-5ce2-9838-468cd0e6df3a,df865951-1366-d8ad-4f10-cda569658376,vital-signs,8480-6,Systolic Blood Pressure,99.0,mm[Hg],numeric
+2020-02-19T14:50:36Z,fe9630ac-ad70-5ce2-9838-468cd0e6df3a,919aba09-89bc-61d9-f5d7-96a814336d5c,vital-signs,8462-4,Diastolic Blood Pressure,79.0,mm[Hg],numeric
+2020-02-19T14:50:36Z,fe9630ac-ad70-5ce2-9838-468cd0e6df3a,919aba09-89bc-61d9-f5d7-96a814336d5c,vital-signs,8480-6,Systolic Blood Pressure,96.0,mm[Hg],numeric
+2023-02-22T14:50:36Z,fe9630ac-ad70-5ce2-9838-468cd0e6df3a,a3abc8d4-4b0d-3fc6-240b-b1e905aad9bb,vital-signs,8462-4,Diastolic Blood Pressure,82.0,mm[Hg],numeric
+2023-02-22T14:50:36Z,fe9630ac-ad70-5ce2-9838-468cd0e6df3a,a3abc8d4-4b0d-3fc6-240b-b1e905aad9bb,vital-signs,8480-6,Systolic Blood Pressure,97.0,mm[Hg],numeric

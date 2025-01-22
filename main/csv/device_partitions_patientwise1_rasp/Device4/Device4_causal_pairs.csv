@@ -1,0 +1,801 @@
+cause,effect,lag_bin,cause_type,effect_type,conditional_probability
+0-35,0-1,0-7,Carbon Dioxide,Creatinine,0.0089659243542908
+0-35,0-1,7-14,Carbon Dioxide,Creatinine,0.0027462420970681
+0-35,0-1,14-30,Carbon Dioxide,Creatinine,0.004833728301693
+0-35,0-1,30-60,Carbon Dioxide,Creatinine,0.008033399779274
+0-35,0-1,60-90,Carbon Dioxide,Creatinine,0.0035076612454764
+0-35,0-1,90-180,Carbon Dioxide,Creatinine,0.0009924114743299
+0-35,0-1,730-inf,Carbon Dioxide,Creatinine,0.0034563296174938
+0-35,0-100,730-inf,Carbon Dioxide,Alkaline Phosphatase,8.555271330430244e-06
+0-35,0-150,7-14,Carbon Dioxide,Body Height,8.555271330430244e-06
+0-35,0-150,14-30,Carbon Dioxide,Body Height,8.555271330430244e-06
+0-35,0-150,30-60,Carbon Dioxide,Body Height,4.277635665215122e-05
+0-35,0-150,60-90,Carbon Dioxide,Body Height,2.5665813991290732e-05
+0-35,0-150,90-180,Carbon Dioxide,Body Height,8.555271330430245e-05
+0-35,0-150,180-365,Carbon Dioxide,Body Height,0.0002908792252346
+0-35,0-150,365-730,Carbon Dioxide,Body Height,0.0002823239539041
+0-35,0-150,730-inf,Carbon Dioxide,Body Height,0.0005817584504692
+0-35,0-35,0-7,Carbon Dioxide,Carbon Dioxide,0.0165544500243825
+0-35,0-35,7-14,Carbon Dioxide,Carbon Dioxide,0.0037728746567197
+0-35,0-35,14-30,Carbon Dioxide,Carbon Dioxide,0.0079392917946392
+0-35,0-35,30-60,Carbon Dioxide,Carbon Dioxide,0.0127045779256889
+0-35,0-35,60-90,Carbon Dioxide,Carbon Dioxide,0.0045000727198063
+0-35,0-35,90-180,Carbon Dioxide,Carbon Dioxide,0.0011292958156167
+0-35,0-35,730-inf,Carbon Dioxide,Carbon Dioxide,0.0063822324125009
+0-35,0-50,7-14,Carbon Dioxide,Body Weight,8.555271330430244e-06
+0-35,0-50,14-30,Carbon Dioxide,Body Weight,8.555271330430244e-06
+0-35,0-50,30-60,Carbon Dioxide,Body Weight,5.133162798258147e-05
+0-35,0-50,60-90,Carbon Dioxide,Body Weight,2.5665813991290732e-05
+0-35,0-50,90-180,Carbon Dioxide,Body Weight,8.555271330430245e-05
+0-35,0-50,180-365,Carbon Dioxide,Body Weight,0.000299434496565
+0-35,0-50,365-730,Carbon Dioxide,Body Weight,0.0003251003105563
+0-35,0-50,730-inf,Carbon Dioxide,Body Weight,0.0006245348071214
+0-35,0-60,7-14,Carbon Dioxide,Diastolic Blood Pressure,0.0001026632559651
+0-35,0-60,14-30,Carbon Dioxide,Diastolic Blood Pressure,0.0002138817832607
+0-35,0-60,30-60,Carbon Dioxide,Diastolic Blood Pressure,0.0004277635665215
+0-35,0-60,60-90,Carbon Dioxide,Diastolic Blood Pressure,0.0001625501552781
+0-35,0-60,90-180,Carbon Dioxide,Diastolic Blood Pressure,0.0005218715511562
+0-35,0-60,180-365,Carbon Dioxide,Diastolic Blood Pressure,0.0007785296910691
+0-35,0-60,365-730,Carbon Dioxide,Diastolic Blood Pressure,0.0015570593821383
+0-35,0-60,730-inf,Carbon Dioxide,Diastolic Blood Pressure,0.0043974094638411
+0-35,0-70,0-7,Carbon Dioxide,Glucose,0.0022500363599031
+0-35,0-70,7-14,Carbon Dioxide,Glucose,0.0003165450392259
+0-35,0-70,14-30,Carbon Dioxide,Glucose,0.0014800619401644
+0-35,0-70,30-60,Carbon Dioxide,Glucose,0.0026435788411029
+0-35,0-70,60-90,Carbon Dioxide,Glucose,0.0007015322490952
+0-35,0-70,90-180,Carbon Dioxide,Glucose,0.000239547597252
+0-35,0-70,730-inf,Carbon Dioxide,Glucose,0.000975300931669
+0-35,0-8,0-7,Carbon Dioxide,Calcium,0.0006330900784518
+0-35,0-8,7-14,Carbon Dioxide,Calcium,0.0002309923259216
+0-35,0-8,14-30,Carbon Dioxide,Calcium,0.0003336555818867
+0-35,0-8,30-60,Carbon Dioxide,Calcium,0.0005133162798258
+0-35,0-8,60-90,Carbon Dioxide,Calcium,0.000119773798626
+0-35,0-8,90-180,Carbon Dioxide,Calcium,0.0001112185272955
+0-35,0-8,730-inf,Carbon Dioxide,Calcium,0.0002908792252346
+0-35,0-90,7-14,Carbon Dioxide,Systolic Blood Pressure,2.5665813991290732e-05
+0-35,0-90,14-30,Carbon Dioxide,Systolic Blood Pressure,2.5665813991290732e-05
+0-35,0-90,30-60,Carbon Dioxide,Systolic Blood Pressure,0.0001368843412868
+0-35,0-90,60-90,Carbon Dioxide,Systolic Blood Pressure,5.133162798258147e-05
+0-35,0-90,90-180,Carbon Dioxide,Systolic Blood Pressure,0.0001882159692694
+0-35,0-90,180-365,Carbon Dioxide,Systolic Blood Pressure,0.0002823239539041
+0-35,0-90,365-730,Carbon Dioxide,Systolic Blood Pressure,0.0006416453497822
+0-35,0-90,730-inf,Carbon Dioxide,Systolic Blood Pressure,0.0009325245750168
+0-35,1-1,0-7,Carbon Dioxide,Creatinine,0.0033964427181808
+0-35,1-1,7-14,Carbon Dioxide,Creatinine,0.0009924114743299
+0-35,1-1,14-30,Carbon Dioxide,Creatinine,0.0030200107796418
+0-35,1-1,30-60,Carbon Dioxide,Creatinine,0.004474406905815
+0-35,1-1,60-90,Carbon Dioxide,Creatinine,0.0009924114743299
+0-35,1-1,90-180,Carbon Dioxide,Creatinine,0.0001368843412868
+0-35,1-1,730-inf,Carbon Dioxide,Creatinine,0.0014201750408514
+0-35,1-inf,0-7,Carbon Dioxide,Creatinine,0.0041920829519108
+0-35,1-inf,7-14,Carbon Dioxide,Creatinine,3.422108532172098e-05
+0-35,1-inf,14-30,Carbon Dioxide,Creatinine,8.555271330430245e-05
+0-35,1-inf,30-60,Carbon Dioxide,Creatinine,0.0001967712405998
+0-35,1-inf,730-inf,Carbon Dioxide,Creatinine,0.0015057277541557
+0-35,107-inf,0-7,Carbon Dioxide,Chloride,0.005509594736797
+0-35,107-inf,7-14,Carbon Dioxide,Chloride,0.0017538306227382
+0-35,107-inf,14-30,Carbon Dioxide,Chloride,0.0032595583768939
+0-35,107-inf,30-60,Carbon Dioxide,Chloride,0.0054668183801449
+0-35,107-inf,60-90,Carbon Dioxide,Chloride,0.0017880517080599
+0-35,107-inf,90-180,Carbon Dioxide,Chloride,0.0007443086057474
+0-35,107-inf,730-inf,Carbon Dioxide,Chloride,0.0023441443445378
+0-35,120-140,0-7,Carbon Dioxide,Systolic Blood Pressure,8.555271330430244e-06
+0-35,120-140,7-14,Carbon Dioxide,Systolic Blood Pressure,0.0005560926364779
+0-35,120-140,14-30,Carbon Dioxide,Systolic Blood Pressure,0.0002823239539041
+0-35,120-140,30-60,Carbon Dioxide,Systolic Blood Pressure,0.0004705399231736
+0-35,120-140,60-90,Carbon Dioxide,Systolic Blood Pressure,0.0006245348071214
+0-35,120-140,90-180,Carbon Dioxide,Systolic Blood Pressure,0.0010865194589646
+0-35,120-140,180-365,Carbon Dioxide,Systolic Blood Pressure,0.0026521341124333
+0-35,120-140,365-730,Carbon Dioxide,Systolic Blood Pressure,0.004594180704441
+0-35,120-140,730-inf,Carbon Dioxide,Systolic Blood Pressure,0.0156219254493656
+0-35,120-180,730-inf,Carbon Dioxide,ALT (Elevated),8.555271330430244e-06
+0-35,135-145,0-7,Carbon Dioxide,Sodium,0.0165544500243825
+0-35,135-145,7-14,Carbon Dioxide,Sodium,0.0037728746567197
+0-35,135-145,14-30,Carbon Dioxide,Sodium,0.0079392917946392
+0-35,135-145,30-60,Carbon Dioxide,Sodium,0.0127045779256889
+0-35,135-145,60-90,Carbon Dioxide,Sodium,0.0045000727198063
+0-35,135-145,90-180,Carbon Dioxide,Sodium,0.0011292958156167
+0-35,135-145,730-inf,Carbon Dioxide,Sodium,0.0063822324125009
+0-35,140-inf,7-14,Carbon Dioxide,Systolic Blood Pressure,5.133162798258147e-05
+0-35,140-inf,14-30,Carbon Dioxide,Systolic Blood Pressure,8.555271330430244e-06
+0-35,140-inf,30-60,Carbon Dioxide,Systolic Blood Pressure,6.844217064344196e-05
+0-35,140-inf,60-90,Carbon Dioxide,Systolic Blood Pressure,5.133162798258147e-05
+0-35,140-inf,90-180,Carbon Dioxide,Systolic Blood Pressure,0.0002224370545911
+0-35,140-inf,180-365,Carbon Dioxide,Systolic Blood Pressure,0.0006502006211126
+0-35,140-inf,365-730,Carbon Dioxide,Systolic Blood Pressure,0.0004106530238606
+0-35,140-inf,730-inf,Carbon Dioxide,Systolic Blood Pressure,0.003242447834233
+0-35,150-170,0-7,Carbon Dioxide,Body Height,8.555271330430244e-06
+0-35,150-170,7-14,Carbon Dioxide,Body Height,0.0009496351176777
+0-35,150-170,14-30,Carbon Dioxide,Body Height,0.0006929769777648
+0-35,150-170,30-60,Carbon Dioxide,Body Height,0.0008640824043734
+0-35,150-170,60-90,Carbon Dioxide,Body Height,0.0009496351176777
+0-35,150-170,90-180,Carbon Dioxide,Body Height,0.001651167366773
+0-35,150-170,180-365,Carbon Dioxide,Body Height,0.003798540470711
+0-35,150-170,365-730,Carbon Dioxide,Body Height,0.006681666909066
+0-35,150-170,730-inf,Carbon Dioxide,Body Height,0.0211144096435018
+0-35,150-450,730-inf,Carbon Dioxide,Platelet Count,8.555271330430244e-06
+0-35,16-inf,730-inf,Carbon Dioxide,Hemoglobin,8.555271330430244e-06
+0-35,170-190,7-14,Carbon Dioxide,Body Height,0.0007443086057474
+0-35,170-190,14-30,Carbon Dioxide,Body Height,0.0005133162798258
+0-35,170-190,30-60,Carbon Dioxide,Body Height,0.001154961629608
+0-35,170-190,60-90,Carbon Dioxide,Body Height,0.0007785296910691
+0-35,170-190,90-180,Carbon Dioxide,Body Height,0.0020019334913206
+0-35,170-190,180-365,Carbon Dioxide,Body Height,0.0044829621771454
+0-35,170-190,365-730,Carbon Dioxide,Body Height,0.0075799703987611
+0-35,170-190,730-inf,Carbon Dioxide,Body Height,0.0250926108121519
+0-35,190-inf,90-180,Carbon Dioxide,Body Height,8.555271330430244e-06
+0-35,190-inf,180-365,Carbon Dioxide,Body Height,0.0004363188378519
+0-35,190-inf,365-730,Carbon Dioxide,Body Height,2.5665813991290732e-05
+0-35,190-inf,730-inf,Carbon Dioxide,Body Height,9.410798463473267e-05
+0-35,3-5,0-7,Carbon Dioxide,Potassium,0.0142616373078272
+0-35,3-5,7-14,Carbon Dioxide,Potassium,0.0033194452762069
+0-35,3-5,14-30,Carbon Dioxide,Potassium,0.0065618931104399
+0-35,3-5,30-60,Carbon Dioxide,Potassium,0.0115068399394286
+0-35,3-5,60-90,Carbon Dioxide,Potassium,0.0041835276805803
+0-35,3-5,90-180,Carbon Dioxide,Potassium,0.0011292958156167
+0-35,3-5,730-inf,Carbon Dioxide,Albumin,8.555271330430244e-06
+0-35,3-5,730-inf,Carbon Dioxide,Potassium,0.0056037027214318
+0-35,5-inf,0-7,Carbon Dioxide,Potassium,0.0022928127165553
+0-35,5-inf,7-14,Carbon Dioxide,Potassium,0.0004534293805128
+0-35,5-inf,14-30,Carbon Dioxide,Potassium,0.0013773986841992
+0-35,5-inf,30-60,Carbon Dioxide,Potassium,0.0011977379862602
+0-35,5-inf,60-90,Carbon Dioxide,Potassium,0.0003165450392259
+0-35,5-inf,730-inf,Carbon Dioxide,Potassium,0.0007785296910691
+0-35,50-70,7-14,Carbon Dioxide,Body Weight,9.410798463473267e-05
+0-35,50-70,14-30,Carbon Dioxide,Body Weight,9.410798463473267e-05
+0-35,50-70,30-60,Carbon Dioxide,Body Weight,0.0001026632559651
+0-35,50-70,60-90,Carbon Dioxide,Body Weight,0.0001112185272955
+0-35,50-70,90-180,Carbon Dioxide,Body Weight,0.0001112185272955
+0-35,50-70,180-365,Carbon Dioxide,Body Weight,0.0002053265119303
+0-35,50-70,365-730,Carbon Dioxide,Body Weight,0.0007528638770778
+0-35,50-70,730-inf,Carbon Dioxide,Body Weight,0.0007271980630865
+0-35,60-80,7-14,Carbon Dioxide,Diastolic Blood Pressure,0.0007614191484082
+0-35,60-80,14-30,Carbon Dioxide,Diastolic Blood Pressure,0.0004962057371649
+0-35,60-80,30-60,Carbon Dioxide,Diastolic Blood Pressure,0.0008213060477213
+0-35,60-80,60-90,Carbon Dioxide,Diastolic Blood Pressure,0.0008127507763908
+0-35,60-80,90-180,Carbon Dioxide,Diastolic Blood Pressure,0.0017966069793903
+0-35,60-80,180-365,Carbon Dioxide,Diastolic Blood Pressure,0.0035162165168068
+0-35,60-80,365-730,Carbon Dioxide,Diastolic Blood Pressure,0.0055523710934492
+0-35,60-80,730-inf,Carbon Dioxide,Diastolic Blood Pressure,0.0178890723519296
+0-35,70-90,0-7,Carbon Dioxide,Body Weight,8.555271330430244e-06
+0-35,70-90,7-14,Carbon Dioxide,Body Weight,0.0012319590715819
+0-35,70-90,14-30,Carbon Dioxide,Body Weight,0.00079564023373
+0-35,70-90,30-60,Carbon Dioxide,Body Weight,0.001095074730295
+0-35,70-90,60-90,Carbon Dioxide,Body Weight,0.0010865194589646
+0-35,70-90,90-180,Carbon Dioxide,Body Weight,0.0023698101585291
+0-35,70-90,180-365,Carbon Dioxide,Body Weight,0.0054924841941362
+0-35,70-90,365-730,Carbon Dioxide,Body Weight,0.0090856981529169
+0-35,70-90,730-inf,Carbon Dioxide,Body Weight,0.033844653383182
+0-35,70-99,0-7,Carbon Dioxide,Glucose,0.0133804443607929
+0-35,70-99,7-14,Carbon Dioxide,Glucose,0.0033108900048765
+0-35,70-99,14-30,Carbon Dioxide,Glucose,0.0058945819466664
+0-35,70-99,30-60,Carbon Dioxide,Glucose,0.0095220169907688
+0-35,70-99,60-90,Carbon Dioxide,Glucose,0.0035761034161198
+0-35,70-99,90-180,Carbon Dioxide,Glucose,0.0008897482183647
+0-35,70-99,730-inf,Carbon Dioxide,Glucose,0.0050561653562842
+0-35,8-10,0-7,Carbon Dioxide,Calcium,0.0159213599459306
+0-35,8-10,7-14,Carbon Dioxide,Calcium,0.0035418823307981
+0-35,8-10,14-30,Carbon Dioxide,Calcium,0.0076056362127524
+0-35,8-10,30-60,Carbon Dioxide,Calcium,0.0121912616458631
+0-35,8-10,60-90,Carbon Dioxide,Calcium,0.0043802989211802
+0-35,8-10,90-180,Carbon Dioxide,Calcium,0.0010180772883211
+0-35,8-10,730-inf,Carbon Dioxide,Calcium,0.0060913531872663
+0-35,8-16,730-inf,Carbon Dioxide,Anion Gap,8.555271330430244e-06
+0-35,80-150,730-inf,Carbon Dioxide,AST (Elevated),8.555271330430244e-06
+0-35,80-90,7-14,Carbon Dioxide,Diastolic Blood Pressure,0.0006074242644605
+0-35,80-90,14-30,Carbon Dioxide,Diastolic Blood Pressure,0.0003935424811997
+0-35,80-90,30-60,Carbon Dioxide,Diastolic Blood Pressure,0.0005903137217996
+0-35,80-90,60-90,Carbon Dioxide,Diastolic Blood Pressure,0.0003764319385389
+0-35,80-90,90-180,Carbon Dioxide,Diastolic Blood Pressure,0.0005047610084953
+0-35,80-90,180-365,Carbon Dioxide,Diastolic Blood Pressure,0.002267146902564
+0-35,80-90,365-730,Carbon Dioxide,Diastolic Blood Pressure,0.0038840931840153
+0-35,80-90,730-inf,Carbon Dioxide,Diastolic Blood Pressure,0.012807241181654
+0-35,90-120,7-14,Carbon Dioxide,Systolic Blood Pressure,0.0010694089163037
+0-35,90-120,14-30,Carbon Dioxide,Systolic Blood Pressure,0.0008983034896951
+0-35,90-120,30-60,Carbon Dioxide,Systolic Blood Pressure,0.0013859539555296
+0-35,90-120,60-90,Carbon Dioxide,Systolic Blood Pressure,0.001035187830982
+0-35,90-120,90-180,Carbon Dioxide,Systolic Blood Pressure,0.0022500363599031
+0-35,90-120,180-365,Carbon Dioxide,Systolic Blood Pressure,0.0054668183801449
+0-35,90-120,365-730,Carbon Dioxide,Systolic Blood Pressure,0.0093081352075081
+0-35,90-120,730-inf,Carbon Dioxide,Systolic Blood Pressure,0.0299947812844884
+0-35,90-inf,0-7,Carbon Dioxide,Diastolic Blood Pressure,8.555271330430244e-06
+0-35,90-inf,7-14,Carbon Dioxide,Body Weight,0.0003678766672085
+0-35,90-inf,7-14,Carbon Dioxide,Diastolic Blood Pressure,0.0002309923259216
+0-35,90-inf,14-30,Carbon Dioxide,Body Weight,0.0003165450392259
+0-35,90-inf,14-30,Carbon Dioxide,Diastolic Blood Pressure,0.0001112185272955
+0-35,90-inf,30-60,Carbon Dioxide,Body Weight,0.0008127507763908
+0-35,90-inf,30-60,Carbon Dioxide,Diastolic Blood Pressure,0.0002224370545911
+0-35,90-inf,60-90,Carbon Dioxide,Body Weight,0.0005389820938171
+0-35,90-inf,60-90,Carbon Dioxide,Diastolic Blood Pressure,0.0004106530238606
+0-35,90-inf,90-180,Carbon Dioxide,Body Weight,0.0011806274435993
+0-35,90-inf,90-180,Carbon Dioxide,Diastolic Blood Pressure,0.0009239693036864
+0-35,90-inf,180-365,Carbon Dioxide,Body Weight,0.0030456765936331
+0-35,90-inf,180-365,Carbon Dioxide,Diastolic Blood Pressure,0.0024895839571552
+0-35,90-inf,365-730,Carbon Dioxide,Body Weight,0.0045770701617801
+0-35,90-inf,365-730,Carbon Dioxide,Diastolic Blood Pressure,0.0039610906259892
+0-35,90-inf,730-inf,Carbon Dioxide,Body Weight,0.0148605063009573
+0-35,90-inf,730-inf,Carbon Dioxide,Diastolic Blood Pressure,0.0146979561456791
+0-35,98-107,0-7,Carbon Dioxide,Chloride,0.0110448552875854
+0-35,98-107,7-14,Carbon Dioxide,Chloride,0.0020190440339815
+0-35,98-107,14-30,Carbon Dioxide,Chloride,0.0046797334177453
+0-35,98-107,30-60,Carbon Dioxide,Chloride,0.0072377595455439
+0-35,98-107,60-90,Carbon Dioxide,Chloride,0.0027120210117463
+0-35,98-107,90-180,Carbon Dioxide,Chloride,0.0003849872098693
+0-35,98-107,730-inf,Carbon Dioxide,Chloride,0.004038088067963
+0-35,99-125,0-7,Carbon Dioxide,Glucose,0.0009239693036864
+0-35,99-125,7-14,Carbon Dioxide,Glucose,0.0001454396126173
+0-35,99-125,14-30,Carbon Dioxide,Glucose,0.0005646479078083
+0-35,99-125,30-60,Carbon Dioxide,Glucose,0.0005389820938171
+0-35,99-125,60-90,Carbon Dioxide,Glucose,0.0002224370545911
+0-35,99-125,730-inf,Carbon Dioxide,Glucose,0.0003507661245476
+0-35,Abnormal findings diagnostic imaging heart+coronary circulat (finding),90-180,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Abnormal findings diagnostic imaging heart+coronary circulat (finding),180-365,Carbon Dioxide,condition,9.410798463473267e-05
+0-35,Abnormal findings diagnostic imaging heart+coronary circulat (finding),365-730,Carbon Dioxide,condition,2.5665813991290732e-05
+0-35,Abnormal findings diagnostic imaging heart+coronary circulat (finding),730-inf,Carbon Dioxide,condition,0.0001882159692694
+0-35,Acute Cholecystitis,730-inf,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Acute ST segment elevation myocardial infarction (disorder),90-180,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Acute ST segment elevation myocardial infarction (disorder),180-365,Carbon Dioxide,condition,6.844217064344196e-05
+0-35,Acute ST segment elevation myocardial infarction (disorder),730-inf,Carbon Dioxide,condition,2.5665813991290732e-05
+0-35,Acute bacterial sinusitis (disorder),30-60,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Acute bacterial sinusitis (disorder),60-90,Carbon Dioxide,condition,2.5665813991290732e-05
+0-35,Acute bacterial sinusitis (disorder),90-180,Carbon Dioxide,condition,2.5665813991290732e-05
+0-35,Acute bacterial sinusitis (disorder),365-730,Carbon Dioxide,condition,0.0002138817832607
+0-35,Acute bacterial sinusitis (disorder),730-inf,Carbon Dioxide,condition,0.0001368843412868
+0-35,Acute bronchitis (disorder),30-60,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Acute bronchitis (disorder),60-90,Carbon Dioxide,condition,5.133162798258147e-05
+0-35,Acute bronchitis (disorder),90-180,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Acute bronchitis (disorder),180-365,Carbon Dioxide,condition,0.0002481028685824
+0-35,Acute bronchitis (disorder),365-730,Carbon Dioxide,condition,0.0005304268224866
+0-35,Acute bronchitis (disorder),730-inf,Carbon Dioxide,condition,0.0012490696142428
+0-35,Acute deep venous thrombosis (disorder),730-inf,Carbon Dioxide,condition,9.410798463473267e-05
+0-35,Acute infective cystitis (disorder),180-365,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Acute infective cystitis (disorder),365-730,Carbon Dioxide,condition,0.0001967712405998
+0-35,Acute infective cystitis (disorder),730-inf,Carbon Dioxide,condition,0.0004277635665215
+0-35,Acute non-ST segment elevation myocardial infarction (disorder),90-180,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Acute non-ST segment elevation myocardial infarction (disorder),180-365,Carbon Dioxide,condition,5.988689931301171e-05
+0-35,Acute non-ST segment elevation myocardial infarction (disorder),730-inf,Carbon Dioxide,condition,0.0001112185272955
+0-35,Acute pulmonary embolism (disorder),730-inf,Carbon Dioxide,condition,6.844217064344196e-05
+0-35,Acute respiratory distress syndrome (disorder),365-730,Carbon Dioxide,condition,7.69974419738722e-05
+0-35,Acute respiratory distress syndrome (disorder),730-inf,Carbon Dioxide,condition,7.69974419738722e-05
+0-35,Acute respiratory failure (disorder),730-inf,Carbon Dioxide,condition,6.844217064344196e-05
+0-35,Acute viral pharyngitis (disorder),0-7,Carbon Dioxide,condition,5.133162798258147e-05
+0-35,Acute viral pharyngitis (disorder),14-30,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Acute viral pharyngitis (disorder),30-60,Carbon Dioxide,condition,4.277635665215122e-05
+0-35,Acute viral pharyngitis (disorder),60-90,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Acute viral pharyngitis (disorder),90-180,Carbon Dioxide,condition,0.0001368843412868
+0-35,Acute viral pharyngitis (disorder),180-365,Carbon Dioxide,condition,0.0002224370545911
+0-35,Acute viral pharyngitis (disorder),365-730,Carbon Dioxide,condition,0.0004448741091823
+0-35,Acute viral pharyngitis (disorder),730-inf,Carbon Dioxide,condition,0.0009068587610256
+0-35,Alcoholism,365-730,Carbon Dioxide,condition,7.69974419738722e-05
+0-35,Alcoholism,730-inf,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Alveolitis of jaw (disorder),30-60,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Alveolitis of jaw (disorder),180-365,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Alveolitis of jaw (disorder),365-730,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Alveolitis of jaw (disorder),730-inf,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Alzheimer's disease (disorder),730-inf,Carbon Dioxide,condition,9.410798463473267e-05
+0-35,Anemia (disorder),365-730,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Anemia (disorder),730-inf,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Antepartum eclampsia,730-inf,Carbon Dioxide,condition,7.69974419738722e-05
+0-35,Aortic valve stenosis (disorder),90-180,Carbon Dioxide,condition,6.844217064344196e-05
+0-35,Aortic valve stenosis (disorder),180-365,Carbon Dioxide,condition,7.69974419738722e-05
+0-35,Awaiting transplantation of kidney (situation),0-7,Carbon Dioxide,condition,0.0002138817832607
+0-35,Bleeding from anus,365-730,Carbon Dioxide,condition,4.277635665215122e-05
+0-35,Bleeding from anus,730-inf,Carbon Dioxide,condition,5.133162798258147e-05
+0-35,Body mass index 30+ - obesity (finding),90-180,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Body mass index 30+ - obesity (finding),365-730,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Body mass index 30+ - obesity (finding),730-inf,Carbon Dioxide,condition,0.0001368843412868
+0-35,Burn injury (morphologic abnormality),180-365,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Burn injury (morphologic abnormality),365-730,Carbon Dioxide,condition,0.0002053265119303
+0-35,Burn injury (morphologic abnormality),730-inf,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,COVID-19,60-90,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,COVID-19,180-365,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,COVID-19,365-730,Carbon Dioxide,condition,8.555271330430245e-05
+0-35,COVID-19,730-inf,Carbon Dioxide,condition,0.0004020977525302
+0-35,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,90-180,Carbon Dioxide,immunization,0.0001454396126173
+0-35,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,180-365,Carbon Dioxide,immunization,0.0001454396126173
+0-35,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,365-730,Carbon Dioxide,immunization,0.0003764319385389
+0-35,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,730-inf,Carbon Dioxide,immunization,0.0015827251961295
+0-35,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,14-30,Carbon Dioxide,immunization,8.555271330430244e-06
+0-35,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,90-180,Carbon Dioxide,immunization,0.000119773798626
+0-35,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,180-365,Carbon Dioxide,immunization,0.0002908792252346
+0-35,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,365-730,Carbon Dioxide,immunization,0.0004619846518432
+0-35,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,730-inf,Carbon Dioxide,immunization,0.0007528638770778
+0-35,COVID-19 vaccine  vector-nr  rS-Ad26  PF  0.5 mL,180-365,Carbon Dioxide,immunization,8.555271330430244e-06
+0-35,COVID-19 vaccine  vector-nr  rS-Ad26  PF  0.5 mL,365-730,Carbon Dioxide,immunization,4.277635665215122e-05
+0-35,COVID-19 vaccine  vector-nr  rS-Ad26  PF  0.5 mL,730-inf,Carbon Dioxide,immunization,5.133162798258147e-05
+0-35,Carcinoma in situ of prostate (disorder),365-730,Carbon Dioxide,condition,2.5665813991290732e-05
+0-35,Carcinoma in situ of prostate (disorder),730-inf,Carbon Dioxide,condition,8.555271330430245e-05
+0-35,Cholelithiasis,730-inf,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Chronic congestive heart failure (disorder),365-730,Carbon Dioxide,condition,8.555271330430245e-05
+0-35,Chronic congestive heart failure (disorder),730-inf,Carbon Dioxide,condition,8.555271330430245e-05
+0-35,Chronic kidney disease stage 1 (disorder),180-365,Carbon Dioxide,condition,0.0003251003105563
+0-35,Chronic kidney disease stage 1 (disorder),365-730,Carbon Dioxide,condition,0.0003422108532172
+0-35,Chronic kidney disease stage 1 (disorder),730-inf,Carbon Dioxide,condition,0.0009410798463473
+0-35,Chronic kidney disease stage 2 (disorder),730-inf,Carbon Dioxide,condition,0.0005133162798258
+0-35,Chronic kidney disease stage 4 (disorder),7-14,Carbon Dioxide,condition,2.5665813991290732e-05
+0-35,Chronic kidney disease stage 4 (disorder),14-30,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Chronic kidney disease stage 4 (disorder),30-60,Carbon Dioxide,condition,5.133162798258147e-05
+0-35,Chronic kidney disease stage 4 (disorder),60-90,Carbon Dioxide,condition,7.69974419738722e-05
+0-35,Chronic kidney disease stage 4 (disorder),90-180,Carbon Dioxide,condition,0.000119773798626
+0-35,Chronic kidney disease stage 4 (disorder),180-365,Carbon Dioxide,condition,0.0001368843412868
+0-35,Chronic low back pain (finding),730-inf,Carbon Dioxide,condition,0.0001112185272955
+0-35,Chronic neck pain (finding),365-730,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Chronic neck pain (finding),730-inf,Carbon Dioxide,condition,0.0001026632559651
+0-35,Chronic obstructive bronchitis (disorder),730-inf,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Chronic pain (finding),90-180,Carbon Dioxide,condition,8.555271330430245e-05
+0-35,Chronic pain (finding),365-730,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Chronic pain (finding),730-inf,Carbon Dioxide,condition,0.0002481028685824
+0-35,Chronic sinusitis (disorder),365-730,Carbon Dioxide,condition,0.0001454396126173
+0-35,Chronic sinusitis (disorder),730-inf,Carbon Dioxide,condition,0.000239547597252
+0-35,Complete miscarriage (disorder),30-60,Carbon Dioxide,condition,2.5665813991290732e-05
+0-35,Complete miscarriage (disorder),60-90,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Complete miscarriage (disorder),90-180,Carbon Dioxide,condition,0.0001026632559651
+0-35,Complete miscarriage (disorder),180-365,Carbon Dioxide,condition,5.988689931301171e-05
+0-35,Complete miscarriage (disorder),730-inf,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Complication occuring during pregnancy,730-inf,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Concussion injury of brain (disorder),7-14,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Concussion injury of brain (disorder),14-30,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Concussion injury of brain (disorder),30-60,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Concussion injury of brain (disorder),60-90,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Concussion injury of brain (disorder),180-365,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Concussion injury of brain (disorder),365-730,Carbon Dioxide,condition,7.69974419738722e-05
+0-35,Concussion injury of brain (disorder),730-inf,Carbon Dioxide,condition,0.000119773798626
+0-35,Concussion with loss of consciousness,180-365,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Concussion with no loss of consciousness,7-14,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Concussion with no loss of consciousness,14-30,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Concussion with no loss of consciousness,30-60,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Concussion with no loss of consciousness,60-90,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Concussion with no loss of consciousness,365-730,Carbon Dioxide,condition,7.69974419738722e-05
+0-35,Concussion with no loss of consciousness,730-inf,Carbon Dioxide,condition,0.000119773798626
+0-35,Cough (finding),60-90,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Cough (finding),365-730,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Cough (finding),730-inf,Carbon Dioxide,condition,0.0002309923259216
+0-35,DTaP,14-30,Carbon Dioxide,immunization,8.555271330430244e-06
+0-35,DTaP,30-60,Carbon Dioxide,immunization,1.711054266086049e-05
+0-35,DTaP,60-90,Carbon Dioxide,immunization,8.555271330430244e-06
+0-35,DTaP,90-180,Carbon Dioxide,immunization,3.422108532172098e-05
+0-35,DTaP,365-730,Carbon Dioxide,immunization,2.5665813991290732e-05
+0-35,DTaP,730-inf,Carbon Dioxide,immunization,8.555271330430244e-06
+0-35,Dental filling lost (finding),30-60,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Dental filling lost (finding),60-90,Carbon Dioxide,condition,5.133162798258147e-05
+0-35,Dental filling lost (finding),90-180,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Dental filling lost (finding),180-365,Carbon Dioxide,condition,0.0001368843412868
+0-35,Dental filling lost (finding),365-730,Carbon Dioxide,condition,7.69974419738722e-05
+0-35,Dental filling lost (finding),730-inf,Carbon Dioxide,condition,0.0007015322490952
+0-35,Died in hospice (finding),365-730,Carbon Dioxide,condition,6.844217064344196e-05
+0-35,Died in hospice (finding),730-inf,Carbon Dioxide,condition,0.000119773798626
+0-35,Drug overdose,0-7,Carbon Dioxide,condition,4.277635665215122e-05
+0-35,Drug overdose,7-14,Carbon Dioxide,condition,5.988689931301171e-05
+0-35,Drug overdose,14-30,Carbon Dioxide,condition,0.0001368843412868
+0-35,Drug overdose,30-60,Carbon Dioxide,condition,7.69974419738722e-05
+0-35,Drug overdose,60-90,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Drug overdose,90-180,Carbon Dioxide,condition,0.000239547597252
+0-35,Drug overdose,180-365,Carbon Dioxide,condition,0.000179660697939
+0-35,Drug overdose,365-730,Carbon Dioxide,condition,0.0001283290699564
+0-35,Drug overdose,730-inf,Carbon Dioxide,condition,0.0005047610084953
+0-35,Dyspnea (finding),60-90,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Dyspnea (finding),180-365,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Dyspnea (finding),365-730,Carbon Dioxide,condition,8.555271330430245e-05
+0-35,Dyspnea (finding),730-inf,Carbon Dioxide,condition,0.0001026632559651
+0-35,End-stage renal disease (disorder),7-14,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,End-stage renal disease (disorder),30-60,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,End-stage renal disease (disorder),60-90,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,End-stage renal disease (disorder),90-180,Carbon Dioxide,condition,2.5665813991290732e-05
+0-35,End-stage renal disease (disorder),180-365,Carbon Dioxide,condition,4.277635665215122e-05
+0-35,End-stage renal disease (disorder),365-730,Carbon Dioxide,condition,0.0001026632559651
+0-35,End-stage renal disease (disorder),730-inf,Carbon Dioxide,condition,0.000239547597252
+0-35,Epidermal burn of skin (disorder),180-365,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Epidermal burn of skin (disorder),365-730,Carbon Dioxide,condition,8.555271330430245e-05
+0-35,Epidermal burn of skin (disorder),730-inf,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Facial laceration,730-inf,Carbon Dioxide,condition,0.0001454396126173
+0-35,Fatigue (finding),180-365,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Fatigue (finding),365-730,Carbon Dioxide,condition,8.555271330430245e-05
+0-35,Fatigue (finding),730-inf,Carbon Dioxide,condition,0.0001967712405998
+0-35,Fetus with chromosomal abnormality,365-730,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Fever (finding),180-365,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Fever (finding),365-730,Carbon Dioxide,condition,8.555271330430245e-05
+0-35,Fever (finding),730-inf,Carbon Dioxide,condition,0.0004020977525302
+0-35,Fracture of ankle,60-90,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Fracture of ankle,730-inf,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Fracture of bone (disorder),60-90,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Fracture of bone (disorder),180-365,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Fracture of bone (disorder),365-730,Carbon Dioxide,condition,0.0002652134112433
+0-35,Fracture of bone (disorder),730-inf,Carbon Dioxide,condition,0.0002138817832607
+0-35,Fracture of clavicle,365-730,Carbon Dioxide,condition,0.0001454396126173
+0-35,Fracture of clavicle,730-inf,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Fracture of forearm,730-inf,Carbon Dioxide,condition,7.69974419738722e-05
+0-35,Fracture of rib,180-365,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Fracture of rib,365-730,Carbon Dioxide,condition,5.988689931301171e-05
+0-35,Fracture subluxation of wrist,365-730,Carbon Dioxide,condition,5.988689931301171e-05
+0-35,Fracture subluxation of wrist,730-inf,Carbon Dioxide,condition,0.0001112185272955
+0-35,Fractured dental filling (finding),90-180,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Fractured dental filling (finding),180-365,Carbon Dioxide,condition,0.0001368843412868
+0-35,Fractured dental filling (finding),365-730,Carbon Dioxide,condition,0.0002566581399129
+0-35,Fractured dental filling (finding),730-inf,Carbon Dioxide,condition,0.0007015322490952
+0-35,Full-time employment (finding),7-14,Carbon Dioxide,condition,0.0004534293805128
+0-35,Full-time employment (finding),14-30,Carbon Dioxide,condition,0.0001283290699564
+0-35,Full-time employment (finding),30-60,Carbon Dioxide,condition,0.0002481028685824
+0-35,Full-time employment (finding),60-90,Carbon Dioxide,condition,0.0001368843412868
+0-35,Full-time employment (finding),90-180,Carbon Dioxide,condition,0.0006844217064344
+0-35,Full-time employment (finding),180-365,Carbon Dioxide,condition,0.0015570593821383
+0-35,Full-time employment (finding),365-730,Carbon Dioxide,condition,0.0027804631823898
+0-35,Full-time employment (finding),730-inf,Carbon Dioxide,condition,0.0096674566033861
+0-35,Gingival disease (disorder),7-14,Carbon Dioxide,condition,2.5665813991290732e-05
+0-35,Gingival disease (disorder),14-30,Carbon Dioxide,condition,2.5665813991290732e-05
+0-35,Gingival disease (disorder),30-60,Carbon Dioxide,condition,0.0002737686825737
+0-35,Gingival disease (disorder),60-90,Carbon Dioxide,condition,7.69974419738722e-05
+0-35,Gingival disease (disorder),90-180,Carbon Dioxide,condition,0.0002908792252346
+0-35,Gingival disease (disorder),180-365,Carbon Dioxide,condition,0.0004619846518432
+0-35,Gingival disease (disorder),365-730,Carbon Dioxide,condition,0.0003935424811997
+0-35,Gingival disease (disorder),730-inf,Carbon Dioxide,condition,0.0031055634929461
+0-35,Gingivitis (disorder),7-14,Carbon Dioxide,condition,0.0003849872098693
+0-35,Gingivitis (disorder),14-30,Carbon Dioxide,condition,0.0002737686825737
+0-35,Gingivitis (disorder),30-60,Carbon Dioxide,condition,0.0003079897678954
+0-35,Gingivitis (disorder),60-90,Carbon Dioxide,condition,0.000359321395878
+0-35,Gingivitis (disorder),90-180,Carbon Dioxide,condition,0.0008897482183647
+0-35,Gingivitis (disorder),180-365,Carbon Dioxide,condition,0.0026949104690855
+0-35,Gingivitis (disorder),365-730,Carbon Dioxide,condition,0.0023526996158683
+0-35,Gingivitis (disorder),730-inf,Carbon Dioxide,condition,0.0116009479240634
+0-35,Has a criminal record (finding),365-730,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Has a criminal record (finding),730-inf,Carbon Dioxide,condition,0.0003422108532172
+0-35,Headache (finding),180-365,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Headache (finding),365-730,Carbon Dioxide,condition,8.555271330430245e-05
+0-35,Headache (finding),730-inf,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Hep A  adult,90-180,Carbon Dioxide,immunization,8.555271330430244e-06
+0-35,Hep A  adult,180-365,Carbon Dioxide,immunization,8.555271330430244e-06
+0-35,Hep A  adult,365-730,Carbon Dioxide,immunization,2.5665813991290732e-05
+0-35,Hep A  adult,730-inf,Carbon Dioxide,immunization,5.133162798258147e-05
+0-35,Hep A  ped/adol  2 dose,180-365,Carbon Dioxide,immunization,8.555271330430244e-06
+0-35,Hep A  ped/adol  2 dose,365-730,Carbon Dioxide,immunization,2.5665813991290732e-05
+0-35,Hep A  ped/adol  2 dose,730-inf,Carbon Dioxide,immunization,1.711054266086049e-05
+0-35,Hep B  adolescent or pediatric,90-180,Carbon Dioxide,immunization,2.5665813991290732e-05
+0-35,Hib (PRP-OMP),14-30,Carbon Dioxide,immunization,8.555271330430244e-06
+0-35,Hib (PRP-OMP),30-60,Carbon Dioxide,immunization,1.711054266086049e-05
+0-35,Hib (PRP-OMP),60-90,Carbon Dioxide,immunization,8.555271330430244e-06
+0-35,Hib (PRP-OMP),90-180,Carbon Dioxide,immunization,8.555271330430244e-06
+0-35,Hib (PRP-OMP),180-365,Carbon Dioxide,immunization,0.0001112185272955
+0-35,Hib (PRP-OMP),365-730,Carbon Dioxide,immunization,1.711054266086049e-05
+0-35,Hib (PRP-OMP),730-inf,Carbon Dioxide,immunization,8.555271330430244e-06
+0-35,History of aortic valve replacement (situation),730-inf,Carbon Dioxide,condition,0.0002224370545911
+0-35,History of artificial joint (situation),730-inf,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,History of coronary artery bypass grafting (situation),7-14,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,History of coronary artery bypass grafting (situation),30-60,Carbon Dioxide,condition,6.844217064344196e-05
+0-35,History of coronary artery bypass grafting (situation),180-365,Carbon Dioxide,condition,9.410798463473267e-05
+0-35,History of coronary artery bypass grafting (situation),730-inf,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,History of myocardial infarction (situation),90-180,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,History of myocardial infarction (situation),180-365,Carbon Dioxide,condition,0.0001368843412868
+0-35,History of myocardial infarction (situation),730-inf,Carbon Dioxide,condition,0.0001368843412868
+0-35,History of renal transplant (situation),0-7,Carbon Dioxide,condition,0.0001967712405998
+0-35,History of renal transplant (situation),730-inf,Carbon Dioxide,condition,0.0005817584504692
+0-35,Homeless (finding),365-730,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Homeless (finding),730-inf,Carbon Dioxide,condition,0.000179660697939
+0-35,Hyperlipidemia,365-730,Carbon Dioxide,condition,2.5665813991290732e-05
+0-35,Hyperlipidemia,730-inf,Carbon Dioxide,condition,8.555271330430245e-05
+0-35,Hypoxemia (disorder),730-inf,Carbon Dioxide,condition,0.0001625501552781
+0-35,IPV,14-30,Carbon Dioxide,immunization,8.555271330430244e-06
+0-35,IPV,30-60,Carbon Dioxide,immunization,2.5665813991290732e-05
+0-35,IPV,60-90,Carbon Dioxide,immunization,1.711054266086049e-05
+0-35,IPV,90-180,Carbon Dioxide,immunization,4.277635665215122e-05
+0-35,IPV,730-inf,Carbon Dioxide,immunization,1.711054266086049e-05
+0-35,Infection of tooth (disorder),14-30,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Infection of tooth (disorder),30-60,Carbon Dioxide,condition,2.5665813991290732e-05
+0-35,Infection of tooth (disorder),180-365,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Infection of tooth (disorder),365-730,Carbon Dioxide,condition,0.0001368843412868
+0-35,Infection of tooth (disorder),730-inf,Carbon Dioxide,condition,0.0008811929470343
+0-35,Infectious mediastinitis (disorder),730-inf,Carbon Dioxide,condition,7.69974419738722e-05
+0-35,Influenza  seasonal  injectable  preservative free,7-14,Carbon Dioxide,immunization,0.0003507661245476
+0-35,Influenza  seasonal  injectable  preservative free,14-30,Carbon Dioxide,immunization,0.0001454396126173
+0-35,Influenza  seasonal  injectable  preservative free,30-60,Carbon Dioxide,immunization,0.0007614191484082
+0-35,Influenza  seasonal  injectable  preservative free,60-90,Carbon Dioxide,immunization,0.0006758664351039
+0-35,Influenza  seasonal  injectable  preservative free,90-180,Carbon Dioxide,immunization,0.0013431775988775
+0-35,Influenza  seasonal  injectable  preservative free,180-365,Carbon Dioxide,immunization,0.0045257385337975
+0-35,Influenza  seasonal  injectable  preservative free,365-730,Carbon Dioxide,immunization,0.0073062017161874
+0-35,Influenza  seasonal  injectable  preservative free,730-inf,Carbon Dioxide,immunization,0.0209261936742323
+0-35,Injury of anterior cruciate ligament,365-730,Carbon Dioxide,condition,9.410798463473267e-05
+0-35,Injury of anterior cruciate ligament,730-inf,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Injury of kidney (disorder),730-inf,Carbon Dioxide,condition,6.844217064344196e-05
+0-35,Injury of knee (disorder),365-730,Carbon Dioxide,condition,0.0001711054266086
+0-35,Injury of knee (disorder),730-inf,Carbon Dioxide,condition,0.0001625501552781
+0-35,Injury of neck (disorder),30-60,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Injury of neck (disorder),60-90,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Injury of neck (disorder),730-inf,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Ischemic heart disease (disorder),180-365,Carbon Dioxide,condition,2.5665813991290732e-05
+0-35,Ischemic heart disease (disorder),365-730,Carbon Dioxide,condition,0.0001026632559651
+0-35,Ischemic heart disease (disorder),730-inf,Carbon Dioxide,condition,0.000179660697939
+0-35,Joint pain (finding),60-90,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Joint pain (finding),730-inf,Carbon Dioxide,condition,0.0001454396126173
+0-35,Kidney transplant failure and rejection (disorder),0-7,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Kidney transplant failure and rejection (disorder),14-30,Carbon Dioxide,condition,0.0001882159692694
+0-35,Kidney transplant failure and rejection (disorder),30-60,Carbon Dioxide,condition,4.277635665215122e-05
+0-35,Kidney transplant failure and rejection (disorder),730-inf,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Laceration - injury (disorder),30-60,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Laceration - injury (disorder),60-90,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Laceration - injury (disorder),90-180,Carbon Dioxide,condition,4.277635665215122e-05
+0-35,Laceration - injury (disorder),365-730,Carbon Dioxide,condition,7.69974419738722e-05
+0-35,Laceration - injury (disorder),730-inf,Carbon Dioxide,condition,0.000479095194504
+0-35,Laceration of foot,90-180,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Laceration of foot,730-inf,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Laceration of forearm,30-60,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Laceration of forearm,60-90,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Laceration of forearm,90-180,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Laceration of forearm,730-inf,Carbon Dioxide,condition,2.5665813991290732e-05
+0-35,Laceration of hand,365-730,Carbon Dioxide,condition,6.844217064344196e-05
+0-35,Laceration of hand,730-inf,Carbon Dioxide,condition,0.000299434496565
+0-35,Laceration of thigh,365-730,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Leaking dental filling (finding),90-180,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Leaking dental filling (finding),180-365,Carbon Dioxide,condition,0.000119773798626
+0-35,Leaking dental filling (finding),365-730,Carbon Dioxide,condition,7.69974419738722e-05
+0-35,Leaking dental filling (finding),730-inf,Carbon Dioxide,condition,0.0001454396126173
+0-35,Limited social contact (finding),7-14,Carbon Dioxide,condition,0.0001454396126173
+0-35,Limited social contact (finding),14-30,Carbon Dioxide,condition,7.69974419738722e-05
+0-35,Limited social contact (finding),30-60,Carbon Dioxide,condition,0.000119773798626
+0-35,Limited social contact (finding),60-90,Carbon Dioxide,condition,0.0001112185272955
+0-35,Limited social contact (finding),90-180,Carbon Dioxide,condition,0.0002652134112433
+0-35,Limited social contact (finding),180-365,Carbon Dioxide,condition,0.000915414032356
+0-35,Limited social contact (finding),365-730,Carbon Dioxide,condition,0.0011121852729559
+0-35,Limited social contact (finding),730-inf,Carbon Dioxide,condition,0.0024810286858247
+0-35,Loose dental filling (finding),14-30,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Loose dental filling (finding),30-60,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Loose dental filling (finding),60-90,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Loose dental filling (finding),90-180,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Loose dental filling (finding),180-365,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Loose dental filling (finding),365-730,Carbon Dioxide,condition,0.0003507661245476
+0-35,Loose dental filling (finding),730-inf,Carbon Dioxide,condition,0.0003079897678954
+0-35,Loss of taste (finding),60-90,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Loss of taste (finding),180-365,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Loss of taste (finding),365-730,Carbon Dioxide,condition,7.69974419738722e-05
+0-35,Loss of taste (finding),730-inf,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Loss of teeth (disorder),180-365,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Loss of teeth (disorder),730-inf,Carbon Dioxide,condition,0.0003422108532172
+0-35,MMR,180-365,Carbon Dioxide,immunization,1.711054266086049e-05
+0-35,MMR,365-730,Carbon Dioxide,immunization,1.711054266086049e-05
+0-35,MMR,730-inf,Carbon Dioxide,immunization,1.711054266086049e-05
+0-35,Medication review due (situation),7-14,Carbon Dioxide,condition,0.0008127507763908
+0-35,Medication review due (situation),14-30,Carbon Dioxide,condition,0.0008640824043734
+0-35,Medication review due (situation),30-60,Carbon Dioxide,condition,0.0012747354282341
+0-35,Medication review due (situation),60-90,Carbon Dioxide,condition,0.0011292958156167
+0-35,Medication review due (situation),90-180,Carbon Dioxide,condition,0.0021045967472858
+0-35,Medication review due (situation),180-365,Carbon Dioxide,condition,0.0051930496975711
+0-35,Medication review due (situation),365-730,Carbon Dioxide,condition,0.0086750451290562
+0-35,Medication review due (situation),730-inf,Carbon Dioxide,condition,0.0256059270919777
+0-35,Metabolic syndrome X (disorder),7-14,Carbon Dioxide,condition,4.277635665215122e-05
+0-35,Metabolic syndrome X (disorder),180-365,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Metabolic syndrome X (disorder),365-730,Carbon Dioxide,condition,2.5665813991290732e-05
+0-35,Metabolic syndrome X (disorder),730-inf,Carbon Dioxide,condition,0.0002566581399129
+0-35,Metastasis from malignant tumor of prostate (disorder),730-inf,Carbon Dioxide,condition,0.0001112185272955
+0-35,Miscarriage in first trimester,30-60,Carbon Dioxide,condition,2.5665813991290732e-05
+0-35,Miscarriage in first trimester,60-90,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Miscarriage in first trimester,90-180,Carbon Dioxide,condition,0.0001026632559651
+0-35,Miscarriage in first trimester,180-365,Carbon Dioxide,condition,5.988689931301171e-05
+0-35,Miscarriage in first trimester,730-inf,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Miscarriage in second trimester,365-730,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Miscarriage in second trimester,730-inf,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Misuses drugs (finding),7-14,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Misuses drugs (finding),90-180,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Misuses drugs (finding),180-365,Carbon Dioxide,condition,6.844217064344196e-05
+0-35,Misuses drugs (finding),730-inf,Carbon Dioxide,condition,0.0003079897678954
+0-35,Muscle pain (finding),60-90,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Muscle pain (finding),730-inf,Carbon Dioxide,condition,0.0001454396126173
+0-35,Myocardial infarction (disorder),90-180,Carbon Dioxide,condition,2.5665813991290732e-05
+0-35,Myocardial infarction (disorder),180-365,Carbon Dioxide,condition,0.0001283290699564
+0-35,Myocardial infarction (disorder),730-inf,Carbon Dioxide,condition,0.0001368843412868
+0-35,Neoplasm of prostate,365-730,Carbon Dioxide,condition,2.5665813991290732e-05
+0-35,Neoplasm of prostate,730-inf,Carbon Dioxide,condition,8.555271330430245e-05
+0-35,Non-small cell carcinoma of lung  TNM stage 1 (disorder),365-730,Carbon Dioxide,condition,0.0001112185272955
+0-35,Non-small cell carcinoma of lung  TNM stage 1 (disorder),730-inf,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Non-small cell lung cancer (disorder),365-730,Carbon Dioxide,condition,0.0001112185272955
+0-35,Non-small cell lung cancer (disorder),730-inf,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Normal pregnancy,30-60,Carbon Dioxide,condition,2.5665813991290732e-05
+0-35,Normal pregnancy,60-90,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Normal pregnancy,90-180,Carbon Dioxide,condition,0.0001112185272955
+0-35,Normal pregnancy,180-365,Carbon Dioxide,condition,6.844217064344196e-05
+0-35,Normal pregnancy,365-730,Carbon Dioxide,condition,0.0002224370545911
+0-35,Normal pregnancy,730-inf,Carbon Dioxide,condition,0.0001026632559651
+0-35,Not in labor force (finding),7-14,Carbon Dioxide,condition,0.0001283290699564
+0-35,Not in labor force (finding),14-30,Carbon Dioxide,condition,0.000119773798626
+0-35,Not in labor force (finding),30-60,Carbon Dioxide,condition,0.0002053265119303
+0-35,Not in labor force (finding),60-90,Carbon Dioxide,condition,0.0002823239539041
+0-35,Not in labor force (finding),90-180,Carbon Dioxide,condition,0.0005475373651475
+0-35,Not in labor force (finding),180-365,Carbon Dioxide,condition,0.0005218715511562
+0-35,Not in labor force (finding),365-730,Carbon Dioxide,condition,0.0014116197695209
+0-35,Not in labor force (finding),730-inf,Carbon Dioxide,condition,0.0040209775253022
+0-35,Obstructive sleep apnea syndrome (disorder),180-365,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Obstructive sleep apnea syndrome (disorder),730-inf,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Osteoarthritis of hip,30-60,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Osteoarthritis of hip,730-inf,Carbon Dioxide,condition,0.0001283290699564
+0-35,Osteoarthritis of knee,180-365,Carbon Dioxide,condition,4.277635665215122e-05
+0-35,Osteoarthritis of knee,365-730,Carbon Dioxide,condition,4.277635665215122e-05
+0-35,Osteoarthritis of knee,730-inf,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Osteoporosis (disorder),180-365,Carbon Dioxide,condition,0.0001112185272955
+0-35,Osteoporosis (disorder),365-730,Carbon Dioxide,condition,0.000119773798626
+0-35,Osteoporosis (disorder),730-inf,Carbon Dioxide,condition,2.5665813991290732e-05
+0-35,Otitis media,90-180,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Otitis media,365-730,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Otitis media,730-inf,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Part-time employment (finding),7-14,Carbon Dioxide,condition,0.000179660697939
+0-35,Part-time employment (finding),14-30,Carbon Dioxide,condition,0.000119773798626
+0-35,Part-time employment (finding),30-60,Carbon Dioxide,condition,0.0001283290699564
+0-35,Part-time employment (finding),60-90,Carbon Dioxide,condition,0.000239547597252
+0-35,Part-time employment (finding),90-180,Carbon Dioxide,condition,0.0005988689931301
+0-35,Part-time employment (finding),180-365,Carbon Dioxide,condition,0.001471506668834
+0-35,Part-time employment (finding),365-730,Carbon Dioxide,condition,0.0015228382968165
+0-35,Part-time employment (finding),730-inf,Carbon Dioxide,condition,0.0070238777622832
+0-35,Pathological fracture due to osteoporosis (disorder),365-730,Carbon Dioxide,condition,0.0001454396126173
+0-35,Pathological fracture due to osteoporosis (disorder),730-inf,Carbon Dioxide,condition,0.0001026632559651
+0-35,Pneumococcal conjugate PCV 13,30-60,Carbon Dioxide,immunization,1.711054266086049e-05
+0-35,Pneumococcal conjugate PCV 13,60-90,Carbon Dioxide,immunization,2.5665813991290732e-05
+0-35,Pneumococcal conjugate PCV 13,90-180,Carbon Dioxide,immunization,1.711054266086049e-05
+0-35,Pneumococcal conjugate PCV 13,180-365,Carbon Dioxide,immunization,5.133162798258147e-05
+0-35,Pneumococcal conjugate PCV 13,365-730,Carbon Dioxide,immunization,0.000179660697939
+0-35,Pneumococcal conjugate PCV 13,730-inf,Carbon Dioxide,immunization,2.5665813991290732e-05
+0-35,Pneumonia (disorder),730-inf,Carbon Dioxide,condition,0.0001625501552781
+0-35,Polyp of colon,90-180,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Polyp of colon,180-365,Carbon Dioxide,condition,0.0001283290699564
+0-35,Polyp of colon,365-730,Carbon Dioxide,condition,0.000299434496565
+0-35,Polyp of colon,730-inf,Carbon Dioxide,condition,0.0002309923259216
+0-35,Posttraumatic stress disorder,365-730,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Prediabetes,90-180,Carbon Dioxide,condition,9.410798463473267e-05
+0-35,Prediabetes,180-365,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Prediabetes,365-730,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Prediabetes,730-inf,Carbon Dioxide,condition,2.5665813991290732e-05
+0-35,Preeclampsia,365-730,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Preeclampsia,730-inf,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Primary dental caries (disorder),7-14,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Primary dental caries (disorder),14-30,Carbon Dioxide,condition,2.5665813991290732e-05
+0-35,Primary dental caries (disorder),30-60,Carbon Dioxide,condition,4.277635665215122e-05
+0-35,Primary dental caries (disorder),60-90,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Primary dental caries (disorder),90-180,Carbon Dioxide,condition,0.000179660697939
+0-35,Primary dental caries (disorder),180-365,Carbon Dioxide,condition,0.0002481028685824
+0-35,Primary dental caries (disorder),365-730,Carbon Dioxide,condition,0.0001368843412868
+0-35,Primary dental caries (disorder),730-inf,Carbon Dioxide,condition,0.0019762676773293
+0-35,Primary malignant neoplasm of colon,365-730,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Protracted diarrhea,365-730,Carbon Dioxide,condition,4.277635665215122e-05
+0-35,Protracted diarrhea,730-inf,Carbon Dioxide,condition,5.133162798258147e-05
+0-35,Pulmonary emphysema (disorder),730-inf,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Recurrent rectal polyp,730-inf,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Recurrent urinary tract infection (disorder),730-inf,Carbon Dioxide,condition,0.0001625501552781
+0-35,Refugee (person),7-14,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Refugee (person),14-30,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Refugee (person),30-60,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Refugee (person),90-180,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Refugee (person),365-730,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Refugee (person),730-inf,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Reports of violence in the environment (finding),7-14,Carbon Dioxide,condition,6.844217064344196e-05
+0-35,Reports of violence in the environment (finding),14-30,Carbon Dioxide,condition,5.988689931301171e-05
+0-35,Reports of violence in the environment (finding),30-60,Carbon Dioxide,condition,0.0001625501552781
+0-35,Reports of violence in the environment (finding),60-90,Carbon Dioxide,condition,0.000179660697939
+0-35,Reports of violence in the environment (finding),90-180,Carbon Dioxide,condition,0.0002481028685824
+0-35,Reports of violence in the environment (finding),180-365,Carbon Dioxide,condition,0.0007271980630865
+0-35,Reports of violence in the environment (finding),365-730,Carbon Dioxide,condition,0.0009496351176777
+0-35,Reports of violence in the environment (finding),730-inf,Carbon Dioxide,condition,0.0025494708564682
+0-35,Resorption of alveolar process due to dental trauma (disorder),730-inf,Carbon Dioxide,condition,7.69974419738722e-05
+0-35,Respiratory distress (finding),730-inf,Carbon Dioxide,condition,0.0001625501552781
+0-35,Rupture of patellar tendon,730-inf,Carbon Dioxide,condition,0.0001368843412868
+0-35,Secondary malignant neoplasm of colon,365-730,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Secondary malignant neoplasm of colon,730-inf,Carbon Dioxide,condition,8.555271330430245e-05
+0-35,Sepsis (disorder),365-730,Carbon Dioxide,condition,8.555271330430245e-05
+0-35,Sepsis (disorder),730-inf,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Sepsis caused by virus (disorder),730-inf,Carbon Dioxide,condition,6.844217064344196e-05
+0-35,Septic shock (disorder),365-730,Carbon Dioxide,condition,8.555271330430245e-05
+0-35,Septic shock (disorder),730-inf,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Severe anxiety (panic) (finding),7-14,Carbon Dioxide,condition,2.5665813991290732e-05
+0-35,Severe anxiety (panic) (finding),30-60,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Severe anxiety (panic) (finding),180-365,Carbon Dioxide,condition,4.277635665215122e-05
+0-35,Severe anxiety (panic) (finding),365-730,Carbon Dioxide,condition,9.410798463473267e-05
+0-35,Severe anxiety (panic) (finding),730-inf,Carbon Dioxide,condition,0.0002652134112433
+0-35,Sinusitis (disorder),0-7,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Sinusitis (disorder),7-14,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Sinusitis (disorder),30-60,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,Sinusitis (disorder),60-90,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Sinusitis (disorder),90-180,Carbon Dioxide,condition,0.0002053265119303
+0-35,Sinusitis (disorder),730-inf,Carbon Dioxide,condition,0.0002481028685824
+0-35,Sleep disorder (disorder),90-180,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Sleep disorder (disorder),730-inf,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Smokes tobacco daily,365-730,Carbon Dioxide,condition,7.69974419738722e-05
+0-35,Smokes tobacco daily,730-inf,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Social isolation (finding),7-14,Carbon Dioxide,condition,0.0001368843412868
+0-35,Social isolation (finding),14-30,Carbon Dioxide,condition,0.0001112185272955
+0-35,Social isolation (finding),30-60,Carbon Dioxide,condition,0.0001368843412868
+0-35,Social isolation (finding),60-90,Carbon Dioxide,condition,6.844217064344196e-05
+0-35,Social isolation (finding),90-180,Carbon Dioxide,condition,0.0002823239539041
+0-35,Social isolation (finding),180-365,Carbon Dioxide,condition,0.0005389820938171
+0-35,Social isolation (finding),365-730,Carbon Dioxide,condition,0.0013004012422253
+0-35,Social isolation (finding),730-inf,Carbon Dioxide,condition,0.0038413168273631
+0-35,Sore throat symptom (finding),730-inf,Carbon Dioxide,condition,5.988689931301171e-05
+0-35,Sprain (morphologic abnormality),60-90,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Sprain (morphologic abnormality),90-180,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Sprain (morphologic abnormality),180-365,Carbon Dioxide,condition,6.844217064344196e-05
+0-35,Sprain (morphologic abnormality),730-inf,Carbon Dioxide,condition,0.000359321395878
+0-35,Sprain of ankle,60-90,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Sprain of ankle,90-180,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Sprain of ankle,180-365,Carbon Dioxide,condition,6.844217064344196e-05
+0-35,Sprain of ankle,730-inf,Carbon Dioxide,condition,0.0003507661245476
+0-35,Sprain of wrist,730-inf,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Sputum finding (finding),730-inf,Carbon Dioxide,condition,7.69974419738722e-05
+0-35,Streptococcal sore throat (disorder),0-7,Carbon Dioxide,condition,2.5665813991290732e-05
+0-35,Streptococcal sore throat (disorder),7-14,Carbon Dioxide,condition,5.988689931301171e-05
+0-35,Streptococcal sore throat (disorder),60-90,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Streptococcal sore throat (disorder),365-730,Carbon Dioxide,condition,7.69974419738722e-05
+0-35,Streptococcal sore throat (disorder),730-inf,Carbon Dioxide,condition,0.0002138817832607
+0-35,Stress (finding),7-14,Carbon Dioxide,condition,0.0003336555818867
+0-35,Stress (finding),14-30,Carbon Dioxide,condition,0.000299434496565
+0-35,Stress (finding),30-60,Carbon Dioxide,condition,0.0004876504658345
+0-35,Stress (finding),60-90,Carbon Dioxide,condition,0.0007186427917561
+0-35,Stress (finding),90-180,Carbon Dioxide,condition,0.0009496351176777
+0-35,Stress (finding),180-365,Carbon Dioxide,condition,0.0020960414759554
+0-35,Stress (finding),365-730,Carbon Dioxide,condition,0.0037557641140588
+0-35,Stress (finding),730-inf,Carbon Dioxide,condition,0.0117891638933328
+0-35,Stroke,730-inf,Carbon Dioxide,condition,7.69974419738722e-05
+0-35,Suspected COVID-19,60-90,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Suspected COVID-19,180-365,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Suspected COVID-19,365-730,Carbon Dioxide,condition,8.555271330430245e-05
+0-35,Suspected COVID-19,730-inf,Carbon Dioxide,condition,0.0004020977525302
+0-35,Suspected lung cancer (situation),365-730,Carbon Dioxide,condition,0.000119773798626
+0-35,Suspected lung cancer (situation),730-inf,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Suspected prostate cancer (situation),90-180,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Suspected prostate cancer (situation),365-730,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Suspected prostate cancer (situation),730-inf,Carbon Dioxide,condition,8.555271330430245e-05
+0-35,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,7-14,Carbon Dioxide,immunization,8.555271330430244e-06
+0-35,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,90-180,Carbon Dioxide,immunization,2.5665813991290732e-05
+0-35,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,180-365,Carbon Dioxide,immunization,0.000419208295191
+0-35,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,365-730,Carbon Dioxide,immunization,0.0005560926364779
+0-35,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,730-inf,Carbon Dioxide,immunization,0.0022757021738944
+0-35,Tear of meniscus of knee,365-730,Carbon Dioxide,condition,7.69974419738722e-05
+0-35,Tear of meniscus of knee,730-inf,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Third degree burn,365-730,Carbon Dioxide,condition,0.000119773798626
+0-35,Third degree burn,730-inf,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Tongue tie (disorder),730-inf,Carbon Dioxide,condition,9.410798463473267e-05
+0-35,Torus palatinus (disorder),730-inf,Carbon Dioxide,condition,0.0001539948839477
+0-35,Transformed migraine (disorder),90-180,Carbon Dioxide,condition,8.555271330430245e-05
+0-35,Transformed migraine (disorder),730-inf,Carbon Dioxide,condition,0.0001368843412868
+0-35,Traumatic dislocation of temporomandibular joint (disorder),365-730,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Unemployed (finding),7-14,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Unemployed (finding),90-180,Carbon Dioxide,condition,4.277635665215122e-05
+0-35,Unemployed (finding),180-365,Carbon Dioxide,condition,0.0004020977525302
+0-35,Unemployed (finding),365-730,Carbon Dioxide,condition,0.0004363188378519
+0-35,Unemployed (finding),730-inf,Carbon Dioxide,condition,0.0014886172114948
+0-35,Unhealthy alcohol drinking behavior (finding),14-30,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Unhealthy alcohol drinking behavior (finding),30-60,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Unhealthy alcohol drinking behavior (finding),90-180,Carbon Dioxide,condition,4.277635665215122e-05
+0-35,Unhealthy alcohol drinking behavior (finding),180-365,Carbon Dioxide,condition,0.000239547597252
+0-35,Unhealthy alcohol drinking behavior (finding),365-730,Carbon Dioxide,condition,5.988689931301171e-05
+0-35,Unhealthy alcohol drinking behavior (finding),730-inf,Carbon Dioxide,condition,0.0003678766672085
+0-35,Victim of intimate partner abuse (finding),7-14,Carbon Dioxide,condition,4.277635665215122e-05
+0-35,Victim of intimate partner abuse (finding),14-30,Carbon Dioxide,condition,8.555271330430245e-05
+0-35,Victim of intimate partner abuse (finding),30-60,Carbon Dioxide,condition,6.844217064344196e-05
+0-35,Victim of intimate partner abuse (finding),60-90,Carbon Dioxide,condition,8.555271330430245e-05
+0-35,Victim of intimate partner abuse (finding),90-180,Carbon Dioxide,condition,0.0002908792252346
+0-35,Victim of intimate partner abuse (finding),180-365,Carbon Dioxide,condition,0.0005903137217996
+0-35,Victim of intimate partner abuse (finding),365-730,Carbon Dioxide,condition,0.0007100875204257
+0-35,Victim of intimate partner abuse (finding),730-inf,Carbon Dioxide,condition,0.0032082267489113
+0-35,Viral sinusitis (disorder),0-7,Carbon Dioxide,condition,6.844217064344196e-05
+0-35,Viral sinusitis (disorder),7-14,Carbon Dioxide,condition,5.133162798258147e-05
+0-35,Viral sinusitis (disorder),14-30,Carbon Dioxide,condition,0.0001625501552781
+0-35,Viral sinusitis (disorder),30-60,Carbon Dioxide,condition,0.0001026632559651
+0-35,Viral sinusitis (disorder),60-90,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Viral sinusitis (disorder),90-180,Carbon Dioxide,condition,8.555271330430245e-05
+0-35,Viral sinusitis (disorder),180-365,Carbon Dioxide,condition,0.0010437431023124
+0-35,Viral sinusitis (disorder),365-730,Carbon Dioxide,condition,0.0006844217064344
+0-35,Viral sinusitis (disorder),730-inf,Carbon Dioxide,condition,0.0020874862046249
+0-35,Wheezing (finding),60-90,Carbon Dioxide,condition,8.555271330430244e-06
+0-35,Wheezing (finding),180-365,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Wheezing (finding),365-730,Carbon Dioxide,condition,8.555271330430245e-05
+0-35,Wheezing (finding),730-inf,Carbon Dioxide,condition,0.0001026632559651
+0-35,Whiplash injury to neck,30-60,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Whiplash injury to neck,60-90,Carbon Dioxide,condition,3.422108532172098e-05
+0-35,Whiplash injury to neck,730-inf,Carbon Dioxide,condition,1.711054266086049e-05
+0-35,pneumococcal polysaccharide vaccine  23 valent,30-60,Carbon Dioxide,immunization,8.555271330430244e-06
+0-35,pneumococcal polysaccharide vaccine  23 valent,60-90,Carbon Dioxide,immunization,3.422108532172098e-05
+0-35,pneumococcal polysaccharide vaccine  23 valent,90-180,Carbon Dioxide,immunization,5.133162798258147e-05
+0-35,pneumococcal polysaccharide vaccine  23 valent,180-365,Carbon Dioxide,immunization,8.555271330430245e-05
+0-35,pneumococcal polysaccharide vaccine  23 valent,365-730,Carbon Dioxide,immunization,0.0001711054266086
+0-35,pneumococcal polysaccharide vaccine  23 valent,730-inf,Carbon Dioxide,immunization,0.0001454396126173
+0-35,rotavirus  monovalent,30-60,Carbon Dioxide,immunization,8.555271330430244e-06
+0-35,rotavirus  monovalent,90-180,Carbon Dioxide,immunization,8.555271330430244e-06
+0-35,varicella,180-365,Carbon Dioxide,immunization,8.555271330430244e-06
+0-35,varicella,365-730,Carbon Dioxide,immunization,1.711054266086049e-05
+0-35,varicella,730-inf,Carbon Dioxide,immunization,8.555271330430244e-06
+0-35,zoster vaccine  live,90-180,Carbon Dioxide,immunization,3.422108532172098e-05
+0-35,zoster vaccine  live,180-365,Carbon Dioxide,immunization,8.555271330430245e-05
+0-35,zoster vaccine  live,365-730,Carbon Dioxide,immunization,0.0001967712405998
+0-35,zoster vaccine  live,730-inf,Carbon Dioxide,immunization,0.0008983034896951

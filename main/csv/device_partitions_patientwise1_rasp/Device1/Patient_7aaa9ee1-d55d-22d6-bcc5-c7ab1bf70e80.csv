@@ -1,0 +1,10 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2022-10-26,,7aaa9ee1-d55d-22d6-bcc5-c7ab1bf70e80,1b66cad8-ee13-b8f5-f188-30999cabe9c3,http://snomed.info/sct,431856006,Chronic kidney disease stage 2 (disorder),,,,,
+,,7aaa9ee1-d55d-22d6-bcc5-c7ab1bf70e80,1b66cad8-ee13-b8f5-f188-30999cabe9c3,,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2022-10-26T10:26:46Z,laboratory,2.1,mg/dL,numeric
+,,7aaa9ee1-d55d-22d6-bcc5-c7ab1bf70e80,1b66cad8-ee13-b8f5-f188-30999cabe9c3,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2022-10-26T10:26:46Z,laboratory,63.6,mL/min/{1.73_m2},numeric
+,,7aaa9ee1-d55d-22d6-bcc5-c7ab1bf70e80,9cd8a865-97a7-de68-35d6-e99b170f0292,,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2022-11-02T10:26:46Z,laboratory,1.8,mg/dL,numeric
+,,7aaa9ee1-d55d-22d6-bcc5-c7ab1bf70e80,9cd8a865-97a7-de68-35d6-e99b170f0292,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2022-11-02T10:26:46Z,laboratory,80.6,mL/min/{1.73_m2},numeric
+,,7aaa9ee1-d55d-22d6-bcc5-c7ab1bf70e80,b080810b-fe76-bfce-590b-2ba86684e20e,,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2023-11-01T10:26:46Z,laboratory,2.1,mg/dL,numeric
+,,7aaa9ee1-d55d-22d6-bcc5-c7ab1bf70e80,b080810b-fe76-bfce-590b-2ba86684e20e,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2023-11-01T10:26:46Z,laboratory,76.3,mL/min/{1.73_m2},numeric
+,,7aaa9ee1-d55d-22d6-bcc5-c7ab1bf70e80,ec67685c-f799-d9e2-47ed-a7ca848cbefc,,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2024-07-17T10:26:46Z,laboratory,1.9,mg/dL,numeric
+,,7aaa9ee1-d55d-22d6-bcc5-c7ab1bf70e80,ec67685c-f799-d9e2-47ed-a7ca848cbefc,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2024-07-17T10:26:46Z,laboratory,74.3,mL/min/{1.73_m2},numeric

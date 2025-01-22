@@ -1,0 +1,238 @@
+cause,effect,lag_bin,cause_type,effect_type,conditional_probability
+3-5,0-60,14-30,Albumin,Diastolic Blood Pressure,0.0012953367875647
+3-5,0-60,30-60,Albumin,Diastolic Blood Pressure,0.0025906735751295
+3-5,0-60,60-90,Albumin,Diastolic Blood Pressure,0.0025906735751295
+3-5,0-60,90-180,Albumin,Diastolic Blood Pressure,0.0038860103626943
+3-5,0-60,180-365,Albumin,Diastolic Blood Pressure,0.0116580310880829
+3-5,0-60,365-730,Albumin,Diastolic Blood Pressure,0.0233160621761658
+3-5,0-60,730-inf,Albumin,Diastolic Blood Pressure,0.0181347150259067
+3-5,0-90,30-60,Albumin,Systolic Blood Pressure,0.0012953367875647
+3-5,0-90,90-180,Albumin,Systolic Blood Pressure,0.0012953367875647
+3-5,0-90,180-365,Albumin,Systolic Blood Pressure,0.0038860103626943
+3-5,0-90,365-730,Albumin,Systolic Blood Pressure,0.0103626943005181
+3-5,0-90,730-inf,Albumin,Systolic Blood Pressure,0.0116580310880829
+3-5,120-140,14-30,Albumin,Systolic Blood Pressure,0.0012953367875647
+3-5,120-140,90-180,Albumin,Systolic Blood Pressure,0.0038860103626943
+3-5,120-140,180-365,Albumin,Systolic Blood Pressure,0.0025906735751295
+3-5,120-140,365-730,Albumin,Systolic Blood Pressure,0.005181347150259
+3-5,120-140,730-inf,Albumin,Systolic Blood Pressure,0.0272020725388601
+3-5,140-inf,365-730,Albumin,Systolic Blood Pressure,0.0012953367875647
+3-5,140-inf,730-inf,Albumin,Systolic Blood Pressure,0.0155440414507772
+3-5,150-170,14-30,Albumin,Body Height,0.0012953367875647
+3-5,150-170,90-180,Albumin,Body Height,0.0038860103626943
+3-5,150-170,180-365,Albumin,Body Height,0.0038860103626943
+3-5,150-170,365-730,Albumin,Body Height,0.0103626943005181
+3-5,150-170,730-inf,Albumin,Body Height,0.0466321243523316
+3-5,170-190,14-30,Albumin,Body Height,0.0012953367875647
+3-5,170-190,30-60,Albumin,Body Height,0.0025906735751295
+3-5,170-190,60-90,Albumin,Body Height,0.0025906735751295
+3-5,170-190,90-180,Albumin,Body Height,0.0038860103626943
+3-5,170-190,180-365,Albumin,Body Height,0.0103626943005181
+3-5,170-190,365-730,Albumin,Body Height,0.022020725388601
+3-5,170-190,730-inf,Albumin,Body Height,0.022020725388601
+3-5,50-70,90-180,Albumin,Body Weight,0.0012953367875647
+3-5,50-70,180-365,Albumin,Body Weight,0.0012953367875647
+3-5,50-70,365-730,Albumin,Body Weight,0.0025906735751295
+3-5,50-70,730-inf,Albumin,Body Weight,0.0103626943005181
+3-5,60-80,365-730,Albumin,Diastolic Blood Pressure,0.0025906735751295
+3-5,60-80,730-inf,Albumin,Diastolic Blood Pressure,0.0103626943005181
+3-5,70-90,14-30,Albumin,Body Weight,0.0012953367875647
+3-5,70-90,90-180,Albumin,Body Weight,0.0025906735751295
+3-5,70-90,180-365,Albumin,Body Weight,0.0038860103626943
+3-5,70-90,365-730,Albumin,Body Weight,0.0077720207253886
+3-5,70-90,730-inf,Albumin,Body Weight,0.044041450777202
+3-5,80-90,14-30,Albumin,Diastolic Blood Pressure,0.0012953367875647
+3-5,80-90,90-180,Albumin,Diastolic Blood Pressure,0.0038860103626943
+3-5,80-90,180-365,Albumin,Diastolic Blood Pressure,0.0012953367875647
+3-5,80-90,365-730,Albumin,Diastolic Blood Pressure,0.0064766839378238
+3-5,80-90,730-inf,Albumin,Diastolic Blood Pressure,0.0284974093264248
+3-5,90-120,14-30,Albumin,Systolic Blood Pressure,0.0012953367875647
+3-5,90-120,30-60,Albumin,Systolic Blood Pressure,0.0012953367875647
+3-5,90-120,60-90,Albumin,Systolic Blood Pressure,0.0025906735751295
+3-5,90-120,90-180,Albumin,Systolic Blood Pressure,0.0025906735751295
+3-5,90-120,180-365,Albumin,Systolic Blood Pressure,0.0077720207253886
+3-5,90-120,365-730,Albumin,Systolic Blood Pressure,0.0155440414507772
+3-5,90-120,730-inf,Albumin,Systolic Blood Pressure,0.0142487046632124
+3-5,90-inf,14-30,Albumin,Body Weight,0.0012953367875647
+3-5,90-inf,30-60,Albumin,Body Weight,0.0025906735751295
+3-5,90-inf,60-90,Albumin,Body Weight,0.0025906735751295
+3-5,90-inf,90-180,Albumin,Body Weight,0.0038860103626943
+3-5,90-inf,180-365,Albumin,Body Weight,0.0090673575129533
+3-5,90-inf,180-365,Albumin,Diastolic Blood Pressure,0.0012953367875647
+3-5,90-inf,365-730,Albumin,Body Weight,0.022020725388601
+3-5,90-inf,730-inf,Albumin,Body Weight,0.0155440414507772
+3-5,90-inf,730-inf,Albumin,Diastolic Blood Pressure,0.0116580310880829
+3-5,Abnormal findings diagnostic imaging heart+coronary circulat (finding),730-inf,Albumin,condition,0.0012953367875647
+3-5,Acute Cholecystitis,0-7,Albumin,condition,0.0064766839378238
+3-5,Acute bronchitis (disorder),60-90,Albumin,condition,0.0012953367875647
+3-5,Acute bronchitis (disorder),365-730,Albumin,condition,0.0012953367875647
+3-5,Acute bronchitis (disorder),730-inf,Albumin,condition,0.0025906735751295
+3-5,Acute viral pharyngitis (disorder),180-365,Albumin,condition,0.0012953367875647
+3-5,Acute viral pharyngitis (disorder),730-inf,Albumin,condition,0.0025906735751295
+3-5,Awaiting transplantation of bone marrow (situation),730-inf,Albumin,condition,0.0012953367875647
+3-5,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,365-730,Albumin,immunization,0.0025906735751295
+3-5,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,730-inf,Albumin,immunization,0.005181347150259
+3-5,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,365-730,Albumin,immunization,0.0025906735751295
+3-5,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,730-inf,Albumin,immunization,0.0025906735751295
+3-5,Cholelithiasis,0-7,Albumin,condition,0.0064766839378238
+3-5,Chronic congestive heart failure (disorder),730-inf,Albumin,condition,0.0012953367875647
+3-5,Concussion injury of brain (disorder),90-180,Albumin,condition,0.0012953367875647
+3-5,Concussion with loss of consciousness,90-180,Albumin,condition,0.0012953367875647
+3-5,Full-time employment (finding),90-180,Albumin,condition,0.005181347150259
+3-5,Full-time employment (finding),180-365,Albumin,condition,0.0025906735751295
+3-5,Full-time employment (finding),365-730,Albumin,condition,0.005181347150259
+3-5,Full-time employment (finding),730-inf,Albumin,condition,0.0155440414507772
+3-5,Gingival disease (disorder),30-60,Albumin,condition,0.0012953367875647
+3-5,Gingival disease (disorder),365-730,Albumin,condition,0.0038860103626943
+3-5,Gingival disease (disorder),730-inf,Albumin,condition,0.005181347150259
+3-5,Gingivitis (disorder),30-60,Albumin,condition,0.0012953367875647
+3-5,Gingivitis (disorder),90-180,Albumin,condition,0.0025906735751295
+3-5,Gingivitis (disorder),180-365,Albumin,condition,0.0025906735751295
+3-5,Gingivitis (disorder),365-730,Albumin,condition,0.0038860103626943
+3-5,Gingivitis (disorder),730-inf,Albumin,condition,0.0194300518134715
+3-5,History of coronary artery bypass grafting (situation),730-inf,Albumin,condition,0.0012953367875647
+3-5,History of peripheral stem cell transplant (situation),730-inf,Albumin,condition,0.0012953367875647
+3-5,Hyperlipidemia,730-inf,Albumin,condition,0.0012953367875647
+3-5,Influenza  seasonal  injectable  preservative free,14-30,Albumin,immunization,0.0012953367875647
+3-5,Influenza  seasonal  injectable  preservative free,30-60,Albumin,immunization,0.0012953367875647
+3-5,Influenza  seasonal  injectable  preservative free,90-180,Albumin,immunization,0.0025906735751295
+3-5,Influenza  seasonal  injectable  preservative free,180-365,Albumin,immunization,0.005181347150259
+3-5,Influenza  seasonal  injectable  preservative free,365-730,Albumin,immunization,0.0116580310880829
+3-5,Influenza  seasonal  injectable  preservative free,730-inf,Albumin,immunization,0.0401554404145077
+3-5,Injury of knee (disorder),730-inf,Albumin,condition,0.0012953367875647
+3-5,Injury of medial collateral ligament of knee,730-inf,Albumin,condition,0.0012953367875647
+3-5,Ischemic heart disease (disorder),730-inf,Albumin,condition,0.0012953367875647
+3-5,Leaking dental filling (finding),730-inf,Albumin,condition,0.0038860103626943
+3-5,Limited social contact (finding),14-30,Albumin,condition,0.0012953367875647
+3-5,Limited social contact (finding),365-730,Albumin,condition,0.0012953367875647
+3-5,Limited social contact (finding),730-inf,Albumin,condition,0.005181347150259
+3-5,Loose dental filling (finding),365-730,Albumin,condition,0.0025906735751295
+3-5,Loose dental filling (finding),730-inf,Albumin,condition,0.0012953367875647
+3-5,Medication review due (situation),30-60,Albumin,condition,0.0012953367875647
+3-5,Medication review due (situation),60-90,Albumin,condition,0.0012953367875647
+3-5,Medication review due (situation),90-180,Albumin,condition,0.0090673575129533
+3-5,Medication review due (situation),180-365,Albumin,condition,0.0116580310880829
+3-5,Medication review due (situation),365-730,Albumin,condition,0.0207253886010362
+3-5,Medication review due (situation),730-inf,Albumin,condition,0.0375647668393782
+3-5,Multiple myeloma (disorder),730-inf,Albumin,condition,0.0012953367875647
+3-5,Non-small cell carcinoma of lung  TNM stage 1 (disorder),365-730,Albumin,condition,0.0012953367875647
+3-5,Non-small cell lung cancer (disorder),365-730,Albumin,condition,0.0012953367875647
+3-5,Not in labor force (finding),60-90,Albumin,condition,0.0012953367875647
+3-5,Not in labor force (finding),180-365,Albumin,condition,0.0012953367875647
+3-5,Not in labor force (finding),365-730,Albumin,condition,0.0038860103626943
+3-5,Not in labor force (finding),730-inf,Albumin,condition,0.005181347150259
+3-5,Osteoarthritis of knee,180-365,Albumin,condition,0.0012953367875647
+3-5,Part-time employment (finding),180-365,Albumin,condition,0.0025906735751295
+3-5,Part-time employment (finding),365-730,Albumin,condition,0.0012953367875647
+3-5,Part-time employment (finding),730-inf,Albumin,condition,0.0090673575129533
+3-5,Pneumococcal conjugate PCV 13,730-inf,Albumin,immunization,0.0012953367875647
+3-5,Primary dental caries (disorder),180-365,Albumin,condition,0.0012953367875647
+3-5,Primary dental caries (disorder),365-730,Albumin,condition,0.0038860103626943
+3-5,Primary dental caries (disorder),730-inf,Albumin,condition,0.0025906735751295
+3-5,Reports of violence in the environment (finding),60-90,Albumin,condition,0.0012953367875647
+3-5,Reports of violence in the environment (finding),365-730,Albumin,condition,0.0025906735751295
+3-5,Severe anxiety (panic) (finding),90-180,Albumin,condition,0.0012953367875647
+3-5,Social isolation (finding),180-365,Albumin,condition,0.0012953367875647
+3-5,Social isolation (finding),365-730,Albumin,condition,0.005181347150259
+3-5,Social isolation (finding),730-inf,Albumin,condition,0.0012953367875647
+3-5,Sprain (morphologic abnormality),180-365,Albumin,condition,0.0012953367875647
+3-5,Sprain (morphologic abnormality),365-730,Albumin,condition,0.0012953367875647
+3-5,Sprain of ankle,365-730,Albumin,condition,0.0012953367875647
+3-5,Sprain of wrist,180-365,Albumin,condition,0.0012953367875647
+3-5,Stress (finding),30-60,Albumin,condition,0.0025906735751295
+3-5,Stress (finding),90-180,Albumin,condition,0.0038860103626943
+3-5,Stress (finding),180-365,Albumin,condition,0.0012953367875647
+3-5,Stress (finding),365-730,Albumin,condition,0.0103626943005181
+3-5,Stress (finding),730-inf,Albumin,condition,0.0116580310880829
+3-5,Suspected lung cancer (situation),365-730,Albumin,condition,0.0012953367875647
+3-5,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,14-30,Albumin,immunization,0.0012953367875647
+3-5,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,30-60,Albumin,immunization,0.0012953367875647
+3-5,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,365-730,Albumin,immunization,0.0012953367875647
+3-5,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,730-inf,Albumin,immunization,0.0012953367875647
+3-5,Unemployed (finding),14-30,Albumin,condition,0.0012953367875647
+3-5,Unemployed (finding),730-inf,Albumin,condition,0.0025906735751295
+3-5,Unhealthy alcohol drinking behavior (finding),90-180,Albumin,condition,0.0012953367875647
+3-5,Unhealthy alcohol drinking behavior (finding),180-365,Albumin,condition,0.0012953367875647
+3-5,Unhealthy alcohol drinking behavior (finding),730-inf,Albumin,condition,0.0012953367875647
+3-5,Victim of intimate partner abuse (finding),90-180,Albumin,condition,0.0012953367875647
+3-5,Victim of intimate partner abuse (finding),180-365,Albumin,condition,0.0025906735751295
+3-5,Victim of intimate partner abuse (finding),365-730,Albumin,condition,0.0012953367875647
+3-5,Victim of intimate partner abuse (finding),730-inf,Albumin,condition,0.005181347150259
+3-5,Viral sinusitis (disorder),730-inf,Albumin,condition,0.005181347150259
+3-5,pneumococcal polysaccharide vaccine  23 valent,730-inf,Albumin,immunization,0.0012953367875647
+5-inf,120-140,30-60,Albumin,Systolic Blood Pressure,0.005050505050505
+5-inf,120-140,90-180,Albumin,Systolic Blood Pressure,0.005050505050505
+5-inf,120-140,180-365,Albumin,Systolic Blood Pressure,0.0101010101010101
+5-inf,120-140,365-730,Albumin,Systolic Blood Pressure,0.0151515151515151
+5-inf,120-140,730-inf,Albumin,Systolic Blood Pressure,0.0404040404040404
+5-inf,150-170,180-365,Albumin,Body Height,0.005050505050505
+5-inf,150-170,365-730,Albumin,Body Height,0.005050505050505
+5-inf,150-170,730-inf,Albumin,Body Height,0.0202020202020202
+5-inf,170-190,30-60,Albumin,Body Height,0.005050505050505
+5-inf,170-190,60-90,Albumin,Body Height,0.005050505050505
+5-inf,170-190,90-180,Albumin,Body Height,0.0151515151515151
+5-inf,170-190,180-365,Albumin,Body Height,0.0101010101010101
+5-inf,170-190,365-730,Albumin,Body Height,0.0202020202020202
+5-inf,170-190,730-inf,Albumin,Body Height,0.0606060606060606
+5-inf,50-70,180-365,Albumin,Body Weight,0.005050505050505
+5-inf,50-70,365-730,Albumin,Body Weight,0.005050505050505
+5-inf,50-70,730-inf,Albumin,Body Weight,0.0202020202020202
+5-inf,70-90,30-60,Albumin,Body Weight,0.005050505050505
+5-inf,70-90,60-90,Albumin,Body Weight,0.005050505050505
+5-inf,70-90,90-180,Albumin,Body Weight,0.0151515151515151
+5-inf,70-90,180-365,Albumin,Body Weight,0.0101010101010101
+5-inf,70-90,365-730,Albumin,Body Weight,0.0202020202020202
+5-inf,70-90,730-inf,Albumin,Body Weight,0.0606060606060606
+5-inf,80-90,30-60,Albumin,Diastolic Blood Pressure,0.005050505050505
+5-inf,80-90,60-90,Albumin,Diastolic Blood Pressure,0.005050505050505
+5-inf,80-90,90-180,Albumin,Diastolic Blood Pressure,0.0151515151515151
+5-inf,80-90,180-365,Albumin,Diastolic Blood Pressure,0.0101010101010101
+5-inf,80-90,365-730,Albumin,Diastolic Blood Pressure,0.0202020202020202
+5-inf,80-90,730-inf,Albumin,Diastolic Blood Pressure,0.0707070707070707
+5-inf,90-120,60-90,Albumin,Systolic Blood Pressure,0.005050505050505
+5-inf,90-120,90-180,Albumin,Systolic Blood Pressure,0.0101010101010101
+5-inf,90-120,180-365,Albumin,Systolic Blood Pressure,0.005050505050505
+5-inf,90-120,365-730,Albumin,Systolic Blood Pressure,0.0101010101010101
+5-inf,90-120,730-inf,Albumin,Systolic Blood Pressure,0.0404040404040404
+5-inf,90-inf,180-365,Albumin,Diastolic Blood Pressure,0.005050505050505
+5-inf,90-inf,365-730,Albumin,Diastolic Blood Pressure,0.005050505050505
+5-inf,90-inf,730-inf,Albumin,Diastolic Blood Pressure,0.0101010101010101
+5-inf,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,730-inf,Albumin,immunization,0.0101010101010101
+5-inf,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,90-180,Albumin,immunization,0.0101010101010101
+5-inf,Full-time employment (finding),180-365,Albumin,condition,0.005050505050505
+5-inf,Full-time employment (finding),730-inf,Albumin,condition,0.0151515151515151
+5-inf,Gingival disease (disorder),90-180,Albumin,condition,0.005050505050505
+5-inf,Gingival disease (disorder),730-inf,Albumin,condition,0.0101010101010101
+5-inf,Gingivitis (disorder),90-180,Albumin,condition,0.005050505050505
+5-inf,Gingivitis (disorder),180-365,Albumin,condition,0.005050505050505
+5-inf,Gingivitis (disorder),365-730,Albumin,condition,0.0151515151515151
+5-inf,Gingivitis (disorder),730-inf,Albumin,condition,0.0202020202020202
+5-inf,Influenza  seasonal  injectable  preservative free,180-365,Albumin,immunization,0.0101010101010101
+5-inf,Influenza  seasonal  injectable  preservative free,365-730,Albumin,immunization,0.0101010101010101
+5-inf,Influenza  seasonal  injectable  preservative free,730-inf,Albumin,immunization,0.0252525252525252
+5-inf,Leaking dental filling (finding),365-730,Albumin,condition,0.005050505050505
+5-inf,Medication review due (situation),30-60,Albumin,condition,0.005050505050505
+5-inf,Medication review due (situation),180-365,Albumin,condition,0.0101010101010101
+5-inf,Medication review due (situation),365-730,Albumin,condition,0.005050505050505
+5-inf,Medication review due (situation),730-inf,Albumin,condition,0.0303030303030303
+5-inf,Not in labor force (finding),730-inf,Albumin,condition,0.005050505050505
+5-inf,Osteoporosis (disorder),730-inf,Albumin,condition,0.005050505050505
+5-inf,Part-time employment (finding),365-730,Albumin,condition,0.0101010101010101
+5-inf,Part-time employment (finding),730-inf,Albumin,condition,0.005050505050505
+5-inf,Polyp of colon,365-730,Albumin,condition,0.005050505050505
+5-inf,Primary dental caries (disorder),180-365,Albumin,condition,0.005050505050505
+5-inf,Primary dental caries (disorder),365-730,Albumin,condition,0.005050505050505
+5-inf,Reports of violence in the environment (finding),365-730,Albumin,condition,0.005050505050505
+5-inf,Reports of violence in the environment (finding),730-inf,Albumin,condition,0.005050505050505
+5-inf,Severe anxiety (panic) (finding),730-inf,Albumin,condition,0.005050505050505
+5-inf,Social isolation (finding),180-365,Albumin,condition,0.005050505050505
+5-inf,Social isolation (finding),365-730,Albumin,condition,0.005050505050505
+5-inf,Social isolation (finding),730-inf,Albumin,condition,0.005050505050505
+5-inf,Stress (finding),30-60,Albumin,condition,0.005050505050505
+5-inf,Stress (finding),365-730,Albumin,condition,0.0101010101010101
+5-inf,Stress (finding),730-inf,Albumin,condition,0.0202020202020202
+5-inf,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,730-inf,Albumin,immunization,0.005050505050505
+5-inf,Unemployed (finding),30-60,Albumin,condition,0.005050505050505
+5-inf,Unemployed (finding),730-inf,Albumin,condition,0.005050505050505
+5-inf,Victim of intimate partner abuse (finding),365-730,Albumin,condition,0.005050505050505
+5-inf,Viral sinusitis (disorder),730-inf,Albumin,condition,0.005050505050505

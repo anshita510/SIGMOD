@@ -1,0 +1,5 @@
+DATE,PATIENT,ENCOUNTER,CATEGORY,CODE,DESCRIPTION,VALUE,UNITS,TYPE
+1992-02-03T19:35:04Z,48a00720-50a2-0792-6ff5-6d3ae97f8afc,1a5f375c-ac7a-94d2-1e0d-5a04deb349a4,laboratory,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2.8,mg/dL,numeric
+1992-02-03T19:35:04Z,48a00720-50a2-0792-6ff5-6d3ae97f8afc,1a5f375c-ac7a-94d2-1e0d-5a04deb349a4,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),5.8,mL/min,numeric
+1997-11-29T18:32:46Z,48a00720-50a2-0792-6ff5-6d3ae97f8afc,467ec1ec-12e6-9151-1ba0-d06a78136892,laboratory,38483-4,Creatinine [Mass/volume] in Blood,1.5,mg/dL,numeric
+1997-11-29T18:32:46Z,48a00720-50a2-0792-6ff5-6d3ae97f8afc,467ec1ec-12e6-9151-1ba0-d06a78136892,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),118.3,mL/min/{1.73_m2},numeric

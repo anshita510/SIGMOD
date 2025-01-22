@@ -1,0 +1,6 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+1992-02-04,,48a00720-50a2-0792-6ff5-6d3ae97f8afc,1a5f375c-ac7a-94d2-1e0d-5a04deb349a4,http://snomed.info/sct,271737000,Anemia (disorder),,,,,
+,,48a00720-50a2-0792-6ff5-6d3ae97f8afc,1a5f375c-ac7a-94d2-1e0d-5a04deb349a4,,718-7,Hemoglobin [Mass/volume] in Blood,1992-02-03T19:35:04Z,laboratory,7.0,g/dL,numeric
+,,48a00720-50a2-0792-6ff5-6d3ae97f8afc,1a5f375c-ac7a-94d2-1e0d-5a04deb349a4,,5794-3,Hemoglobin [Presence] in Urine by Test strip,1992-02-03T19:35:04Z,laboratory,Urine blood test = negative (finding),{nominal},text
+,,48a00720-50a2-0792-6ff5-6d3ae97f8afc,545397fe-c6e2-a086-38b9-9f5a42d5fb35,,718-7,Hemoglobin [Mass/volume] in Blood,1993-06-26T18:32:46Z,laboratory,14.9,g/dL,numeric
+,,48a00720-50a2-0792-6ff5-6d3ae97f8afc,467ec1ec-12e6-9151-1ba0-d06a78136892,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,1997-11-29T18:32:46Z,laboratory,7.6,%,numeric

@@ -1,0 +1,1084 @@
+cause,effect,lag_bin,cause_type,effect_type,conditional_probability
+120-180,0-60,14-30,ALT (Elevated),Diastolic Blood Pressure,0.0013774104683195
+120-180,0-60,30-60,ALT (Elevated),Diastolic Blood Pressure,0.0027548209366391
+120-180,0-60,60-90,ALT (Elevated),Diastolic Blood Pressure,0.0027548209366391
+120-180,0-60,90-180,ALT (Elevated),Diastolic Blood Pressure,0.0041322314049586
+120-180,0-60,180-365,ALT (Elevated),Diastolic Blood Pressure,0.012396694214876
+120-180,0-60,365-730,ALT (Elevated),Diastolic Blood Pressure,0.024793388429752
+120-180,0-60,730-inf,ALT (Elevated),Diastolic Blood Pressure,0.0192837465564738
+120-180,0-90,30-60,ALT (Elevated),Systolic Blood Pressure,0.0013774104683195
+120-180,0-90,90-180,ALT (Elevated),Systolic Blood Pressure,0.0013774104683195
+120-180,0-90,180-365,ALT (Elevated),Systolic Blood Pressure,0.0041322314049586
+120-180,0-90,365-730,ALT (Elevated),Systolic Blood Pressure,0.0110192837465564
+120-180,0-90,730-inf,ALT (Elevated),Systolic Blood Pressure,0.012396694214876
+120-180,120-140,30-60,ALT (Elevated),Systolic Blood Pressure,0.0013774104683195
+120-180,120-140,90-180,ALT (Elevated),Systolic Blood Pressure,0.0041322314049586
+120-180,120-140,180-365,ALT (Elevated),Systolic Blood Pressure,0.0041322314049586
+120-180,120-140,365-730,ALT (Elevated),Systolic Blood Pressure,0.0068870523415977
+120-180,120-140,730-inf,ALT (Elevated),Systolic Blood Pressure,0.0179063360881542
+120-180,150-170,90-180,ALT (Elevated),Body Height,0.0027548209366391
+120-180,150-170,180-365,ALT (Elevated),Body Height,0.0055096418732782
+120-180,150-170,365-730,ALT (Elevated),Body Height,0.0082644628099173
+120-180,150-170,730-inf,ALT (Elevated),Body Height,0.024793388429752
+120-180,170-190,14-30,ALT (Elevated),Body Height,0.0013774104683195
+120-180,170-190,30-60,ALT (Elevated),Body Height,0.0041322314049586
+120-180,170-190,60-90,ALT (Elevated),Body Height,0.0041322314049586
+120-180,170-190,90-180,ALT (Elevated),Body Height,0.0082644628099173
+120-180,170-190,180-365,ALT (Elevated),Body Height,0.012396694214876
+120-180,170-190,365-730,ALT (Elevated),Body Height,0.0289256198347107
+120-180,170-190,730-inf,ALT (Elevated),Body Height,0.0316804407713498
+120-180,50-70,90-180,ALT (Elevated),Body Weight,0.0013774104683195
+120-180,50-70,180-365,ALT (Elevated),Body Weight,0.0027548209366391
+120-180,50-70,365-730,ALT (Elevated),Body Weight,0.0041322314049586
+120-180,50-70,730-inf,ALT (Elevated),Body Weight,0.0165289256198347
+120-180,60-80,365-730,ALT (Elevated),Diastolic Blood Pressure,0.0027548209366391
+120-180,60-80,730-inf,ALT (Elevated),Diastolic Blood Pressure,0.0110192837465564
+120-180,70-90,30-60,ALT (Elevated),Body Weight,0.0013774104683195
+120-180,70-90,60-90,ALT (Elevated),Body Weight,0.0013774104683195
+120-180,70-90,90-180,ALT (Elevated),Body Weight,0.0055096418732782
+120-180,70-90,180-365,ALT (Elevated),Body Weight,0.0055096418732782
+120-180,70-90,365-730,ALT (Elevated),Body Weight,0.0096418732782369
+120-180,70-90,730-inf,ALT (Elevated),Body Weight,0.024793388429752
+120-180,80-90,30-60,ALT (Elevated),Diastolic Blood Pressure,0.0013774104683195
+120-180,80-90,60-90,ALT (Elevated),Diastolic Blood Pressure,0.0013774104683195
+120-180,80-90,90-180,ALT (Elevated),Diastolic Blood Pressure,0.0068870523415977
+120-180,80-90,180-365,ALT (Elevated),Diastolic Blood Pressure,0.0041322314049586
+120-180,80-90,365-730,ALT (Elevated),Diastolic Blood Pressure,0.0082644628099173
+120-180,80-90,730-inf,ALT (Elevated),Diastolic Blood Pressure,0.0234159779614325
+120-180,90-120,14-30,ALT (Elevated),Systolic Blood Pressure,0.0013774104683195
+120-180,90-120,30-60,ALT (Elevated),Systolic Blood Pressure,0.0013774104683195
+120-180,90-120,60-90,ALT (Elevated),Systolic Blood Pressure,0.0041322314049586
+120-180,90-120,90-180,ALT (Elevated),Systolic Blood Pressure,0.0055096418732782
+120-180,90-120,180-365,ALT (Elevated),Systolic Blood Pressure,0.0096418732782369
+120-180,90-120,365-730,ALT (Elevated),Systolic Blood Pressure,0.0192837465564738
+120-180,90-120,730-inf,ALT (Elevated),Systolic Blood Pressure,0.0261707988980716
+120-180,90-inf,14-30,ALT (Elevated),Body Weight,0.0013774104683195
+120-180,90-inf,30-60,ALT (Elevated),Body Weight,0.0027548209366391
+120-180,90-inf,60-90,ALT (Elevated),Body Weight,0.0027548209366391
+120-180,90-inf,90-180,ALT (Elevated),Body Weight,0.0041322314049586
+120-180,90-inf,180-365,ALT (Elevated),Body Weight,0.0096418732782369
+120-180,90-inf,180-365,ALT (Elevated),Diastolic Blood Pressure,0.0013774104683195
+120-180,90-inf,365-730,ALT (Elevated),Body Weight,0.0234159779614325
+120-180,90-inf,365-730,ALT (Elevated),Diastolic Blood Pressure,0.0013774104683195
+120-180,90-inf,730-inf,ALT (Elevated),Body Weight,0.0165289256198347
+120-180,90-inf,730-inf,ALT (Elevated),Diastolic Blood Pressure,0.0027548209366391
+120-180,Acute Cholecystitis,0-7,ALT (Elevated),condition,0.0068870523415977
+120-180,Acute bronchitis (disorder),60-90,ALT (Elevated),condition,0.0013774104683195
+120-180,Acute bronchitis (disorder),365-730,ALT (Elevated),condition,0.0013774104683195
+120-180,Acute bronchitis (disorder),730-inf,ALT (Elevated),condition,0.0013774104683195
+120-180,Acute viral pharyngitis (disorder),180-365,ALT (Elevated),condition,0.0013774104683195
+120-180,Acute viral pharyngitis (disorder),730-inf,ALT (Elevated),condition,0.0027548209366391
+120-180,Awaiting transplantation of bone marrow (situation),730-inf,ALT (Elevated),condition,0.0013774104683195
+120-180,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,365-730,ALT (Elevated),immunization,0.0027548209366391
+120-180,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,730-inf,ALT (Elevated),immunization,0.0055096418732782
+120-180,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,90-180,ALT (Elevated),immunization,0.0027548209366391
+120-180,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,365-730,ALT (Elevated),immunization,0.0027548209366391
+120-180,Cholelithiasis,0-7,ALT (Elevated),condition,0.0068870523415977
+120-180,Chronic congestive heart failure (disorder),730-inf,ALT (Elevated),condition,0.0013774104683195
+120-180,Full-time employment (finding),90-180,ALT (Elevated),condition,0.0041322314049586
+120-180,Full-time employment (finding),180-365,ALT (Elevated),condition,0.0027548209366391
+120-180,Full-time employment (finding),365-730,ALT (Elevated),condition,0.0055096418732782
+120-180,Full-time employment (finding),730-inf,ALT (Elevated),condition,0.0137741046831955
+120-180,Gingival disease (disorder),30-60,ALT (Elevated),condition,0.0013774104683195
+120-180,Gingival disease (disorder),90-180,ALT (Elevated),condition,0.0013774104683195
+120-180,Gingival disease (disorder),365-730,ALT (Elevated),condition,0.0013774104683195
+120-180,Gingival disease (disorder),730-inf,ALT (Elevated),condition,0.0055096418732782
+120-180,Gingivitis (disorder),30-60,ALT (Elevated),condition,0.0013774104683195
+120-180,Gingivitis (disorder),90-180,ALT (Elevated),condition,0.0027548209366391
+120-180,Gingivitis (disorder),180-365,ALT (Elevated),condition,0.0041322314049586
+120-180,Gingivitis (disorder),365-730,ALT (Elevated),condition,0.0068870523415977
+120-180,Gingivitis (disorder),730-inf,ALT (Elevated),condition,0.012396694214876
+120-180,History of peripheral stem cell transplant (situation),730-inf,ALT (Elevated),condition,0.0013774104683195
+120-180,Influenza  seasonal  injectable  preservative free,30-60,ALT (Elevated),immunization,0.0013774104683195
+120-180,Influenza  seasonal  injectable  preservative free,90-180,ALT (Elevated),immunization,0.0027548209366391
+120-180,Influenza  seasonal  injectable  preservative free,180-365,ALT (Elevated),immunization,0.0068870523415977
+120-180,Influenza  seasonal  injectable  preservative free,365-730,ALT (Elevated),immunization,0.0137741046831955
+120-180,Influenza  seasonal  injectable  preservative free,730-inf,ALT (Elevated),immunization,0.0330578512396694
+120-180,Injury of knee (disorder),730-inf,ALT (Elevated),condition,0.0013774104683195
+120-180,Injury of medial collateral ligament of knee,730-inf,ALT (Elevated),condition,0.0013774104683195
+120-180,Leaking dental filling (finding),365-730,ALT (Elevated),condition,0.0013774104683195
+120-180,Leaking dental filling (finding),730-inf,ALT (Elevated),condition,0.0027548209366391
+120-180,Limited social contact (finding),14-30,ALT (Elevated),condition,0.0013774104683195
+120-180,Limited social contact (finding),365-730,ALT (Elevated),condition,0.0013774104683195
+120-180,Limited social contact (finding),730-inf,ALT (Elevated),condition,0.0027548209366391
+120-180,Loose dental filling (finding),365-730,ALT (Elevated),condition,0.0027548209366391
+120-180,Medication review due (situation),30-60,ALT (Elevated),condition,0.0027548209366391
+120-180,Medication review due (situation),60-90,ALT (Elevated),condition,0.0013774104683195
+120-180,Medication review due (situation),90-180,ALT (Elevated),condition,0.0082644628099173
+120-180,Medication review due (situation),180-365,ALT (Elevated),condition,0.0137741046831955
+120-180,Medication review due (situation),365-730,ALT (Elevated),condition,0.0220385674931129
+120-180,Medication review due (situation),730-inf,ALT (Elevated),condition,0.0316804407713498
+120-180,Multiple myeloma (disorder),730-inf,ALT (Elevated),condition,0.0013774104683195
+120-180,Non-small cell carcinoma of lung  TNM stage 1 (disorder),365-730,ALT (Elevated),condition,0.0013774104683195
+120-180,Non-small cell lung cancer (disorder),365-730,ALT (Elevated),condition,0.0013774104683195
+120-180,Not in labor force (finding),60-90,ALT (Elevated),condition,0.0013774104683195
+120-180,Not in labor force (finding),180-365,ALT (Elevated),condition,0.0013774104683195
+120-180,Not in labor force (finding),365-730,ALT (Elevated),condition,0.0041322314049586
+120-180,Not in labor force (finding),730-inf,ALT (Elevated),condition,0.0041322314049586
+120-180,Osteoarthritis of knee,180-365,ALT (Elevated),condition,0.0013774104683195
+120-180,Osteoporosis (disorder),730-inf,ALT (Elevated),condition,0.0013774104683195
+120-180,Part-time employment (finding),180-365,ALT (Elevated),condition,0.0027548209366391
+120-180,Part-time employment (finding),365-730,ALT (Elevated),condition,0.0041322314049586
+120-180,Part-time employment (finding),730-inf,ALT (Elevated),condition,0.0068870523415977
+120-180,Pneumococcal conjugate PCV 13,730-inf,ALT (Elevated),immunization,0.0013774104683195
+120-180,Polyp of colon,365-730,ALT (Elevated),condition,0.0013774104683195
+120-180,Primary dental caries (disorder),180-365,ALT (Elevated),condition,0.0027548209366391
+120-180,Primary dental caries (disorder),365-730,ALT (Elevated),condition,0.0041322314049586
+120-180,Primary dental caries (disorder),730-inf,ALT (Elevated),condition,0.0013774104683195
+120-180,Reports of violence in the environment (finding),60-90,ALT (Elevated),condition,0.0013774104683195
+120-180,Reports of violence in the environment (finding),365-730,ALT (Elevated),condition,0.0041322314049586
+120-180,Reports of violence in the environment (finding),730-inf,ALT (Elevated),condition,0.0013774104683195
+120-180,Severe anxiety (panic) (finding),90-180,ALT (Elevated),condition,0.0013774104683195
+120-180,Severe anxiety (panic) (finding),730-inf,ALT (Elevated),condition,0.0013774104683195
+120-180,Social isolation (finding),180-365,ALT (Elevated),condition,0.0027548209366391
+120-180,Social isolation (finding),365-730,ALT (Elevated),condition,0.0068870523415977
+120-180,Social isolation (finding),730-inf,ALT (Elevated),condition,0.0027548209366391
+120-180,Sprain (morphologic abnormality),180-365,ALT (Elevated),condition,0.0013774104683195
+120-180,Sprain of wrist,180-365,ALT (Elevated),condition,0.0013774104683195
+120-180,Stress (finding),30-60,ALT (Elevated),condition,0.0041322314049586
+120-180,Stress (finding),90-180,ALT (Elevated),condition,0.0027548209366391
+120-180,Stress (finding),180-365,ALT (Elevated),condition,0.0013774104683195
+120-180,Stress (finding),365-730,ALT (Elevated),condition,0.012396694214876
+120-180,Stress (finding),730-inf,ALT (Elevated),condition,0.0110192837465564
+120-180,Suspected lung cancer (situation),365-730,ALT (Elevated),condition,0.0013774104683195
+120-180,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,30-60,ALT (Elevated),immunization,0.0013774104683195
+120-180,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,365-730,ALT (Elevated),immunization,0.0013774104683195
+120-180,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,730-inf,ALT (Elevated),immunization,0.0013774104683195
+120-180,Unemployed (finding),30-60,ALT (Elevated),condition,0.0013774104683195
+120-180,Unemployed (finding),730-inf,ALT (Elevated),condition,0.0027548209366391
+120-180,Unhealthy alcohol drinking behavior (finding),90-180,ALT (Elevated),condition,0.0013774104683195
+120-180,Unhealthy alcohol drinking behavior (finding),180-365,ALT (Elevated),condition,0.0013774104683195
+120-180,Unhealthy alcohol drinking behavior (finding),730-inf,ALT (Elevated),condition,0.0013774104683195
+120-180,Victim of intimate partner abuse (finding),90-180,ALT (Elevated),condition,0.0013774104683195
+120-180,Victim of intimate partner abuse (finding),180-365,ALT (Elevated),condition,0.0027548209366391
+120-180,Victim of intimate partner abuse (finding),365-730,ALT (Elevated),condition,0.0013774104683195
+120-180,Victim of intimate partner abuse (finding),730-inf,ALT (Elevated),condition,0.0027548209366391
+120-180,Viral sinusitis (disorder),730-inf,ALT (Elevated),condition,0.0055096418732782
+120-180,pneumococcal polysaccharide vaccine  23 valent,730-inf,ALT (Elevated),immunization,0.0013774104683195
+180-inf,120-140,14-30,ALT (Elevated),Systolic Blood Pressure,0.0056818181818181
+180-inf,120-140,90-180,ALT (Elevated),Systolic Blood Pressure,0.0056818181818181
+180-inf,120-140,365-730,ALT (Elevated),Systolic Blood Pressure,0.0113636363636363
+180-inf,120-140,730-inf,ALT (Elevated),Systolic Blood Pressure,0.0681818181818181
+180-inf,140-inf,365-730,ALT (Elevated),Systolic Blood Pressure,0.0056818181818181
+180-inf,140-inf,730-inf,ALT (Elevated),Systolic Blood Pressure,0.0568181818181818
+180-inf,150-170,14-30,ALT (Elevated),Body Height,0.0056818181818181
+180-inf,150-170,90-180,ALT (Elevated),Body Height,0.0056818181818181
+180-inf,150-170,365-730,ALT (Elevated),Body Height,0.0170454545454545
+180-inf,150-170,730-inf,ALT (Elevated),Body Height,0.125
+180-inf,70-90,14-30,ALT (Elevated),Body Weight,0.0056818181818181
+180-inf,70-90,90-180,ALT (Elevated),Body Weight,0.0056818181818181
+180-inf,70-90,365-730,ALT (Elevated),Body Weight,0.0170454545454545
+180-inf,70-90,730-inf,ALT (Elevated),Body Weight,0.125
+180-inf,80-90,14-30,ALT (Elevated),Diastolic Blood Pressure,0.0056818181818181
+180-inf,80-90,90-180,ALT (Elevated),Diastolic Blood Pressure,0.0056818181818181
+180-inf,80-90,365-730,ALT (Elevated),Diastolic Blood Pressure,0.0170454545454545
+180-inf,80-90,730-inf,ALT (Elevated),Diastolic Blood Pressure,0.1079545454545454
+180-inf,90-inf,730-inf,ALT (Elevated),Diastolic Blood Pressure,0.0170454545454545
+180-inf,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,730-inf,ALT (Elevated),immunization,0.0113636363636363
+180-inf,Concussion injury of brain (disorder),90-180,ALT (Elevated),condition,0.0056818181818181
+180-inf,Concussion with loss of consciousness,90-180,ALT (Elevated),condition,0.0056818181818181
+180-inf,Full-time employment (finding),90-180,ALT (Elevated),condition,0.0056818181818181
+180-inf,Full-time employment (finding),730-inf,ALT (Elevated),condition,0.0227272727272727
+180-inf,Gingival disease (disorder),365-730,ALT (Elevated),condition,0.0056818181818181
+180-inf,Gingival disease (disorder),730-inf,ALT (Elevated),condition,0.0056818181818181
+180-inf,Gingivitis (disorder),90-180,ALT (Elevated),condition,0.0056818181818181
+180-inf,Gingivitis (disorder),365-730,ALT (Elevated),condition,0.0056818181818181
+180-inf,Gingivitis (disorder),730-inf,ALT (Elevated),condition,0.0397727272727272
+180-inf,Influenza  seasonal  injectable  preservative free,14-30,ALT (Elevated),immunization,0.0056818181818181
+180-inf,Influenza  seasonal  injectable  preservative free,365-730,ALT (Elevated),immunization,0.0056818181818181
+180-inf,Influenza  seasonal  injectable  preservative free,730-inf,ALT (Elevated),immunization,0.0397727272727272
+180-inf,Leaking dental filling (finding),730-inf,ALT (Elevated),condition,0.0056818181818181
+180-inf,Limited social contact (finding),730-inf,ALT (Elevated),condition,0.0056818181818181
+180-inf,Medication review due (situation),90-180,ALT (Elevated),condition,0.0056818181818181
+180-inf,Medication review due (situation),365-730,ALT (Elevated),condition,0.0056818181818181
+180-inf,Medication review due (situation),730-inf,ALT (Elevated),condition,0.0568181818181818
+180-inf,Not in labor force (finding),730-inf,ALT (Elevated),condition,0.0113636363636363
+180-inf,Part-time employment (finding),730-inf,ALT (Elevated),condition,0.0113636363636363
+180-inf,Primary dental caries (disorder),365-730,ALT (Elevated),condition,0.0056818181818181
+180-inf,Primary dental caries (disorder),730-inf,ALT (Elevated),condition,0.0056818181818181
+180-inf,Stress (finding),90-180,ALT (Elevated),condition,0.0056818181818181
+180-inf,Stress (finding),365-730,ALT (Elevated),condition,0.0056818181818181
+180-inf,Stress (finding),730-inf,ALT (Elevated),condition,0.0170454545454545
+180-inf,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,14-30,ALT (Elevated),immunization,0.0056818181818181
+180-inf,Unemployed (finding),14-30,ALT (Elevated),condition,0.0056818181818181
+180-inf,Victim of intimate partner abuse (finding),365-730,ALT (Elevated),condition,0.0056818181818181
+180-inf,Victim of intimate partner abuse (finding),730-inf,ALT (Elevated),condition,0.0113636363636363
+180-inf,Viral sinusitis (disorder),730-inf,ALT (Elevated),condition,0.0056818181818181
+60-120,120-140,180-365,ALT (Elevated),Systolic Blood Pressure,0.0147058823529411
+60-120,120-140,730-inf,ALT (Elevated),Systolic Blood Pressure,0.0588235294117647
+60-120,140-inf,730-inf,ALT (Elevated),Systolic Blood Pressure,0.0294117647058823
+60-120,170-190,180-365,ALT (Elevated),Body Height,0.0147058823529411
+60-120,170-190,730-inf,ALT (Elevated),Body Height,0.088235294117647
+60-120,70-90,180-365,ALT (Elevated),Body Weight,0.0147058823529411
+60-120,70-90,730-inf,ALT (Elevated),Body Weight,0.088235294117647
+60-120,90-inf,180-365,ALT (Elevated),Diastolic Blood Pressure,0.0147058823529411
+60-120,90-inf,730-inf,ALT (Elevated),Diastolic Blood Pressure,0.088235294117647
+60-120,Abnormal findings diagnostic imaging heart+coronary circulat (finding),730-inf,ALT (Elevated),condition,0.0147058823529411
+60-120,Acute bronchitis (disorder),730-inf,ALT (Elevated),condition,0.0147058823529411
+60-120,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,730-inf,ALT (Elevated),immunization,0.0294117647058823
+60-120,Full-time employment (finding),180-365,ALT (Elevated),condition,0.0147058823529411
+60-120,Full-time employment (finding),730-inf,ALT (Elevated),condition,0.0147058823529411
+60-120,Gingival disease (disorder),365-730,ALT (Elevated),condition,0.0147058823529411
+60-120,Gingival disease (disorder),730-inf,ALT (Elevated),condition,0.0147058823529411
+60-120,Gingivitis (disorder),730-inf,ALT (Elevated),condition,0.0441176470588235
+60-120,History of coronary artery bypass grafting (situation),730-inf,ALT (Elevated),condition,0.0147058823529411
+60-120,Hyperlipidemia,730-inf,ALT (Elevated),condition,0.0147058823529411
+60-120,Influenza  seasonal  injectable  preservative free,180-365,ALT (Elevated),immunization,0.0147058823529411
+60-120,Influenza  seasonal  injectable  preservative free,730-inf,ALT (Elevated),immunization,0.0735294117647058
+60-120,Ischemic heart disease (disorder),730-inf,ALT (Elevated),condition,0.0147058823529411
+60-120,Limited social contact (finding),730-inf,ALT (Elevated),condition,0.0147058823529411
+60-120,Loose dental filling (finding),730-inf,ALT (Elevated),condition,0.0147058823529411
+60-120,Medication review due (situation),180-365,ALT (Elevated),condition,0.0147058823529411
+60-120,Medication review due (situation),730-inf,ALT (Elevated),condition,0.0294117647058823
+60-120,Part-time employment (finding),730-inf,ALT (Elevated),condition,0.0147058823529411
+60-120,Sprain (morphologic abnormality),365-730,ALT (Elevated),condition,0.0147058823529411
+60-120,Sprain of ankle,365-730,ALT (Elevated),condition,0.0147058823529411
+60-120,Stress (finding),730-inf,ALT (Elevated),condition,0.0294117647058823
+60-120,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,730-inf,ALT (Elevated),immunization,0.0147058823529411
+60-120,Unemployed (finding),730-inf,ALT (Elevated),condition,0.0147058823529411
+Unhealthy alcohol drinking behavior (finding),0-1,14-30,condition,Creatinine,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),0-1,60-90,condition,Creatinine,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),0-1,90-180,condition,Creatinine,0.0003647207740662
+Unhealthy alcohol drinking behavior (finding),0-1,180-365,condition,Creatinine,0.0004290832636073
+Unhealthy alcohol drinking behavior (finding),0-1,365-730,condition,Creatinine,0.0002145416318036
+Unhealthy alcohol drinking behavior (finding),0-1,730-inf,condition,Creatinine,0.002703224560726
+Unhealthy alcohol drinking behavior (finding),0-150,180-365,condition,Body Height,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),0-150,365-730,condition,Body Height,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),0-150,730-inf,condition,Body Height,0.0004076291004269
+Unhealthy alcohol drinking behavior (finding),0-35,14-30,condition,Carbon Dioxide,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),0-35,30-60,condition,Carbon Dioxide,0.0001716333054429
+Unhealthy alcohol drinking behavior (finding),0-35,60-90,condition,Carbon Dioxide,0.000235995794984
+Unhealthy alcohol drinking behavior (finding),0-35,90-180,condition,Carbon Dioxide,0.0010083456694771
+Unhealthy alcohol drinking behavior (finding),0-35,180-365,condition,Carbon Dioxide,0.0010083456694771
+Unhealthy alcohol drinking behavior (finding),0-35,365-730,condition,Carbon Dioxide,0.0007723498744931
+Unhealthy alcohol drinking behavior (finding),0-35,730-inf,condition,Carbon Dioxide,0.0055351741005342
+Unhealthy alcohol drinking behavior (finding),0-50,7-14,condition,Body Weight,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),0-50,14-30,condition,Body Weight,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),0-50,30-60,condition,Body Weight,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),0-50,60-90,condition,Body Weight,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),0-50,90-180,condition,Body Weight,0.0001501791422625
+Unhealthy alcohol drinking behavior (finding),0-50,180-365,condition,Body Weight,0.0005578082426894
+Unhealthy alcohol drinking behavior (finding),0-50,365-730,condition,Body Weight,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),0-50,730-inf,condition,Body Weight,0.0004076291004269
+Unhealthy alcohol drinking behavior (finding),0-60,7-14,condition,Diastolic Blood Pressure,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),0-60,14-30,condition,Diastolic Blood Pressure,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),0-60,30-60,condition,Diastolic Blood Pressure,0.0001287249790821
+Unhealthy alcohol drinking behavior (finding),0-60,60-90,condition,Diastolic Blood Pressure,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),0-60,90-180,condition,Diastolic Blood Pressure,0.0003647207740662
+Unhealthy alcohol drinking behavior (finding),0-60,180-365,condition,Diastolic Blood Pressure,0.0006007165690502
+Unhealthy alcohol drinking behavior (finding),0-60,365-730,condition,Diastolic Blood Pressure,0.0012014331381004
+Unhealthy alcohol drinking behavior (finding),0-60,730-inf,condition,Diastolic Blood Pressure,0.004290832636073
+Unhealthy alcohol drinking behavior (finding),0-70,90-180,condition,Glucose,0.0003218124477054
+Unhealthy alcohol drinking behavior (finding),0-70,180-365,condition,Glucose,0.0001287249790821
+Unhealthy alcohol drinking behavior (finding),0-70,365-730,condition,Glucose,0.0001287249790821
+Unhealthy alcohol drinking behavior (finding),0-70,730-inf,condition,Glucose,0.0009868915062967
+Unhealthy alcohol drinking behavior (finding),0-8,14-30,condition,Calcium,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),0-8,60-90,condition,Calcium,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),0-8,90-180,condition,Calcium,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),0-8,365-730,condition,Calcium,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),0-8,730-inf,condition,Calcium,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),0-90,7-14,condition,Systolic Blood Pressure,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),0-90,14-30,condition,Systolic Blood Pressure,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),0-90,30-60,condition,Systolic Blood Pressure,0.0001716333054429
+Unhealthy alcohol drinking behavior (finding),0-90,60-90,condition,Systolic Blood Pressure,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),0-90,90-180,condition,Systolic Blood Pressure,0.0005363540795091
+Unhealthy alcohol drinking behavior (finding),0-90,180-365,condition,Systolic Blood Pressure,0.00117997897492
+Unhealthy alcohol drinking behavior (finding),0-90,365-730,condition,Systolic Blood Pressure,0.0018665121966917
+Unhealthy alcohol drinking behavior (finding),0-90,730-inf,condition,Systolic Blood Pressure,0.0047842783892214
+Unhealthy alcohol drinking behavior (finding),1-1,30-60,condition,Creatinine,0.0001501791422625
+Unhealthy alcohol drinking behavior (finding),1-1,60-90,condition,Creatinine,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),1-1,90-180,condition,Creatinine,0.0003861749372465
+Unhealthy alcohol drinking behavior (finding),1-1,180-365,condition,Creatinine,0.0004076291004269
+Unhealthy alcohol drinking behavior (finding),1-1,365-730,condition,Creatinine,0.0001930874686232
+Unhealthy alcohol drinking behavior (finding),1-1,730-inf,condition,Creatinine,0.0013730664435433
+Unhealthy alcohol drinking behavior (finding),1-inf,14-30,condition,Creatinine,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),1-inf,30-60,condition,Creatinine,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),1-inf,60-90,condition,Creatinine,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),1-inf,90-180,condition,Creatinine,0.0002574499581643
+Unhealthy alcohol drinking behavior (finding),1-inf,180-365,condition,Creatinine,0.0001716333054429
+Unhealthy alcohol drinking behavior (finding),1-inf,365-730,condition,Creatinine,0.0003647207740662
+Unhealthy alcohol drinking behavior (finding),1-inf,730-inf,condition,Creatinine,0.0014588830962648
+Unhealthy alcohol drinking behavior (finding),107-inf,14-30,condition,Chloride,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),107-inf,60-90,condition,Chloride,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),107-inf,90-180,condition,Chloride,0.0005148999163287
+Unhealthy alcohol drinking behavior (finding),107-inf,180-365,condition,Chloride,0.0004505374267876
+Unhealthy alcohol drinking behavior (finding),107-inf,365-730,condition,Chloride,0.0003432666108858
+Unhealthy alcohol drinking behavior (finding),107-inf,730-inf,condition,Chloride,0.0016305164017077
+Unhealthy alcohol drinking behavior (finding),120-140,7-14,condition,Systolic Blood Pressure,0.0001716333054429
+Unhealthy alcohol drinking behavior (finding),120-140,14-30,condition,Systolic Blood Pressure,0.0002789041213447
+Unhealthy alcohol drinking behavior (finding),120-140,30-60,condition,Systolic Blood Pressure,0.0005363540795091
+Unhealthy alcohol drinking behavior (finding),120-140,60-90,condition,Systolic Blood Pressure,0.000707987384952
+Unhealthy alcohol drinking behavior (finding),120-140,90-180,condition,Systolic Blood Pressure,0.0016090622385273
+Unhealthy alcohol drinking behavior (finding),120-140,180-365,condition,Systolic Blood Pressure,0.003175216150694
+Unhealthy alcohol drinking behavior (finding),120-140,365-730,condition,Systolic Blood Pressure,0.0070369655231597
+Unhealthy alcohol drinking behavior (finding),120-140,730-inf,condition,Systolic Blood Pressure,0.0316234365278582
+Unhealthy alcohol drinking behavior (finding),135-145,14-30,condition,Sodium,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),135-145,30-60,condition,Sodium,0.0001716333054429
+Unhealthy alcohol drinking behavior (finding),135-145,60-90,condition,Sodium,0.000235995794984
+Unhealthy alcohol drinking behavior (finding),135-145,90-180,condition,Sodium,0.0010083456694771
+Unhealthy alcohol drinking behavior (finding),135-145,180-365,condition,Sodium,0.0010083456694771
+Unhealthy alcohol drinking behavior (finding),135-145,365-730,condition,Sodium,0.0007723498744931
+Unhealthy alcohol drinking behavior (finding),135-145,730-inf,condition,Sodium,0.0055351741005342
+Unhealthy alcohol drinking behavior (finding),140-inf,7-14,condition,Systolic Blood Pressure,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),140-inf,14-30,condition,Systolic Blood Pressure,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),140-inf,30-60,condition,Systolic Blood Pressure,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),140-inf,60-90,condition,Systolic Blood Pressure,0.0001287249790821
+Unhealthy alcohol drinking behavior (finding),140-inf,90-180,condition,Systolic Blood Pressure,0.0002574499581643
+Unhealthy alcohol drinking behavior (finding),140-inf,180-365,condition,Systolic Blood Pressure,0.0003861749372465
+Unhealthy alcohol drinking behavior (finding),140-inf,365-730,condition,Systolic Blood Pressure,0.0011585248117397
+Unhealthy alcohol drinking behavior (finding),140-inf,730-inf,condition,Systolic Blood Pressure,0.006114436506404
+Unhealthy alcohol drinking behavior (finding),150-170,7-14,condition,Body Height,0.0001930874686232
+Unhealthy alcohol drinking behavior (finding),150-170,14-30,condition,Body Height,0.0003003582845251
+Unhealthy alcohol drinking behavior (finding),150-170,30-60,condition,Body Height,0.0006221707322305
+Unhealthy alcohol drinking behavior (finding),150-170,60-90,condition,Body Height,0.0006436248954109
+Unhealthy alcohol drinking behavior (finding),150-170,90-180,condition,Body Height,0.0017806955439703
+Unhealthy alcohol drinking behavior (finding),150-170,180-365,condition,Body Height,0.0031323078243333
+Unhealthy alcohol drinking behavior (finding),150-170,365-730,condition,Body Height,0.0071013280127008
+Unhealthy alcohol drinking behavior (finding),150-170,730-inf,condition,Body Height,0.0358284525112098
+Unhealthy alcohol drinking behavior (finding),170-190,7-14,condition,Body Height,0.0003003582845251
+Unhealthy alcohol drinking behavior (finding),170-190,14-30,condition,Body Height,0.0005578082426894
+Unhealthy alcohol drinking behavior (finding),170-190,30-60,condition,Body Height,0.0008367123640342
+Unhealthy alcohol drinking behavior (finding),170-190,60-90,condition,Body Height,0.0012014331381004
+Unhealthy alcohol drinking behavior (finding),170-190,90-180,condition,Body Height,0.00293922035571
+Unhealthy alcohol drinking behavior (finding),170-190,180-365,condition,Body Height,0.005406449121452
+Unhealthy alcohol drinking behavior (finding),170-190,365-730,condition,Body Height,0.011692518933299
+Unhealthy alcohol drinking behavior (finding),170-190,730-inf,condition,Body Height,0.0528630580764197
+Unhealthy alcohol drinking behavior (finding),190-inf,7-14,condition,Body Height,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),190-inf,14-30,condition,Body Height,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),190-inf,30-60,condition,Body Height,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),190-inf,60-90,condition,Body Height,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),190-inf,90-180,condition,Body Height,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),190-inf,180-365,condition,Body Height,0.0001930874686232
+Unhealthy alcohol drinking behavior (finding),190-inf,365-730,condition,Body Height,0.0004934457531483
+Unhealthy alcohol drinking behavior (finding),190-inf,730-inf,condition,Body Height,0.0019737830125935
+Unhealthy alcohol drinking behavior (finding),3-5,14-30,condition,Potassium,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),3-5,30-60,condition,Potassium,0.0001716333054429
+Unhealthy alcohol drinking behavior (finding),3-5,60-90,condition,Potassium,0.000235995794984
+Unhealthy alcohol drinking behavior (finding),3-5,90-180,condition,Potassium,0.0008152582008538
+Unhealthy alcohol drinking behavior (finding),3-5,180-365,condition,Potassium,0.0008152582008538
+Unhealthy alcohol drinking behavior (finding),3-5,365-730,condition,Potassium,0.0007294415481324
+Unhealthy alcohol drinking behavior (finding),3-5,730-inf,condition,Potassium,0.0050202741842054
+Unhealthy alcohol drinking behavior (finding),5-inf,90-180,condition,Potassium,0.0001930874686232
+Unhealthy alcohol drinking behavior (finding),5-inf,180-365,condition,Potassium,0.0001930874686232
+Unhealthy alcohol drinking behavior (finding),5-inf,365-730,condition,Potassium,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),5-inf,730-inf,condition,Potassium,0.0005148999163287
+Unhealthy alcohol drinking behavior (finding),50-70,7-14,condition,Body Weight,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),50-70,30-60,condition,Body Weight,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),50-70,60-90,condition,Body Weight,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),50-70,90-180,condition,Body Weight,0.0001287249790821
+Unhealthy alcohol drinking behavior (finding),50-70,180-365,condition,Body Weight,0.0004290832636073
+Unhealthy alcohol drinking behavior (finding),50-70,365-730,condition,Body Weight,0.0007938040376735
+Unhealthy alcohol drinking behavior (finding),50-70,730-inf,condition,Body Weight,0.0049130033683036
+Unhealthy alcohol drinking behavior (finding),60-80,7-14,condition,Diastolic Blood Pressure,0.0002574499581643
+Unhealthy alcohol drinking behavior (finding),60-80,14-30,condition,Diastolic Blood Pressure,0.0004505374267876
+Unhealthy alcohol drinking behavior (finding),60-80,30-60,condition,Diastolic Blood Pressure,0.0008152582008538
+Unhealthy alcohol drinking behavior (finding),60-80,60-90,condition,Diastolic Blood Pressure,0.0010941623221986
+Unhealthy alcohol drinking behavior (finding),60-80,90-180,condition,Diastolic Blood Pressure,0.0023814121130205
+Unhealthy alcohol drinking behavior (finding),60-80,180-365,condition,Diastolic Blood Pressure,0.0048271867155821
+Unhealthy alcohol drinking behavior (finding),60-80,365-730,condition,Diastolic Blood Pressure,0.009697281757525
+Unhealthy alcohol drinking behavior (finding),60-80,730-inf,condition,Diastolic Blood Pressure,0.0473064298127051
+Unhealthy alcohol drinking behavior (finding),70-90,7-14,condition,Body Weight,0.0002789041213447
+Unhealthy alcohol drinking behavior (finding),70-90,14-30,condition,Body Weight,0.0004505374267876
+Unhealthy alcohol drinking behavior (finding),70-90,30-60,condition,Body Weight,0.0008796206903949
+Unhealthy alcohol drinking behavior (finding),70-90,60-90,condition,Body Weight,0.0010512539958378
+Unhealthy alcohol drinking behavior (finding),70-90,90-180,condition,Body Weight,0.0027246787239063
+Unhealthy alcohol drinking behavior (finding),70-90,180-365,condition,Body Weight,0.0051919074896483
+Unhealthy alcohol drinking behavior (finding),70-90,365-730,condition,Body Weight,0.0128081354186779
+Unhealthy alcohol drinking behavior (finding),70-90,730-inf,condition,Body Weight,0.0613803608590246
+Unhealthy alcohol drinking behavior (finding),70-99,14-30,condition,Glucose,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),70-99,30-60,condition,Glucose,0.0001716333054429
+Unhealthy alcohol drinking behavior (finding),70-99,60-90,condition,Glucose,0.000235995794984
+Unhealthy alcohol drinking behavior (finding),70-99,90-180,condition,Glucose,0.0006865332217716
+Unhealthy alcohol drinking behavior (finding),70-99,180-365,condition,Glucose,0.0006650790585913
+Unhealthy alcohol drinking behavior (finding),70-99,365-730,condition,Glucose,0.0006221707322305
+Unhealthy alcohol drinking behavior (finding),70-99,730-inf,condition,Glucose,0.0039904743515479
+Unhealthy alcohol drinking behavior (finding),8-10,14-30,condition,Calcium,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),8-10,30-60,condition,Calcium,0.0001716333054429
+Unhealthy alcohol drinking behavior (finding),8-10,60-90,condition,Calcium,0.0002145416318036
+Unhealthy alcohol drinking behavior (finding),8-10,90-180,condition,Calcium,0.0009868915062967
+Unhealthy alcohol drinking behavior (finding),8-10,180-365,condition,Calcium,0.0010083456694771
+Unhealthy alcohol drinking behavior (finding),8-10,365-730,condition,Calcium,0.0007294415481324
+Unhealthy alcohol drinking behavior (finding),8-10,730-inf,condition,Calcium,0.0054708116109931
+Unhealthy alcohol drinking behavior (finding),80-90,7-14,condition,Diastolic Blood Pressure,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),80-90,14-30,condition,Diastolic Blood Pressure,0.0001716333054429
+Unhealthy alcohol drinking behavior (finding),80-90,30-60,condition,Diastolic Blood Pressure,0.000235995794984
+Unhealthy alcohol drinking behavior (finding),80-90,60-90,condition,Diastolic Blood Pressure,0.000235995794984
+Unhealthy alcohol drinking behavior (finding),80-90,90-180,condition,Diastolic Blood Pressure,0.0008152582008538
+Unhealthy alcohol drinking behavior (finding),80-90,180-365,condition,Diastolic Blood Pressure,0.001587608075347
+Unhealthy alcohol drinking behavior (finding),80-90,365-730,condition,Diastolic Blood Pressure,0.0050631825105661
+Unhealthy alcohol drinking behavior (finding),80-90,730-inf,condition,Diastolic Blood Pressure,0.0232348587243354
+Unhealthy alcohol drinking behavior (finding),90-120,7-14,condition,Systolic Blood Pressure,0.0002574499581643
+Unhealthy alcohol drinking behavior (finding),90-120,14-30,condition,Systolic Blood Pressure,0.0005148999163287
+Unhealthy alcohol drinking behavior (finding),90-120,30-60,condition,Systolic Blood Pressure,0.0007294415481324
+Unhealthy alcohol drinking behavior (finding),90-120,60-90,condition,Systolic Blood Pressure,0.0009868915062967
+Unhealthy alcohol drinking behavior (finding),90-120,90-180,condition,Systolic Blood Pressure,0.0024243204393812
+Unhealthy alcohol drinking behavior (finding),90-120,180-365,condition,Systolic Blood Pressure,0.0043551951256141
+Unhealthy alcohol drinking behavior (finding),90-120,365-730,condition,Systolic Blood Pressure,0.0101049108579519
+Unhealthy alcohol drinking behavior (finding),90-120,730-inf,condition,Systolic Blood Pressure,0.0534637746454699
+Unhealthy alcohol drinking behavior (finding),90-inf,7-14,condition,Body Weight,0.0001716333054429
+Unhealthy alcohol drinking behavior (finding),90-inf,7-14,condition,Diastolic Blood Pressure,0.0001287249790821
+Unhealthy alcohol drinking behavior (finding),90-inf,14-30,condition,Body Weight,0.0004076291004269
+Unhealthy alcohol drinking behavior (finding),90-inf,14-30,condition,Diastolic Blood Pressure,0.0002145416318036
+Unhealthy alcohol drinking behavior (finding),90-inf,30-60,condition,Body Weight,0.0005148999163287
+Unhealthy alcohol drinking behavior (finding),90-inf,30-60,condition,Diastolic Blood Pressure,0.0003218124477054
+Unhealthy alcohol drinking behavior (finding),90-inf,60-90,condition,Body Weight,0.0007938040376735
+Unhealthy alcohol drinking behavior (finding),90-inf,60-90,condition,Diastolic Blood Pressure,0.0004934457531483
+Unhealthy alcohol drinking behavior (finding),90-inf,90-180,condition,Body Weight,0.0018021497071506
+Unhealthy alcohol drinking behavior (finding),90-inf,90-180,condition,Diastolic Blood Pressure,0.0012657956276415
+Unhealthy alcohol drinking behavior (finding),90-inf,180-365,condition,Body Weight,0.0029177661925296
+Unhealthy alcohol drinking behavior (finding),90-inf,180-365,condition,Diastolic Blood Pressure,0.0020810538284954
+Unhealthy alcohol drinking behavior (finding),90-inf,365-730,condition,Body Weight,0.0072944154813241
+Unhealthy alcohol drinking behavior (finding),90-inf,365-730,condition,Diastolic Blood Pressure,0.0042050159833515
+Unhealthy alcohol drinking behavior (finding),90-inf,730-inf,condition,Body Weight,0.0281049537662783
+Unhealthy alcohol drinking behavior (finding),90-inf,730-inf,condition,Diastolic Blood Pressure,0.02115380489584
+Unhealthy alcohol drinking behavior (finding),98-107,30-60,condition,Chloride,0.0001716333054429
+Unhealthy alcohol drinking behavior (finding),98-107,60-90,condition,Chloride,0.0001501791422625
+Unhealthy alcohol drinking behavior (finding),98-107,90-180,condition,Chloride,0.0004934457531483
+Unhealthy alcohol drinking behavior (finding),98-107,180-365,condition,Chloride,0.0005578082426894
+Unhealthy alcohol drinking behavior (finding),98-107,365-730,condition,Chloride,0.0004290832636073
+Unhealthy alcohol drinking behavior (finding),98-107,730-inf,condition,Chloride,0.0039046576988264
+Unhealthy alcohol drinking behavior (finding),99-125,180-365,condition,Glucose,0.0002145416318036
+Unhealthy alcohol drinking behavior (finding),99-125,365-730,condition,Glucose,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),99-125,730-inf,condition,Glucose,0.0005578082426894
+Unhealthy alcohol drinking behavior (finding),Abnormal findings diagnostic imaging heart+coronary circulat (finding),7-14,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Abnormal findings diagnostic imaging heart+coronary circulat (finding),14-30,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Abnormal findings diagnostic imaging heart+coronary circulat (finding),60-90,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Abnormal findings diagnostic imaging heart+coronary circulat (finding),365-730,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Abnormal findings diagnostic imaging heart+coronary circulat (finding),730-inf,condition,condition,0.0004290832636073
+Unhealthy alcohol drinking behavior (finding),Acquired coagulation disorder (disorder),730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Acute ST segment elevation myocardial infarction (disorder),730-inf,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Acute bacterial sinusitis (disorder),14-30,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Acute bacterial sinusitis (disorder),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Acute bacterial sinusitis (disorder),365-730,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Acute bacterial sinusitis (disorder),730-inf,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Acute bronchitis (disorder),0-7,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Acute bronchitis (disorder),7-14,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Acute bronchitis (disorder),14-30,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Acute bronchitis (disorder),30-60,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Acute bronchitis (disorder),90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Acute bronchitis (disorder),180-365,condition,condition,0.0002145416318036
+Unhealthy alcohol drinking behavior (finding),Acute bronchitis (disorder),365-730,condition,condition,0.0002789041213447
+Unhealthy alcohol drinking behavior (finding),Acute bronchitis (disorder),730-inf,condition,condition,0.0018665121966917
+Unhealthy alcohol drinking behavior (finding),Acute deep venous thrombosis (disorder),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Acute deep venous thrombosis (disorder),730-inf,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Acute infective cystitis (disorder),365-730,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Acute infective cystitis (disorder),730-inf,condition,condition,0.0003861749372465
+Unhealthy alcohol drinking behavior (finding),Acute non-ST segment elevation myocardial infarction (disorder),30-60,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Acute non-ST segment elevation myocardial infarction (disorder),730-inf,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Acute pulmonary embolism (disorder),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Acute pulmonary embolism (disorder),730-inf,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Acute respiratory distress syndrome (disorder),730-inf,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Acute respiratory failure (disorder),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Acute respiratory failure (disorder),730-inf,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Acute viral pharyngitis (disorder),0-7,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Acute viral pharyngitis (disorder),7-14,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Acute viral pharyngitis (disorder),30-60,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Acute viral pharyngitis (disorder),60-90,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Acute viral pharyngitis (disorder),90-180,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Acute viral pharyngitis (disorder),180-365,condition,condition,0.0001501791422625
+Unhealthy alcohol drinking behavior (finding),Acute viral pharyngitis (disorder),365-730,condition,condition,0.0005148999163287
+Unhealthy alcohol drinking behavior (finding),Acute viral pharyngitis (disorder),730-inf,condition,condition,0.0022526871339383
+Unhealthy alcohol drinking behavior (finding),Alcoholism,730-inf,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Alveolitis of jaw (disorder),14-30,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Alveolitis of jaw (disorder),60-90,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Alveolitis of jaw (disorder),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Alveolitis of jaw (disorder),365-730,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Alveolitis of jaw (disorder),730-inf,condition,condition,0.0001716333054429
+Unhealthy alcohol drinking behavior (finding),Alzheimer's disease (disorder),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Alzheimer's disease (disorder),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Alzheimer's disease (disorder),730-inf,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Anemia (disorder),90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Anemia (disorder),365-730,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Anemia (disorder),730-inf,condition,condition,0.0009868915062967
+Unhealthy alcohol drinking behavior (finding),Antepartum eclampsia,730-inf,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Appendicitis,90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Appendicitis,180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Appendicitis,730-inf,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Asthma,730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Awaiting transplantation of bone marrow (situation),730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Awaiting transplantation of kidney (situation),60-90,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Awaiting transplantation of kidney (situation),90-180,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Awaiting transplantation of kidney (situation),180-365,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Awaiting transplantation of kidney (situation),365-730,condition,condition,0.0001501791422625
+Unhealthy alcohol drinking behavior (finding),Awaiting transplantation of kidney (situation),730-inf,condition,condition,0.0003861749372465
+Unhealthy alcohol drinking behavior (finding),Bleeding from anus,730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Blighted ovum,90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Blighted ovum,180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Blighted ovum,730-inf,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Body mass index 30+ - obesity (finding),180-365,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Body mass index 30+ - obesity (finding),365-730,condition,condition,0.0001501791422625
+Unhealthy alcohol drinking behavior (finding),Body mass index 30+ - obesity (finding),730-inf,condition,condition,0.0010512539958378
+Unhealthy alcohol drinking behavior (finding),Brain damage - traumatic,730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Bullet wound,90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Bullet wound,730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Burn injury (morphologic abnormality),365-730,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Burn injury (morphologic abnormality),730-inf,condition,condition,0.0001930874686232
+Unhealthy alcohol drinking behavior (finding),COVID-19,60-90,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),COVID-19,180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),COVID-19,365-730,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),COVID-19,730-inf,condition,condition,0.0004076291004269
+Unhealthy alcohol drinking behavior (finding),COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,7-14,condition,immunization,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,60-90,condition,immunization,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,90-180,condition,immunization,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,180-365,condition,immunization,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,365-730,condition,immunization,0.0004505374267876
+Unhealthy alcohol drinking behavior (finding),COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,730-inf,condition,immunization,0.0031966703138744
+Unhealthy alcohol drinking behavior (finding),COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,14-30,condition,immunization,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,30-60,condition,immunization,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,90-180,condition,immunization,0.0002574499581643
+Unhealthy alcohol drinking behavior (finding),COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,180-365,condition,immunization,0.0002145416318036
+Unhealthy alcohol drinking behavior (finding),COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,365-730,condition,immunization,0.0006221707322305
+Unhealthy alcohol drinking behavior (finding),COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,730-inf,condition,immunization,0.0037544785565639
+Unhealthy alcohol drinking behavior (finding),COVID-19 vaccine  vector-nr  rS-Ad26  PF  0.5 mL,180-365,condition,immunization,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),COVID-19 vaccine  vector-nr  rS-Ad26  PF  0.5 mL,730-inf,condition,immunization,0.0001287249790821
+Unhealthy alcohol drinking behavior (finding),Carcinoma in situ of prostate (disorder),730-inf,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Chill (finding),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Chill (finding),730-inf,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Chronic congestive heart failure (disorder),365-730,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Chronic congestive heart failure (disorder),730-inf,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Chronic intractable migraine without aura,365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Chronic intractable migraine without aura,730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Chronic kidney disease stage 1 (disorder),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Chronic kidney disease stage 1 (disorder),730-inf,condition,condition,0.0003647207740662
+Unhealthy alcohol drinking behavior (finding),Chronic kidney disease stage 2 (disorder),90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Chronic kidney disease stage 2 (disorder),365-730,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Chronic kidney disease stage 2 (disorder),730-inf,condition,condition,0.0003218124477054
+Unhealthy alcohol drinking behavior (finding),Chronic kidney disease stage 3 (disorder),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Chronic kidney disease stage 3 (disorder),365-730,condition,condition,0.0001287249790821
+Unhealthy alcohol drinking behavior (finding),Chronic kidney disease stage 3 (disorder),730-inf,condition,condition,0.0003003582845251
+Unhealthy alcohol drinking behavior (finding),Chronic kidney disease stage 4 (disorder),90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Chronic kidney disease stage 4 (disorder),180-365,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Chronic kidney disease stage 4 (disorder),365-730,condition,condition,0.0001930874686232
+Unhealthy alcohol drinking behavior (finding),Chronic kidney disease stage 4 (disorder),730-inf,condition,condition,0.0003432666108858
+Unhealthy alcohol drinking behavior (finding),Chronic low back pain (finding),60-90,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Chronic low back pain (finding),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Chronic low back pain (finding),365-730,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Chronic low back pain (finding),730-inf,condition,condition,0.000235995794984
+Unhealthy alcohol drinking behavior (finding),Chronic neck pain (finding),30-60,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Chronic neck pain (finding),60-90,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Chronic neck pain (finding),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Chronic neck pain (finding),365-730,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Chronic neck pain (finding),730-inf,condition,condition,0.0001287249790821
+Unhealthy alcohol drinking behavior (finding),Chronic obstructive bronchitis (disorder),730-inf,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Chronic pain,730-inf,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Chronic pain (finding),30-60,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Chronic pain (finding),60-90,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Chronic pain (finding),90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Chronic pain (finding),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Chronic pain (finding),365-730,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Chronic pain (finding),730-inf,condition,condition,0.0002574499581643
+Unhealthy alcohol drinking behavior (finding),Chronic sinusitis (disorder),60-90,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Chronic sinusitis (disorder),90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Chronic sinusitis (disorder),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Chronic sinusitis (disorder),730-inf,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Closed fracture of hip,730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Complete miscarriage (disorder),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Complete miscarriage (disorder),365-730,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Complete miscarriage (disorder),730-inf,condition,condition,0.000235995794984
+Unhealthy alcohol drinking behavior (finding),Concussion injury of brain (disorder),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Concussion injury of brain (disorder),365-730,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Concussion injury of brain (disorder),730-inf,condition,condition,0.0003647207740662
+Unhealthy alcohol drinking behavior (finding),Concussion with loss of consciousness,180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Concussion with loss of consciousness,365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Concussion with loss of consciousness,730-inf,condition,condition,0.0001501791422625
+Unhealthy alcohol drinking behavior (finding),Concussion with no loss of consciousness,365-730,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Concussion with no loss of consciousness,730-inf,condition,condition,0.0001716333054429
+Unhealthy alcohol drinking behavior (finding),Contact dermatitis,730-inf,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Cough (finding),180-365,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Cough (finding),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Cough (finding),730-inf,condition,condition,0.0003003582845251
+Unhealthy alcohol drinking behavior (finding),Dental filling lost (finding),7-14,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Dental filling lost (finding),14-30,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Dental filling lost (finding),90-180,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Dental filling lost (finding),180-365,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Dental filling lost (finding),365-730,condition,condition,0.0001501791422625
+Unhealthy alcohol drinking behavior (finding),Dental filling lost (finding),730-inf,condition,condition,0.0010512539958378
+Unhealthy alcohol drinking behavior (finding),Dependent drug abuse (disorder),730-inf,condition,condition,0.0001716333054429
+Unhealthy alcohol drinking behavior (finding),Diabetes mellitus type 2 (disorder),365-730,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Diabetes mellitus type 2 (disorder),730-inf,condition,condition,0.0001501791422625
+Unhealthy alcohol drinking behavior (finding),Diarrhea symptom (finding),730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Died in hospice (finding),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Died in hospice (finding),730-inf,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Disorder of kidney due to diabetes mellitus (disorder),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Disorder of kidney due to diabetes mellitus (disorder),730-inf,condition,condition,0.0002789041213447
+Unhealthy alcohol drinking behavior (finding),Drug overdose,730-inf,condition,condition,0.0005148999163287
+Unhealthy alcohol drinking behavior (finding),Dyspnea (finding),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Dyspnea (finding),365-730,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Dyspnea (finding),730-inf,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),End-stage renal disease (disorder),30-60,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),End-stage renal disease (disorder),90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),End-stage renal disease (disorder),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),End-stage renal disease (disorder),365-730,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),End-stage renal disease (disorder),730-inf,condition,condition,0.0003647207740662
+Unhealthy alcohol drinking behavior (finding),Epidermal burn of skin (disorder),365-730,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Epidermal burn of skin (disorder),730-inf,condition,condition,0.0001501791422625
+Unhealthy alcohol drinking behavior (finding),Essential hypertension (disorder),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Essential hypertension (disorder),730-inf,condition,condition,0.0005792624058698
+Unhealthy alcohol drinking behavior (finding),Facial laceration,60-90,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Facial laceration,180-365,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Facial laceration,365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Facial laceration,730-inf,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Familial Alzheimer's disease of early onset (disorder),730-inf,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Fatigue (finding),60-90,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Fatigue (finding),180-365,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Fatigue (finding),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Fatigue (finding),730-inf,condition,condition,0.0001287249790821
+Unhealthy alcohol drinking behavior (finding),Fever (finding),180-365,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Fever (finding),365-730,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Fever (finding),730-inf,condition,condition,0.0003861749372465
+Unhealthy alcohol drinking behavior (finding),Fibromyalgia (disorder),730-inf,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Fracture of bone (disorder),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Fracture of bone (disorder),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Fracture of bone (disorder),730-inf,condition,condition,0.0002145416318036
+Unhealthy alcohol drinking behavior (finding),Fracture of clavicle,180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Fracture of clavicle,730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Fracture of forearm,730-inf,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Fracture of mandible (disorder),730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Fracture of rib,730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Fracture of the vertebral column with spinal cord injury,730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Fracture subluxation of wrist,365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Fracture subluxation of wrist,730-inf,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Fractured dental filling (finding),7-14,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Fractured dental filling (finding),14-30,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Fractured dental filling (finding),60-90,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Fractured dental filling (finding),90-180,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Fractured dental filling (finding),180-365,condition,condition,0.0001287249790821
+Unhealthy alcohol drinking behavior (finding),Fractured dental filling (finding),365-730,condition,condition,0.0001716333054429
+Unhealthy alcohol drinking behavior (finding),Fractured dental filling (finding),730-inf,condition,condition,0.0010512539958378
+Unhealthy alcohol drinking behavior (finding),Full-time employment (finding),7-14,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Full-time employment (finding),14-30,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Full-time employment (finding),30-60,condition,condition,0.0003218124477054
+Unhealthy alcohol drinking behavior (finding),Full-time employment (finding),60-90,condition,condition,0.0003218124477054
+Unhealthy alcohol drinking behavior (finding),Full-time employment (finding),90-180,condition,condition,0.0011156164853789
+Unhealthy alcohol drinking behavior (finding),Full-time employment (finding),180-365,condition,condition,0.0018021497071506
+Unhealthy alcohol drinking behavior (finding),Full-time employment (finding),365-730,condition,condition,0.0037759327197442
+Unhealthy alcohol drinking behavior (finding),Full-time employment (finding),730-inf,condition,condition,0.0190298427409838
+Unhealthy alcohol drinking behavior (finding),Gingival disease (disorder),0-7,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Gingival disease (disorder),7-14,condition,condition,0.0003218124477054
+Unhealthy alcohol drinking behavior (finding),Gingival disease (disorder),14-30,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Gingival disease (disorder),30-60,condition,condition,0.0001287249790821
+Unhealthy alcohol drinking behavior (finding),Gingival disease (disorder),60-90,condition,condition,0.0001287249790821
+Unhealthy alcohol drinking behavior (finding),Gingival disease (disorder),90-180,condition,condition,0.000235995794984
+Unhealthy alcohol drinking behavior (finding),Gingival disease (disorder),180-365,condition,condition,0.0005578082426894
+Unhealthy alcohol drinking behavior (finding),Gingival disease (disorder),365-730,condition,condition,0.0010083456694771
+Unhealthy alcohol drinking behavior (finding),Gingival disease (disorder),730-inf,condition,condition,0.0055995365900753
+Unhealthy alcohol drinking behavior (finding),Gingivitis (disorder),7-14,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Gingivitis (disorder),14-30,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Gingivitis (disorder),30-60,condition,condition,0.0002789041213447
+Unhealthy alcohol drinking behavior (finding),Gingivitis (disorder),60-90,condition,condition,0.0003218124477054
+Unhealthy alcohol drinking behavior (finding),Gingivitis (disorder),90-180,condition,condition,0.0008796206903949
+Unhealthy alcohol drinking behavior (finding),Gingivitis (disorder),180-365,condition,condition,0.001587608075347
+Unhealthy alcohol drinking behavior (finding),Gingivitis (disorder),365-730,condition,condition,0.0036901160670228
+Unhealthy alcohol drinking behavior (finding),Gingivitis (disorder),730-inf,condition,condition,0.0205530883267898
+Unhealthy alcohol drinking behavior (finding),Gout,730-inf,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Gunshot wound (disorder),90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Gunshot wound (disorder),730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Has a criminal record (finding),30-60,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Has a criminal record (finding),180-365,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Has a criminal record (finding),365-730,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Has a criminal record (finding),730-inf,condition,condition,0.0005148999163287
+Unhealthy alcohol drinking behavior (finding),Headache (finding),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Headache (finding),730-inf,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Heart failure (disorder),730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Hep A  adult,90-180,condition,immunization,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Hep A  adult,180-365,condition,immunization,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Hep A  adult,365-730,condition,immunization,0.000235995794984
+Unhealthy alcohol drinking behavior (finding),Hep A  adult,730-inf,condition,immunization,0.0020166913389543
+Unhealthy alcohol drinking behavior (finding),Hep B  adult,90-180,condition,immunization,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Hep B  adult,180-365,condition,immunization,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Hep B  adult,365-730,condition,immunization,0.0001930874686232
+Unhealthy alcohol drinking behavior (finding),Hep B  adult,730-inf,condition,immunization,0.0006221707322305
+Unhealthy alcohol drinking behavior (finding),History of appendectomy,90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),History of appendectomy,180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),History of appendectomy,730-inf,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),History of coronary artery bypass grafting (situation),7-14,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),History of coronary artery bypass grafting (situation),14-30,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),History of coronary artery bypass grafting (situation),90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),History of coronary artery bypass grafting (situation),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),History of coronary artery bypass grafting (situation),730-inf,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),History of myocardial infarction (situation),30-60,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),History of myocardial infarction (situation),730-inf,condition,condition,0.0001716333054429
+Unhealthy alcohol drinking behavior (finding),History of peripheral stem cell transplant (situation),730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),History of renal transplant (situation),14-30,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),History of renal transplant (situation),30-60,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),History of renal transplant (situation),60-90,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),History of renal transplant (situation),90-180,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),History of renal transplant (situation),180-365,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),History of renal transplant (situation),365-730,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),History of renal transplant (situation),730-inf,condition,condition,0.0005363540795091
+Unhealthy alcohol drinking behavior (finding),History of tubal ligation (situation),90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),History of tubal ligation (situation),365-730,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),History of tubal ligation (situation),730-inf,condition,condition,0.0001501791422625
+Unhealthy alcohol drinking behavior (finding),Homeless (finding),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Homeless (finding),730-inf,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Hyperglycemia (disorder),730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Hyperlipidemia,365-730,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Hyperlipidemia,730-inf,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Hypertriglyceridemia (disorder),730-inf,condition,condition,0.0001716333054429
+Unhealthy alcohol drinking behavior (finding),Hypoxemia (disorder),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Hypoxemia (disorder),365-730,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Hypoxemia (disorder),730-inf,condition,condition,0.0001716333054429
+Unhealthy alcohol drinking behavior (finding),Impacted molars,365-730,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Impacted molars,730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Infection of tooth (disorder),7-14,condition,condition,0.0001287249790821
+Unhealthy alcohol drinking behavior (finding),Infection of tooth (disorder),14-30,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Infection of tooth (disorder),30-60,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Infection of tooth (disorder),60-90,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Infection of tooth (disorder),90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Infection of tooth (disorder),180-365,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Infection of tooth (disorder),365-730,condition,condition,0.0003432666108858
+Unhealthy alcohol drinking behavior (finding),Infection of tooth (disorder),730-inf,condition,condition,0.0012014331381004
+Unhealthy alcohol drinking behavior (finding),Influenza  seasonal  injectable  preservative free,0-7,condition,immunization,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Influenza  seasonal  injectable  preservative free,14-30,condition,immunization,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Influenza  seasonal  injectable  preservative free,30-60,condition,immunization,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Influenza  seasonal  injectable  preservative free,60-90,condition,immunization,0.0001287249790821
+Unhealthy alcohol drinking behavior (finding),Influenza  seasonal  injectable  preservative free,90-180,condition,immunization,0.0006650790585913
+Unhealthy alcohol drinking behavior (finding),Influenza  seasonal  injectable  preservative free,180-365,condition,immunization,0.0013730664435433
+Unhealthy alcohol drinking behavior (finding),Influenza  seasonal  injectable  preservative free,365-730,condition,immunization,0.0057282615691574
+Unhealthy alcohol drinking behavior (finding),Influenza  seasonal  injectable  preservative free,730-inf,condition,immunization,0.0351848276157988
+Unhealthy alcohol drinking behavior (finding),Injury of anterior cruciate ligament,730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Injury of heart (disorder),730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Injury of kidney (disorder),730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Injury of knee (disorder),730-inf,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Injury of neck (disorder),60-90,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Injury of neck (disorder),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Injury of neck (disorder),365-730,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Injury of neck (disorder),730-inf,condition,condition,0.0002789041213447
+Unhealthy alcohol drinking behavior (finding),Injury of tendon of the rotator cuff of shoulder,730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Ischemic heart disease (disorder),30-60,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Ischemic heart disease (disorder),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Ischemic heart disease (disorder),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Ischemic heart disease (disorder),730-inf,condition,condition,0.0004076291004269
+Unhealthy alcohol drinking behavior (finding),Joint pain (finding),730-inf,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Kidney transplant failure and rejection (disorder),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Laceration - injury (disorder),0-7,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Laceration - injury (disorder),14-30,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Laceration - injury (disorder),60-90,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Laceration - injury (disorder),90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Laceration - injury (disorder),180-365,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Laceration - injury (disorder),365-730,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Laceration - injury (disorder),730-inf,condition,condition,0.0005792624058698
+Unhealthy alcohol drinking behavior (finding),Laceration of foot,180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Laceration of foot,365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Laceration of foot,730-inf,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Laceration of forearm,14-30,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Laceration of forearm,60-90,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Laceration of forearm,730-inf,condition,condition,0.0001501791422625
+Unhealthy alcohol drinking behavior (finding),Laceration of hand,365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Laceration of hand,730-inf,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Laceration of thigh,0-7,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Laceration of thigh,90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Laceration of thigh,180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Laceration of thigh,730-inf,condition,condition,0.0001287249790821
+Unhealthy alcohol drinking behavior (finding),Lack of access to transportation (finding),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Lack of access to transportation (finding),730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Leaking dental filling (finding),7-14,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Leaking dental filling (finding),30-60,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Leaking dental filling (finding),90-180,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Leaking dental filling (finding),180-365,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Leaking dental filling (finding),365-730,condition,condition,0.0003003582845251
+Unhealthy alcohol drinking behavior (finding),Leaking dental filling (finding),730-inf,condition,condition,0.0009225290167557
+Unhealthy alcohol drinking behavior (finding),Limited social contact (finding),14-30,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Limited social contact (finding),30-60,condition,condition,0.0001716333054429
+Unhealthy alcohol drinking behavior (finding),Limited social contact (finding),60-90,condition,condition,0.0001716333054429
+Unhealthy alcohol drinking behavior (finding),Limited social contact (finding),90-180,condition,condition,0.0002789041213447
+Unhealthy alcohol drinking behavior (finding),Limited social contact (finding),180-365,condition,condition,0.0006221707322305
+Unhealthy alcohol drinking behavior (finding),Limited social contact (finding),365-730,condition,condition,0.0015446997489862
+Unhealthy alcohol drinking behavior (finding),Limited social contact (finding),730-inf,condition,condition,0.0067151530754542
+Unhealthy alcohol drinking behavior (finding),Localized  primary osteoarthritis of the hand,180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Localized  primary osteoarthritis of the hand,365-730,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Localized  primary osteoarthritis of the hand,730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Loose dental filling (finding),7-14,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Loose dental filling (finding),14-30,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Loose dental filling (finding),90-180,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Loose dental filling (finding),180-365,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Loose dental filling (finding),365-730,condition,condition,0.0001501791422625
+Unhealthy alcohol drinking behavior (finding),Loose dental filling (finding),730-inf,condition,condition,0.0010083456694771
+Unhealthy alcohol drinking behavior (finding),Loss of taste (finding),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Loss of taste (finding),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Loss of taste (finding),730-inf,condition,condition,0.0002145416318036
+Unhealthy alcohol drinking behavior (finding),Loss of teeth (disorder),14-30,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Loss of teeth (disorder),60-90,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Loss of teeth (disorder),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Loss of teeth (disorder),365-730,condition,condition,0.0001287249790821
+Unhealthy alcohol drinking behavior (finding),Loss of teeth (disorder),730-inf,condition,condition,0.0003432666108858
+Unhealthy alcohol drinking behavior (finding),Malignant neoplasm of breast (disorder),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Malignant tumor of colon,730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Medication review due (situation),0-7,condition,condition,0.0004076291004269
+Unhealthy alcohol drinking behavior (finding),Medication review due (situation),7-14,condition,condition,0.0004076291004269
+Unhealthy alcohol drinking behavior (finding),Medication review due (situation),14-30,condition,condition,0.0006436248954109
+Unhealthy alcohol drinking behavior (finding),Medication review due (situation),30-60,condition,condition,0.0011370706485593
+Unhealthy alcohol drinking behavior (finding),Medication review due (situation),60-90,condition,condition,0.0013301581171826
+Unhealthy alcohol drinking behavior (finding),Medication review due (situation),90-180,condition,condition,0.0028534037029885
+Unhealthy alcohol drinking behavior (finding),Medication review due (situation),180-365,condition,condition,0.0056853532427967
+Unhealthy alcohol drinking behavior (finding),Medication review due (situation),365-730,condition,condition,0.0121430563600866
+Unhealthy alcohol drinking behavior (finding),Medication review due (situation),730-inf,condition,condition,0.0536568621140932
+Unhealthy alcohol drinking behavior (finding),Metabolic syndrome X (disorder),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Metabolic syndrome X (disorder),365-730,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Metabolic syndrome X (disorder),730-inf,condition,condition,0.0005363540795091
+Unhealthy alcohol drinking behavior (finding),Microalbuminuria due to type 2 diabetes mellitus (disorder),90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Microalbuminuria due to type 2 diabetes mellitus (disorder),365-730,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Microalbuminuria due to type 2 diabetes mellitus (disorder),730-inf,condition,condition,0.0003003582845251
+Unhealthy alcohol drinking behavior (finding),Miscarriage in first trimester,90-180,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Miscarriage in first trimester,180-365,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Miscarriage in first trimester,365-730,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Miscarriage in first trimester,730-inf,condition,condition,0.0003432666108858
+Unhealthy alcohol drinking behavior (finding),Misuses drugs (finding),90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Misuses drugs (finding),180-365,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Misuses drugs (finding),365-730,condition,condition,0.0001501791422625
+Unhealthy alcohol drinking behavior (finding),Misuses drugs (finding),730-inf,condition,condition,0.0007294415481324
+Unhealthy alcohol drinking behavior (finding),Mitral valve regurgitation (disorder),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Multiple myeloma (disorder),730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Muscle pain (finding),730-inf,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Myocardial infarction (disorder),30-60,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Myocardial infarction (disorder),730-inf,condition,condition,0.0001716333054429
+Unhealthy alcohol drinking behavior (finding),Nasal congestion (finding),60-90,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Nasal congestion (finding),730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Nausea (finding),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Nausea (finding),730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Neoplasm of prostate,730-inf,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Neuropathy due to type 2 diabetes mellitus (disorder),730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Non-small cell carcinoma of lung  TNM stage 1 (disorder),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Non-small cell carcinoma of lung  TNM stage 1 (disorder),730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Non-small cell lung cancer (disorder),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Non-small cell lung cancer (disorder),730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Normal pregnancy,60-90,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Normal pregnancy,90-180,condition,condition,0.0001287249790821
+Unhealthy alcohol drinking behavior (finding),Normal pregnancy,180-365,condition,condition,0.0003003582845251
+Unhealthy alcohol drinking behavior (finding),Normal pregnancy,365-730,condition,condition,0.0004076291004269
+Unhealthy alcohol drinking behavior (finding),Normal pregnancy,730-inf,condition,condition,0.0026388620711849
+Unhealthy alcohol drinking behavior (finding),Not in labor force (finding),14-30,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Not in labor force (finding),30-60,condition,condition,0.0002145416318036
+Unhealthy alcohol drinking behavior (finding),Not in labor force (finding),60-90,condition,condition,0.0001716333054429
+Unhealthy alcohol drinking behavior (finding),Not in labor force (finding),90-180,condition,condition,0.0003647207740662
+Unhealthy alcohol drinking behavior (finding),Not in labor force (finding),180-365,condition,condition,0.0004934457531483
+Unhealthy alcohol drinking behavior (finding),Not in labor force (finding),365-730,condition,condition,0.0012872497908219
+Unhealthy alcohol drinking behavior (finding),Not in labor force (finding),730-inf,condition,condition,0.0074231404604063
+Unhealthy alcohol drinking behavior (finding),Obstructive sleep apnea syndrome (disorder),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Obstructive sleep apnea syndrome (disorder),730-inf,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Opioid abuse (disorder),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Opioid abuse (disorder),730-inf,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Osteoarthritis of hip,730-inf,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Osteoarthritis of knee,730-inf,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Osteoporosis (disorder),365-730,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Osteoporosis (disorder),730-inf,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Otitis media,7-14,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Otitis media,365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Otitis media,730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Part-time employment (finding),7-14,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Part-time employment (finding),14-30,condition,condition,0.0001287249790821
+Unhealthy alcohol drinking behavior (finding),Part-time employment (finding),30-60,condition,condition,0.0002574499581643
+Unhealthy alcohol drinking behavior (finding),Part-time employment (finding),60-90,condition,condition,0.0002789041213447
+Unhealthy alcohol drinking behavior (finding),Part-time employment (finding),90-180,condition,condition,0.0008796206903949
+Unhealthy alcohol drinking behavior (finding),Part-time employment (finding),180-365,condition,condition,0.0012228873012808
+Unhealthy alcohol drinking behavior (finding),Part-time employment (finding),365-730,condition,condition,0.0028104953766278
+Unhealthy alcohol drinking behavior (finding),Part-time employment (finding),730-inf,condition,condition,0.0137306644354336
+Unhealthy alcohol drinking behavior (finding),Passive conjunctival congestion (finding),730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Past pregnancy history of miscarriage (situation),90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Past pregnancy history of miscarriage (situation),180-365,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Past pregnancy history of miscarriage (situation),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Past pregnancy history of miscarriage (situation),730-inf,condition,condition,0.0002789041213447
+Unhealthy alcohol drinking behavior (finding),Pathological fracture due to osteoporosis (disorder),730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Pneumococcal conjugate PCV 13,90-180,condition,immunization,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Pneumococcal conjugate PCV 13,180-365,condition,immunization,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Pneumococcal conjugate PCV 13,365-730,condition,immunization,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Pneumococcal conjugate PCV 13,730-inf,condition,immunization,0.0002789041213447
+Unhealthy alcohol drinking behavior (finding),Pneumonia,730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Pneumonia (disorder),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Pneumonia (disorder),365-730,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Pneumonia (disorder),730-inf,condition,condition,0.0001716333054429
+Unhealthy alcohol drinking behavior (finding),Polyp of colon,60-90,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Polyp of colon,90-180,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Polyp of colon,180-365,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Polyp of colon,365-730,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Polyp of colon,730-inf,condition,condition,0.0001930874686232
+Unhealthy alcohol drinking behavior (finding),Prediabetes,180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Prediabetes,365-730,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Prediabetes,730-inf,condition,condition,0.0008796206903949
+Unhealthy alcohol drinking behavior (finding),Preeclampsia,730-inf,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Primary dental caries (disorder),0-7,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Primary dental caries (disorder),7-14,condition,condition,0.0003647207740662
+Unhealthy alcohol drinking behavior (finding),Primary dental caries (disorder),14-30,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Primary dental caries (disorder),30-60,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Primary dental caries (disorder),60-90,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Primary dental caries (disorder),90-180,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Primary dental caries (disorder),180-365,condition,condition,0.0002145416318036
+Unhealthy alcohol drinking behavior (finding),Primary dental caries (disorder),365-730,condition,condition,0.0007294415481324
+Unhealthy alcohol drinking behavior (finding),Primary dental caries (disorder),730-inf,condition,condition,0.0040119285147282
+Unhealthy alcohol drinking behavior (finding),Primary fibromyalgia syndrome,365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Primary fibromyalgia syndrome,730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Primary malignant neoplasm of colon,730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Proteinuria due to type 2 diabetes mellitus (disorder),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Proteinuria due to type 2 diabetes mellitus (disorder),365-730,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Proteinuria due to type 2 diabetes mellitus (disorder),730-inf,condition,condition,0.0002789041213447
+Unhealthy alcohol drinking behavior (finding),Protracted diarrhea,730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Pyelonephritis,180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Recurrent rectal polyp,180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Recurrent rectal polyp,365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Recurrent urinary tract infection (disorder),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Recurrent urinary tract infection (disorder),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Recurrent urinary tract infection (disorder),730-inf,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Refugee (person),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Refugee (person),730-inf,condition,condition,0.0001930874686232
+Unhealthy alcohol drinking behavior (finding),Reports of violence in the environment (finding),7-14,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Reports of violence in the environment (finding),14-30,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Reports of violence in the environment (finding),30-60,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Reports of violence in the environment (finding),60-90,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Reports of violence in the environment (finding),90-180,condition,condition,0.0001930874686232
+Unhealthy alcohol drinking behavior (finding),Reports of violence in the environment (finding),180-365,condition,condition,0.0004505374267876
+Unhealthy alcohol drinking behavior (finding),Reports of violence in the environment (finding),365-730,condition,condition,0.0008367123640342
+Unhealthy alcohol drinking behavior (finding),Reports of violence in the environment (finding),730-inf,condition,condition,0.0049130033683036
+Unhealthy alcohol drinking behavior (finding),Resorption of alveolar process due to dental trauma (disorder),14-30,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Resorption of alveolar process due to dental trauma (disorder),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Resorption of alveolar process due to dental trauma (disorder),365-730,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Resorption of alveolar process due to dental trauma (disorder),730-inf,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Respiratory distress (finding),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Respiratory distress (finding),365-730,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Respiratory distress (finding),730-inf,condition,condition,0.0001716333054429
+Unhealthy alcohol drinking behavior (finding),Retinopathy due to type 2 diabetes mellitus (disorder),730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Rheumatoid arthritis,365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Rupture of patellar tendon,730-inf,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Second degree burn,730-inf,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Sepsis (disorder),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Sepsis (disorder),730-inf,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Sepsis caused by virus (disorder),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Sepsis caused by virus (disorder),365-730,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Sepsis caused by virus (disorder),730-inf,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Septic shock (disorder),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Septic shock (disorder),730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Severe anxiety (panic) (finding),7-14,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Severe anxiety (panic) (finding),60-90,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Severe anxiety (panic) (finding),90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Severe anxiety (panic) (finding),180-365,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Severe anxiety (panic) (finding),365-730,condition,condition,0.0001930874686232
+Unhealthy alcohol drinking behavior (finding),Severe anxiety (panic) (finding),730-inf,condition,condition,0.0008796206903949
+Unhealthy alcohol drinking behavior (finding),Sinusitis (disorder),30-60,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Sinusitis (disorder),90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Sinusitis (disorder),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Sinusitis (disorder),365-730,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Sinusitis (disorder),730-inf,condition,condition,0.0002789041213447
+Unhealthy alcohol drinking behavior (finding),Sleep disorder (disorder),365-730,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Sleep disorder (disorder),730-inf,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Smokes tobacco daily,180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Smokes tobacco daily,730-inf,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Social isolation (finding),7-14,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Social isolation (finding),14-30,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Social isolation (finding),30-60,condition,condition,0.0001930874686232
+Unhealthy alcohol drinking behavior (finding),Social isolation (finding),60-90,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Social isolation (finding),90-180,condition,condition,0.0004290832636073
+Unhealthy alcohol drinking behavior (finding),Social isolation (finding),180-365,condition,condition,0.0008152582008538
+Unhealthy alcohol drinking behavior (finding),Social isolation (finding),365-730,condition,condition,0.0015232455858059
+Unhealthy alcohol drinking behavior (finding),Social isolation (finding),730-inf,condition,condition,0.0066293364227328
+Unhealthy alcohol drinking behavior (finding),Sore throat symptom (finding),730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Sprain (morphologic abnormality),14-30,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Sprain (morphologic abnormality),60-90,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Sprain (morphologic abnormality),90-180,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Sprain (morphologic abnormality),180-365,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Sprain (morphologic abnormality),365-730,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Sprain (morphologic abnormality),730-inf,condition,condition,0.000707987384952
+Unhealthy alcohol drinking behavior (finding),Sprain of ankle,14-30,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Sprain of ankle,60-90,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Sprain of ankle,90-180,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Sprain of ankle,180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Sprain of ankle,365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Sprain of ankle,730-inf,condition,condition,0.0005578082426894
+Unhealthy alcohol drinking behavior (finding),Sprain of wrist,180-365,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Sprain of wrist,365-730,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Sprain of wrist,730-inf,condition,condition,0.0001501791422625
+Unhealthy alcohol drinking behavior (finding),Sputum finding (finding),60-90,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Sputum finding (finding),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Sputum finding (finding),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Sputum finding (finding),730-inf,condition,condition,8.58166527214606e-05
+Unhealthy alcohol drinking behavior (finding),Sterilization requested (situation),90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Sterilization requested (situation),365-730,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Sterilization requested (situation),730-inf,condition,condition,0.0001501791422625
+Unhealthy alcohol drinking behavior (finding),Streptococcal sore throat (disorder),30-60,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Streptococcal sore throat (disorder),90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Streptococcal sore throat (disorder),180-365,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Streptococcal sore throat (disorder),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Streptococcal sore throat (disorder),730-inf,condition,condition,0.0004505374267876
+Unhealthy alcohol drinking behavior (finding),Stress (finding),7-14,condition,condition,0.0001287249790821
+Unhealthy alcohol drinking behavior (finding),Stress (finding),14-30,condition,condition,0.0002574499581643
+Unhealthy alcohol drinking behavior (finding),Stress (finding),30-60,condition,condition,0.0003647207740662
+Unhealthy alcohol drinking behavior (finding),Stress (finding),60-90,condition,condition,0.0005148999163287
+Unhealthy alcohol drinking behavior (finding),Stress (finding),90-180,condition,condition,0.0013945206067237
+Unhealthy alcohol drinking behavior (finding),Stress (finding),180-365,condition,condition,0.0021454163180365
+Unhealthy alcohol drinking behavior (finding),Stress (finding),365-730,condition,condition,0.0048057325524017
+Unhealthy alcohol drinking behavior (finding),Stress (finding),730-inf,condition,condition,0.0220763339125957
+Unhealthy alcohol drinking behavior (finding),Stroke,730-inf,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Suspected COVID-19,60-90,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Suspected COVID-19,180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Suspected COVID-19,365-730,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Suspected COVID-19,730-inf,condition,condition,0.0004076291004269
+Unhealthy alcohol drinking behavior (finding),Suspected lung cancer (situation),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Suspected lung cancer (situation),730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Suspected prostate cancer (situation),730-inf,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,0-7,condition,immunization,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,14-30,condition,immunization,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,30-60,condition,immunization,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,60-90,condition,immunization,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,90-180,condition,immunization,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,180-365,condition,immunization,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,365-730,condition,immunization,0.0006007165690502
+Unhealthy alcohol drinking behavior (finding),Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,730-inf,condition,immunization,0.0039690201883675
+Unhealthy alcohol drinking behavior (finding),Tear of meniscus of knee,730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Torus palatinus (disorder),14-30,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Torus palatinus (disorder),365-730,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Torus palatinus (disorder),730-inf,condition,condition,0.0001287249790821
+Unhealthy alcohol drinking behavior (finding),Transformed migraine (disorder),90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Transport problem (finding),365-730,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Transport problem (finding),730-inf,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Traumatic dislocation of temporomandibular joint (disorder),730-inf,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Traumatic injury of spinal cord and/or vertebral column (disorder),730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Tubal pregnancy,90-180,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Tubal pregnancy,730-inf,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Unemployed (finding),14-30,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Unemployed (finding),60-90,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Unemployed (finding),90-180,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Unemployed (finding),180-365,condition,condition,0.000235995794984
+Unhealthy alcohol drinking behavior (finding),Unemployed (finding),365-730,condition,condition,0.0004934457531483
+Unhealthy alcohol drinking behavior (finding),Unemployed (finding),730-inf,condition,condition,0.0025530454184634
+Unhealthy alcohol drinking behavior (finding),Unhealthy alcohol drinking behavior (finding),30-60,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Unhealthy alcohol drinking behavior (finding),180-365,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Unhealthy alcohol drinking behavior (finding),365-730,condition,condition,0.0001716333054429
+Unhealthy alcohol drinking behavior (finding),Unhealthy alcohol drinking behavior (finding),730-inf,condition,condition,0.0011156164853789
+Unhealthy alcohol drinking behavior (finding),Victim of intimate partner abuse (finding),7-14,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Victim of intimate partner abuse (finding),14-30,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Victim of intimate partner abuse (finding),30-60,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Victim of intimate partner abuse (finding),60-90,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Victim of intimate partner abuse (finding),90-180,condition,condition,0.0001501791422625
+Unhealthy alcohol drinking behavior (finding),Victim of intimate partner abuse (finding),180-365,condition,condition,0.0003432666108858
+Unhealthy alcohol drinking behavior (finding),Victim of intimate partner abuse (finding),365-730,condition,condition,0.0009654373431164
+Unhealthy alcohol drinking behavior (finding),Victim of intimate partner abuse (finding),730-inf,condition,condition,0.0047199158996803
+Unhealthy alcohol drinking behavior (finding),Viral sinusitis (disorder),0-7,condition,condition,0.000235995794984
+Unhealthy alcohol drinking behavior (finding),Viral sinusitis (disorder),7-14,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Viral sinusitis (disorder),14-30,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Viral sinusitis (disorder),30-60,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Viral sinusitis (disorder),60-90,condition,condition,0.0001501791422625
+Unhealthy alcohol drinking behavior (finding),Viral sinusitis (disorder),90-180,condition,condition,0.0002145416318036
+Unhealthy alcohol drinking behavior (finding),Viral sinusitis (disorder),180-365,condition,condition,0.0004076291004269
+Unhealthy alcohol drinking behavior (finding),Viral sinusitis (disorder),365-730,condition,condition,0.0007294415481324
+Unhealthy alcohol drinking behavior (finding),Viral sinusitis (disorder),730-inf,condition,condition,0.0043337409624337
+Unhealthy alcohol drinking behavior (finding),Vomiting symptom (finding),365-730,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Vomiting symptom (finding),730-inf,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Wheezing (finding),180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Wheezing (finding),365-730,condition,condition,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),Wheezing (finding),730-inf,condition,condition,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),Whiplash injury to neck,60-90,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Whiplash injury to neck,180-365,condition,condition,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),Whiplash injury to neck,365-730,condition,condition,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),Whiplash injury to neck,730-inf,condition,condition,0.0002789041213447
+Unhealthy alcohol drinking behavior (finding),meningococcal MCV4P,365-730,condition,immunization,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),meningococcal MCV4P,730-inf,condition,immunization,0.0003432666108858
+Unhealthy alcohol drinking behavior (finding),meningococcal polysaccharide (groups A  C  Y and W-135) diphtheria toxoid conjugate vaccine (MCV4P),0-7,condition,immunization,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),meningococcal polysaccharide (groups A  C  Y and W-135) diphtheria toxoid conjugate vaccine (MCV4P),730-inf,condition,immunization,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),pneumococcal polysaccharide vaccine  23 valent,0-7,condition,immunization,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),pneumococcal polysaccharide vaccine  23 valent,180-365,condition,immunization,2.145416318036515e-05
+Unhealthy alcohol drinking behavior (finding),pneumococcal polysaccharide vaccine  23 valent,365-730,condition,immunization,0.0001072708159018
+Unhealthy alcohol drinking behavior (finding),pneumococcal polysaccharide vaccine  23 valent,730-inf,condition,immunization,0.0003432666108858
+Unhealthy alcohol drinking behavior (finding),tetanus toxoid  reduced diphtheria toxoid  and acellular pertussis vaccine  adsorbed,730-inf,condition,immunization,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),zoster vaccine  live,90-180,condition,immunization,4.29083263607303e-05
+Unhealthy alcohol drinking behavior (finding),zoster vaccine  live,180-365,condition,immunization,6.436248954109545e-05
+Unhealthy alcohol drinking behavior (finding),zoster vaccine  live,365-730,condition,immunization,0.0003432666108858
+Unhealthy alcohol drinking behavior (finding),zoster vaccine  live,730-inf,condition,immunization,0.0010297998326575
+Unhealthy alcohol drinking behavior (finding),zoster vaccine recombinant,365-730,condition,immunization,4.29083263607303e-05

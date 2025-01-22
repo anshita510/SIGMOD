@@ -1,0 +1,6 @@
+DATE,PATIENT,ENCOUNTER,CATEGORY,CODE,DESCRIPTION,VALUE,UNITS,TYPE
+2015-03-02T02:03:42Z,45180c60-7daf-5989-3131-7ab40bdbb0cc,9893e2f6-9d8e-529d-457d-756fe92e207e,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,12.0,g/dL,numeric
+2015-05-15T03:23:46Z,45180c60-7daf-5989-3131-7ab40bdbb0cc,e286c02f-4f72-6fc7-9201-2e4a762dd601,laboratory,5794-3,Hemoglobin [Presence] in Urine by Test strip,Urine blood test = + (finding),{nominal},text
+2021-03-22T02:03:42Z,45180c60-7daf-5989-3131-7ab40bdbb0cc,13692d4b-e0b7-59cf-f526-9c9962ea4fd1,laboratory,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,6.4,%,numeric
+2021-03-22T02:03:42Z,45180c60-7daf-5989-3131-7ab40bdbb0cc,13692d4b-e0b7-59cf-f526-9c9962ea4fd1,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,13.8,g/dL,numeric
+2024-03-25T02:03:42Z,45180c60-7daf-5989-3131-7ab40bdbb0cc,4669507e-65dd-301f-0642-b6a904626db9,laboratory,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,5.8,%,numeric

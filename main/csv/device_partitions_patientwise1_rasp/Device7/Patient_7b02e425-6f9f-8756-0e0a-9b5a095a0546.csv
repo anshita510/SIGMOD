@@ -1,0 +1,5 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2023-09-08,,7b02e425-6f9f-8756-0e0a-9b5a095a0546,1bf43ab9-6663-1b36-da53-bfd2b9630789,http://snomed.info/sct,44054006,Diabetes mellitus type 2 (disorder),,,,,
+,,7b02e425-6f9f-8756-0e0a-9b5a095a0546,1bf43ab9-6663-1b36-da53-bfd2b9630789,,2339-0,Glucose [Mass/volume] in Blood,2023-09-07T22:19:01Z,laboratory,97.7,mg/dL,numeric
+,,7b02e425-6f9f-8756-0e0a-9b5a095a0546,4887711c-1d1b-16b1-22ce-73d19cab0790,,2339-0,Glucose [Mass/volume] in Blood,2024-08-15T22:19:01Z,laboratory,102.3,mg/dL,numeric
+,,7b02e425-6f9f-8756-0e0a-9b5a095a0546,13823814-1e52-2d0c-c657-8ca83876441f,,2339-0,Glucose [Mass/volume] in Blood,2024-09-12T22:19:01Z,laboratory,113.6,mg/dL,numeric

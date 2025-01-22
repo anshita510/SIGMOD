@@ -1,0 +1,7 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2021-02-14,,e964134a-21e3-60c7-f44c-ff0f2799aeda,240b9a45-54f2-7ba6-0e62-e778428be76a,http://snomed.info/sct,271737000,Anemia (disorder),,,,,
+,,e964134a-21e3-60c7-f44c-ff0f2799aeda,6ec9ebdc-7795-5d3e-cf30-e4afa9a47e8e,,718-7,Hemoglobin [Mass/volume] in Blood,2018-02-11T08:04:53Z,laboratory,13.2,g/dL,numeric
+,,e964134a-21e3-60c7-f44c-ff0f2799aeda,240b9a45-54f2-7ba6-0e62-e778428be76a,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2021-02-14T08:04:53Z,laboratory,6.2,%,numeric
+,,e964134a-21e3-60c7-f44c-ff0f2799aeda,8a58e4fc-ca3b-f658-b74a-681d1e168cb7,,718-7,Hemoglobin [Mass/volume] in Blood,2021-02-21T08:04:53Z,laboratory,10.1,g/dL,numeric
+,,e964134a-21e3-60c7-f44c-ff0f2799aeda,9539d7a9-e6c4-0661-76da-99daea9bc433,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2024-02-18T08:04:53Z,laboratory,5.8,%,numeric
+,,e964134a-21e3-60c7-f44c-ff0f2799aeda,9539d7a9-e6c4-0661-76da-99daea9bc433,,718-7,Hemoglobin [Mass/volume] in Blood,2024-02-18T08:04:53Z,laboratory,15.7,g/dL,numeric

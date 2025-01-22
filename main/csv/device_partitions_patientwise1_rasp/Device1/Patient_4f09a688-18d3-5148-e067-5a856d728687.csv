@@ -1,0 +1,81 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+1990-11-26,,4f09a688-18d3-5148-e067-5a856d728687,eaeee8a8-8532-b2a7-84e1-ac0d279459d5,http://snomed.info/sct,161665007,History of renal transplant (situation),,,,,
+1998-12-20,2016-06-13,4f09a688-18d3-5148-e067-5a856d728687,4f01d326-8103-7505-8d9c-92bdd893cb15,http://snomed.info/sct,431855005,Chronic kidney disease stage 1 (disorder),,,,,
+2007-08-12,2016-06-13,4f09a688-18d3-5148-e067-5a856d728687,92e48ffb-bd6e-7ae9-1675-aa879b481900,http://snomed.info/sct,433144002,Chronic kidney disease stage 3 (disorder),,,,,
+2010-05-20,2016-06-13,4f09a688-18d3-5148-e067-5a856d728687,dd2653f5-9e91-8fe6-f8b4-bb63a54cc3fd,http://snomed.info/sct,698306007,Awaiting transplantation of kidney (situation),,,,,
+2010-12-26,2016-06-13,4f09a688-18d3-5148-e067-5a856d728687,85e074bb-d463-4e94-93fc-2321b8204274,http://snomed.info/sct,431857002,Chronic kidney disease stage 4 (disorder),,,,,
+,,4f09a688-18d3-5148-e067-5a856d728687,187cc2ad-a748-b64a-481e-1272325d85a0,,38483-4,Creatinine [Mass/volume] in Blood,2014-10-12T09:19:02Z,laboratory,2.8,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,187cc2ad-a748-b64a-481e-1272325d85a0,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2014-10-12T09:19:02Z,laboratory,20.5,mL/min,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,332db958-774b-f072-aadb-0240df2794ef,,38483-4,Creatinine [Mass/volume] in Blood,2014-11-12T16:11:02Z,laboratory,3.1,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,332db958-774b-f072-aadb-0240df2794ef,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2014-11-12T16:11:02Z,laboratory,14.8,mL/min,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,8f8dbf02-05b4-b211-6cfb-1956f73ac6a9,,38483-4,Creatinine [Mass/volume] in Blood,2014-12-13T20:43:02Z,laboratory,3.3,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,8f8dbf02-05b4-b211-6cfb-1956f73ac6a9,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2014-12-13T20:43:02Z,laboratory,17.1,mL/min,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,b4e9adc2-4dfe-d434-73f6-010f5d4ed888,,38483-4,Creatinine [Mass/volume] in Blood,2015-01-14T02:01:02Z,laboratory,2.6,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,b4e9adc2-4dfe-d434-73f6-010f5d4ed888,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2015-01-14T02:01:02Z,laboratory,19.6,mL/min,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,c8ccd35c-b428-a9e9-3a8e-36e7765cba71,,38483-4,Creatinine [Mass/volume] in Blood,2015-02-14T08:13:02Z,laboratory,3.2,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,c8ccd35c-b428-a9e9-3a8e-36e7765cba71,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2015-02-14T08:13:02Z,laboratory,8.4,mL/min,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,8d24d1b7-d4d8-0356-2a5d-83f55ee17eb6,,38483-4,Creatinine [Mass/volume] in Blood,2015-03-17T16:37:02Z,laboratory,3.2,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,8d24d1b7-d4d8-0356-2a5d-83f55ee17eb6,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2015-03-17T16:37:02Z,laboratory,11.2,mL/min,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,73688745-cd55-1cd5-f3f6-a3374a1cab04,,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2015-03-29T17:26:02Z,laboratory,2.4,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,73688745-cd55-1cd5-f3f6-a3374a1cab04,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2015-03-29T17:26:02Z,laboratory,21.4,mL/min/{1.73_m2},numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,73688745-cd55-1cd5-f3f6-a3374a1cab04,,38483-4,Creatinine [Mass/volume] in Blood,2015-03-29T17:26:02Z,laboratory,6.7,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,1a7baf0b-b54e-20c6-70c7-45f0c338de61,,38483-4,Creatinine [Mass/volume] in Blood,2015-04-18T07:13:02Z,laboratory,3.0,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,1a7baf0b-b54e-20c6-70c7-45f0c338de61,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2015-04-18T07:13:02Z,laboratory,6.5,mL/min,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,48c8073f-6021-0b70-cfe3-720de49169d7,,38483-4,Creatinine [Mass/volume] in Blood,2015-05-31T20:42:02Z,laboratory,3.4,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,48c8073f-6021-0b70-cfe3-720de49169d7,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2015-05-31T20:42:02Z,laboratory,26.5,mL/min,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,8d7bed79-d82c-bf39-bd36-ee331f8e5551,,38483-4,Creatinine [Mass/volume] in Blood,2015-07-02T03:08:02Z,laboratory,3.5,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,8d7bed79-d82c-bf39-bd36-ee331f8e5551,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2015-07-02T03:08:02Z,laboratory,25.1,mL/min,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,af5c5831-57b7-379f-df39-4a52c78f961a,,38483-4,Creatinine [Mass/volume] in Blood,2015-08-02T08:28:02Z,laboratory,3.4,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,af5c5831-57b7-379f-df39-4a52c78f961a,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2015-08-02T08:28:02Z,laboratory,28.1,mL/min,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,28c592b7-e83a-5daf-0630-b427a54efa24,,38483-4,Creatinine [Mass/volume] in Blood,2015-09-02T12:28:02Z,laboratory,2.6,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,28c592b7-e83a-5daf-0630-b427a54efa24,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2015-09-02T12:28:02Z,laboratory,17.5,mL/min,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,243eb07f-a702-ed4d-2bf0-45a87189d4f1,,38483-4,Creatinine [Mass/volume] in Blood,2015-10-03T17:28:02Z,laboratory,2.7,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,243eb07f-a702-ed4d-2bf0-45a87189d4f1,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2015-10-03T17:28:02Z,laboratory,26.2,mL/min,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,84db9b7a-ce3a-a844-a5ee-7fa0c2874215,,38483-4,Creatinine [Mass/volume] in Blood,2015-11-04T00:09:02Z,laboratory,3.1,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,84db9b7a-ce3a-a844-a5ee-7fa0c2874215,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2015-11-04T00:09:02Z,laboratory,6.7,mL/min,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,5778cc37-669b-25fd-e6a4-4252bf8e6f3b,,38483-4,Creatinine [Mass/volume] in Blood,2015-12-05T08:59:02Z,laboratory,3.0,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,5778cc37-669b-25fd-e6a4-4252bf8e6f3b,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2015-12-05T08:59:02Z,laboratory,26.1,mL/min,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,0d463150-56b4-30a7-fbee-eaa2815b49f2,,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2015-12-27T17:26:02Z,laboratory,2.4,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,0d463150-56b4-30a7-fbee-eaa2815b49f2,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2015-12-27T17:26:02Z,laboratory,24.3,mL/min/{1.73_m2},numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,0d463150-56b4-30a7-fbee-eaa2815b49f2,,38483-4,Creatinine [Mass/volume] in Blood,2015-12-27T17:26:02Z,laboratory,13.8,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,89b76db2-3c32-2b33-f8c6-92242982e747,,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2016-01-03T17:26:02Z,laboratory,2.2,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,89b76db2-3c32-2b33-f8c6-92242982e747,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2016-01-03T17:26:02Z,laboratory,27.5,mL/min/{1.73_m2},numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,9afe8b4a-3b5e-034c-269c-cc2ff9510183,,38483-4,Creatinine [Mass/volume] in Blood,2016-01-17T21:14:02Z,laboratory,3.4,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,9afe8b4a-3b5e-034c-269c-cc2ff9510183,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2016-01-17T21:14:02Z,laboratory,24.9,mL/min,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,1f11da92-8cf1-aea1-fe7a-0faf7beb2c43,,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2016-01-31T17:26:02Z,laboratory,2.5,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,1f11da92-8cf1-aea1-fe7a-0faf7beb2c43,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2016-01-31T17:26:02Z,laboratory,27.6,mL/min/{1.73_m2},numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,1f11da92-8cf1-aea1-fe7a-0faf7beb2c43,,38483-4,Creatinine [Mass/volume] in Blood,2016-01-31T17:26:02Z,laboratory,12.2,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,f6a50d65-f0b9-24e5-3a22-4d0d99b971a8,,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2016-02-07T17:26:02Z,laboratory,2.4,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,f6a50d65-f0b9-24e5-3a22-4d0d99b971a8,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2016-02-07T17:26:02Z,laboratory,21.3,mL/min/{1.73_m2},numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,ebfb63ae-df4a-e453-021e-fff1a165865f,,38483-4,Creatinine [Mass/volume] in Blood,2016-02-18T00:06:02Z,laboratory,3.4,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,ebfb63ae-df4a-e453-021e-fff1a165865f,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2016-02-18T00:06:02Z,laboratory,16.9,mL/min,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,702e549e-3bc4-264e-31fa-b201adfeb08d,,38483-4,Creatinine [Mass/volume] in Blood,2016-03-20T06:33:02Z,laboratory,3.4,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,702e549e-3bc4-264e-31fa-b201adfeb08d,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2016-03-20T06:33:02Z,laboratory,22.0,mL/min,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,fa2702d6-d190-8f39-73a3-7d957bd86765,,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2016-04-03T17:26:02Z,laboratory,2.4,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,fa2702d6-d190-8f39-73a3-7d957bd86765,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2016-04-03T17:26:02Z,laboratory,19.7,mL/min/{1.73_m2},numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,fa2702d6-d190-8f39-73a3-7d957bd86765,,38483-4,Creatinine [Mass/volume] in Blood,2016-04-03T17:26:02Z,laboratory,28.9,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,38695a0d-80c2-6c18-0ce2-4f1d2dc903da,,38483-4,Creatinine [Mass/volume] in Blood,2016-04-20T04:32:02Z,laboratory,3.4,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,38695a0d-80c2-6c18-0ce2-4f1d2dc903da,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2016-04-20T04:32:02Z,laboratory,28.4,mL/min,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,4a2a7bd4-8eee-9828-eb69-f6a26949347f,,38483-4,Creatinine [Mass/volume] in Blood,2016-05-21T10:18:02Z,laboratory,3.0,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,4a2a7bd4-8eee-9828-eb69-f6a26949347f,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2016-05-21T10:18:02Z,laboratory,20.7,mL/min,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,162c4e63-cb38-f135-d3ef-b27b94136dc9,,38483-4,Creatinine,2016-06-12T17:26:02Z,laboratory,2.6,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,162c4e63-cb38-f135-d3ef-b27b94136dc9,,38483-4,Creatinine,2016-06-13T20:04:11Z,laboratory,5.6,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,162c4e63-cb38-f135-d3ef-b27b94136dc9,,38483-4,Creatinine,2016-06-14T20:43:13Z,laboratory,5.6,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,162c4e63-cb38-f135-d3ef-b27b94136dc9,,38483-4,Creatinine,2016-06-15T21:21:04Z,laboratory,5.6,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,2178c11c-331f-6abe-5a4d-5d2f18fef35e,,38483-4,Creatinine [Mass/volume] in Blood,2016-06-26T19:41:02Z,laboratory,3.3,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,2178c11c-331f-6abe-5a4d-5d2f18fef35e,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2016-06-26T19:41:02Z,laboratory,10.6,mL/min,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,7c2c66bd-5c2f-a935-144f-6452d49a1485,,38483-4,Creatinine,2016-07-03T17:26:02Z,laboratory,0.7,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,22f50335-eac0-3fb5-0d56-efdfc5d08453,,38483-4,Creatinine,2016-07-10T18:59:57Z,laboratory,0.7,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,69ba3db0-59d5-4513-61b9-7e6d3a52062c,,38483-4,Creatinine,2016-07-17T20:16:36Z,laboratory,0.7,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,2c50135b-f2e0-4fe8-8e2b-6ca979da3c1b,,38483-4,Creatinine,2016-07-24T21:50:18Z,laboratory,1.1,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,bb61c96f-5e36-47e4-2ce5-23d23603ac46,,38483-4,Creatinine,2016-07-31T23:40:54Z,laboratory,0.7,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,e7a85a9b-faa0-4a53-9054-cb26902d3254,,38483-4,Creatinine [Mass/volume] in Blood,2017-04-09T17:26:02Z,laboratory,1.1,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,532b7ab3-21ec-2197-f56a-78fa30844a69,,38483-4,Creatinine [Mass/volume] in Blood,2018-04-15T17:26:02Z,laboratory,0.7,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,ef31297c-994d-122a-0117-2a557b7154b9,,38483-4,Creatinine [Mass/volume] in Blood,2018-07-29T17:26:02Z,laboratory,0.7,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,4527f2f1-ec24-9662-4be0-c3a8bc93ffa8,,38483-4,Creatinine [Mass/volume] in Blood,2018-08-12T17:26:02Z,laboratory,0.7,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,044aa697-7a23-2712-8455-bf3e26d77105,,38483-4,Creatinine [Mass/volume] in Blood,2019-04-21T17:26:02Z,laboratory,0.7,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,8a62bafa-7a97-a4cd-3402-455c2b66fe31,,38483-4,Creatinine [Mass/volume] in Blood,2020-04-26T17:26:02Z,laboratory,0.7,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,aa5eafeb-f74e-d1fa-2cc3-e198283c007d,,38483-4,Creatinine [Mass/volume] in Blood,2021-05-02T17:26:02Z,laboratory,1.0,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,f6f06b50-8fb6-fe58-d492-c0a68386e776,,38483-4,Creatinine [Mass/volume] in Blood,2022-05-08T17:26:02Z,laboratory,0.6,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,d919f572-2aa3-5c0b-fbed-70be8da970c7,,38483-4,Creatinine [Mass/volume] in Blood,2023-05-14T17:26:02Z,laboratory,0.6,mg/dL,numeric
+,,4f09a688-18d3-5148-e067-5a856d728687,9a749537-0425-5e36-2f48-b4cebc2f6697,,38483-4,Creatinine [Mass/volume] in Blood,2024-05-19T17:26:02Z,laboratory,0.6,mg/dL,numeric

@@ -1,0 +1,176 @@
+cause,effect,lag_bin,cause_type,effect_type,conditional_probability
+0-100,0-60,14-30,Alkaline Phosphatase,Diastolic Blood Pressure,0.0010309278350515
+0-100,0-60,30-60,Alkaline Phosphatase,Diastolic Blood Pressure,0.002061855670103
+0-100,0-60,60-90,Alkaline Phosphatase,Diastolic Blood Pressure,0.002061855670103
+0-100,0-60,90-180,Alkaline Phosphatase,Diastolic Blood Pressure,0.0030927835051546
+0-100,0-60,180-365,Alkaline Phosphatase,Diastolic Blood Pressure,0.0092783505154639
+0-100,0-60,365-730,Alkaline Phosphatase,Diastolic Blood Pressure,0.0185567010309278
+0-100,0-60,730-inf,Alkaline Phosphatase,Diastolic Blood Pressure,0.0144329896907216
+0-100,0-90,30-60,Alkaline Phosphatase,Systolic Blood Pressure,0.0010309278350515
+0-100,0-90,90-180,Alkaline Phosphatase,Systolic Blood Pressure,0.0010309278350515
+0-100,0-90,180-365,Alkaline Phosphatase,Systolic Blood Pressure,0.0030927835051546
+0-100,0-90,365-730,Alkaline Phosphatase,Systolic Blood Pressure,0.0082474226804123
+0-100,0-90,730-inf,Alkaline Phosphatase,Systolic Blood Pressure,0.0092783505154639
+0-100,120-140,14-30,Alkaline Phosphatase,Systolic Blood Pressure,0.0010309278350515
+0-100,120-140,30-60,Alkaline Phosphatase,Systolic Blood Pressure,0.0010309278350515
+0-100,120-140,90-180,Alkaline Phosphatase,Systolic Blood Pressure,0.0041237113402061
+0-100,120-140,180-365,Alkaline Phosphatase,Systolic Blood Pressure,0.0041237113402061
+0-100,120-140,365-730,Alkaline Phosphatase,Systolic Blood Pressure,0.0072164948453608
+0-100,120-140,730-inf,Alkaline Phosphatase,Systolic Blood Pressure,0.0298969072164948
+0-100,140-inf,365-730,Alkaline Phosphatase,Systolic Blood Pressure,0.0010309278350515
+0-100,140-inf,730-inf,Alkaline Phosphatase,Systolic Blood Pressure,0.0123711340206185
+0-100,150-170,14-30,Alkaline Phosphatase,Body Height,0.0010309278350515
+0-100,150-170,90-180,Alkaline Phosphatase,Body Height,0.0030927835051546
+0-100,150-170,180-365,Alkaline Phosphatase,Body Height,0.0041237113402061
+0-100,150-170,365-730,Alkaline Phosphatase,Body Height,0.0092783505154639
+0-100,150-170,730-inf,Alkaline Phosphatase,Body Height,0.0412371134020618
+0-100,170-190,14-30,Alkaline Phosphatase,Body Height,0.0010309278350515
+0-100,170-190,30-60,Alkaline Phosphatase,Body Height,0.0030927835051546
+0-100,170-190,60-90,Alkaline Phosphatase,Body Height,0.0030927835051546
+0-100,170-190,90-180,Alkaline Phosphatase,Body Height,0.0061855670103092
+0-100,170-190,180-365,Alkaline Phosphatase,Body Height,0.0103092783505154
+0-100,170-190,365-730,Alkaline Phosphatase,Body Height,0.0216494845360824
+0-100,170-190,730-inf,Alkaline Phosphatase,Body Height,0.0298969072164948
+0-100,50-70,90-180,Alkaline Phosphatase,Body Weight,0.0010309278350515
+0-100,50-70,180-365,Alkaline Phosphatase,Body Weight,0.002061855670103
+0-100,50-70,365-730,Alkaline Phosphatase,Body Weight,0.0030927835051546
+0-100,50-70,730-inf,Alkaline Phosphatase,Body Weight,0.0123711340206185
+0-100,60-80,365-730,Alkaline Phosphatase,Diastolic Blood Pressure,0.002061855670103
+0-100,60-80,730-inf,Alkaline Phosphatase,Diastolic Blood Pressure,0.0082474226804123
+0-100,70-90,14-30,Alkaline Phosphatase,Body Weight,0.0010309278350515
+0-100,70-90,30-60,Alkaline Phosphatase,Body Weight,0.0010309278350515
+0-100,70-90,60-90,Alkaline Phosphatase,Body Weight,0.0010309278350515
+0-100,70-90,90-180,Alkaline Phosphatase,Body Weight,0.0051546391752577
+0-100,70-90,180-365,Alkaline Phosphatase,Body Weight,0.0051546391752577
+0-100,70-90,365-730,Alkaline Phosphatase,Body Weight,0.0103092783505154
+0-100,70-90,730-inf,Alkaline Phosphatase,Body Weight,0.0474226804123711
+0-100,80-90,14-30,Alkaline Phosphatase,Diastolic Blood Pressure,0.0010309278350515
+0-100,80-90,30-60,Alkaline Phosphatase,Diastolic Blood Pressure,0.0010309278350515
+0-100,80-90,60-90,Alkaline Phosphatase,Diastolic Blood Pressure,0.0010309278350515
+0-100,80-90,90-180,Alkaline Phosphatase,Diastolic Blood Pressure,0.0061855670103092
+0-100,80-90,180-365,Alkaline Phosphatase,Diastolic Blood Pressure,0.0030927835051546
+0-100,80-90,365-730,Alkaline Phosphatase,Diastolic Blood Pressure,0.0092783505154639
+0-100,80-90,730-inf,Alkaline Phosphatase,Diastolic Blood Pressure,0.0371134020618556
+0-100,90-120,14-30,Alkaline Phosphatase,Systolic Blood Pressure,0.0010309278350515
+0-100,90-120,30-60,Alkaline Phosphatase,Systolic Blood Pressure,0.0010309278350515
+0-100,90-120,60-90,Alkaline Phosphatase,Systolic Blood Pressure,0.0030927835051546
+0-100,90-120,90-180,Alkaline Phosphatase,Systolic Blood Pressure,0.0041237113402061
+0-100,90-120,180-365,Alkaline Phosphatase,Systolic Blood Pressure,0.0072164948453608
+0-100,90-120,365-730,Alkaline Phosphatase,Systolic Blood Pressure,0.0144329896907216
+0-100,90-120,730-inf,Alkaline Phosphatase,Systolic Blood Pressure,0.0195876288659793
+0-100,90-inf,14-30,Alkaline Phosphatase,Body Weight,0.0010309278350515
+0-100,90-inf,30-60,Alkaline Phosphatase,Body Weight,0.002061855670103
+0-100,90-inf,60-90,Alkaline Phosphatase,Body Weight,0.002061855670103
+0-100,90-inf,90-180,Alkaline Phosphatase,Body Weight,0.0030927835051546
+0-100,90-inf,180-365,Alkaline Phosphatase,Body Weight,0.0072164948453608
+0-100,90-inf,180-365,Alkaline Phosphatase,Diastolic Blood Pressure,0.002061855670103
+0-100,90-inf,365-730,Alkaline Phosphatase,Body Weight,0.0175257731958762
+0-100,90-inf,365-730,Alkaline Phosphatase,Diastolic Blood Pressure,0.0010309278350515
+0-100,90-inf,730-inf,Alkaline Phosphatase,Body Weight,0.0123711340206185
+0-100,90-inf,730-inf,Alkaline Phosphatase,Diastolic Blood Pressure,0.011340206185567
+0-100,Abnormal findings diagnostic imaging heart+coronary circulat (finding),730-inf,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Acute Cholecystitis,0-7,Alkaline Phosphatase,condition,0.0051546391752577
+0-100,Acute bronchitis (disorder),60-90,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Acute bronchitis (disorder),365-730,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Acute bronchitis (disorder),730-inf,Alkaline Phosphatase,condition,0.002061855670103
+0-100,Acute viral pharyngitis (disorder),180-365,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Acute viral pharyngitis (disorder),730-inf,Alkaline Phosphatase,condition,0.002061855670103
+0-100,Awaiting transplantation of bone marrow (situation),730-inf,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,365-730,Alkaline Phosphatase,immunization,0.002061855670103
+0-100,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,730-inf,Alkaline Phosphatase,immunization,0.0061855670103092
+0-100,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,90-180,Alkaline Phosphatase,immunization,0.002061855670103
+0-100,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,365-730,Alkaline Phosphatase,immunization,0.002061855670103
+0-100,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,730-inf,Alkaline Phosphatase,immunization,0.002061855670103
+0-100,Cholelithiasis,0-7,Alkaline Phosphatase,condition,0.0051546391752577
+0-100,Chronic congestive heart failure (disorder),730-inf,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Concussion injury of brain (disorder),90-180,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Concussion with loss of consciousness,90-180,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Full-time employment (finding),90-180,Alkaline Phosphatase,condition,0.0041237113402061
+0-100,Full-time employment (finding),180-365,Alkaline Phosphatase,condition,0.0030927835051546
+0-100,Full-time employment (finding),365-730,Alkaline Phosphatase,condition,0.0041237113402061
+0-100,Full-time employment (finding),730-inf,Alkaline Phosphatase,condition,0.0154639175257731
+0-100,Gingival disease (disorder),30-60,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Gingival disease (disorder),90-180,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Gingival disease (disorder),365-730,Alkaline Phosphatase,condition,0.0030927835051546
+0-100,Gingival disease (disorder),730-inf,Alkaline Phosphatase,condition,0.0061855670103092
+0-100,Gingivitis (disorder),30-60,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Gingivitis (disorder),90-180,Alkaline Phosphatase,condition,0.0030927835051546
+0-100,Gingivitis (disorder),180-365,Alkaline Phosphatase,condition,0.0030927835051546
+0-100,Gingivitis (disorder),365-730,Alkaline Phosphatase,condition,0.0061855670103092
+0-100,Gingivitis (disorder),730-inf,Alkaline Phosphatase,condition,0.0195876288659793
+0-100,History of coronary artery bypass grafting (situation),730-inf,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,History of peripheral stem cell transplant (situation),730-inf,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Hyperlipidemia,730-inf,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Influenza  seasonal  injectable  preservative free,14-30,Alkaline Phosphatase,immunization,0.0010309278350515
+0-100,Influenza  seasonal  injectable  preservative free,30-60,Alkaline Phosphatase,immunization,0.0010309278350515
+0-100,Influenza  seasonal  injectable  preservative free,90-180,Alkaline Phosphatase,immunization,0.002061855670103
+0-100,Influenza  seasonal  injectable  preservative free,180-365,Alkaline Phosphatase,immunization,0.0061855670103092
+0-100,Influenza  seasonal  injectable  preservative free,365-730,Alkaline Phosphatase,immunization,0.011340206185567
+0-100,Influenza  seasonal  injectable  preservative free,730-inf,Alkaline Phosphatase,immunization,0.0371134020618556
+0-100,Injury of knee (disorder),730-inf,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Injury of medial collateral ligament of knee,730-inf,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Ischemic heart disease (disorder),730-inf,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Leaking dental filling (finding),365-730,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Leaking dental filling (finding),730-inf,Alkaline Phosphatase,condition,0.0030927835051546
+0-100,Limited social contact (finding),14-30,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Limited social contact (finding),365-730,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Limited social contact (finding),730-inf,Alkaline Phosphatase,condition,0.0041237113402061
+0-100,Loose dental filling (finding),365-730,Alkaline Phosphatase,condition,0.002061855670103
+0-100,Loose dental filling (finding),730-inf,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Medication review due (situation),30-60,Alkaline Phosphatase,condition,0.002061855670103
+0-100,Medication review due (situation),60-90,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Medication review due (situation),90-180,Alkaline Phosphatase,condition,0.0072164948453608
+0-100,Medication review due (situation),180-365,Alkaline Phosphatase,condition,0.011340206185567
+0-100,Medication review due (situation),365-730,Alkaline Phosphatase,condition,0.0175257731958762
+0-100,Medication review due (situation),730-inf,Alkaline Phosphatase,condition,0.0360824742268041
+0-100,Multiple myeloma (disorder),730-inf,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Non-small cell carcinoma of lung  TNM stage 1 (disorder),365-730,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Non-small cell lung cancer (disorder),365-730,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Not in labor force (finding),60-90,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Not in labor force (finding),180-365,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Not in labor force (finding),365-730,Alkaline Phosphatase,condition,0.0030927835051546
+0-100,Not in labor force (finding),730-inf,Alkaline Phosphatase,condition,0.0051546391752577
+0-100,Osteoarthritis of knee,180-365,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Osteoporosis (disorder),730-inf,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Part-time employment (finding),180-365,Alkaline Phosphatase,condition,0.002061855670103
+0-100,Part-time employment (finding),365-730,Alkaline Phosphatase,condition,0.0030927835051546
+0-100,Part-time employment (finding),730-inf,Alkaline Phosphatase,condition,0.0082474226804123
+0-100,Pneumococcal conjugate PCV 13,730-inf,Alkaline Phosphatase,immunization,0.0010309278350515
+0-100,Polyp of colon,365-730,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Primary dental caries (disorder),180-365,Alkaline Phosphatase,condition,0.002061855670103
+0-100,Primary dental caries (disorder),365-730,Alkaline Phosphatase,condition,0.0041237113402061
+0-100,Primary dental caries (disorder),730-inf,Alkaline Phosphatase,condition,0.002061855670103
+0-100,Reports of violence in the environment (finding),60-90,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Reports of violence in the environment (finding),365-730,Alkaline Phosphatase,condition,0.0030927835051546
+0-100,Reports of violence in the environment (finding),730-inf,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Severe anxiety (panic) (finding),90-180,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Severe anxiety (panic) (finding),730-inf,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Social isolation (finding),180-365,Alkaline Phosphatase,condition,0.002061855670103
+0-100,Social isolation (finding),365-730,Alkaline Phosphatase,condition,0.0051546391752577
+0-100,Social isolation (finding),730-inf,Alkaline Phosphatase,condition,0.002061855670103
+0-100,Sprain (morphologic abnormality),180-365,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Sprain (morphologic abnormality),365-730,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Sprain of ankle,365-730,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Sprain of wrist,180-365,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Stress (finding),30-60,Alkaline Phosphatase,condition,0.0030927835051546
+0-100,Stress (finding),90-180,Alkaline Phosphatase,condition,0.0030927835051546
+0-100,Stress (finding),180-365,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Stress (finding),365-730,Alkaline Phosphatase,condition,0.0103092783505154
+0-100,Stress (finding),730-inf,Alkaline Phosphatase,condition,0.0134020618556701
+0-100,Suspected lung cancer (situation),365-730,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,14-30,Alkaline Phosphatase,immunization,0.0010309278350515
+0-100,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,30-60,Alkaline Phosphatase,immunization,0.0010309278350515
+0-100,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,365-730,Alkaline Phosphatase,immunization,0.0010309278350515
+0-100,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,730-inf,Alkaline Phosphatase,immunization,0.002061855670103
+0-100,Unemployed (finding),14-30,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Unemployed (finding),30-60,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Unemployed (finding),730-inf,Alkaline Phosphatase,condition,0.0030927835051546
+0-100,Unhealthy alcohol drinking behavior (finding),90-180,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Unhealthy alcohol drinking behavior (finding),180-365,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Unhealthy alcohol drinking behavior (finding),730-inf,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Victim of intimate partner abuse (finding),90-180,Alkaline Phosphatase,condition,0.0010309278350515
+0-100,Victim of intimate partner abuse (finding),180-365,Alkaline Phosphatase,condition,0.002061855670103
+0-100,Victim of intimate partner abuse (finding),365-730,Alkaline Phosphatase,condition,0.002061855670103
+0-100,Victim of intimate partner abuse (finding),730-inf,Alkaline Phosphatase,condition,0.0041237113402061
+0-100,Viral sinusitis (disorder),730-inf,Alkaline Phosphatase,condition,0.0051546391752577
+0-100,pneumococcal polysaccharide vaccine  23 valent,730-inf,Alkaline Phosphatase,immunization,0.0010309278350515

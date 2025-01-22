@@ -1,0 +1,13 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2001-02-27,,74d12b05-920b-9f8d-843e-aa3c68f76aeb,ed8393f0-f04b-473d-bda9-f2dc28d17070,http://snomed.info/sct,15777000,Prediabetes,,,,,
+,,74d12b05-920b-9f8d-843e-aa3c68f76aeb,9031ec72-7ace-204d-f594-7382310577da,,2339-0,Glucose [Mass/volume] in Blood,2015-04-07T11:26:01Z,laboratory,90.5,mg/dL,numeric
+,,74d12b05-920b-9f8d-843e-aa3c68f76aeb,06993131-2659-7518-043d-c68d7a28bb83,,2339-0,Glucose [Mass/volume] in Blood,2016-04-12T11:26:01Z,laboratory,90.7,mg/dL,numeric
+,,74d12b05-920b-9f8d-843e-aa3c68f76aeb,90d2a85b-a71e-da8b-6ee1-0f4b6b32f35b,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2016-11-17T11:41:37Z,laboratory,96.4,mg/dL,numeric
+,,74d12b05-920b-9f8d-843e-aa3c68f76aeb,a7c27670-2b2b-1d8e-8675-611b22c493b5,,2339-0,Glucose [Mass/volume] in Blood,2017-04-18T11:26:01Z,laboratory,86.9,mg/dL,numeric
+,,74d12b05-920b-9f8d-843e-aa3c68f76aeb,445e8b86-0cf6-6ec1-be10-32dce631468d,,2339-0,Glucose [Mass/volume] in Blood,2018-04-24T11:26:01Z,laboratory,78.5,mg/dL,numeric
+,,74d12b05-920b-9f8d-843e-aa3c68f76aeb,37b11ef6-b644-fe87-e242-c60d096c9c7e,,2339-0,Glucose [Mass/volume] in Blood,2019-04-30T11:26:01Z,laboratory,78.7,mg/dL,numeric
+,,74d12b05-920b-9f8d-843e-aa3c68f76aeb,b97cf9f0-d454-92a4-81bd-02ad69e0cb6d,,2339-0,Glucose [Mass/volume] in Blood,2020-05-05T11:26:01Z,laboratory,77.3,mg/dL,numeric
+,,74d12b05-920b-9f8d-843e-aa3c68f76aeb,db504118-9092-d224-d2be-c6f14f413ada,,2339-0,Glucose [Mass/volume] in Blood,2021-05-11T11:26:01Z,laboratory,89.1,mg/dL,numeric
+,,74d12b05-920b-9f8d-843e-aa3c68f76aeb,8a87fafe-8a65-8e48-1835-86ac5cb84d74,,2339-0,Glucose [Mass/volume] in Blood,2022-05-17T11:26:01Z,laboratory,98.7,mg/dL,numeric
+,,74d12b05-920b-9f8d-843e-aa3c68f76aeb,b1cb8215-e903-68df-f0dc-405a64f9aea8,,2339-0,Glucose [Mass/volume] in Blood,2023-05-23T11:26:01Z,laboratory,89.5,mg/dL,numeric
+,,74d12b05-920b-9f8d-843e-aa3c68f76aeb,68bb3290-3f21-7a74-230e-cf12ad00cf36,,2339-0,Glucose [Mass/volume] in Blood,2024-05-28T11:26:01Z,laboratory,87.2,mg/dL,numeric

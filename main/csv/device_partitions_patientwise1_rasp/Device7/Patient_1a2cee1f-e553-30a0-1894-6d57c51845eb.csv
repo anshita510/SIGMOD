@@ -1,0 +1,5 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2023-10-31,,1a2cee1f-e553-30a0-1894-6d57c51845eb,36fe5b16-bc73-0292-cbe0-711254ee3107,http://snomed.info/sct,127013003,Disorder of kidney due to diabetes mellitus (disorder),,,,,
+,,1a2cee1f-e553-30a0-1894-6d57c51845eb,36fe5b16-bc73-0292-cbe0-711254ee3107,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2023-10-31T16:30:28Z,laboratory,99.0,mg/dL,numeric
+,,1a2cee1f-e553-30a0-1894-6d57c51845eb,36fe5b16-bc73-0292-cbe0-711254ee3107,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2023-10-31T16:30:28Z,laboratory,2.1,mg/dL,numeric
+,,1a2cee1f-e553-30a0-1894-6d57c51845eb,36fe5b16-bc73-0292-cbe0-711254ee3107,,25428-4,Glucose [Presence] in Urine by Test strip,2023-10-31T16:30:28Z,laboratory,Urine glucose test = ++ (finding),{nominal},text

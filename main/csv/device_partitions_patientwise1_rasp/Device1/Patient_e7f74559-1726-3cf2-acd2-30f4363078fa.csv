@@ -1,0 +1,10 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2021-11-24,,e7f74559-1726-3cf2-acd2-30f4363078fa,8a3e3629-dfe0-8b33-8e88-91e371304685,http://snomed.info/sct,431855005,Chronic kidney disease stage 1 (disorder),,,,,
+,,e7f74559-1726-3cf2-acd2-30f4363078fa,8a3e3629-dfe0-8b33-8e88-91e371304685,,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2021-11-24T07:51:13Z,laboratory,1.4,mg/dL,numeric
+,,e7f74559-1726-3cf2-acd2-30f4363078fa,8a3e3629-dfe0-8b33-8e88-91e371304685,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2021-11-24T07:51:13Z,laboratory,104.6,mL/min/{1.73_m2},numeric
+,,e7f74559-1726-3cf2-acd2-30f4363078fa,22ea0bd4-1393-a2b2-48ed-88fc6ee1688b,,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2022-10-05T07:51:13Z,laboratory,1.8,mg/dL,numeric
+,,e7f74559-1726-3cf2-acd2-30f4363078fa,22ea0bd4-1393-a2b2-48ed-88fc6ee1688b,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2022-10-05T07:51:13Z,laboratory,114.3,mL/min/{1.73_m2},numeric
+,,e7f74559-1726-3cf2-acd2-30f4363078fa,5af12a1e-1434-d7f4-537d-4479aae23bc2,,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2022-11-30T07:51:13Z,laboratory,1.7,mg/dL,numeric
+,,e7f74559-1726-3cf2-acd2-30f4363078fa,5af12a1e-1434-d7f4-537d-4479aae23bc2,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2022-11-30T07:51:13Z,laboratory,110.8,mL/min/{1.73_m2},numeric
+,,e7f74559-1726-3cf2-acd2-30f4363078fa,f5ba2cb3-08e8-cf40-35af-5bebbd5e1a66,,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2023-12-06T07:51:13Z,laboratory,1.8,mg/dL,numeric
+,,e7f74559-1726-3cf2-acd2-30f4363078fa,f5ba2cb3-08e8-cf40-35af-5bebbd5e1a66,,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),2023-12-06T07:51:13Z,laboratory,130.9,mL/min/{1.73_m2},numeric

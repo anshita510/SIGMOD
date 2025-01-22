@@ -1,0 +1,8 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2024-09-17,,29b1b868-e04d-f69b-533d-4412735b6316,de6884ec-2f6c-a5e5-d1f4-4b825e9a36b8,http://snomed.info/sct,127013003,Disorder of kidney due to diabetes mellitus (disorder),,,,,
+,,29b1b868-e04d-f69b-533d-4412735b6316,de6884ec-2f6c-a5e5-d1f4-4b825e9a36b8,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2024-09-17T11:12:09Z,laboratory,80.2,mg/dL,numeric
+,,29b1b868-e04d-f69b-533d-4412735b6316,de6884ec-2f6c-a5e5-d1f4-4b825e9a36b8,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2024-09-17T11:12:09Z,laboratory,2.2,mg/dL,numeric
+,,29b1b868-e04d-f69b-533d-4412735b6316,de6884ec-2f6c-a5e5-d1f4-4b825e9a36b8,,25428-4,Glucose [Presence] in Urine by Test strip,2024-09-17T11:12:09Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,29b1b868-e04d-f69b-533d-4412735b6316,80e7d15b-cf41-2aa2-1a22-48699fd7f024,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2024-09-24T11:12:09Z,laboratory,95.1,mg/dL,numeric
+,,29b1b868-e04d-f69b-533d-4412735b6316,80e7d15b-cf41-2aa2-1a22-48699fd7f024,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2024-09-24T11:12:09Z,laboratory,1.8,mg/dL,numeric
+,,29b1b868-e04d-f69b-533d-4412735b6316,80e7d15b-cf41-2aa2-1a22-48699fd7f024,,25428-4,Glucose [Presence] in Urine by Test strip,2024-09-24T11:12:09Z,laboratory,Urine glucose test = ++ (finding),{nominal},text

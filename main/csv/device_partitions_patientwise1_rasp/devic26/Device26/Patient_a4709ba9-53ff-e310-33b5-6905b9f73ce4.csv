@@ -1,0 +1,16 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+1990-12-09,,a4709ba9-53ff-e310-33b5-6905b9f73ce4,fa74e9f5-52ab-6e71-7521-2f1ae75e71f7,http://snomed.info/sct,59621000,Essential hypertension (disorder),,,,,
+,,a4709ba9-53ff-e310-33b5-6905b9f73ce4,819a07f4-4440-44c2-b472-d71d23f18d0c,,8462-4,Diastolic Blood Pressure,1984-02-12T04:59:39Z,vital-signs,78.0,mm[Hg],numeric
+,,a4709ba9-53ff-e310-33b5-6905b9f73ce4,819a07f4-4440-44c2-b472-d71d23f18d0c,,8480-6,Systolic Blood Pressure,1984-02-12T04:59:39Z,vital-signs,131.0,mm[Hg],numeric
+,,a4709ba9-53ff-e310-33b5-6905b9f73ce4,3ffddd9f-7903-ca64-766b-43a0cca8bcd3,,8462-4,Diastolic Blood Pressure,1986-11-30T04:59:39Z,vital-signs,77.0,mm[Hg],numeric
+,,a4709ba9-53ff-e310-33b5-6905b9f73ce4,3ffddd9f-7903-ca64-766b-43a0cca8bcd3,,8480-6,Systolic Blood Pressure,1986-11-30T04:59:39Z,vital-signs,120.0,mm[Hg],numeric
+,,a4709ba9-53ff-e310-33b5-6905b9f73ce4,a3d5193a-ec0f-432a-4a3b-6db401e37a18,,8462-4,Diastolic Blood Pressure,1988-12-04T04:59:39Z,vital-signs,78.0,mm[Hg],numeric
+,,a4709ba9-53ff-e310-33b5-6905b9f73ce4,a3d5193a-ec0f-432a-4a3b-6db401e37a18,,8480-6,Systolic Blood Pressure,1988-12-04T04:59:39Z,vital-signs,126.0,mm[Hg],numeric
+,,a4709ba9-53ff-e310-33b5-6905b9f73ce4,fa74e9f5-52ab-6e71-7521-2f1ae75e71f7,,8462-4,Diastolic Blood Pressure,1990-12-09T04:59:39Z,vital-signs,113.0,mm[Hg],numeric
+,,a4709ba9-53ff-e310-33b5-6905b9f73ce4,fa74e9f5-52ab-6e71-7521-2f1ae75e71f7,,8480-6,Systolic Blood Pressure,1990-12-09T04:59:39Z,vital-signs,160.0,mm[Hg],numeric
+,,a4709ba9-53ff-e310-33b5-6905b9f73ce4,6a67087b-b1f7-da8b-4642-ac5b805e0f32,,8462-4,Diastolic Blood Pressure,1991-01-08T04:59:39Z,vital-signs,86.0,mm[Hg],numeric
+,,a4709ba9-53ff-e310-33b5-6905b9f73ce4,6a67087b-b1f7-da8b-4642-ac5b805e0f32,,8480-6,Systolic Blood Pressure,1991-01-08T04:59:39Z,vital-signs,143.0,mm[Hg],numeric
+,,a4709ba9-53ff-e310-33b5-6905b9f73ce4,2a4f95ed-429a-e00d-1848-e16abc2d8740,,8462-4,Diastolic Blood Pressure,1991-03-09T04:59:39Z,vital-signs,92.0,mm[Hg],numeric
+,,a4709ba9-53ff-e310-33b5-6905b9f73ce4,2a4f95ed-429a-e00d-1848-e16abc2d8740,,8480-6,Systolic Blood Pressure,1991-03-09T04:59:39Z,vital-signs,136.0,mm[Hg],numeric
+,,a4709ba9-53ff-e310-33b5-6905b9f73ce4,6c1783a0-ade1-467b-2969-4e23d71b4b91,,8462-4,Diastolic Blood Pressure,1991-05-08T04:59:39Z,vital-signs,87.0,mm[Hg],numeric
+,,a4709ba9-53ff-e310-33b5-6905b9f73ce4,6c1783a0-ade1-467b-2969-4e23d71b4b91,,8480-6,Systolic Blood Pressure,1991-05-08T04:59:39Z,vital-signs,137.0,mm[Hg],numeric

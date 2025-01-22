@@ -1,0 +1,17 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+1969-02-26,,81e701c0-986e-1eae-59ff-f8d9ef8616f2,e90e45e8-8a12-5e9f-a5d4-c307b4258645,http://snomed.info/sct,271737000,Anemia (disorder),,,,,
+,,81e701c0-986e-1eae-59ff-f8d9ef8616f2,cb98cf16-f91e-ed77-2429-a021c5ba56ca,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2001-01-31T13:20:08Z,laboratory,5.9,%,numeric
+,,81e701c0-986e-1eae-59ff-f8d9ef8616f2,cb98cf16-f91e-ed77-2429-a021c5ba56ca,,718-7,Hemoglobin [Mass/volume] in Blood,2001-01-31T13:20:08Z,laboratory,16.3,g/dL,numeric
+,,81e701c0-986e-1eae-59ff-f8d9ef8616f2,12b775f2-a860-6244-3967-4ba615154ef6,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2002-02-06T13:20:08Z,laboratory,6.3,%,numeric
+,,81e701c0-986e-1eae-59ff-f8d9ef8616f2,cef7db61-9bd0-806c-8386-e93598a38a9c,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2003-02-12T13:20:08Z,laboratory,6.1,%,numeric
+,,81e701c0-986e-1eae-59ff-f8d9ef8616f2,5265a764-3994-3b3a-3ae0-73250f612b06,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2004-02-18T13:20:08Z,laboratory,6.4,%,numeric
+,,81e701c0-986e-1eae-59ff-f8d9ef8616f2,e99c237b-a038-c2f7-82b0-1d29f5027520,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2005-02-23T13:20:08Z,laboratory,6.3,%,numeric
+,,81e701c0-986e-1eae-59ff-f8d9ef8616f2,c0d0b984-39a5-81c3-49e4-d023cea77dc0,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2006-03-01T13:20:08Z,laboratory,6.0,%,numeric
+,,81e701c0-986e-1eae-59ff-f8d9ef8616f2,c0d0b984-39a5-81c3-49e4-d023cea77dc0,,718-7,Hemoglobin [Mass/volume] in Blood,2006-03-01T13:20:08Z,laboratory,12.6,g/dL,numeric
+,,81e701c0-986e-1eae-59ff-f8d9ef8616f2,3f00fc59-6b36-a40d-d9f2-fd306b164772,,5794-3,Hemoglobin [Presence] in Urine by Test strip,2006-03-01T13:53:34Z,laboratory,Blood in urine (finding),{nominal},text
+,,81e701c0-986e-1eae-59ff-f8d9ef8616f2,3f00fc59-6b36-a40d-d9f2-fd306b164772,,718-7,Hemoglobin [Mass/volume] in Blood,2006-03-01T13:53:34Z,laboratory,13.8,g/dL,numeric
+,,81e701c0-986e-1eae-59ff-f8d9ef8616f2,8abb304e-d97d-1101-1d91-3ec56fb47129,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2007-03-07T13:20:08Z,laboratory,6.0,%,numeric
+,,81e701c0-986e-1eae-59ff-f8d9ef8616f2,5c2d82b3-7e78-e515-face-82d47da7e520,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2008-03-12T13:20:08Z,laboratory,6.1,%,numeric
+,,81e701c0-986e-1eae-59ff-f8d9ef8616f2,cbad7afe-dc92-1c6d-c28e-602ddea6455a,,57905-2,Hemoglobin.gastrointestinal.lower [Presence] in Stool by Immunoassay --1st specimen,2009-02-11T13:54:54Z,laboratory,13.2,ng/mL,numeric
+,,81e701c0-986e-1eae-59ff-f8d9ef8616f2,a25a4f26-22b0-6d2e-bb87-87d9dd66aa76,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2009-03-18T13:20:08Z,laboratory,5.9,%,numeric
+,,81e701c0-986e-1eae-59ff-f8d9ef8616f2,efbc3b3a-2603-6970-1e02-9b863845c1b1,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2010-03-24T13:20:08Z,laboratory,5.8,%,numeric

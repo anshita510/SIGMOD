@@ -1,0 +1,38 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION
+1975-04-01,,079d5ae7-794f-80e4-9069-496d1c56316a,23e56cad-cd69-159c-5447-b35a52d53d4f,http://snomed.info/sct,40055000,Chronic sinusitis (disorder)
+1990-02-05,,079d5ae7-794f-80e4-9069-496d1c56316a,2f374a33-e6e4-dab1-6c72-e8a8c0362735,http://snomed.info/sct,124171000119105,Chronic intractable migraine without aura
+1990-08-25,,079d5ae7-794f-80e4-9069-496d1c56316a,6b293130-6d57-3c78-4e3c-dde399f06bc7,http://snomed.info/sct,196416002,Impacted molars
+1990-10-31,,079d5ae7-794f-80e4-9069-496d1c56316a,c3cc508e-65c2-bff4-b367-1c0f5c8c3682,http://snomed.info/sct,82423001,Chronic pain
+1992-05-09,,079d5ae7-794f-80e4-9069-496d1c56316a,6d4749c5-c6a4-50bf-905c-1e71c9812b4d,http://snomed.info/sct,5251000175109,Received certificate of high school equivalency (finding)
+1992-05-09,,079d5ae7-794f-80e4-9069-496d1c56316a,6d4749c5-c6a4-50bf-905c-1e71c9812b4d,http://snomed.info/sct,713458007,Lack of access to transportation (finding)
+1993-05-15,,079d5ae7-794f-80e4-9069-496d1c56316a,da0d2f4b-a7dc-249b-3ebb-3f8f8951ed79,http://snomed.info/sct,266934004,Transport problem (finding)
+2003-05-06,,079d5ae7-794f-80e4-9069-496d1c56316a,e6d864ac-1865-6e13-be3f-f1c6e447af6d,http://snomed.info/sct,6525002,Dependent drug abuse (disorder)
+2005-11-09,,079d5ae7-794f-80e4-9069-496d1c56316a,553fcd50-5f16-d7b3-73ab-22a53b171a1d,http://snomed.info/sct,428251008,History of appendectomy
+2013-09-07,2016-09-24,079d5ae7-794f-80e4-9069-496d1c56316a,21af471f-6e93-2871-4370-e461d9e8c0ce,http://snomed.info/sct,160904001,Part-time employment (finding)
+2014-10-14,2014-10-14,079d5ae7-794f-80e4-9069-496d1c56316a,aaf15127-80fe-4b9b-099b-de203756c1de,http://snomed.info/sct,55680006,Drug overdose
+2015-09-19,2015-09-19,079d5ae7-794f-80e4-9069-496d1c56316a,f1b0acc1-34c4-e3c4-6ab0-32a1a225da92,http://snomed.info/sct,314529007,Medication review due (situation)
+2015-09-19,2018-10-06,079d5ae7-794f-80e4-9069-496d1c56316a,f1b0acc1-34c4-e3c4-6ab0-32a1a225da92,http://snomed.info/sct,73595000,Stress (finding)
+2016-09-24,2016-09-24,079d5ae7-794f-80e4-9069-496d1c56316a,f1ad1a1a-c123-781a-f56b-56e9685057fc,http://snomed.info/sct,314529007,Medication review due (situation)
+2016-09-24,2018-10-06,079d5ae7-794f-80e4-9069-496d1c56316a,f1ad1a1a-c123-781a-f56b-56e9685057fc,http://snomed.info/sct,160903007,Full-time employment (finding)
+2016-09-24,2017-09-30,079d5ae7-794f-80e4-9069-496d1c56316a,f1ad1a1a-c123-781a-f56b-56e9685057fc,http://snomed.info/sct,423315002,Limited social contact (finding)
+2016-09-24,2016-10-08,079d5ae7-794f-80e4-9069-496d1c56316a,f1ad1a1a-c123-781a-f56b-56e9685057fc,http://snomed.info/sct,66383009,Gingivitis (disorder)
+2016-10-08,2016-10-08,079d5ae7-794f-80e4-9069-496d1c56316a,08edc1bd-9e9e-ea8b-15f6-aa68fb2ded28,http://snomed.info/sct,18718003,Gingival disease (disorder)
+2017-09-30,2018-10-06,079d5ae7-794f-80e4-9069-496d1c56316a,66f3dfe6-e191-ceeb-2455-c50b7176faf9,http://snomed.info/sct,314529007,Medication review due (situation)
+2017-12-30,2017-12-30,079d5ae7-794f-80e4-9069-496d1c56316a,145dc556-75eb-0305-aeb0-22de8173834d,http://snomed.info/sct,55680006,Drug overdose
+2018-10-06,2019-10-12,079d5ae7-794f-80e4-9069-496d1c56316a,23a1a5d3-3aa4-d47a-bc64-20e1f7214797,http://snomed.info/sct,741062008,Not in labor force (finding)
+2019-10-12,2021-10-23,079d5ae7-794f-80e4-9069-496d1c56316a,2d73f1df-c493-7e9c-e52e-30acb90cb1ff,http://snomed.info/sct,314529007,Medication review due (situation)
+2019-10-12,,079d5ae7-794f-80e4-9069-496d1c56316a,2d73f1df-c493-7e9c-e52e-30acb90cb1ff,http://snomed.info/sct,237602007,Metabolic syndrome X (disorder)
+2019-10-12,,079d5ae7-794f-80e4-9069-496d1c56316a,2d73f1df-c493-7e9c-e52e-30acb90cb1ff,http://snomed.info/sct,160903007,Full-time employment (finding)
+2019-10-12,2020-10-17,079d5ae7-794f-80e4-9069-496d1c56316a,2d73f1df-c493-7e9c-e52e-30acb90cb1ff,http://snomed.info/sct,73595000,Stress (finding)
+2019-12-14,2019-12-26,079d5ae7-794f-80e4-9069-496d1c56316a,364d9d73-08b2-b0c3-def7-f1294fbb5392,http://snomed.info/sct,195662009,Acute viral pharyngitis (disorder)
+2020-10-17,2021-10-23,079d5ae7-794f-80e4-9069-496d1c56316a,4dce2a6b-b493-5d98-ba3c-724473b0e004,http://snomed.info/sct,423315002,Limited social contact (finding)
+2020-10-17,2021-10-23,079d5ae7-794f-80e4-9069-496d1c56316a,4dce2a6b-b493-5d98-ba3c-724473b0e004,http://snomed.info/sct,424393004,Reports of violence in the environment (finding)
+2021-10-23,2022-10-29,079d5ae7-794f-80e4-9069-496d1c56316a,b3a73757-d39f-e90f-7f30-cf0842470ea8,http://snomed.info/sct,73595000,Stress (finding)
+2022-10-29,2022-10-29,079d5ae7-794f-80e4-9069-496d1c56316a,1df92b1c-2d58-fbf2-ec11-7e727fbc7047,http://snomed.info/sct,314529007,Medication review due (situation)
+2023-11-04,2023-11-04,079d5ae7-794f-80e4-9069-496d1c56316a,508c2ae0-4044-e6d6-ebbe-b9ca21aba667,http://snomed.info/sct,314529007,Medication review due (situation)
+2023-11-04,,079d5ae7-794f-80e4-9069-496d1c56316a,508c2ae0-4044-e6d6-ebbe-b9ca21aba667,http://snomed.info/sct,423315002,Limited social contact (finding)
+2023-11-04,,079d5ae7-794f-80e4-9069-496d1c56316a,508c2ae0-4044-e6d6-ebbe-b9ca21aba667,http://snomed.info/sct,73595000,Stress (finding)
+2023-11-04,2023-11-18,079d5ae7-794f-80e4-9069-496d1c56316a,508c2ae0-4044-e6d6-ebbe-b9ca21aba667,http://snomed.info/sct,66383009,Gingivitis (disorder)
+2023-11-18,2023-11-18,079d5ae7-794f-80e4-9069-496d1c56316a,e1eff46e-ba3e-2489-9c9d-99bdbb600269,http://snomed.info/sct,278598003,Leaking dental filling (finding)
+2024-03-16,,079d5ae7-794f-80e4-9069-496d1c56316a,39e866f7-df5e-2c7f-0273-978692de87bd,http://snomed.info/sct,68496003,Polyp of colon
+2024-07-24,2024-07-24,079d5ae7-794f-80e4-9069-496d1c56316a,93a4f932-c360-6519-56a1-c240b719fe1d,http://snomed.info/sct,55680006,Drug overdose

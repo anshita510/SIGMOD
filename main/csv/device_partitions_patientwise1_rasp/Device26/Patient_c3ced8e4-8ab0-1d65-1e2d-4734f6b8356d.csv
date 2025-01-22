@@ -1,0 +1,20 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2019-10-06,,c3ced8e4-8ab0-1d65-1e2d-4734f6b8356d,3651d7ab-deb5-42f8-43af-e75481ec4fcb,http://snomed.info/sct,59621000,Essential hypertension (disorder),,,,,
+,,c3ced8e4-8ab0-1d65-1e2d-4734f6b8356d,050ec8d6-3338-48ea-b742-dae553bcc754,,8462-4,Diastolic Blood Pressure,2016-12-18T01:20:34Z,vital-signs,101.0,mm[Hg],numeric
+,,c3ced8e4-8ab0-1d65-1e2d-4734f6b8356d,050ec8d6-3338-48ea-b742-dae553bcc754,,8480-6,Systolic Blood Pressure,2016-12-18T01:20:34Z,vital-signs,151.0,mm[Hg],numeric
+,,c3ced8e4-8ab0-1d65-1e2d-4734f6b8356d,3651d7ab-deb5-42f8-43af-e75481ec4fcb,,8462-4,Diastolic Blood Pressure,2019-10-06T01:20:34Z,vital-signs,107.0,mm[Hg],numeric
+,,c3ced8e4-8ab0-1d65-1e2d-4734f6b8356d,3651d7ab-deb5-42f8-43af-e75481ec4fcb,,8480-6,Systolic Blood Pressure,2019-10-06T01:20:34Z,vital-signs,158.0,mm[Hg],numeric
+,,c3ced8e4-8ab0-1d65-1e2d-4734f6b8356d,0d9d6229-41bc-566f-4fef-a20b022bc1b6,,8462-4,Diastolic Blood Pressure,2019-11-05T01:20:34Z,vital-signs,91.0,mm[Hg],numeric
+,,c3ced8e4-8ab0-1d65-1e2d-4734f6b8356d,0d9d6229-41bc-566f-4fef-a20b022bc1b6,,8480-6,Systolic Blood Pressure,2019-11-05T01:20:34Z,vital-signs,141.0,mm[Hg],numeric
+,,c3ced8e4-8ab0-1d65-1e2d-4734f6b8356d,aae879ac-dbec-e774-87c8-0f1ce8357ead,,8462-4,Diastolic Blood Pressure,2020-01-04T01:20:34Z,vital-signs,82.0,mm[Hg],numeric
+,,c3ced8e4-8ab0-1d65-1e2d-4734f6b8356d,aae879ac-dbec-e774-87c8-0f1ce8357ead,,8480-6,Systolic Blood Pressure,2020-01-04T01:20:34Z,vital-signs,129.0,mm[Hg],numeric
+,,c3ced8e4-8ab0-1d65-1e2d-4734f6b8356d,ecdf0171-aefb-f4bd-b1d2-73b9923d126f,,8462-4,Diastolic Blood Pressure,2020-03-04T01:20:34Z,vital-signs,86.0,mm[Hg],numeric
+,,c3ced8e4-8ab0-1d65-1e2d-4734f6b8356d,ecdf0171-aefb-f4bd-b1d2-73b9923d126f,,8480-6,Systolic Blood Pressure,2020-03-04T01:20:34Z,vital-signs,144.0,mm[Hg],numeric
+,,c3ced8e4-8ab0-1d65-1e2d-4734f6b8356d,d5e00f6c-b3bb-dc2f-97c0-2fed99629d52,,8462-4,Diastolic Blood Pressure,2020-10-11T01:20:34Z,vital-signs,80.0,mm[Hg],numeric
+,,c3ced8e4-8ab0-1d65-1e2d-4734f6b8356d,d5e00f6c-b3bb-dc2f-97c0-2fed99629d52,,8480-6,Systolic Blood Pressure,2020-10-11T01:20:34Z,vital-signs,124.0,mm[Hg],numeric
+,,c3ced8e4-8ab0-1d65-1e2d-4734f6b8356d,fd3ed765-4f90-de0c-afb3-498b8e9fc4a4,,8462-4,Diastolic Blood Pressure,2021-10-17T01:20:34Z,vital-signs,84.0,mm[Hg],numeric
+,,c3ced8e4-8ab0-1d65-1e2d-4734f6b8356d,fd3ed765-4f90-de0c-afb3-498b8e9fc4a4,,8480-6,Systolic Blood Pressure,2021-10-17T01:20:34Z,vital-signs,130.0,mm[Hg],numeric
+,,c3ced8e4-8ab0-1d65-1e2d-4734f6b8356d,48ed784c-4fb1-8955-8b26-47e7bd8bff8a,,8462-4,Diastolic Blood Pressure,2022-10-23T01:20:34Z,vital-signs,84.0,mm[Hg],numeric
+,,c3ced8e4-8ab0-1d65-1e2d-4734f6b8356d,48ed784c-4fb1-8955-8b26-47e7bd8bff8a,,8480-6,Systolic Blood Pressure,2022-10-23T01:20:34Z,vital-signs,130.0,mm[Hg],numeric
+,,c3ced8e4-8ab0-1d65-1e2d-4734f6b8356d,4fea6456-6e56-b43f-8bb9-7d6a43e41861,,8462-4,Diastolic Blood Pressure,2023-10-29T01:20:34Z,vital-signs,81.0,mm[Hg],numeric
+,,c3ced8e4-8ab0-1d65-1e2d-4734f6b8356d,4fea6456-6e56-b43f-8bb9-7d6a43e41861,,8480-6,Systolic Blood Pressure,2023-10-29T01:20:34Z,vital-signs,124.0,mm[Hg],numeric

@@ -1,0 +1,11 @@
+DATE,PATIENT,ENCOUNTER,CATEGORY,CODE,DESCRIPTION,VALUE,UNITS,TYPE
+2014-12-01T10:10:11Z,7efe2b5e-a350-a29d-92ae-3e422175357c,ca7ae459-5bcb-d51e-eb66-03499648414b,vital-signs,8867-4,Heart rate,64.0,/min,numeric
+2015-12-07T10:10:11Z,7efe2b5e-a350-a29d-92ae-3e422175357c,db84e0e2-0331-b9e4-7e02-dbba2709f291,vital-signs,8867-4,Heart rate,63.0,/min,numeric
+2016-12-12T10:10:11Z,7efe2b5e-a350-a29d-92ae-3e422175357c,96a64811-72e6-9aa3-812b-2b72adebbc93,vital-signs,8867-4,Heart rate,69.0,/min,numeric
+2017-12-18T10:10:11Z,7efe2b5e-a350-a29d-92ae-3e422175357c,38ae227e-953a-b0da-7489-d6891f1525de,vital-signs,8867-4,Heart rate,62.0,/min,numeric
+2018-12-24T10:10:11Z,7efe2b5e-a350-a29d-92ae-3e422175357c,a5a49b4a-a124-2608-50f6-d35be7661b1e,vital-signs,8867-4,Heart rate,61.0,/min,numeric
+2019-12-30T10:10:11Z,7efe2b5e-a350-a29d-92ae-3e422175357c,c1e5eefb-7192-9c69-63aa-a6346b8c31b4,vital-signs,8867-4,Heart rate,68.0,/min,numeric
+2021-01-04T10:10:11Z,7efe2b5e-a350-a29d-92ae-3e422175357c,4a839d75-cb81-426a-60a9-0f5bdcaadeba,vital-signs,8867-4,Heart rate,99.0,/min,numeric
+2022-01-10T10:10:11Z,7efe2b5e-a350-a29d-92ae-3e422175357c,d08fe431-a2e5-572a-5c03-41141488a995,vital-signs,8867-4,Heart rate,95.0,/min,numeric
+2023-01-16T10:10:11Z,7efe2b5e-a350-a29d-92ae-3e422175357c,a82c509e-a976-b4ca-decd-10014ac8456d,vital-signs,8867-4,Heart rate,99.0,/min,numeric
+2024-01-22T10:10:11Z,7efe2b5e-a350-a29d-92ae-3e422175357c,c1208904-f7f5-a10b-8486-81dd63ec1512,vital-signs,8867-4,Heart rate,89.0,/min,numeric

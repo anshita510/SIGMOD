@@ -1,0 +1,38 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION
+2010-12-01,,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,349d2d70-22a8-0520-fd01-080f30c8e971,http://snomed.info/sct,5251000175109,Received certificate of high school equivalency (finding)
+2010-12-01,,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,349d2d70-22a8-0520-fd01-080f30c8e971,http://snomed.info/sct,713458007,Lack of access to transportation (finding)
+2011-12-07,2014-12-10,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,b8781863-dac8-5181-6a5d-0d15af85acca,http://snomed.info/sct,314529007,Medication review due (situation)
+2011-12-07,2014-12-10,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,b8781863-dac8-5181-6a5d-0d15af85acca,http://snomed.info/sct,741062008,Not in labor force (finding)
+2014-12-10,2016-02-17,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,0873832d-a808-a3b1-22cb-590bb48b5b5d,http://snomed.info/sct,160903007,Full-time employment (finding)
+2015-01-07,2015-08-05,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,ba7a8ff5-0957-de0b-7d7d-551c3b646a3a,http://snomed.info/sct,72892002,Normal pregnancy
+2016-02-17,2018-03-07,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,2ababb74-2c1f-e05a-c07c-c53c9794489e,http://snomed.info/sct,314529007,Medication review due (situation)
+2016-02-17,2017-03-01,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,2ababb74-2c1f-e05a-c07c-c53c9794489e,http://snomed.info/sct,160904001,Part-time employment (finding)
+2016-02-17,,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,2ababb74-2c1f-e05a-c07c-c53c9794489e,http://snomed.info/sct,266934004,Transport problem (finding)
+2016-02-17,2017-03-01,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,2ababb74-2c1f-e05a-c07c-c53c9794489e,http://snomed.info/sct,706893006,Victim of intimate partner abuse (finding)
+2016-03-02,2016-03-02,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,c624c03b-ca60-3241-3e31-c297836c30f3,http://snomed.info/sct,278602001,Loose dental filling (finding)
+2016-03-16,2016-03-30,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,6f5d9254-e500-0db4-7bb1-818100a5f450,http://snomed.info/sct,444814009,Viral sinusitis (disorder)
+2016-08-04,2016-08-18,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,0526ab47-4f50-1430-7001-79ba83e0b0ac,http://snomed.info/sct,444814009,Viral sinusitis (disorder)
+2017-03-01,2018-03-07,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,798cc744-17b5-5981-39a3-6d6e78d814eb,http://snomed.info/sct,741062008,Not in labor force (finding)
+2017-03-01,2018-03-07,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,798cc744-17b5-5981-39a3-6d6e78d814eb,http://snomed.info/sct,423315002,Limited social contact (finding)
+2018-03-07,2019-03-13,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,96188fd5-ea24-bcd1-29fd-6b6b779f1e6b,http://snomed.info/sct,160904001,Part-time employment (finding)
+2018-03-07,2019-03-13,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,96188fd5-ea24-bcd1-29fd-6b6b779f1e6b,http://snomed.info/sct,73595000,Stress (finding)
+2018-03-28,2018-11-07,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,afb4ab7e-a3c8-5655-e4bc-d1ae1a8bfae7,http://snomed.info/sct,72892002,Normal pregnancy
+2019-03-13,2019-03-13,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,3e3c7252-1b20-eeaf-75bf-d2db17d3db76,http://snomed.info/sct,314529007,Medication review due (situation)
+2019-03-13,2020-03-18,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,3e3c7252-1b20-eeaf-75bf-d2db17d3db76,http://snomed.info/sct,73438004,Unemployed (finding)
+2019-03-13,2020-03-18,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,3e3c7252-1b20-eeaf-75bf-d2db17d3db76,http://snomed.info/sct,423315002,Limited social contact (finding)
+2020-03-18,2022-03-30,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,e6fecd8f-c341-ba14-5091-1aeb922a7c0f,http://snomed.info/sct,314529007,Medication review due (situation)
+2020-03-18,2023-04-05,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,e6fecd8f-c341-ba14-5091-1aeb922a7c0f,http://snomed.info/sct,160904001,Part-time employment (finding)
+2020-03-18,2020-04-01,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,e6fecd8f-c341-ba14-5091-1aeb922a7c0f,http://snomed.info/sct,66383009,Gingivitis (disorder)
+2022-03-30,,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,616c0ccf-8e61-64c4-5a9e-cdd9d8e89138,http://snomed.info/sct,73595000,Stress (finding)
+2022-03-30,2022-04-13,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,616c0ccf-8e61-64c4-5a9e-cdd9d8e89138,http://snomed.info/sct,66383009,Gingivitis (disorder)
+2022-04-06,2022-06-10,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,142bd8e0-c9d9-bebf-9821-b5e3c14fcf79,http://snomed.info/sct,72892002,Normal pregnancy
+2022-04-13,2022-04-13,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,f7a1c6f0-9039-cb3f-36c9-099cea01aba6,http://snomed.info/sct,18718003,Gingival disease (disorder)
+2022-04-13,2022-04-13,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,f7a1c6f0-9039-cb3f-36c9-099cea01aba6,http://snomed.info/sct,109570002,Primary dental caries (disorder)
+2022-06-01,2022-06-10,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,91521dfc-2f38-5d3e-7958-39786aada55c,http://snomed.info/sct,85116003,Miscarriage in second trimester
+2022-06-01,2022-06-10,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,91521dfc-2f38-5d3e-7958-39786aada55c,http://snomed.info/sct,267253006,Fetus with chromosomal abnormality
+2023-04-05,,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,809325a7-d634-26a3-b4c2-103edca13634,http://snomed.info/sct,314529007,Medication review due (situation)
+2023-04-05,,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,809325a7-d634-26a3-b4c2-103edca13634,http://snomed.info/sct,160903007,Full-time employment (finding)
+2023-04-05,2023-04-19,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,809325a7-d634-26a3-b4c2-103edca13634,http://snomed.info/sct,66383009,Gingivitis (disorder)
+2023-07-20,2023-08-10,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,533dc6e4-e7bd-1892-9b23-c5c9284fb746,http://snomed.info/sct,444814009,Viral sinusitis (disorder)
+2024-04-10,,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,b111e98d-68f0-8c1e-da97-e4bee60e1252,http://snomed.info/sct,422650009,Social isolation (finding)
+2024-07-17,,72f8f733-2c74-5b66-1391-7a8bfe62dd9b,0174fcf1-3525-2f29-5248-ebbdcbed3590,http://snomed.info/sct,72892002,Normal pregnancy

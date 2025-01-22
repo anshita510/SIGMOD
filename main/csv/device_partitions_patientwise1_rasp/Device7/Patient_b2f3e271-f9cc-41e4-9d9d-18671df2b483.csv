@@ -1,0 +1,24 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+1978-02-13,,b2f3e271-f9cc-41e4-9d9d-18671df2b483,37638976-5c65-3f99-f128-20da9a39b37b,http://snomed.info/sct,15777000,Prediabetes,,,,,
+2014-01-27,,b2f3e271-f9cc-41e4-9d9d-18671df2b483,cdf7424f-b9bc-93dc-a530-eb4066641971,http://snomed.info/sct,44054006,Diabetes mellitus type 2 (disorder),,,,,
+2014-01-27,,b2f3e271-f9cc-41e4-9d9d-18671df2b483,cdf7424f-b9bc-93dc-a530-eb4066641971,http://snomed.info/sct,368581000119106,Neuropathy due to type 2 diabetes mellitus (disorder),,,,,
+2015-02-02,,b2f3e271-f9cc-41e4-9d9d-18671df2b483,018f2d31-fa74-a813-cbc0-4636c42d1c3e,http://snomed.info/sct,80394007,Hyperglycemia (disorder),,,,,
+,,b2f3e271-f9cc-41e4-9d9d-18671df2b483,018f2d31-fa74-a813-cbc0-4636c42d1c3e,,2339-0,Glucose [Mass/volume] in Blood,2015-02-02T06:09:22Z,laboratory,152.1,mg/dL,numeric
+,,b2f3e271-f9cc-41e4-9d9d-18671df2b483,e72afe89-b91b-fa7b-bebf-c8413e62c0e9,,2339-0,Glucose [Mass/volume] in Blood,2016-02-08T06:09:22Z,laboratory,159.4,mg/dL,numeric
+,,b2f3e271-f9cc-41e4-9d9d-18671df2b483,4020dcf7-5c53-8774-4c90-52f9e67c1418,,2339-0,Glucose [Mass/volume] in Blood,2016-12-19T06:09:22Z,laboratory,132.3,mg/dL,numeric
+,,b2f3e271-f9cc-41e4-9d9d-18671df2b483,81daff16-bcd6-18a9-a8d6-8b7f74942f54,,2339-0,Glucose [Mass/volume] in Blood,2017-01-02T06:09:22Z,laboratory,185.8,mg/dL,numeric
+,,b2f3e271-f9cc-41e4-9d9d-18671df2b483,d97dde6e-fc72-c9d9-5592-0ec5330bd31e,,2339-0,Glucose [Mass/volume] in Blood,2017-02-13T06:09:22Z,laboratory,174.5,mg/dL,numeric
+,,b2f3e271-f9cc-41e4-9d9d-18671df2b483,69193de4-154a-5fa0-431d-dbc26d10e896,,2339-0,Glucose [Mass/volume] in Blood,2017-12-04T06:09:22Z,laboratory,157.0,mg/dL,numeric
+,,b2f3e271-f9cc-41e4-9d9d-18671df2b483,ecb8e64b-95ef-b9f4-9279-8f76a9634e0b,,2339-0,Glucose [Mass/volume] in Blood,2018-02-19T06:09:22Z,laboratory,71.6,mg/dL,numeric
+,,b2f3e271-f9cc-41e4-9d9d-18671df2b483,4e944dea-60bf-01da-e525-bc92a36dbca4,,2339-0,Glucose [Mass/volume] in Blood,2019-02-25T06:09:22Z,laboratory,76.0,mg/dL,numeric
+,,b2f3e271-f9cc-41e4-9d9d-18671df2b483,6480c5a9-0f28-e374-7315-dd15b7397ed7,,2339-0,Glucose [Mass/volume] in Blood,2020-03-02T06:09:22Z,laboratory,99.3,mg/dL,numeric
+,,b2f3e271-f9cc-41e4-9d9d-18671df2b483,9efe0f07-da3a-4122-6387-56ebed59685e,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2020-03-21T05:30:18Z,laboratory,72.9,mg/dL,numeric
+,,b2f3e271-f9cc-41e4-9d9d-18671df2b483,9efe0f07-da3a-4122-6387-56ebed59685e,,25428-4,Glucose [Presence] in Urine by Test strip,2020-03-21T05:30:18Z,laboratory,1.0,{presence},numeric
+,,b2f3e271-f9cc-41e4-9d9d-18671df2b483,5d53e467-3cfe-9dce-96cc-b0f5adfb70fb,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2020-03-21T12:02:38Z,laboratory,72.9,mg/dL,numeric
+,,b2f3e271-f9cc-41e4-9d9d-18671df2b483,5d53e467-3cfe-9dce-96cc-b0f5adfb70fb,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2020-03-22T00:47:14Z,laboratory,72.9,mg/dL,numeric
+,,b2f3e271-f9cc-41e4-9d9d-18671df2b483,5d53e467-3cfe-9dce-96cc-b0f5adfb70fb,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2020-03-22T12:47:14Z,laboratory,72.9,mg/dL,numeric
+,,b2f3e271-f9cc-41e4-9d9d-18671df2b483,5d53e467-3cfe-9dce-96cc-b0f5adfb70fb,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2020-03-23T01:30:49Z,laboratory,72.9,mg/dL,numeric
+,,b2f3e271-f9cc-41e4-9d9d-18671df2b483,5548f4e5-8bce-29d3-e4ed-f44478060e93,,2339-0,Glucose [Mass/volume] in Blood,2021-03-08T06:09:22Z,laboratory,85.3,mg/dL,numeric
+,,b2f3e271-f9cc-41e4-9d9d-18671df2b483,8b402b82-e10c-a472-d0b7-a4cb7345130c,,2339-0,Glucose [Mass/volume] in Blood,2022-03-14T06:09:22Z,laboratory,66.4,mg/dL,numeric
+,,b2f3e271-f9cc-41e4-9d9d-18671df2b483,747f5ffd-830f-2355-2a42-9b3d5b845750,,2339-0,Glucose [Mass/volume] in Blood,2023-03-20T06:09:22Z,laboratory,98.9,mg/dL,numeric
+,,b2f3e271-f9cc-41e4-9d9d-18671df2b483,e06fd548-41f1-107c-91ad-ead85c257e1a,,2339-0,Glucose [Mass/volume] in Blood,2024-03-25T06:09:22Z,laboratory,88.5,mg/dL,numeric

@@ -1,0 +1,13 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2017-03-06,,1c970e07-935a-6545-0458-b167cb6f0b6a,90ae8049-b495-1bc3-5d27-d4c02a182f33,http://snomed.info/sct,271737000,Anemia (disorder),,,,,
+,,1c970e07-935a-6545-0458-b167cb6f0b6a,13c42362-28b6-3742-b34f-58da21ef01d8,,718-7,Hemoglobin [Mass/volume] in Blood,2015-02-23T17:13:04Z,laboratory,15.4,g/dL,numeric
+,,1c970e07-935a-6545-0458-b167cb6f0b6a,90ae8049-b495-1bc3-5d27-d4c02a182f33,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2017-03-06T17:13:04Z,laboratory,5.8,%,numeric
+,,1c970e07-935a-6545-0458-b167cb6f0b6a,fbc796d5-61dc-1415-4fc0-c4f8c028729a,,718-7,Hemoglobin [Mass/volume] in Blood,2017-03-13T17:13:04Z,laboratory,11.7,g/dL,numeric
+,,1c970e07-935a-6545-0458-b167cb6f0b6a,d8f9a52c-e9c0-16a6-b903-4541680727e8,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2018-03-12T17:13:04Z,laboratory,5.8,%,numeric
+,,1c970e07-935a-6545-0458-b167cb6f0b6a,08037d03-5bb6-177f-a3ad-074b0c58c6df,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2019-03-18T17:13:04Z,laboratory,6.2,%,numeric
+,,1c970e07-935a-6545-0458-b167cb6f0b6a,4c4b3d33-efbc-6d19-509d-91e690df3a5c,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2020-03-23T17:13:04Z,laboratory,6.0,%,numeric
+,,1c970e07-935a-6545-0458-b167cb6f0b6a,4c4b3d33-efbc-6d19-509d-91e690df3a5c,,718-7,Hemoglobin [Mass/volume] in Blood,2020-03-23T17:13:04Z,laboratory,16.1,g/dL,numeric
+,,1c970e07-935a-6545-0458-b167cb6f0b6a,9c89268b-3e8f-8ccc-2598-d70ac3e70f3b,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2021-03-29T17:13:04Z,laboratory,6.3,%,numeric
+,,1c970e07-935a-6545-0458-b167cb6f0b6a,d05263c4-5d71-8a1e-18b8-eca20bd244cf,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2022-04-04T17:13:04Z,laboratory,5.9,%,numeric
+,,1c970e07-935a-6545-0458-b167cb6f0b6a,90584bf8-2bf7-e92b-3c60-5ac5404ef944,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2023-04-10T17:13:04Z,laboratory,5.9,%,numeric
+,,1c970e07-935a-6545-0458-b167cb6f0b6a,234f59be-89ee-fa71-feda-760fde6f0078,,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2024-04-15T17:13:04Z,laboratory,6.1,%,numeric

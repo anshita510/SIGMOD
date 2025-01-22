@@ -1,0 +1,5 @@
+DATE,PATIENT,ENCOUNTER,CATEGORY,CODE,DESCRIPTION,VALUE,UNITS,TYPE
+2015-01-31T00:35:53Z,b90c5e86-1932-d5d0-26c2-96df3911ff08,fdc27aa1-fd3f-b148-0688-29ba4c7cb46b,laboratory,57905-2,Hemoglobin.gastrointestinal.lower [Presence] in Stool by Immunoassay --1st specimen,1.5,ng/mL,numeric
+2016-10-15T21:07:40Z,b90c5e86-1932-d5d0-26c2-96df3911ff08,bb5240b4-6554-98a9-ec32-4537f99e976d,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,15.8,g/dL,numeric
+2021-11-13T21:07:40Z,b90c5e86-1932-d5d0-26c2-96df3911ff08,586ba831-ca01-e04b-3231-7456b8cacffc,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,17.5,g/dL,numeric
+2024-05-20T20:29:06Z,b90c5e86-1932-d5d0-26c2-96df3911ff08,4a995f64-ba97-4930-7732-a90a489ac585,laboratory,5794-3,Hemoglobin [Presence] in Urine by Test strip,Urine blood test = + (finding),{nominal},text

@@ -1,0 +1,12 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+1985-02-02,,267d9a34-85b1-e4f8-78ad-15d3e9abf41d,7bed1b13-cea4-df0f-74d1-0336269badd2,http://snomed.info/sct,15777000,Prediabetes,,,,,
+1994-01-29,,267d9a34-85b1-e4f8-78ad-15d3e9abf41d,b3e32916-28d1-6801-3d6c-148cc6cb8a97,http://snomed.info/sct,44054006,Diabetes mellitus type 2 (disorder),,,,,
+,,267d9a34-85b1-e4f8-78ad-15d3e9abf41d,2252ed62-ac47-00b5-fa1d-0d4d61ea3e6c,,2339-0,Glucose [Mass/volume] in Blood,1993-01-22T23:07:54Z,laboratory,97.1,mg/dL,numeric
+,,267d9a34-85b1-e4f8-78ad-15d3e9abf41d,b3e32916-28d1-6801-3d6c-148cc6cb8a97,,2339-0,Glucose [Mass/volume] in Blood,1994-01-28T23:07:54Z,laboratory,83.1,mg/dL,numeric
+,,267d9a34-85b1-e4f8-78ad-15d3e9abf41d,24f6d9c7-0799-5d5b-90a6-bf08d1e6955e,,2339-0,Glucose [Mass/volume] in Blood,1995-02-03T23:07:54Z,laboratory,116.4,mg/dL,numeric
+,,267d9a34-85b1-e4f8-78ad-15d3e9abf41d,a0f75129-396f-b24b-f389-d4e99eaa9981,,2339-0,Glucose [Mass/volume] in Blood,1996-02-09T23:07:54Z,laboratory,107.1,mg/dL,numeric
+,,267d9a34-85b1-e4f8-78ad-15d3e9abf41d,c6434b6b-ea0a-e6f2-5264-b68e5a4b0655,,2339-0,Glucose [Mass/volume] in Blood,1997-02-14T23:07:54Z,laboratory,109.9,mg/dL,numeric
+,,267d9a34-85b1-e4f8-78ad-15d3e9abf41d,29d3c576-f92c-821a-b3c1-db5d0108c095,,2339-0,Glucose [Mass/volume] in Blood,1998-02-20T23:07:54Z,laboratory,100.5,mg/dL,numeric
+,,267d9a34-85b1-e4f8-78ad-15d3e9abf41d,c9c524cc-a85d-0e49-3bfc-955338747cc5,,2339-0,Glucose [Mass/volume] in Blood,1999-02-26T23:07:54Z,laboratory,119.0,mg/dL,numeric
+,,267d9a34-85b1-e4f8-78ad-15d3e9abf41d,162a2a07-d8a2-c128-7dee-9393febad252,,2339-0,Glucose [Mass/volume] in Blood,2000-03-03T23:07:54Z,laboratory,110.5,mg/dL,numeric
+,,267d9a34-85b1-e4f8-78ad-15d3e9abf41d,b06e973a-9c2d-4b5d-2277-d4ebe0910604,,2339-0,Glucose [Mass/volume] in Blood,2001-03-09T23:07:54Z,laboratory,123.3,mg/dL,numeric

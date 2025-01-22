@@ -1,0 +1,14 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2018-11-01,,395cf04f-ea33-aa13-3307-f7c08826ac81,9cf57c88-fedd-f8f3-e82c-48e52a54b506,http://snomed.info/sct,162864005,Body mass index 30+ - obesity (finding),,,,,
+,,395cf04f-ea33-aa13-3307-f7c08826ac81,22955615-aa66-bf9d-b203-549bb4342acf,,29463-7,Body Weight,2015-10-15T06:00:48Z,vital-signs,69.4,kg,numeric
+,,395cf04f-ea33-aa13-3307-f7c08826ac81,a006ced8-09c7-d874-e547-cdbd3c55c414,,29463-7,Body Weight,2016-10-20T06:00:48Z,vital-signs,71.3,kg,numeric
+,,395cf04f-ea33-aa13-3307-f7c08826ac81,16d59cac-0210-3385-2da9-a2e784b3a97f,,29463-7,Body Weight,2017-10-26T06:00:48Z,vital-signs,73.1,kg,numeric
+,,395cf04f-ea33-aa13-3307-f7c08826ac81,9cf57c88-fedd-f8f3-e82c-48e52a54b506,,29463-7,Body Weight,2018-11-01T06:00:48Z,vital-signs,75.0,kg,numeric
+,,395cf04f-ea33-aa13-3307-f7c08826ac81,21bd78be-ad46-5d76-879c-85a8006a8c2e,,29463-7,Body Weight,2018-11-15T06:00:48Z,vital-signs,75.1,kg,numeric
+,,395cf04f-ea33-aa13-3307-f7c08826ac81,1e5970e9-9cff-c936-e3ee-45303969f2f3,,29463-7,Body Weight,2018-11-29T06:00:48Z,vital-signs,75.1,kg,numeric
+,,395cf04f-ea33-aa13-3307-f7c08826ac81,8d8044c8-f6a6-c7e4-8d86-0d224a106c46,,29463-7,Body Weight,2018-12-13T06:00:48Z,vital-signs,75.2,kg,numeric
+,,395cf04f-ea33-aa13-3307-f7c08826ac81,ca1776da-6633-e905-eeef-734dc2196c8f,,29463-7,Body Weight,2019-11-07T06:00:48Z,vital-signs,75.1,kg,numeric
+,,395cf04f-ea33-aa13-3307-f7c08826ac81,fe22c552-966a-9ee9-cb7d-a56a9e0f1184,,29463-7,Body Weight,2020-11-12T06:00:48Z,vital-signs,69.8,kg,numeric
+,,395cf04f-ea33-aa13-3307-f7c08826ac81,6c4abe4b-04bc-bab2-a44b-469af5945f1b,,29463-7,Body Weight,2021-11-18T06:00:48Z,vital-signs,69.8,kg,numeric
+,,395cf04f-ea33-aa13-3307-f7c08826ac81,beaa4f54-c9a9-3721-aef0-78fe3aa041ae,,29463-7,Body Weight,2022-11-24T06:00:48Z,vital-signs,69.8,kg,numeric
+,,395cf04f-ea33-aa13-3307-f7c08826ac81,c824d7ca-f245-fb67-2980-cd9e92b169c1,,29463-7,Body Weight,2023-11-30T06:00:48Z,vital-signs,69.8,kg,numeric

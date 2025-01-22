@@ -1,0 +1,4 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+2024-06-09,,f4c24e91-7a00-6101-025b-17919f55e0cb,cbd8bd1e-e032-8566-594c-5ddb86b44781,http://snomed.info/sct,15777000,Prediabetes,,,,,
+,,f4c24e91-7a00-6101-025b-17919f55e0cb,d84ba629-3b10-dfd0-8bcf-818549f56250,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2019-11-19T02:29:34Z,laboratory,3.8,mg/dL,numeric
+,,f4c24e91-7a00-6101-025b-17919f55e0cb,cbd8bd1e-e032-8566-594c-5ddb86b44781,,2339-0,Glucose [Mass/volume] in Blood,2024-06-09T01:22:50Z,laboratory,95.5,mg/dL,numeric

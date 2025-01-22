@@ -1,0 +1,253 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,DATE,CATEGORY,VALUE,UNITS,TYPE
+1992-06-23,,be54c8c8-233c-be27-ea70-1bdf6e88a911,b348a438-afbd-9cf2-9516-d1663fd6b5d2,http://snomed.info/sct,15777000,Prediabetes,,,,,
+2011-08-30,,be54c8c8-233c-be27-ea70-1bdf6e88a911,176d4710-c1d2-686d-0ec0-dc644a911d27,http://snomed.info/sct,127013003,Disorder of kidney due to diabetes mellitus (disorder),,,,,
+2015-03-24,,be54c8c8-233c-be27-ea70-1bdf6e88a911,3a66f2e3-d9e3-a32c-8c92-6474f409cb33,http://snomed.info/sct,90781000119102,Microalbuminuria due to type 2 diabetes mellitus (disorder),,,,,
+2016-06-14,,be54c8c8-233c-be27-ea70-1bdf6e88a911,225bcd13-7ff6-ba45-1b39-77d869fe0890,http://snomed.info/sct,157141000119108,Proteinuria due to type 2 diabetes mellitus (disorder),,,,,
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,3a66f2e3-d9e3-a32c-8c92-6474f409cb33,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2015-03-24T05:35:20Z,laboratory,83.2,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,3a66f2e3-d9e3-a32c-8c92-6474f409cb33,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2015-03-24T05:35:20Z,laboratory,2.0,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,3a66f2e3-d9e3-a32c-8c92-6474f409cb33,,25428-4,Glucose [Presence] in Urine by Test strip,2015-03-24T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,3a66f2e3-d9e3-a32c-8c92-6474f409cb33,,2339-0,Glucose [Mass/volume] in Blood,2015-03-24T05:35:20Z,laboratory,83.2,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,40a7053e-6896-281e-9639-6ce71628bf5e,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2015-09-15T05:35:20Z,laboratory,69.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,40a7053e-6896-281e-9639-6ce71628bf5e,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2015-09-15T05:35:20Z,laboratory,0.5,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,40a7053e-6896-281e-9639-6ce71628bf5e,,25428-4,Glucose [Presence] in Urine by Test strip,2015-09-15T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,40a7053e-6896-281e-9639-6ce71628bf5e,,2339-0,Glucose [Mass/volume] in Blood,2015-09-15T05:35:20Z,laboratory,69.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,00fd866d-c73a-1916-0cf0-0499b9ce5b66,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2015-09-22T05:35:20Z,laboratory,79.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,00fd866d-c73a-1916-0cf0-0499b9ce5b66,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2015-09-22T05:35:20Z,laboratory,2.3,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,00fd866d-c73a-1916-0cf0-0499b9ce5b66,,25428-4,Glucose [Presence] in Urine by Test strip,2015-09-22T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,8431b890-3c95-2d86-5cbf-8051c116fa89,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2015-11-17T05:35:20Z,laboratory,94.6,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,8431b890-3c95-2d86-5cbf-8051c116fa89,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2015-11-17T05:35:20Z,laboratory,1.6,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,8431b890-3c95-2d86-5cbf-8051c116fa89,,25428-4,Glucose [Presence] in Urine by Test strip,2015-11-17T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,8431b890-3c95-2d86-5cbf-8051c116fa89,,2339-0,Glucose [Mass/volume] in Blood,2015-11-17T05:35:20Z,laboratory,94.6,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,a0e1327c-72c5-5dea-602f-5edc2c606140,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2016-02-16T05:35:20Z,laboratory,73.3,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,a0e1327c-72c5-5dea-602f-5edc2c606140,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2016-02-16T05:35:20Z,laboratory,0.9,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,a0e1327c-72c5-5dea-602f-5edc2c606140,,25428-4,Glucose [Presence] in Urine by Test strip,2016-02-16T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,a0e1327c-72c5-5dea-602f-5edc2c606140,,2339-0,Glucose [Mass/volume] in Blood,2016-02-16T05:35:20Z,laboratory,73.3,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,225bcd13-7ff6-ba45-1b39-77d869fe0890,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2016-06-14T05:35:20Z,laboratory,90.6,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,225bcd13-7ff6-ba45-1b39-77d869fe0890,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2016-06-14T05:35:20Z,laboratory,1.7,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,225bcd13-7ff6-ba45-1b39-77d869fe0890,,25428-4,Glucose [Presence] in Urine by Test strip,2016-06-14T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,225bcd13-7ff6-ba45-1b39-77d869fe0890,,2339-0,Glucose [Mass/volume] in Blood,2016-06-14T05:35:20Z,laboratory,90.6,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,2861185b-c9a9-6590-c4e5-7b0cc0c5d77a,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2016-09-27T05:35:20Z,laboratory,66.8,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,2861185b-c9a9-6590-c4e5-7b0cc0c5d77a,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2016-09-27T05:35:20Z,laboratory,2.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,2861185b-c9a9-6590-c4e5-7b0cc0c5d77a,,25428-4,Glucose [Presence] in Urine by Test strip,2016-09-27T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,2861185b-c9a9-6590-c4e5-7b0cc0c5d77a,,2339-0,Glucose [Mass/volume] in Blood,2016-09-27T05:35:20Z,laboratory,66.8,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,ea69b0ba-714e-3f1b-59ec-8fc91b6e345c,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2016-11-08T05:35:20Z,laboratory,71.6,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,ea69b0ba-714e-3f1b-59ec-8fc91b6e345c,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2016-11-08T05:35:20Z,laboratory,2.2,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,ea69b0ba-714e-3f1b-59ec-8fc91b6e345c,,25428-4,Glucose [Presence] in Urine by Test strip,2016-11-08T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,ea69b0ba-714e-3f1b-59ec-8fc91b6e345c,,2339-0,Glucose [Mass/volume] in Blood,2016-11-08T05:35:20Z,laboratory,71.6,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,78ceda2b-3520-0d7f-1741-c2f77c7f2289,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2016-12-13T05:35:20Z,laboratory,85.8,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,78ceda2b-3520-0d7f-1741-c2f77c7f2289,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2016-12-13T05:35:20Z,laboratory,2.2,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,78ceda2b-3520-0d7f-1741-c2f77c7f2289,,25428-4,Glucose [Presence] in Urine by Test strip,2016-12-13T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,78ceda2b-3520-0d7f-1741-c2f77c7f2289,,2339-0,Glucose [Mass/volume] in Blood,2016-12-13T05:35:20Z,laboratory,85.8,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,bded96fc-b07f-7fc2-b4b7-f1c243d79b09,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2017-02-07T05:35:20Z,laboratory,65.9,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,bded96fc-b07f-7fc2-b4b7-f1c243d79b09,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2017-02-07T05:35:20Z,laboratory,1.7,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,bded96fc-b07f-7fc2-b4b7-f1c243d79b09,,25428-4,Glucose [Presence] in Urine by Test strip,2017-02-07T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,bded96fc-b07f-7fc2-b4b7-f1c243d79b09,,2339-0,Glucose [Mass/volume] in Blood,2017-02-07T05:35:20Z,laboratory,65.9,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,4861963a-e13e-0210-3a5b-a4712fdddb59,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2017-05-09T05:35:20Z,laboratory,89.6,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,4861963a-e13e-0210-3a5b-a4712fdddb59,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2017-05-09T05:35:20Z,laboratory,0.9,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,4861963a-e13e-0210-3a5b-a4712fdddb59,,25428-4,Glucose [Presence] in Urine by Test strip,2017-05-09T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,4861963a-e13e-0210-3a5b-a4712fdddb59,,2339-0,Glucose [Mass/volume] in Blood,2017-05-09T05:35:20Z,laboratory,89.6,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,9e3db1a3-132d-5921-8e7e-b55cb41612f7,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2017-07-11T05:35:20Z,laboratory,72.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,9e3db1a3-132d-5921-8e7e-b55cb41612f7,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2017-07-11T05:35:20Z,laboratory,0.7,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,9e3db1a3-132d-5921-8e7e-b55cb41612f7,,25428-4,Glucose [Presence] in Urine by Test strip,2017-07-11T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,9e3db1a3-132d-5921-8e7e-b55cb41612f7,,2339-0,Glucose [Mass/volume] in Blood,2017-07-11T05:35:20Z,laboratory,72.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,0d2e7569-4073-b6db-1569-dbd01573c75f,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2017-10-03T05:35:20Z,laboratory,87.4,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,0d2e7569-4073-b6db-1569-dbd01573c75f,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2017-10-03T05:35:20Z,laboratory,1.8,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,0d2e7569-4073-b6db-1569-dbd01573c75f,,25428-4,Glucose [Presence] in Urine by Test strip,2017-10-03T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,0d2e7569-4073-b6db-1569-dbd01573c75f,,2339-0,Glucose [Mass/volume] in Blood,2017-10-03T05:35:20Z,laboratory,87.4,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,2c986d57-dd21-f37d-f401-a5cfcea7d8e2,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2018-04-03T05:35:20Z,laboratory,67.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,2c986d57-dd21-f37d-f401-a5cfcea7d8e2,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2018-04-03T05:35:20Z,laboratory,2.0,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,2c986d57-dd21-f37d-f401-a5cfcea7d8e2,,25428-4,Glucose [Presence] in Urine by Test strip,2018-04-03T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,2c986d57-dd21-f37d-f401-a5cfcea7d8e2,,2339-0,Glucose [Mass/volume] in Blood,2018-04-03T05:35:20Z,laboratory,67.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,3790eb53-25ac-33dc-27e8-e15f0a24b71b,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2018-07-03T05:35:20Z,laboratory,69.4,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,3790eb53-25ac-33dc-27e8-e15f0a24b71b,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2018-07-03T05:35:20Z,laboratory,2.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,3790eb53-25ac-33dc-27e8-e15f0a24b71b,,25428-4,Glucose [Presence] in Urine by Test strip,2018-07-03T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,3790eb53-25ac-33dc-27e8-e15f0a24b71b,,2339-0,Glucose [Mass/volume] in Blood,2018-07-03T05:35:20Z,laboratory,69.4,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,19badd45-a010-7672-13a3-6519ad3d3a41,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2018-07-31T05:35:20Z,laboratory,90.2,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,19badd45-a010-7672-13a3-6519ad3d3a41,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2018-07-31T05:35:20Z,laboratory,1.5,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,19badd45-a010-7672-13a3-6519ad3d3a41,,25428-4,Glucose [Presence] in Urine by Test strip,2018-07-31T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,19badd45-a010-7672-13a3-6519ad3d3a41,,2339-0,Glucose [Mass/volume] in Blood,2018-07-31T05:35:20Z,laboratory,90.2,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,32f66521-5eb0-6209-f89e-aa84bf7c6652,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2018-10-09T05:35:20Z,laboratory,66.0,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,32f66521-5eb0-6209-f89e-aa84bf7c6652,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2018-10-09T05:35:20Z,laboratory,2.0,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,32f66521-5eb0-6209-f89e-aa84bf7c6652,,25428-4,Glucose [Presence] in Urine by Test strip,2018-10-09T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,32f66521-5eb0-6209-f89e-aa84bf7c6652,,2339-0,Glucose [Mass/volume] in Blood,2018-10-09T05:35:20Z,laboratory,66.0,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,79ef7b9d-13d5-3223-ecb1-f0a0457655ba,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2019-01-29T05:35:20Z,laboratory,84.0,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,79ef7b9d-13d5-3223-ecb1-f0a0457655ba,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2019-01-29T05:35:20Z,laboratory,2.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,79ef7b9d-13d5-3223-ecb1-f0a0457655ba,,25428-4,Glucose [Presence] in Urine by Test strip,2019-01-29T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,79ef7b9d-13d5-3223-ecb1-f0a0457655ba,,2339-0,Glucose [Mass/volume] in Blood,2019-01-29T05:35:20Z,laboratory,84.0,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,c4b8c3ba-bb36-15d4-871f-708820d0607c,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2019-02-26T05:35:20Z,laboratory,78.7,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,c4b8c3ba-bb36-15d4-871f-708820d0607c,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2019-02-26T05:35:20Z,laboratory,0.5,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,c4b8c3ba-bb36-15d4-871f-708820d0607c,,25428-4,Glucose [Presence] in Urine by Test strip,2019-02-26T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,c4b8c3ba-bb36-15d4-871f-708820d0607c,,2339-0,Glucose [Mass/volume] in Blood,2019-02-26T05:35:20Z,laboratory,78.7,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,5d4341bd-ef20-e616-27e4-0e3b51164fe1,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2019-04-30T05:35:20Z,laboratory,81.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,5d4341bd-ef20-e616-27e4-0e3b51164fe1,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2019-04-30T05:35:20Z,laboratory,2.4,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,5d4341bd-ef20-e616-27e4-0e3b51164fe1,,25428-4,Glucose [Presence] in Urine by Test strip,2019-04-30T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,5d4341bd-ef20-e616-27e4-0e3b51164fe1,,2339-0,Glucose [Mass/volume] in Blood,2019-04-30T05:35:20Z,laboratory,81.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,61ee90a7-0e24-7a8d-f145-12e63c301eda,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2019-05-28T05:35:20Z,laboratory,86.9,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,61ee90a7-0e24-7a8d-f145-12e63c301eda,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2019-05-28T05:35:20Z,laboratory,1.7,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,61ee90a7-0e24-7a8d-f145-12e63c301eda,,25428-4,Glucose [Presence] in Urine by Test strip,2019-05-28T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,61ee90a7-0e24-7a8d-f145-12e63c301eda,,2339-0,Glucose [Mass/volume] in Blood,2019-05-28T05:35:20Z,laboratory,86.9,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,b8740d7e-6cfb-6129-925e-21fd556ec9f7,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2019-07-02T05:35:20Z,laboratory,70.7,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,b8740d7e-6cfb-6129-925e-21fd556ec9f7,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2019-07-02T05:35:20Z,laboratory,1.8,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,b8740d7e-6cfb-6129-925e-21fd556ec9f7,,25428-4,Glucose [Presence] in Urine by Test strip,2019-07-02T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,b8740d7e-6cfb-6129-925e-21fd556ec9f7,,2339-0,Glucose [Mass/volume] in Blood,2019-07-02T05:35:20Z,laboratory,70.7,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,7f7ef08d-a261-2ee8-bd10-a7cd052dde79,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2019-07-30T05:35:20Z,laboratory,67.7,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,7f7ef08d-a261-2ee8-bd10-a7cd052dde79,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2019-07-30T05:35:20Z,laboratory,0.7,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,7f7ef08d-a261-2ee8-bd10-a7cd052dde79,,25428-4,Glucose [Presence] in Urine by Test strip,2019-07-30T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,7f7ef08d-a261-2ee8-bd10-a7cd052dde79,,2339-0,Glucose [Mass/volume] in Blood,2019-07-30T05:35:20Z,laboratory,67.7,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,cb60860a-6077-ec3c-8523-cd34ea516725,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2019-08-27T05:35:20Z,laboratory,79.9,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,cb60860a-6077-ec3c-8523-cd34ea516725,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2019-08-27T05:35:20Z,laboratory,2.3,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,cb60860a-6077-ec3c-8523-cd34ea516725,,25428-4,Glucose [Presence] in Urine by Test strip,2019-08-27T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,cb60860a-6077-ec3c-8523-cd34ea516725,,2339-0,Glucose [Mass/volume] in Blood,2019-08-27T05:35:20Z,laboratory,79.9,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,d1e96dee-faab-0974-ffa7-bd7f679eb5f9,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2019-09-24T05:35:20Z,laboratory,70.0,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,d1e96dee-faab-0974-ffa7-bd7f679eb5f9,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2019-09-24T05:35:20Z,laboratory,1.7,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,d1e96dee-faab-0974-ffa7-bd7f679eb5f9,,25428-4,Glucose [Presence] in Urine by Test strip,2019-09-24T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,d1e96dee-faab-0974-ffa7-bd7f679eb5f9,,2339-0,Glucose [Mass/volume] in Blood,2019-09-24T05:35:20Z,laboratory,70.0,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,ba938b10-546a-cdaa-138e-ebbda542baa1,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2019-10-22T05:35:20Z,laboratory,79.2,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,ba938b10-546a-cdaa-138e-ebbda542baa1,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2019-10-22T05:35:20Z,laboratory,1.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,ba938b10-546a-cdaa-138e-ebbda542baa1,,25428-4,Glucose [Presence] in Urine by Test strip,2019-10-22T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,ba938b10-546a-cdaa-138e-ebbda542baa1,,2339-0,Glucose [Mass/volume] in Blood,2019-10-22T05:35:20Z,laboratory,79.2,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,85efcc8a-835e-627c-99e4-6705b4068d93,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2019-10-29T05:35:20Z,laboratory,88.5,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,85efcc8a-835e-627c-99e4-6705b4068d93,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2019-10-29T05:35:20Z,laboratory,2.0,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,85efcc8a-835e-627c-99e4-6705b4068d93,,25428-4,Glucose [Presence] in Urine by Test strip,2019-10-29T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,78169fc8-73cf-ffe4-090c-2cd71af0545b,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2019-12-24T05:35:20Z,laboratory,80.8,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,78169fc8-73cf-ffe4-090c-2cd71af0545b,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2019-12-24T05:35:20Z,laboratory,1.4,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,78169fc8-73cf-ffe4-090c-2cd71af0545b,,25428-4,Glucose [Presence] in Urine by Test strip,2019-12-24T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,78169fc8-73cf-ffe4-090c-2cd71af0545b,,2339-0,Glucose [Mass/volume] in Blood,2019-12-24T05:35:20Z,laboratory,80.8,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,9029dd5a-4138-1251-f0b0-04ba8798e54d,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2020-03-24T05:35:20Z,laboratory,90.4,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,9029dd5a-4138-1251-f0b0-04ba8798e54d,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2020-03-24T05:35:20Z,laboratory,1.6,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,9029dd5a-4138-1251-f0b0-04ba8798e54d,,25428-4,Glucose [Presence] in Urine by Test strip,2020-03-24T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,9029dd5a-4138-1251-f0b0-04ba8798e54d,,2339-0,Glucose [Mass/volume] in Blood,2020-03-24T05:35:20Z,laboratory,90.4,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,68dc7400-e2df-0454-43aa-c5e90ade1b4d,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2020-04-21T05:35:20Z,laboratory,78.8,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,68dc7400-e2df-0454-43aa-c5e90ade1b4d,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2020-04-21T05:35:20Z,laboratory,2.3,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,68dc7400-e2df-0454-43aa-c5e90ade1b4d,,25428-4,Glucose [Presence] in Urine by Test strip,2020-04-21T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,68dc7400-e2df-0454-43aa-c5e90ade1b4d,,2339-0,Glucose [Mass/volume] in Blood,2020-04-21T05:35:20Z,laboratory,78.8,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,04052927-f0c1-9df2-55bb-612284e6525a,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2020-06-23T05:35:20Z,laboratory,80.0,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,04052927-f0c1-9df2-55bb-612284e6525a,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2020-06-23T05:35:20Z,laboratory,1.5,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,04052927-f0c1-9df2-55bb-612284e6525a,,25428-4,Glucose [Presence] in Urine by Test strip,2020-06-23T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,04052927-f0c1-9df2-55bb-612284e6525a,,2339-0,Glucose [Mass/volume] in Blood,2020-06-23T05:35:20Z,laboratory,80.0,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,deaf3a6a-0efd-8225-f5f9-dc1f488cec7d,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2020-10-27T05:35:20Z,laboratory,88.0,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,deaf3a6a-0efd-8225-f5f9-dc1f488cec7d,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2020-10-27T05:35:20Z,laboratory,1.0,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,deaf3a6a-0efd-8225-f5f9-dc1f488cec7d,,25428-4,Glucose [Presence] in Urine by Test strip,2020-10-27T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,deaf3a6a-0efd-8225-f5f9-dc1f488cec7d,,2339-0,Glucose [Mass/volume] in Blood,2020-10-27T05:35:20Z,laboratory,88.0,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,ae9f6f46-442b-212e-3d17-a033e94492d1,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2020-12-15T05:35:20Z,laboratory,84.5,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,ae9f6f46-442b-212e-3d17-a033e94492d1,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2020-12-15T05:35:20Z,laboratory,1.3,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,ae9f6f46-442b-212e-3d17-a033e94492d1,,25428-4,Glucose [Presence] in Urine by Test strip,2020-12-15T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,ae9f6f46-442b-212e-3d17-a033e94492d1,,2339-0,Glucose [Mass/volume] in Blood,2020-12-15T05:35:20Z,laboratory,84.5,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,b35edddc-47fd-b87f-cfa3-b8969af48dac,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2021-08-17T05:35:20Z,laboratory,96.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,b35edddc-47fd-b87f-cfa3-b8969af48dac,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2021-08-17T05:35:20Z,laboratory,1.5,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,b35edddc-47fd-b87f-cfa3-b8969af48dac,,25428-4,Glucose [Presence] in Urine by Test strip,2021-08-17T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,b35edddc-47fd-b87f-cfa3-b8969af48dac,,2339-0,Glucose [Mass/volume] in Blood,2021-08-17T05:35:20Z,laboratory,96.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,576edccc-fa7f-2173-f496-00aa5ea36bd5,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2021-11-02T05:35:20Z,laboratory,90.7,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,576edccc-fa7f-2173-f496-00aa5ea36bd5,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2021-11-02T05:35:20Z,laboratory,1.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,576edccc-fa7f-2173-f496-00aa5ea36bd5,,25428-4,Glucose [Presence] in Urine by Test strip,2021-11-02T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,576edccc-fa7f-2173-f496-00aa5ea36bd5,,2339-0,Glucose [Mass/volume] in Blood,2021-11-02T05:35:20Z,laboratory,90.7,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,dc62d649-c705-0033-5124-56048192d1e3,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2021-12-14T05:35:20Z,laboratory,73.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,dc62d649-c705-0033-5124-56048192d1e3,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2021-12-14T05:35:20Z,laboratory,1.0,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,dc62d649-c705-0033-5124-56048192d1e3,,25428-4,Glucose [Presence] in Urine by Test strip,2021-12-14T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,dc62d649-c705-0033-5124-56048192d1e3,,2339-0,Glucose [Mass/volume] in Blood,2021-12-14T05:35:20Z,laboratory,73.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,8f43ca3e-57c5-31d7-4290-a53bd61c5bb2,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2022-02-15T05:35:20Z,laboratory,99.3,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,8f43ca3e-57c5-31d7-4290-a53bd61c5bb2,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2022-02-15T05:35:20Z,laboratory,0.8,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,8f43ca3e-57c5-31d7-4290-a53bd61c5bb2,,25428-4,Glucose [Presence] in Urine by Test strip,2022-02-15T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,8f43ca3e-57c5-31d7-4290-a53bd61c5bb2,,2339-0,Glucose [Mass/volume] in Blood,2022-02-15T05:35:20Z,laboratory,99.3,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,57bbcc99-f3ea-e0b8-25a9-26afa570afbc,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2022-03-15T05:35:20Z,laboratory,69.5,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,57bbcc99-f3ea-e0b8-25a9-26afa570afbc,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2022-03-15T05:35:20Z,laboratory,0.8,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,57bbcc99-f3ea-e0b8-25a9-26afa570afbc,,25428-4,Glucose [Presence] in Urine by Test strip,2022-03-15T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,57bbcc99-f3ea-e0b8-25a9-26afa570afbc,,2339-0,Glucose [Mass/volume] in Blood,2022-03-15T05:35:20Z,laboratory,69.5,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,844d7f90-1576-c1ea-8726-8fd27ee15bc2,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2022-04-12T05:35:20Z,laboratory,68.5,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,844d7f90-1576-c1ea-8726-8fd27ee15bc2,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2022-04-12T05:35:20Z,laboratory,1.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,844d7f90-1576-c1ea-8726-8fd27ee15bc2,,25428-4,Glucose [Presence] in Urine by Test strip,2022-04-12T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,844d7f90-1576-c1ea-8726-8fd27ee15bc2,,2339-0,Glucose [Mass/volume] in Blood,2022-04-12T05:35:20Z,laboratory,68.5,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,8b6c7166-c516-4cab-9e12-90d243678526,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2022-08-09T05:35:20Z,laboratory,89.2,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,8b6c7166-c516-4cab-9e12-90d243678526,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2022-08-09T05:35:20Z,laboratory,2.4,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,8b6c7166-c516-4cab-9e12-90d243678526,,25428-4,Glucose [Presence] in Urine by Test strip,2022-08-09T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,8b6c7166-c516-4cab-9e12-90d243678526,,2339-0,Glucose [Mass/volume] in Blood,2022-08-09T05:35:20Z,laboratory,89.2,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,d24589c9-9795-0b58-202c-aaefecdd5cb9,,2339-0,Glucose [Mass/volume] in Blood,2022-09-09T07:59:20Z,laboratory,89.5,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,d24589c9-9795-0b58-202c-aaefecdd5cb9,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2022-09-09T07:59:20Z,laboratory,2.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,d24589c9-9795-0b58-202c-aaefecdd5cb9,,25428-4,Glucose [Presence] in Urine by Test strip,2022-09-09T07:59:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,1e13c6a4-e2a3-60d7-d6d3-3b487935affe,,2339-0,Glucose [Mass/volume] in Blood,2022-10-10T12:33:20Z,laboratory,66.2,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,1e13c6a4-e2a3-60d7-d6d3-3b487935affe,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2022-10-10T12:33:20Z,laboratory,1.0,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,1e13c6a4-e2a3-60d7-d6d3-3b487935affe,,25428-4,Glucose [Presence] in Urine by Test strip,2022-10-10T12:33:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,6eaecd3e-7758-76d3-0d94-6991c0e62ef2,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2022-11-08T05:35:20Z,laboratory,90.9,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,6eaecd3e-7758-76d3-0d94-6991c0e62ef2,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2022-11-08T05:35:20Z,laboratory,1.4,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,6eaecd3e-7758-76d3-0d94-6991c0e62ef2,,25428-4,Glucose [Presence] in Urine by Test strip,2022-11-08T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,6eaecd3e-7758-76d3-0d94-6991c0e62ef2,,2339-0,Glucose [Mass/volume] in Blood,2022-11-08T05:35:20Z,laboratory,90.9,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,2f782296-1be4-d3e0-9d7f-49df8b8ab732,,2339-0,Glucose [Mass/volume] in Blood,2022-11-15T08:07:20Z,laboratory,99.0,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,2f782296-1be4-d3e0-9d7f-49df8b8ab732,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2022-11-15T08:07:20Z,laboratory,2.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,2f782296-1be4-d3e0-9d7f-49df8b8ab732,,25428-4,Glucose [Presence] in Urine by Test strip,2022-11-15T08:07:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,d055c53e-1a2b-d1db-5b0d-46f6d1d1eb75,,2339-0,Glucose,2022-11-22T05:35:20Z,laboratory,99.0,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,d055c53e-1a2b-d1db-5b0d-46f6d1d1eb75,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2022-11-22T05:35:20Z,laboratory,2.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,d055c53e-1a2b-d1db-5b0d-46f6d1d1eb75,,25428-4,Glucose [Presence] in Urine by Test strip,2022-11-22T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,06193dde-c874-39e3-9d6c-f737d28a3c71,,2339-0,Glucose [Mass/volume] in Blood,2022-12-16T11:59:20Z,laboratory,98.3,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,06193dde-c874-39e3-9d6c-f737d28a3c71,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2022-12-16T11:59:20Z,laboratory,1.0,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,06193dde-c874-39e3-9d6c-f737d28a3c71,,25428-4,Glucose [Presence] in Urine by Test strip,2022-12-16T11:59:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,ee738ae5-51ff-bdc0-f95a-7d3b83b20ef5,,2339-0,Glucose [Mass/volume] in Blood,2023-01-16T18:27:20Z,laboratory,71.7,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,ee738ae5-51ff-bdc0-f95a-7d3b83b20ef5,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2023-01-16T18:27:20Z,laboratory,1.6,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,ee738ae5-51ff-bdc0-f95a-7d3b83b20ef5,,25428-4,Glucose [Presence] in Urine by Test strip,2023-01-16T18:27:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,2e6ab03e-2e95-325d-4148-fa1614338626,,2339-0,Glucose [Mass/volume] in Blood,2023-02-17T02:09:20Z,laboratory,97.0,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,2e6ab03e-2e95-325d-4148-fa1614338626,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2023-02-17T02:09:20Z,laboratory,2.3,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,2e6ab03e-2e95-325d-4148-fa1614338626,,25428-4,Glucose [Presence] in Urine by Test strip,2023-02-17T02:09:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,32fba72b-90b3-245c-aef0-e35fbd51588c,,2339-0,Glucose [Mass/volume] in Blood,2023-03-20T08:55:20Z,laboratory,74.8,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,32fba72b-90b3-245c-aef0-e35fbd51588c,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2023-03-20T08:55:20Z,laboratory,1.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,32fba72b-90b3-245c-aef0-e35fbd51588c,,25428-4,Glucose [Presence] in Urine by Test strip,2023-03-20T08:55:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,2b9e7173-9efc-5557-42cb-6256a8d14eee,,2339-0,Glucose [Mass/volume] in Blood,2023-04-20T12:05:20Z,laboratory,75.8,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,2b9e7173-9efc-5557-42cb-6256a8d14eee,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2023-04-20T12:05:20Z,laboratory,1.6,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,2b9e7173-9efc-5557-42cb-6256a8d14eee,,25428-4,Glucose [Presence] in Urine by Test strip,2023-04-20T12:05:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,3442e6de-a9b5-39cb-863a-1311f4cd1e4b,,2339-0,Glucose [Mass/volume] in Blood,2023-05-21T15:36:20Z,laboratory,86.6,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,3442e6de-a9b5-39cb-863a-1311f4cd1e4b,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2023-05-21T15:36:20Z,laboratory,2.0,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,3442e6de-a9b5-39cb-863a-1311f4cd1e4b,,25428-4,Glucose [Presence] in Urine by Test strip,2023-05-21T15:36:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,36db8f3a-1fcc-8e6b-caff-a937eda10d02,,2339-0,Glucose [Mass/volume] in Blood,2023-06-21T23:33:20Z,laboratory,90.6,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,36db8f3a-1fcc-8e6b-caff-a937eda10d02,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2023-06-21T23:33:20Z,laboratory,1.9,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,36db8f3a-1fcc-8e6b-caff-a937eda10d02,,25428-4,Glucose [Presence] in Urine by Test strip,2023-06-21T23:33:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,11383ccb-6b17-91f1-ef20-8f268a4a2821,,2339-0,Glucose [Mass/volume] in Blood,2023-07-23T07:50:20Z,laboratory,88.7,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,11383ccb-6b17-91f1-ef20-8f268a4a2821,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2023-07-23T07:50:20Z,laboratory,2.0,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,11383ccb-6b17-91f1-ef20-8f268a4a2821,,25428-4,Glucose [Presence] in Urine by Test strip,2023-07-23T07:50:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,73468f38-4115-99ed-6010-7eeba445b628,,2339-0,Glucose [Mass/volume] in Blood,2023-08-23T13:40:20Z,laboratory,69.9,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,73468f38-4115-99ed-6010-7eeba445b628,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2023-08-23T13:40:20Z,laboratory,0.5,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,73468f38-4115-99ed-6010-7eeba445b628,,25428-4,Glucose [Presence] in Urine by Test strip,2023-08-23T13:40:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,6b51e01a-05a1-8c2b-e951-dfb9a105da92,,2339-0,Glucose [Mass/volume] in Blood,2023-09-23T20:18:20Z,laboratory,82.6,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,6b51e01a-05a1-8c2b-e951-dfb9a105da92,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2023-09-23T20:18:20Z,laboratory,1.2,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,6b51e01a-05a1-8c2b-e951-dfb9a105da92,,25428-4,Glucose [Presence] in Urine by Test strip,2023-09-23T20:18:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,9e167923-0b60-e36b-73d3-c86030d8b199,,2339-0,Glucose [Mass/volume] in Blood,2023-10-25T01:55:20Z,laboratory,93.8,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,9e167923-0b60-e36b-73d3-c86030d8b199,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2023-10-25T01:55:20Z,laboratory,1.3,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,9e167923-0b60-e36b-73d3-c86030d8b199,,25428-4,Glucose [Presence] in Urine by Test strip,2023-10-25T01:55:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,729282ad-f028-9a1c-e8e1-bfae05dc5e8c,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2023-11-14T05:35:20Z,laboratory,71.4,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,729282ad-f028-9a1c-e8e1-bfae05dc5e8c,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2023-11-14T05:35:20Z,laboratory,1.3,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,729282ad-f028-9a1c-e8e1-bfae05dc5e8c,,25428-4,Glucose [Presence] in Urine by Test strip,2023-11-14T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,729282ad-f028-9a1c-e8e1-bfae05dc5e8c,,2339-0,Glucose [Mass/volume] in Blood,2023-11-14T05:35:20Z,laboratory,71.4,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,9ab1070f-9162-249c-d208-65178ebd9a05,,2339-0,Glucose [Mass/volume] in Blood,2023-11-24T11:49:20Z,laboratory,77.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,9ab1070f-9162-249c-d208-65178ebd9a05,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2023-11-24T11:49:20Z,laboratory,0.6,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,9ab1070f-9162-249c-d208-65178ebd9a05,,25428-4,Glucose [Presence] in Urine by Test strip,2023-11-24T11:49:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,38335bf7-84a7-fe16-c036-3895af8a1f44,,2339-0,Glucose [Mass/volume] in Blood,2023-12-24T20:34:20Z,laboratory,77.7,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,38335bf7-84a7-fe16-c036-3895af8a1f44,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2023-12-24T20:34:20Z,laboratory,0.6,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,38335bf7-84a7-fe16-c036-3895af8a1f44,,25428-4,Glucose [Presence] in Urine by Test strip,2023-12-24T20:34:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,9a38cc08-dad9-2fac-aa70-d6d56ef0b1aa,,2339-0,Glucose [Mass/volume] in Blood,2024-01-25T04:15:20Z,laboratory,65.9,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,9a38cc08-dad9-2fac-aa70-d6d56ef0b1aa,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2024-01-25T04:15:20Z,laboratory,2.4,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,9a38cc08-dad9-2fac-aa70-d6d56ef0b1aa,,25428-4,Glucose [Presence] in Urine by Test strip,2024-01-25T04:15:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,452ee697-326a-a501-32b9-42ae4b0823d8,,2339-0,Glucose [Mass/volume] in Blood,2024-02-25T11:07:20Z,laboratory,89.9,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,452ee697-326a-a501-32b9-42ae4b0823d8,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2024-02-25T11:07:20Z,laboratory,0.9,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,452ee697-326a-a501-32b9-42ae4b0823d8,,25428-4,Glucose [Presence] in Urine by Test strip,2024-02-25T11:07:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,4ff7b867-c6ee-b367-a718-3b245e8678bd,,2339-0,Glucose [Mass/volume] in Blood,2024-03-27T20:35:20Z,laboratory,69.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,4ff7b867-c6ee-b367-a718-3b245e8678bd,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2024-03-27T20:35:20Z,laboratory,0.6,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,4ff7b867-c6ee-b367-a718-3b245e8678bd,,25428-4,Glucose [Presence] in Urine by Test strip,2024-03-27T20:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,b7f84bf5-a65e-6498-d3db-734abd26f779,,2339-0,Glucose [Mass/volume] in Blood,2024-04-30T08:23:20Z,laboratory,93.5,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,b7f84bf5-a65e-6498-d3db-734abd26f779,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2024-04-30T08:23:20Z,laboratory,0.5,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,b7f84bf5-a65e-6498-d3db-734abd26f779,,25428-4,Glucose [Presence] in Urine by Test strip,2024-04-30T08:23:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,da4bebab-e5b5-8f10-e80b-08d2d1544cdf,,2339-0,Glucose [Mass/volume] in Blood,2024-05-31T13:41:20Z,laboratory,74.7,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,da4bebab-e5b5-8f10-e80b-08d2d1544cdf,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2024-05-31T13:41:20Z,laboratory,2.3,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,da4bebab-e5b5-8f10-e80b-08d2d1544cdf,,25428-4,Glucose [Presence] in Urine by Test strip,2024-05-31T13:41:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,cb793152-e87a-1b67-d603-b04f910a163e,,2339-0,Glucose [Mass/volume] in Blood,2024-07-01T22:03:20Z,laboratory,69.6,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,cb793152-e87a-1b67-d603-b04f910a163e,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2024-07-01T22:03:20Z,laboratory,1.6,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,cb793152-e87a-1b67-d603-b04f910a163e,,25428-4,Glucose [Presence] in Urine by Test strip,2024-07-01T22:03:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,ae08b4d9-f771-b3d7-34b1-8ef1fda2c72a,,2339-0,Glucose [Mass/volume] in Blood,2024-08-02T02:27:20Z,laboratory,86.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,ae08b4d9-f771-b3d7-34b1-8ef1fda2c72a,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2024-08-02T02:27:20Z,laboratory,0.8,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,ae08b4d9-f771-b3d7-34b1-8ef1fda2c72a,,25428-4,Glucose [Presence] in Urine by Test strip,2024-08-02T02:27:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,9d47e92b-2a3f-b7ab-21fe-48a6ed4a5520,,2339-0,Glucose [Mass/volume] in Blood,2024-09-02T12:19:20Z,laboratory,94.4,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,9d47e92b-2a3f-b7ab-21fe-48a6ed4a5520,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2024-09-02T12:19:20Z,laboratory,1.6,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,9d47e92b-2a3f-b7ab-21fe-48a6ed4a5520,,25428-4,Glucose [Presence] in Urine by Test strip,2024-09-02T12:19:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,58e03fa8-37a1-25f1-90e5-a22d632b2a41,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2024-09-17T05:35:20Z,laboratory,97.0,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,58e03fa8-37a1-25f1-90e5-a22d632b2a41,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2024-09-17T05:35:20Z,laboratory,1.3,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,58e03fa8-37a1-25f1-90e5-a22d632b2a41,,25428-4,Glucose [Presence] in Urine by Test strip,2024-09-17T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,58e03fa8-37a1-25f1-90e5-a22d632b2a41,,2339-0,Glucose [Mass/volume] in Blood,2024-09-17T05:35:20Z,laboratory,97.0,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,b8caa6b2-b815-7722-0bff-6fc276b9b332,,2345-7,Glucose [Mass/volume] in Serum or Plasma,2024-09-24T05:35:20Z,laboratory,93.9,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,b8caa6b2-b815-7722-0bff-6fc276b9b332,,5792-7,Glucose [Mass/volume] in Urine by Test strip,2024-09-24T05:35:20Z,laboratory,2.1,mg/dL,numeric
+,,be54c8c8-233c-be27-ea70-1bdf6e88a911,b8caa6b2-b815-7722-0bff-6fc276b9b332,,25428-4,Glucose [Presence] in Urine by Test strip,2024-09-24T05:35:20Z,laboratory,Urine glucose test = ++ (finding),{nominal},text
